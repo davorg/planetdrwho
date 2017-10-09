@@ -1,0 +1,34 @@
+title: Planet Doctor Who
+description: Time Lords on the Web
+url: http://drwho.theplanetarium.org/
+author:
+  name: Dave Cross
+  email: dave@dave.org.uk
+entries: 30
+entries_per_feed: 5
+page:
+  file: index.html
+  template: index.tt
+feed:
+  file: atom.xml
+  format: Atom
+cache_dir: /tmp/drwho
+feeds:
+  - url: http://www.bbc.co.uk/blogs/doctorwho/rss
+    title: bbc news
+    web: http://www.bbc.co.uk/doctorwho/
+  - url: http://news.google.com/news?hl=en&ned=us&ie=UTF-8&q=%22doctor+who%22&output=rss
+    title: google news
+    web: http://news.google.com/
+  - url: http://news.google.com/news?hl=en&ned=us&ie=UTF-8&q=torchwood&output=rss
+    title: google news
+    web: http://news.google.com/
+  - url: http://api.flickr.com/services/feeds/photos_public.gne?tags=drwho&format=atom
+    title: flickr
+    web: http://flickr.com/search/?w=all&q=drwho&m=tags
+  - url: http://search.twitter.com/search.atom?q=drwho
+    title: twitter
+    web: https://twitter.com/search?q=drwho
+#  - url: http://feeds.feedburner.com/TheWifeInSpace
+#    title: wife in space
+#    web: http://wifeinspace.com

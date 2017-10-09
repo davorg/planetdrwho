@@ -1,0 +1,33 @@
+/* -------------------------------------------------------------- 
+  
+   Boilerplate Screen Styles
+   * Version:   0.5 (2007-11-19)
+   
+-------------------------------------------------------------- */
+
+@import "lib/reset.css";
+@import "lib/typography.css";
+@import "lib/layout.css";
+@import "lib/forms.css";
+@import "lib/plugins.css";
+
+/* Site
+-------------------------------------------------------------- */
+  
+  /* Put your site styles here */
+body {
+  background-image: url(/roundel.png);
+  background-attachment: fixed;
+}
+
+#header {
+  -moz-border-radius: 5px;
+}
+
+.entry {
+  -moz-border-radius: 5px;
+}
+
+#footer {
+  -moz-border-radius: 5px;
+}
