@@ -35,7 +35,7 @@
       <address>[% feed.author | html %] / [% feed.modified.strftime('%A %d %B %H:%M:%S') %]</address>
     </div>
     <div id="sidebar">
-      <p><a href="/atom.xml"><img alt="Feed" src="feed.gif" /> Subscribe</a></p>
+      <p><a href="/atom.xml"><img alt="Feed" src="img/feed.gif" /> Subscribe</a></p>
 <script type="text/javascript"><!--
 google_ad_client = "pub-3663319204757145";
 /* planet */
