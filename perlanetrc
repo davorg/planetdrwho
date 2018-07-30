@@ -14,19 +14,19 @@ feed:
   format: Atom
 cache_dir: /tmp/drwho
 feeds:
-  - url: http://www.bbc.co.uk/blogs/doctorwho/rss
+  - url: https://www.bbc.co.uk/blogs/doctorwho/rss
     title: bbc news
-    web: http://www.bbc.co.uk/doctorwho/
-  - url: http://news.google.com/news?hl=en&ned=us&ie=UTF-8&q=%22doctor+who%22&output=rss
+    web: https://www.bbc.co.uk/doctorwho/
+  - url: https://news.google.com/news/rss/search/section/q/doctor+who 
     title: google news
-    web: http://news.google.com/
-  - url: http://news.google.com/news?hl=en&ned=us&ie=UTF-8&q=torchwood&output=rss
+    web: https://news.google.com/
+  - url: https://news.google.com/news/rss/search/section/q/torchwood
     title: google news
-    web: http://news.google.com/
-  - url: http://api.flickr.com/services/feeds/photos_public.gne?tags=drwho&format=atom
+    web: https://news.google.com/
+  - url: https://api.flickr.com/services/feeds/photos_public.gne?tags=drwho&format=atom
     title: flickr
-    web: http://flickr.com/search/?w=all&q=drwho&m=tags
-  - url: http://search.twitter.com/search.atom?q=drwho
+    web: https://flickr.com/search/?w=all&q=drwho&m=tags
+  - url: https://search.twitter.com/search.atom?q=drwho
     title: twitter
     web: https://twitter.com/search?q=drwho
 #  - url: http://feeds.feedburner.com/TheWifeInSpace
