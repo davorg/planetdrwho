@@ -55,9 +55,9 @@ body {
             <li><a href="[% f.web | html %]">[% bits.0 %]</a></li>
 [% END -%]
           </ul>
-          <p><a href="/atom.xml"><img alt="Feed" src="/images/feed.gif" /> Subscribe</a>
+          <p><a href="/atom.xml"><img alt="Feed" src="/img/feed.gif" /> Subscribe</a>
           <br />
-          <a href="/opml.xml"><img alt="OPML" src="/images/opml.png" /> OPML</a></p>
+          <a href="/opml.xml"><img alt="OPML" src="/img/opml.png" /> OPML</a></p>
           <p>Powered by <a href="https://metacpan.org/release/Perlanet">Perlanet</a></p>
         </div><!-- col-md-2 -->
         <div class="col-md-8">
