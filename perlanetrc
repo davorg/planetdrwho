@@ -26,7 +26,7 @@ feeds:
   - url: https://api.flickr.com/services/feeds/photos_public.gne?tags=drwho&format=atom
     title: flickr
     web: https://flickr.com/search/?w=all&q=drwho&m=tags
-  - url: https://search.twitter.com/search.atom?q=drwho
+  - url: https://dave.org.uk/feed-data/drwho.xml
     title: twitter
     web: https://twitter.com/search?q=drwho
 #  - url: http://feeds.feedburner.com/TheWifeInSpace
