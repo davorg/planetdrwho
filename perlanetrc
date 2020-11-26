@@ -19,10 +19,10 @@ feeds:
     title: bbc news
     web: https://www.bbc.co.uk/doctorwho/
   - url: https://news.google.com/news/rss/search/section/q/%22doctor+who%22
-    title: google news
+    title: google news (doctor who)
     web: https://news.google.com/
   - url: https://news.google.com/news/rss/search/section/q/torchwood
-    title: google news
+    title: google news (torchwood)
     web: https://news.google.com/
   - url: https://api.flickr.com/services/feeds/photos_public.gne?tags=drwho&format=atom
     title: flickr
