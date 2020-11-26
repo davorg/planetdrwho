@@ -1,0 +1,42 @@
+name: Generate web page
+
+on:
+  push:
+    branches: '*'
+  schedule:
+    - cron: '3 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Install libraries
+      run: |
+          sudo apt-get update -y
+          sudo apt-get install -y cpanminus libtidy-dev libxml++2.6-dev libhtml-tidy-perl
+
+    - name: Install modules
+      run: |
+          sudo cpanm --installdeps --notest .
+
+    - name: Create pages
+      run: |
+        mkdir -p docs
+        perlanet
+
+    - name: Commit new page
+      if: github.repository == 'davorg/planetdavorg'
+      run: |
+        GIT_STATUS=$(git status --porcelain)
+        echo $GIT_STATUS
+        git config --global user.name 'Dave Cross'
+        git config --global user.email 'dave@dave.org.uk'
+        git add *
+        if [ "$GIT_STATUS" != "" ]; then git commit -m "Automated Web page generation"; fi
+        if [ "$GIT_STATUS" != "" ]; then git push; fi
+
