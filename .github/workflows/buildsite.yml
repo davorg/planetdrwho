@@ -26,11 +26,10 @@ jobs:
 
     - name: Create pages
       run: |
-        mkdir -p docs
         perlanet
 
     - name: Commit new page
-      if: github.repository == 'davorg/planetdavorg'
+      if: github.repository == 'davorg/planetdrwho'
       run: |
         GIT_STATUS=$(git status --porcelain)
         echo $GIT_STATUS
