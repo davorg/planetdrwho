@@ -7,9 +7,88 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2020-12-12T00:06:21Z</updated>
+  <updated>2020-12-12T01:40:24Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Waiting on the Doctor</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/191245794@N06/50707326448/"/>
+    <id>tag:flickr.com,2005:/photo/50707326448</id>
+    <published>2020-12-12T01:39:27Z</published>
+    <updated>2020-12-12T01:39:27Z</updated>
+    <flickr:date_taken>2020-12-11T17:32:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2020-12-11T17:32:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/191245794@N06/"&gt;tinker191&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/191245794@N06/50707326448/" title="Waiting on the Doctor"&gt;&lt;img src="https://live.staticflickr.com/65535/50707326448_4a05a4312e_m.jpg" width="240" height="135" alt="Waiting on the Doctor" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>tinker191</name>
+      <uri>https://www.flickr.com/people/191245794@N06/</uri>
+      <flickr:nsid>191245794@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/191245794@N06.jpg?1607137727#191245794@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50707326448_4a05a4312e_b.jpg"/>
+    <category term="secondlife" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="virtualworlds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nature" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cave" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="policebox" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="companion" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp;amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1337567083836678157" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</div>
+    </content>
+    <updated>2020-12-12T01:16:58Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp;amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1337566823018090498" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</div>
+    </content>
+    <updated>2020-12-12T01:15:56Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp;amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1337566550438649856" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</div>
+    </content>
+    <updated>2020-12-12T01:14:51Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp;amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1337566391059308544" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Cultdom: The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp; DarthSkeptical #drwho #scifi #fantasy #culttv #movi…</div>
+    </content>
+    <updated>2020-12-12T01:14:13Z</updated>
+  </entry>
+  <entry>
+    <title>The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp;amp; DarthSkeptical #drwho #scifi #fantasy… https://t.co/qo7LotENM7</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1337566048107814916" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">The @Cultdom Blog Updated: https://t.co/BGyWI6eHmY @The6thDoctor @daveac &amp; DarthSkeptical #drwho #scifi #fantasy… https://t.co/qo7LotENM7</div>
+    </content>
+    <updated>2020-12-12T01:12:51Z</updated>
+  </entry>
+  <entry>
+    <title>Remembering a Houston doctor who fought on the Covid front lines - Yahoo News</title>
+    <link rel="alternate" href="https://news.yahoo.com/remembering-houston-doctor-fought-covid-000659116.html" type="text/html"/>
+    <content type="html">&lt;a href="https://news.yahoo.com/remembering-houston-doctor-fought-covid-000659116.html" target="_blank"&gt;Remembering a Houston doctor who fought on the Covid front lines&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News&lt;/font&gt;</content>
+    <id>CBMiTWh0dHBzOi8vbmV3cy55YWhvby5jb20vcmVtZW1iZXJpbmctaG91c3Rvbi1kb2N0b3ItZm91Z2h0LWNvdmlkLTAwMDY1OTExNi5odG1s0gFVaHR0cHM6Ly9uZXdzLnlhaG9vLmNvbS9hbXBodG1sL3JlbWVtYmVyaW5nLWhvdXN0b24tZG9jdG9yLWZvdWdodC1jb3ZpZC0wMDA2NTkxMTYuaHRtbA</id>
+    <published>2020-12-12T00:06:00Z</published>
+    <updated>2020-12-12T00:06:00Z</updated>
+  </entry>
   <entry>
     <title>David Tennant's first Doctor Who series on sale - digitalspy.com</title>
     <link rel="alternate" href="https://www.digitalspy.com/tv/a34947004/doctor-who-david-tennant-blu-ray-sale/" type="text/html"/>
@@ -17,54 +96,6 @@
     <id>CBMiTmh0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2EzNDk0NzAwNC9kb2N0b3Itd2hvLWRhdmlkLXRlbm5hbnQtYmx1LXJheS1zYWxlL9IBAA</id>
     <published>2020-12-11T23:56:00Z</published>
     <updated>2020-12-11T23:56:00Z</updated>
-  </entry>
-  <entry>
-    <title>理性なんかに耳を貸すな (Season2#4)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1337541431359983616" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">理性なんかに耳を貸すな (Season2#4)</div>
-    </content>
-    <updated>2020-12-11T23:35:02Z</updated>
-  </entry>
-  <entry>
-    <title>@ElizabethYore it's a Dalek from #DrWho! https://t.co/qEDRhbje4z</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1337541143198920707" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@ElizabethYore it's a Dalek from #DrWho! https://t.co/qEDRhbje4z</div>
-    </content>
-    <updated>2020-12-11T23:33:53Z</updated>
-  </entry>
-  <entry>
-    <title>RT @TheVirtualPubQ1: This Sunday 8pm: https://t.co/qpHR44C6TL in aid of https://t.co/XmkMs1aM2d
-
-Doctor Who Special Feat: @billiepiper &amp;amp; Ma…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1337539045707165698" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @TheVirtualPubQ1: This Sunday 8pm: https://t.co/qpHR44C6TL in aid of https://t.co/XmkMs1aM2d
-
-Doctor Who Special Feat: @billiepiper &amp; Ma…</div>
-    </content>
-    <updated>2020-12-11T23:25:33Z</updated>
-  </entry>
-  <entry>
-    <title>This Sunday 8pm: https://t.co/qpHR44C6TL in aid of https://t.co/XmkMs1aM2d
-
-Doctor Who Special Feat: @billiepiper &amp;amp;… https://t.co/MylLH2T37I</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1337538918359633921" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This Sunday 8pm: https://t.co/qpHR44C6TL in aid of https://t.co/XmkMs1aM2d
-
-Doctor Who Special Feat: @billiepiper &amp;… https://t.co/MylLH2T37I</div>
-    </content>
-    <updated>2020-12-11T23:25:03Z</updated>
-  </entry>
-  <entry>
-    <title>RT @E_dayEccentric: Someone on the Dr Who design team definitely watched Captain Scarlet &amp;amp; Thunderbirds growing up. A few twists on Thunder…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1337538067352203265" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @E_dayEccentric: Someone on the Dr Who design team definitely watched Captain Scarlet &amp; Thunderbirds growing up. A few twists on Thunder…</div>
-    </content>
-    <updated>2020-12-11T23:21:40Z</updated>
   </entry>
   <entry>
     <title>Captain Jack's back to help in this year's Doctor Who special - Daily Mail</title>
@@ -75,12 +106,12 @@ Doctor Who Special Feat: @billiepiper &amp;… https://t.co/MylLH2T37I</div>
     <updated>2020-12-11T22:30:00Z</updated>
   </entry>
   <entry>
-    <title>Game Of Thrones' House Of The Dragon Spinoff Adds A Doctor Who Star And More - CinemaBlend</title>
-    <link rel="alternate" href="https://www.cinemablend.com/television/2560062/game-of-thrones-house-of-the-dragon-spinoff-adds-a-doctor-who-star-and-more" type="text/html"/>
-    <content type="html">&lt;a href="https://www.cinemablend.com/television/2560062/game-of-thrones-house-of-the-dragon-spinoff-adds-a-doctor-who-star-and-more" target="_blank"&gt;Game Of Thrones' House Of The Dragon Spinoff Adds A Doctor Who Star And More&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CinemaBlend&lt;/font&gt;</content>
-    <id>CAIiEGv3IscpURWKorx3ZMKrIZoqGQgEKhAIACoHCAow4_qMCzCJh54DMJO5ugY</id>
-    <published>2020-12-11T20:51:00Z</published>
-    <updated>2020-12-11T20:51:00Z</updated>
+    <title>House of the Dragon: Game of Thrones Prequel Casts Doctor Who, Ready Player One Stars - IGN - IGN</title>
+    <link rel="alternate" href="https://www.ign.com/articles/house-of-the-dragon-game-of-thrones-prequel-casts-doctor-who-ready-player-one-stars" type="text/html"/>
+    <content type="html">&lt;a href="https://www.ign.com/articles/house-of-the-dragon-game-of-thrones-prequel-casts-doctor-who-ready-player-one-stars" target="_blank"&gt;House of the Dragon: Game of Thrones Prequel Casts Doctor Who, Ready Player One Stars - IGN&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;IGN&lt;/font&gt;</content>
+    <id>CAIiEDFv6LJgeydGoqtUFjCmc3UqGQgEKhAIACoHCAownsqUCzD9kaoDMLyuyAY</id>
+    <published>2020-12-11T21:50:05Z</published>
+    <updated>2020-12-11T21:50:05Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: The Mechanoids Just Beat the Daleks | CBR - CBR - Comic Book Resources</title>
@@ -91,20 +122,20 @@ Doctor Who Special Feat: @billiepiper &amp;… https://t.co/MylLH2T37I</div>
     <updated>2020-12-11T18:45:00Z</updated>
   </entry>
   <entry>
-    <title>Local Doctor Who Died of COVID-19 Honored - Spectrum News</title>
-    <link rel="alternate" href="https://spectrumlocalnews.com/nys/central-ny/news/2020/12/11/local-doctor-who-died-of-covid-19-honored" type="text/html"/>
-    <content type="html">&lt;a href="https://spectrumlocalnews.com/nys/central-ny/news/2020/12/11/local-doctor-who-died-of-covid-19-honored" target="_blank"&gt;Local Doctor Who Died of COVID-19 Honored&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Spectrum News&lt;/font&gt;</content>
-    <id>CBMiZmh0dHBzOi8vc3BlY3RydW1sb2NhbG5ld3MuY29tL255cy9jZW50cmFsLW55L25ld3MvMjAyMC8xMi8xMS9sb2NhbC1kb2N0b3Itd2hvLWRpZWQtb2YtY292aWQtMTktaG9ub3JlZNIBAA</id>
-    <published>2020-12-11T15:45:00Z</published>
-    <updated>2020-12-11T15:45:00Z</updated>
-  </entry>
-  <entry>
     <title>Big Finish Review - Time Lord Victorious: Mutually Assured Destruction - The Digital Fix</title>
     <link rel="alternate" href="https://www.thedigitalfix.com/life/review/big-finish-review-doctor-who-time-lord-victorious-mutually-assured-destruction/" type="text/html"/>
     <content type="html">&lt;a href="https://www.thedigitalfix.com/life/review/big-finish-review-doctor-who-time-lord-victorious-mutually-assured-destruction/" target="_blank"&gt;Big Finish Review - Time Lord Victorious: Mutually Assured Destruction&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Digital Fix&lt;/font&gt;</content>
     <id>CAIiEKS4w-gUBmzIIeFKJUdplIwqGAgEKg8IACoHCAow8oCxATCR_wkwxIfeBg</id>
     <published>2020-12-11T08:00:00Z</published>
     <updated>2020-12-11T08:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stars pay tribute to Dame Barbara Windsor - NBC Right Now</title>
+    <link rel="alternate" href="https://www.nbcrightnow.com/lifestyles/entertainment/stars-pay-tribute-to-dame-barbara-windsor/article_c24eb47d-f00a-577d-8590-a02b18fe8b42.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.nbcrightnow.com/lifestyles/entertainment/stars-pay-tribute-to-dame-barbara-windsor/article_c24eb47d-f00a-577d-8590-a02b18fe8b42.html" target="_blank"&gt;Stars pay tribute to Dame Barbara Windsor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;NBC Right Now&lt;/font&gt;</content>
+    <id>CBMikAFodHRwczovL3d3dy5uYmNyaWdodG5vdy5jb20vbGlmZXN0eWxlcy9lbnRlcnRhaW5tZW50L3N0YXJzLXBheS10cmlidXRlLXRvLWRhbWUtYmFyYmFyYS13aW5kc29yL2FydGljbGVfYzI0ZWI0N2QtZjAwYS01NzdkLTg1OTAtYTAyYjE4ZmU4YjQyLmh0bWzSAQA</id>
+    <published>2020-12-11T07:00:00Z</published>
+    <updated>2020-12-11T07:00:00Z</updated>
   </entry>
   <entry>
     <title>HBO/BBC Corporate Culture Drama ‘Industry’ Renewed for Season Two - mxdwn.com</title>
@@ -204,14 +235,6 @@ Advent calendars can now be bought which have pretty much anything from cheese t
     <id>CAIiEABigSZfZJUuP9U41uqoBNcqGQgEKhAIACoHCAowrq6BCzCw9PwCMMjF7gU</id>
     <published>2020-12-09T20:00:32Z</published>
     <updated>2020-12-09T20:00:32Z</updated>
-  </entry>
-  <entry>
-    <title>"Time Lord Victorious is a festival of Doctor Who." Part one of our chat with producer and writer James Goss - The Digital Fix</title>
-    <link rel="alternate" href="https://www.thedigitalfix.com/life/feature/time-lord-victorious-is-a-festival-of-doctor-who-part-one-of-our-chat-with-producer-and-writer-james-goss/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.thedigitalfix.com/life/feature/time-lord-victorious-is-a-festival-of-doctor-who-part-one-of-our-chat-with-producer-and-writer-james-goss/" target="_blank"&gt;"Time Lord Victorious is a festival of Doctor Who." Part one of our chat with producer and writer James Goss&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Digital Fix&lt;/font&gt;</content>
-    <id>CAIiEMFY_bQYSabnkg6KSxBLrfcqGAgEKg8IACoHCAow8oCxATCR_wkwxIfeBg</id>
-    <published>2020-12-07T10:00:00Z</published>
-    <updated>2020-12-07T10:00:00Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Time Window</title>
@@ -509,43 +532,6 @@ THE END&lt;/p&gt;</content>
     <category term="femalenursedoll" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brigadierlethbridgestewart" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>dr7</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189010890@N06/50632235457/"/>
-    <id>tag:flickr.com,2005:/photo/50632235457</id>
-    <published>2020-11-22T07:12:05Z</published>
-    <updated>2020-11-22T07:12:05Z</updated>
-    <flickr:date_taken>2020-11-22T20:11:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-11-22T20:11:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189010890@N06/"&gt;JF Ryan&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189010890@N06/50632235457/" title="dr7"&gt;&lt;img src="https://live.staticflickr.com/65535/50632235457_5710d4b9a6_m.jpg" width="240" height="111" alt="dr7" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I think they drove over some Government property  Brigadier.&lt;br /&gt;
-&lt;br /&gt;
-Bloody yanks!&lt;/p&gt;</content>
-    <author>
-      <name>JF Ryan</name>
-      <uri>https://www.flickr.com/people/189010890@N06/</uri>
-      <flickr:nsid>189010890@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/189010890@N06.jpg?1592772385#189010890@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50632235457_5710d4b9a6_b.jpg"/>
-    <category term="16scaledoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ww2diorama" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="soldierdoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="militarydoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="femalearmydoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="femalenursedoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dollnylonstockings" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dollmedicww2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="russiansniperdoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="brigadierlethbridgestewart" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
