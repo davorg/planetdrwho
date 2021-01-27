@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-01-27T03:06:45Z</updated>
+  <updated>2021-01-27T04:04:16Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>RT @FlappingGhost: Some #DrWho concepts I did for series 10. https://t.co/E60dnVKGEm</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1354268380396613636" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @FlappingGhost: Some #DrWho concepts I did for series 10. https://t.co/E60dnVKGEm</div>
+    </content>
+    <updated>2021-01-27T03:21:57Z</updated>
+  </entry>
   <entry>
     <title>@bbcdoctorwho I think the Doctor and Yaz need a snow adventure! @MandipGilI #DoctorWho #13thdoctor #DrWho https://t.co/wz04UZ3ZEk</title>
     <link rel="alternate" href="https://twitter.com/drwho/status/1354261373707026434" type="text/html"/>
@@ -41,14 +49,6 @@
       <div xmlns="http://www.w3.org/1999/xhtml">Rule 103: Don't blink. Blink and you're dead. #DrWho #AHAthat</div>
     </content>
     <updated>2021-01-27T02:45:01Z</updated>
-  </entry>
-  <entry>
-    <title>感情があることを誇りに思っているのか? ―ああ、もちろん (Season2 #6 / サイバーリーダーとドクターのやりとり)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1354256591134969860" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">感情があることを誇りに思っているのか? ―ああ、もちろん (Season2 #6 / サイバーリーダーとドクターのやりとり)</div>
-    </content>
-    <updated>2021-01-27T02:35:06Z</updated>
   </entry>
   <entry>
     <title>It's A Sin US Release Date: When &amp; Where To Watch | Screen Rant - Screen Rant</title>
@@ -164,6 +164,39 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Tom Baker at a book signing in Watford 1979</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/trainsandstuff/50847859557/"/>
+    <id>tag:flickr.com,2005:/photo/50847859557</id>
+    <published>2021-01-21T05:11:53Z</published>
+    <updated>2021-01-21T05:11:53Z</updated>
+    <flickr:date_taken>2021-01-10T12:30:21-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-01-10T12:30:21-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/trainsandstuff/"&gt;trainsandstuff&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/trainsandstuff/50847859557/" title="Tom Baker at a book signing in Watford 1979"&gt;&lt;img src="https://live.staticflickr.com/65535/50847859557_b076fdfcb6_m.jpg" width="240" height="238" alt="Tom Baker at a book signing in Watford 1979" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I took this photo when I was 11. He was doing a signing at a book shop on Market Street in Watford so I went down and got my book signed. I still have it today&lt;/p&gt;</content>
+    <author>
+      <name>trainsandstuff</name>
+      <uri>https://www.flickr.com/people/trainsandstuff/</uri>
+      <flickr:nsid>31275172@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm5.staticflickr.com/4197/buddyicons/31275172@N05.jpg?1496976551#31275172@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50847859557_b076fdfcb6_b.jpg"/>
+    <category term="tombaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="watford" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="booksigning" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1970s" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="old" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vintage" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="history" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="colour" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The 5th Dr</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/john-martin/50834162203/"/>
     <id>tag:flickr.com,2005:/photo/50834162203</id>
@@ -235,80 +268,6 @@ You can watch more Mr Daz episodes at &lt;a href="http://www.YouTube.com/MrDazAn
     <category term="funny" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="comedy" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="funnyanimations" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Doctor Who: The Sontaran Experiment - Hound Tor, Manaton</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/tetramesh/50780079261/"/>
-    <id>tag:flickr.com,2005:/photo/50780079261</id>
-    <published>2020-12-30T18:13:50Z</published>
-    <updated>2020-12-30T18:13:50Z</updated>
-    <flickr:date_taken>2020-12-30T19:11:29-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-12-30T19:11:29-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/tetramesh/"&gt;Tetramesh&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/tetramesh/50780079261/" title="Doctor Who: The Sontaran Experiment - Hound Tor, Manaton"&gt;&lt;img src="https://live.staticflickr.com/65535/50780079261_8e36d47b1d_m.jpg" width="168" height="240" alt="Doctor Who: The Sontaran Experiment - Hound Tor, Manaton" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;(&lt;i&gt;1974&lt;/i&gt;)&lt;br /&gt;
-(&lt;i&gt;2020&lt;/i&gt;)&lt;br /&gt;
-&lt;br /&gt;
-Erak (Peter Walshe),  Vural (Donald Douglas) and Krans (Glyn Jones) are a bit tied up.&lt;br /&gt;
-  &lt;br /&gt;
-  &lt;br /&gt;
-  &lt;br /&gt;
-  &lt;br /&gt;
-  &lt;br /&gt;
-» &lt;em&gt;&lt;a href="https://www.flickr.com/photos/tetramesh/collections/72157627801293183/"&gt;Then and Now: Localities&lt;/a&gt;&lt;/em&gt;&lt;br /&gt;
-» &lt;em&gt;&lt;a href="https://www.flickr.com/photos/tetramesh/collections/72157627801564707/"&gt;Then and Now: Film and Television&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content>
-    <author>
-      <name>Tetramesh</name>
-      <uri>https://www.flickr.com/people/tetramesh/</uri>
-      <flickr:nsid>94104270@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5500/buddyicons/94104270@N00.jpg?1385748304#94104270@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50780079261_8e36d47b1d_z.jpg"/>
-    <category term="tetramesh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="manaton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="devon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tq13" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dartmoor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="houndtor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drama" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="television" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="culttv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwholocations" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhofilminglocations" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhofilminglocation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwholocations" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwhofilminglocations" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwhofilminglocation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbcfilminglocation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbcfilminglocations" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thenandnow" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pastandpresent" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thesontaranexperiment" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tombaker" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="elisabethsladen" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sarahjanesmith" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bobbaker" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tombakertn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rodneybennett" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="davemartin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="philiphinchcliffe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="29thseptember" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="peterwalshe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="donalddouglas" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="glynjones" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
