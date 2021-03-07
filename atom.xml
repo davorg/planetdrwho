@@ -7,64 +7,88 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-07T21:53:49Z</updated>
+  <updated>2021-03-07T22:57:27Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Span</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dave_davies/51013241908/"/>
+    <id>tag:flickr.com,2005:/photo/51013241908</id>
+    <published>2021-03-07T22:52:38Z</published>
+    <updated>2021-03-07T22:52:38Z</updated>
+    <flickr:date_taken>2018-08-22T17:46:27-08:00</flickr:date_taken>
+    <dc:date.Taken>2018-08-22T17:46:27-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dave_davies/"&gt;Dave_Davies&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dave_davies/51013241908/" title="Span"&gt;&lt;img src="https://live.staticflickr.com/65535/51013241908_b4d3f42f2e_m.jpg" width="240" height="160" alt="Span" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Dave_Davies</name>
+      <uri>https://www.flickr.com/people/dave_davies/</uri>
+      <flickr:nsid>67706190@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm3.staticflickr.com/2200/buddyicons/67706190@N00.jpg?1210635957#67706190@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51013241908_b4d3f42f2e_b.jpg"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="building" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="temporary" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="seagull" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>Le son de sa voix 
-Ne lui était plus audible.
-Il en resta muet
-#haiku #ombres</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368678524983390210" type="text/html"/>
+    <title>Mes mains caressent l’absence de ton corps.
+#ombres #désir</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1368693821383532545" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Le son de sa voix 
-Ne lui était plus audible.
-Il en resta muet
-#haiku #ombres</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Mes mains caressent l’absence de ton corps.
+#ombres #désir</div>
     </content>
-    <updated>2021-03-07T21:42:43Z</updated>
+    <updated>2021-03-07T22:43:30Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day 1964
-The Sensorites!
-#DoctorWho #Remini #DrWho https://t.co/tCS3SMMBwH</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368677018393575425" type="text/html"/>
+    <title>RT @CrazyCaptionWho: Bonus Crazy Caption this! #drwho #doctorwho https://t.co/WvoOFI7u2P</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1368693037375893504" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day 1964
-The Sensorites!
-#DoctorWho #Remini #DrWho https://t.co/tCS3SMMBwH</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @CrazyCaptionWho: Bonus Crazy Caption this! #drwho #doctorwho https://t.co/WvoOFI7u2P</div>
     </content>
-    <updated>2021-03-07T21:36:44Z</updated>
+    <updated>2021-03-07T22:40:23Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day In 1981
-Logopolis #DoctorWho #DrWho https://t.co/GqIhqkpcsL</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368674885543882762" type="text/html"/>
+    <title>RT @CrazyCaptionWho: Crazy Caption this! #drwho #doctorwho https://t.co/Bc21kFFKzd</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1368692669669666821" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1981
-Logopolis #DoctorWho #DrWho https://t.co/GqIhqkpcsL</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @CrazyCaptionWho: Crazy Caption this! #drwho #doctorwho https://t.co/Bc21kFFKzd</div>
     </content>
-    <updated>2021-03-07T21:28:16Z</updated>
+    <updated>2021-03-07T22:38:56Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day 1964
-The Sensorites!
-#DoctorWho #Remini #DrWho https://t.co/tCS3SMMBwH</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368674552264425485" type="text/html"/>
+    <title>The Krotons. Enhanced! #drwho #doctorwho https://t.co/2DQBCdXlqs</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1368691966435876878" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day 1964
-The Sensorites!
-#DoctorWho #Remini #DrWho https://t.co/tCS3SMMBwH</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">The Krotons. Enhanced! #drwho #doctorwho https://t.co/2DQBCdXlqs</div>
     </content>
-    <updated>2021-03-07T21:26:56Z</updated>
+    <updated>2021-03-07T22:36:08Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This day in 2012 we sadly lost Mary tamm who played the first Romana RIP #doctorwho #drwho #remini #keytotime https://…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368674539459248131" type="text/html"/>
+    <title>Doctor Who: New Details On Christopher Eccleston's Return Have Been Revealed - CinemaBlend</title>
+    <link rel="alternate" href="https://www.cinemablend.com/television/2563960/doctor-who-new-details-on-christopher-ecclestons-return-have-been-revealed" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cinemablend.com/television/2563960/doctor-who-new-details-on-christopher-ecclestons-return-have-been-revealed" target="_blank"&gt;Doctor Who: New Details On Christopher Eccleston's Return Have Been Revealed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CinemaBlend&lt;/font&gt;</content>
+    <id>CAIiENHOEFsEU-XFtpILAssqdUwqGQgEKhAIACoHCAow4_qMCzCJh54DMJO5ugY</id>
+    <published>2021-03-07T22:33:14Z</published>
+    <updated>2021-03-07T22:33:14Z</updated>
+  </entry>
+  <entry>
+    <title>@omphilehhhh @its_menieb @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks b… https://t.co/TqrMQsAD81</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1368691090484822016" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This day in 2012 we sadly lost Mary tamm who played the first Romana RIP #doctorwho #drwho #remini #keytotime https://…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@omphilehhhh @its_menieb @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks b… https://t.co/TqrMQsAD81</div>
     </content>
-    <updated>2021-03-07T21:26:53Z</updated>
+    <updated>2021-03-07T22:32:39Z</updated>
   </entry>
   <entry>
     <title>Popular party spot raises age limit to curb spring breakers - Talk Radio 1210 WPHT</title>
@@ -105,14 +129,6 @@ The Sensorites!
     <id>CAIiEDKKPUUFL6HIUHjuKyf3adMqGQgEKhAIACoHCAow4deVCzDp-awDMKOr6wY</id>
     <published>2021-03-07T12:00:00Z</published>
     <updated>2021-03-07T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who Won 'MasterChef' Urges People to Get Vaccinated - Yahoo News</title>
-    <link rel="alternate" href="https://news.yahoo.com/doctor-won-masterchef-urges-people-110315091.html" type="text/html"/>
-    <content type="html">&lt;a href="https://news.yahoo.com/doctor-won-masterchef-urges-people-110315091.html" target="_blank"&gt;Doctor Who Won 'MasterChef' Urges People to Get Vaccinated&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News&lt;/font&gt;</content>
-    <id>CBMiSGh0dHBzOi8vbmV3cy55YWhvby5jb20vZG9jdG9yLXdvbi1tYXN0ZXJjaGVmLXVyZ2VzLXBlb3BsZS0xMTAzMTUwOTEuaHRtbNIBUGh0dHBzOi8vbmV3cy55YWhvby5jb20vYW1waHRtbC9kb2N0b3Itd29uLW1hc3RlcmNoZWYtdXJnZXMtcGVvcGxlLTExMDMxNTA5MS5odG1s</id>
-    <published>2021-03-07T11:03:15Z</published>
-    <updated>2021-03-07T11:03:15Z</updated>
   </entry>
   <entry>
     <title>John Barrowman slams 'abusive trolls' after Drag Race Star Lawrence Chaney deletes Twitter - Glasgow Times</title>
@@ -269,37 +285,6 @@ Hope you're enjoying a sunny Friday!&lt;/p&gt;</content>
     <category term="dolls" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="actionfigure" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/168752229@N03/50976326063/"/>
-    <id>tag:flickr.com,2005:/photo/50976326063</id>
-    <published>2021-02-24T18:54:35Z</published>
-    <updated>2021-02-24T18:54:35Z</updated>
-    <flickr:date_taken>2021-02-24T10:54:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-02-24T10:54:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/168752229@N03/"&gt;BARBIEDRAGON&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/168752229@N03/50976326063/" title="3"&gt;&lt;img src="https://live.staticflickr.com/65535/50976326063_9a86bf9a17_m.jpg" width="160" height="240" alt="3" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>BARBIEDRAGON</name>
-      <uri>https://www.flickr.com/people/168752229@N03/</uri>
-      <flickr:nsid>168752229@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4825/buddyicons/168752229@N03.jpg?1545426350#168752229@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50976326063_9a86bf9a17_b.jpg"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="belle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="16thscale" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clipart" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="png" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transparent" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="photopadimageeditor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="emmawatson" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
