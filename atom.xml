@@ -7,24 +7,56 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-08T19:01:41Z</updated>
+  <updated>2021-03-08T19:53:02Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>RT @Mrunknownfc1: Crazy Caption This! #DoctorWho #DrWho https://t.co/CM94Y8ZV68</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368994479357759496" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Crazy Caption This! #DoctorWho #DrWho https://t.co/CM94Y8ZV68</div>
-    </content>
-    <updated>2021-03-08T18:38:13Z</updated>
-  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Sixty Seven - I feel drawn to it!</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/axemanrj/51017155422/"/>
+    <id>tag:flickr.com,2005:/photo/51017155422</id>
+    <published>2021-03-08T19:51:57Z</published>
+    <updated>2021-03-08T19:51:57Z</updated>
+    <flickr:date_taken>2021-03-08T20:24:02-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-03-08T20:24:02-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/axemanrj/"&gt;Rob Johnstone&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/axemanrj/51017155422/" title="Sixty Seven - I feel drawn to it!"&gt;&lt;img src="https://live.staticflickr.com/65535/51017155422_63a62326c1_m.jpg" width="240" height="240" alt="Sixty Seven - I feel drawn to it!" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Drawing, and painting are my newest fad hobby. My work is a bit sporadic as I have few opportunities to endulge my interest.  This little scribble is the result of a theme of &amp;quot;Time Travel&amp;quot; from a little Whatsapp art group I'm in with some friends.  It depicts the first Dr. Who, William Hartnell, and the current Dr. Who, Jodie Whittaker. I'm trying to go as freehand as possible, and only used some calipers to get some of the dimensions.&lt;/p&gt;</content>
+    <author>
+      <name>Rob Johnstone</name>
+      <uri>https://www.flickr.com/people/axemanrj/</uri>
+      <flickr:nsid>23670008@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7176/buddyicons/23670008@N07.jpg?1349778528#23670008@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51017155422_63a62326c1_b.jpg"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="draw" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pencil" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="graphite" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="art" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="365" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="self" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="selfie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="project" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="middle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="age" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="aged" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="man" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>RT @Mrunknownfc1: On This Day In 1975
 
 Genesis Of The Daleks
 
 Retweet If You Love Genesis Of The Daleks! #DoctorWho #DrWho https://t.co/EdM…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368994128478998534" type="text/html"/>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1369010909428019202" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1975
 
@@ -32,37 +64,55 @@ Genesis Of The Daleks
 
 Retweet If You Love Genesis Of The Daleks! #DoctorWho #DrWho https://t.co/EdM…</div>
     </content>
-    <updated>2021-03-08T18:36:49Z</updated>
+    <updated>2021-03-08T19:43:30Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day In 1969
-The Space Pirates #DoctorWho #DrWho https://t.co/FzJ9erZ6Ud</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368994120014962694" type="text/html"/>
+    <title>@paleeshwaran @mouiad_ @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks by… https://t.co/0wnDjf9q9A</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1369010844441456644" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1969
-The Space Pirates #DoctorWho #DrWho https://t.co/FzJ9erZ6Ud</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@paleeshwaran @mouiad_ @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks by… https://t.co/0wnDjf9q9A</div>
     </content>
-    <updated>2021-03-08T18:36:47Z</updated>
+    <updated>2021-03-08T19:43:14Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day In 1982
-Earthshock #DoctorWho #DrWho https://t.co/ezsGcesuCA</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368994088939315206" type="text/html"/>
+    <title>@paleeshwaran @buneti93 @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks by… https://t.co/Fswp7hZ3Q7</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1369010565960507392" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1982
-Earthshock #DoctorWho #DrWho https://t.co/ezsGcesuCA</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@paleeshwaran @buneti93 @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks by… https://t.co/Fswp7hZ3Q7</div>
     </content>
-    <updated>2021-03-08T18:36:40Z</updated>
+    <updated>2021-03-08T19:42:08Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day In 1984
-The Caves Of Androzani #DoctorWho #DrWho https://t.co/2V7wb96fci</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1368994073105825793" type="text/html"/>
+    <title>@paleeshwaran @buneti93 @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks by… https://t.co/vd8W3LRAej</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1369010548248113152" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1984
-The Caves Of Androzani #DoctorWho #DrWho https://t.co/2V7wb96fci</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@paleeshwaran @buneti93 @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks by… https://t.co/vd8W3LRAej</div>
     </content>
-    <updated>2021-03-08T18:36:36Z</updated>
+    <updated>2021-03-08T19:42:04Z</updated>
+  </entry>
+  <entry>
+    <title>@paleeshwaran @SirineAti @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks b… https://t.co/G6UPn1qszU</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1369010335143837699" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@paleeshwaran @SirineAti @elonmusk Evil UnLtd 20% Royalties go to Cancer Research UK Wicked #scifi #books #ebooks b… https://t.co/G6UPn1qszU</div>
+    </content>
+    <updated>2021-03-08T19:41:13Z</updated>
+  </entry>
+  <entry>
+    <title>'Dalek Universe's Cast Talk About the New Big Finish Audio Drama - Nerds and Beyond</title>
+    <link rel="alternate" href="https://www.nerdsandbeyond.com/2021/03/08/dalek-universes-cast-talk-about-the-new-big-finish-audio-drama/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.nerdsandbeyond.com/2021/03/08/dalek-universes-cast-talk-about-the-new-big-finish-audio-drama/" target="_blank"&gt;'Dalek Universe's Cast Talk About the New Big Finish Audio Drama&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nerds and Beyond&lt;/font&gt;</content>
+    <id>CBMiaWh0dHBzOi8vd3d3Lm5lcmRzYW5kYmV5b25kLmNvbS8yMDIxLzAzLzA4L2RhbGVrLXVuaXZlcnNlcy1jYXN0LXRhbGstYWJvdXQtdGhlLW5ldy1iaWctZmluaXNoLWF1ZGlvLWRyYW1hL9IBAA</id>
+    <published>2021-03-08T19:30:00Z</published>
+    <updated>2021-03-08T19:30:00Z</updated>
+  </entry>
+  <entry>
+    <title>Times reporter reflects on the long, strange, winding road to being fully vaccinated — and what's next - The Times</title>
+    <link rel="alternate" href="https://www.timesonline.com/story/news/2021/03/08/covid-vaccine-doesnt-make-effects-past-year-disappear/4626756001/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.timesonline.com/story/news/2021/03/08/covid-vaccine-doesnt-make-effects-past-year-disappear/4626756001/" target="_blank"&gt;Times reporter reflects on the long, strange, winding road to being fully vaccinated — and what's next&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+    <id>CBMic2h0dHBzOi8vd3d3LnRpbWVzb25saW5lLmNvbS9zdG9yeS9uZXdzLzIwMjEvMDMvMDgvY292aWQtdmFjY2luZS1kb2VzbnQtbWFrZS1lZmZlY3RzLXBhc3QteWVhci1kaXNhcHBlYXIvNDYyNjc1NjAwMS_SASpodHRwczovL2FtcC50aW1lc29ubGluZS5jb20vYW1wLzQ2MjY3NTYwMDE</id>
+    <published>2021-03-08T17:05:56Z</published>
+    <updated>2021-03-08T17:05:56Z</updated>
   </entry>
   <entry>
     <title>Doctor Who’s Jo Martin wants a return – or a spin-off – for her Fugitive Doctor - RadioTimes</title>
@@ -87,22 +137,6 @@ The Caves Of Androzani #DoctorWho #DrWho https://t.co/2V7wb96fci</div>
     <id>CAIiEPfbH_w96VIaQ8qkykJaLjIqMwgEKioIACIQT_jp4xkM0dc_9rbpNg6wYioUCAoiEE_46eMZDNHXP_a26TYOsGIw_a7MBg</id>
     <published>2021-03-08T15:18:15Z</published>
     <updated>2021-03-08T15:18:15Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who super fan from Doncaster spends lockdown building huge Tardis in his back garden - Yorkshire Live</title>
-    <link rel="alternate" href="https://www.examinerlive.co.uk/news/local-news/doncaster-man-who-built-doctor-19987553" type="text/html"/>
-    <content type="html">&lt;a href="https://www.examinerlive.co.uk/news/local-news/doncaster-man-who-built-doctor-19987553" target="_blank"&gt;Doctor Who super fan from Doncaster spends lockdown building huge Tardis in his back garden&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yorkshire Live&lt;/font&gt;</content>
-    <id>CAIiEECKvFTSBsdLiz9OygXKFs0qMwgEKioIACIQdHHuyXPxdoiCC5jEqcranCoUCAoiEHRx7slz8XaIgguYxKnK2pwwgKTQBg</id>
-    <published>2021-03-08T14:31:32Z</published>
-    <updated>2021-03-08T14:31:32Z</updated>
-  </entry>
-  <entry>
-    <title>10 Biggest Feuds In Doctor Who History - WhatCulture</title>
-    <link rel="alternate" href="https://whatculture.com/tv/10-biggest-feuds-in-doctor-who-history" type="text/html"/>
-    <content type="html">&lt;a href="https://whatculture.com/tv/10-biggest-feuds-in-doctor-who-history" target="_blank"&gt;10 Biggest Feuds In Doctor Who History&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WhatCulture&lt;/font&gt;</content>
-    <id>CBMiQWh0dHBzOi8vd2hhdGN1bHR1cmUuY29tL3R2LzEwLWJpZ2dlc3QtZmV1ZHMtaW4tZG9jdG9yLXdoby1oaXN0b3J50gFFaHR0cHM6Ly93aGF0Y3VsdHVyZS5jb20vYW1wL3R2LzEwLWJpZ2dlc3QtZmV1ZHMtaW4tZG9jdG9yLXdoby1oaXN0b3J5</id>
-    <published>2021-03-08T13:59:51Z</published>
-    <updated>2021-03-08T13:59:51Z</updated>
   </entry>
   <entry>
     <title>You need to watch the most underrated sci-fi show of the century on HBO Max ASAP - Inverse</title>
@@ -267,37 +301,6 @@ Hope you're enjoying a sunny Friday!&lt;/p&gt;</content>
     <category term="dolls" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="actionfigure" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>3</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/168752229@N03/50976326063/"/>
-    <id>tag:flickr.com,2005:/photo/50976326063</id>
-    <published>2021-02-24T18:54:35Z</published>
-    <updated>2021-02-24T18:54:35Z</updated>
-    <flickr:date_taken>2021-02-24T10:54:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-02-24T10:54:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/168752229@N03/"&gt;BARBIEDRAGON&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/168752229@N03/50976326063/" title="3"&gt;&lt;img src="https://live.staticflickr.com/65535/50976326063_9a86bf9a17_m.jpg" width="160" height="240" alt="3" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>BARBIEDRAGON</name>
-      <uri>https://www.flickr.com/people/168752229@N03/</uri>
-      <flickr:nsid>168752229@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4825/buddyicons/168752229@N03.jpg?1545426350#168752229@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/50976326063_9a86bf9a17_b.jpg"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="belle" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="16thscale" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clipart" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="png" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="transparent" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="photopadimageeditor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="emmawatson" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
