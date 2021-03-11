@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-11T03:00:19Z</updated>
+  <updated>2021-03-11T03:57:29Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>あなた誰なの？ ― 言ったろ、ドクターだ ― ええ、何のドクター？ ― ただのドクターだ ― ドクター？ ― ハロー！ (Series1 #1/ローズとドクター)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1369846830368886787" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">あなた誰なの？ ― 言ったろ、ドクターだ ― ええ、何のドクター？ ― ただのドクターだ ― ドクター？ ― ハロー！ (Series1 #1/ローズとドクター)</div>
+    </content>
+    <updated>2021-03-11T03:05:09Z</updated>
+  </entry>
   <entry>
     <title>アリアナだって上司にギリシャ人に見えると言われて2000ポンドせしめたんだから。確かにギリシャ人なのは事実だけど。訴えた方が勝ち (Series1 #1/ジャッキー)</title>
     <link rel="alternate" href="https://twitter.com/drwho/status/1369831714432851971" type="text/html"/>
@@ -77,14 +85,6 @@ Any #DoctorWho fans out there?
     <id>CAIiEB5SilyFuByLsj7CiMdCx7oqGAgEKg8IACoHCAowjtSUCjC30XQwisflAQ</id>
     <published>2021-03-11T01:14:00Z</published>
     <updated>2021-03-11T01:14:00Z</updated>
-  </entry>
-  <entry>
-    <title>よろしくローズ。さあ帰って (Series1 #1)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1369816621125038086" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">よろしくローズ。さあ帰って (Series1 #1)</div>
-    </content>
-    <updated>2021-03-11T01:05:07Z</updated>
   </entry>
   <entry>
     <title>New Jersey doctor makes house calls to help elderly in community - WPVI-TV</title>
