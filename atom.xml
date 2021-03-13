@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-13T05:53:46Z</updated>
+  <updated>2021-03-13T07:00:38Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>書斎にある武器、それはなに? 本だ! 世界最強の武器! この部屋は最強の武器庫だ! 武装しよう (Season2#2)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1370624484487561216" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">書斎にある武器、それはなに? 本だ! 世界最強の武器! この部屋は最強の武器庫だ! 武装しよう (Season2#2)</div>
+    </content>
+    <updated>2021-03-13T06:35:16Z</updated>
+  </entry>
   <entry>
     <title>あなた変わった　―ニューニュードクターだ　(Season2#1)</title>
     <link rel="alternate" href="https://twitter.com/drwho/status/1370609487476748291" type="text/html"/>
@@ -45,28 +53,12 @@
     <updated>2021-03-13T04:54:34Z</updated>
   </entry>
   <entry>
-    <title>@KellyDettlinger @loucityfc My son's first game was at 3mos.  He's six now.</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1370596890094473216" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@KellyDettlinger @loucityfc My son's first game was at 3mos.  He's six now.</div>
-    </content>
-    <updated>2021-03-13T04:45:37Z</updated>
-  </entry>
-  <entry>
     <title>The Witcher: Season Two Will Introduce Two New Characters - TheNewsTrace</title>
     <link rel="alternate" href="https://thenewstrace.com/the-witcher-season-two-will-introduce-two-new-characters/141487/" type="text/html"/>
     <content type="html">&lt;a href="https://thenewstrace.com/the-witcher-season-two-will-introduce-two-new-characters/141487/" target="_blank"&gt;The Witcher: Season Two Will Introduce Two New Characters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TheNewsTrace&lt;/font&gt;</content>
     <id>CBMiWWh0dHBzOi8vdGhlbmV3c3RyYWNlLmNvbS90aGUtd2l0Y2hlci1zZWFzb24tdHdvLXdpbGwtaW50cm9kdWNlLXR3by1uZXctY2hhcmFjdGVycy8xNDE0ODcv0gEA</id>
     <published>2021-03-13T04:38:13Z</published>
     <updated>2021-03-13T04:38:13Z</updated>
-  </entry>
-  <entry>
-    <title>COVID live updates: Contact tracing underway as Brisbane doctor tests positive to COVID-19 - ABC News</title>
-    <link rel="alternate" href="https://www.abc.net.au/news/2021-03-13/coronavirus-australia-live-news-covid-19-latest-qld-doctor-pa/13244666" type="text/html"/>
-    <content type="html">&lt;a href="https://www.abc.net.au/news/2021-03-13/coronavirus-australia-live-news-covid-19-latest-qld-doctor-pa/13244666" target="_blank"&gt;COVID live updates: Contact tracing underway as Brisbane doctor tests positive to COVID-19&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ABC News&lt;/font&gt;</content>
-    <id>CAIiEMNFkS9ydZcTwC3fJjbDTFkqFwgEKg4IACoGCAow3vI9MPeaCDD6kIkG</id>
-    <published>2021-03-13T01:37:04Z</published>
-    <updated>2021-03-13T01:37:04Z</updated>
   </entry>
   <entry>
     <title>Local doctor who battled COVID-19 is back at work - WPBF West Palm Beach</title>
@@ -91,6 +83,14 @@
     <id>CBMiXGh0dHBzOi8vd3d3LnNvbWVlY2FyZHMuY29tL25ld3MvbmV3cy93b21hbi1hc2tzLXdyb25nLXJlcG9ydC1kb2N0b3ItY29uZ3JhdHVsYXRlZC1wcmVnbmFuY3kv0gEA</id>
     <published>2021-03-12T20:27:26Z</published>
     <updated>2021-03-12T20:27:26Z</updated>
+  </entry>
+  <entry>
+    <title>COVID live updates: Contact tracing underway as Brisbane doctor tests positive to COVID-19 - ABC News</title>
+    <link rel="alternate" href="https://www.abc.net.au/news/2021-03-13/coronavirus-australia-live-news-covid-19-latest-qld-doctor-pa/13244666" type="text/html"/>
+    <content type="html">&lt;a href="https://www.abc.net.au/news/2021-03-13/coronavirus-australia-live-news-covid-19-latest-qld-doctor-pa/13244666" target="_blank"&gt;COVID live updates: Contact tracing underway as Brisbane doctor tests positive to COVID-19&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ABC News&lt;/font&gt;</content>
+    <id>CAIiEMNFkS9ydZcTwC3fJjbDTFkqFwgEKg4IACoGCAow3vI9MPeaCDD6kIkG</id>
+    <published>2021-03-12T19:39:21Z</published>
+    <updated>2021-03-12T19:39:21Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: John Barrowman let's slip show secrets 'It was a total lie!' - Daily Express</title>
