@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-03-16T05:01:28Z</updated>
+  <updated>2021-03-16T05:53:09Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>書斎にある武器、それはなに? 本だ! 世界最強の武器! この部屋は最強の武器庫だ! 武装しよう (Season2#2)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1371688960947220482" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">書斎にある武器、それはなに? 本だ! 世界最強の武器! この部屋は最強の武器庫だ! 武装しよう (Season2#2)</div>
+    </content>
+    <updated>2021-03-16T05:05:07Z</updated>
+  </entry>
   <entry>
     <title>RT @kuzey3dtoys: River Song's gun from #Doctorwho Took 11 hours to 3d print and came out 99% awesome  😉 #3d #lightwave3d #b3d #monox #scifi…</title>
     <link rel="alternate" href="https://twitter.com/drwho/status/1371677915130310658" type="text/html"/>
@@ -43,14 +51,6 @@
     <updated>2021-03-16T04:10:07Z</updated>
   </entry>
   <entry>
-    <title>あなた変わった　―ニューニュードクターだ　(Season2#1)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1371673849855496192" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">あなた変わった　―ニューニュードクターだ　(Season2#1)</div>
-    </content>
-    <updated>2021-03-16T04:05:04Z</updated>
-  </entry>
-  <entry>
     <title>Doctor who went from Riverdance star to Covid frontline - Yahoo News UK</title>
     <link rel="alternate" href="https://uk.news.yahoo.com/doctor-went-riverdance-star-covid-024528938.html" type="text/html"/>
     <content type="html">&lt;a href="https://uk.news.yahoo.com/doctor-went-riverdance-star-covid-024528938.html" target="_blank"&gt;Doctor who went from Riverdance star to Covid frontline&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo News UK&lt;/font&gt;</content>
@@ -70,7 +70,7 @@
     <title>No sign of community transmission linked to COVID-infected Brisbane doctor so far as more than half of close contacts test negative - ABC News</title>
     <link rel="alternate" href="https://www.abc.net.au/news/2021-03-16/coronavirus-queensland-doctor-cases-community-transmission/13251914" type="text/html"/>
     <content type="html">&lt;a href="https://www.abc.net.au/news/2021-03-16/coronavirus-queensland-doctor-cases-community-transmission/13251914" target="_blank"&gt;No sign of community transmission linked to COVID-infected Brisbane doctor so far as more than half of close contacts test negative&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ABC News&lt;/font&gt;</content>
-    <id>CAIiEAR-PU9cVRJngjjspuZ37PMqFwgEKg4IACoGCAow3vI9MPeaCDDEvrgG</id>
+    <id>CAIiEAR-PU9cVRJngjjspuZ37PMqFggEKg4IACoGCAow3vI9MPeaCDDciw4</id>
     <published>2021-03-15T23:48:14Z</published>
     <updated>2021-03-15T23:48:14Z</updated>
   </entry>
