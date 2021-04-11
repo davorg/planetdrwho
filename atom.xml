@@ -7,48 +7,88 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-04-11T03:01:35Z</updated>
+  <updated>2021-04-11T03:58:14Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Pair (TARDIS cufflinks)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/chookpen/51109193495/"/>
+    <id>tag:flickr.com,2005:/photo/51109193495</id>
+    <published>2021-04-11T03:41:17Z</published>
+    <updated>2021-04-11T03:41:17Z</updated>
+    <flickr:date_taken>2021-04-11T11:34:43-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-04-11T11:34:43-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/chookpen/"&gt;chookpen&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/chookpen/51109193495/" title="Pair (TARDIS cufflinks)"&gt;&lt;img src="https://live.staticflickr.com/65535/51109193495_1b6e80d028_m.jpg" width="240" height="160" alt="Pair (TARDIS cufflinks)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>chookpen</name>
+      <uri>https://www.flickr.com/people/chookpen/</uri>
+      <flickr:nsid>14952049@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1448/buddyicons/14952049@N00.jpg?1461210941#14952049@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51109193495_1b6e80d028_b.jpg"/>
+    <category term="macromondays" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>RT @Cullodenfriends: @Writer_DG @WhoFrazer A pal's pic of Diana Gabaldon &amp;amp; Frazer Hines @ The Gathering 2009 #culloden #outlander #drwho ht…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1381073482193248258" type="text/html"/>
+    <title>RT @Yuki_Ogimi: The history started....What a amazing night... our fan was too hyper... I love that energy!! 
+We still need to improve and…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1381088569645752321" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Cullodenfriends: @Writer_DG @WhoFrazer A pal's pic of Diana Gabaldon &amp; Frazer Hines @ The Gathering 2009 #culloden #outlander #drwho ht…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Yuki_Ogimi: The history started....What a amazing night... our fan was too hyper... I love that energy!! 
+We still need to improve and…</div>
     </content>
-    <updated>2021-04-11T02:35:51Z</updated>
+    <updated>2021-04-11T03:35:49Z</updated>
   </entry>
   <entry>
-    <title>RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovel @ComicsTitan Doctor Who Thirteenth Docto…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1381072203521818625" type="text/html"/>
+    <title>ああ、なんて美しいんだろう! いやあ素晴らしい、ほら見てみろ! 宇宙時代のからくり人形、ぞくぞくする! すごい! 感動もの! 感激で2つある心臓が共鳴を起こしている! こんな芸術品を分解するなんて文化の破壊的行為だ、正直犯罪といっていい! でも躊躇はしない (Season2#4)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1381088389160525827" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovel @ComicsTitan Doctor Who Thirteenth Docto…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">ああ、なんて美しいんだろう! いやあ素晴らしい、ほら見てみろ! 宇宙時代のからくり人形、ぞくぞくする! すごい! 感動もの! 感激で2つある心臓が共鳴を起こしている! こんな芸術品を分解するなんて文化の破壊的行為だ、正直犯罪といっていい! でも躊躇はしない (Season2#4)</div>
     </content>
-    <updated>2021-04-11T02:30:47Z</updated>
+    <updated>2021-04-11T03:35:06Z</updated>
   </entry>
   <entry>
-    <title>RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovel @ComicsTitan Doctor Who The Thirteenth D…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1381071794753347585" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovel @ComicsTitan Doctor Who The Thirteenth D…</div>
-    </content>
-    <updated>2021-04-11T02:29:09Z</updated>
+    <title>South Korea's dangerous ghost doctors are putting plastic surgery patients' lives at risk - CNN </title>
+    <link rel="alternate" href="https://www.cnn.com/2021/04/10/asia/south-korea-ghost-doctors-plastic-surgery-intl-hnk-dst/index.html" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cnn.com/2021/04/10/asia/south-korea-ghost-doctors-plastic-surgery-intl-hnk-dst/index.html" target="_blank"&gt;South Korea's dangerous ghost doctors are putting plastic surgery patients' lives at risk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CNN &lt;/font&gt;</content>
+    <id>CAIiEEQ77Trhh2dNbbzhLpFj1YAqMwgEKioIACIQpzoRSNLEm6QR--MasMLSAioUCAoiEKc6EUjSxJukEfvjGrDC0gIw1anKBg</id>
+    <published>2021-04-11T03:26:00Z</published>
+    <updated>2021-04-11T03:26:00Z</updated>
   </entry>
   <entry>
-    <title>RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovel @ComicsTitan Doctor Who The Thirteenth D…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1381069523265093632" type="text/html"/>
+    <title>If you need to spend a lot of waiting around time eg commuting or you’re sitting out lockdown and you’re a… https://t.co/0awnPeZ6bG</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1381081336459325440" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovel @ComicsTitan Doctor Who The Thirteenth D…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">If you need to spend a lot of waiting around time eg commuting or you’re sitting out lockdown and you’re a… https://t.co/0awnPeZ6bG</div>
     </content>
-    <updated>2021-04-11T02:20:08Z</updated>
+    <updated>2021-04-11T03:07:04Z</updated>
   </entry>
   <entry>
-    <title>RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovels @Marvel Avengers V4 War Of The Realms @…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1381069309519142913" type="text/html"/>
+    <title>RT @Mrunknownfc1: On This Day In 1971
+Colony In Space #DoctorWho #DrWho https://t.co/FclwAtoBvr</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1381078996130091013" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @tntmtheshow: PLEASE retweet listen https://t.co/AEOvCPq8nU @Pabl007Gunner review #graphicnovels @Marvel Avengers V4 War Of The Realms @…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1971
+Colony In Space #DoctorWho #DrWho https://t.co/FclwAtoBvr</div>
     </content>
-    <updated>2021-04-11T02:19:17Z</updated>
+    <updated>2021-04-11T02:57:46Z</updated>
+  </entry>
+  <entry>
+    <title>RT @MackenzieFlohr: Did you miss my latest appearance on @TheTravelTARDIS
+ and @WizardWorld? Watch now, and don't forget to subscribe to th…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1381078838831153157" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @MackenzieFlohr: Did you miss my latest appearance on @TheTravelTARDIS
+ and @WizardWorld? Watch now, and don't forget to subscribe to th…</div>
+    </content>
+    <updated>2021-04-11T02:57:09Z</updated>
   </entry>
   <entry>
     <title>Former Houston doctor Joseph Lashley overcame COVID-19 then walked the Grand Canyon - KTRK-TV</title>
@@ -59,20 +99,12 @@
     <updated>2021-04-11T01:56:22Z</updated>
   </entry>
   <entry>
-    <title>South Korea's dangerous ghost doctors are putting plastic surgery patients' lives at risk - erienewsnow.com</title>
-    <link rel="alternate" href="https://www.erienewsnow.com/story/43641799/south-koreas-dangerous-ghost-doctors-are-putting-plastic-surgery-patients-lives-at-risk" type="text/html"/>
-    <content type="html">&lt;a href="https://www.erienewsnow.com/story/43641799/south-koreas-dangerous-ghost-doctors-are-putting-plastic-surgery-patients-lives-at-risk" target="_blank"&gt;South Korea's dangerous ghost doctors are putting plastic surgery patients' lives at risk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;erienewsnow.com&lt;/font&gt;</content>
-    <id>CBMiggFodHRwczovL3d3dy5lcmllbmV3c25vdy5jb20vc3RvcnkvNDM2NDE3OTkvc291dGgta29yZWFzLWRhbmdlcm91cy1naG9zdC1kb2N0b3JzLWFyZS1wdXR0aW5nLXBsYXN0aWMtc3VyZ2VyeS1wYXRpZW50cy1saXZlcy1hdC1yaXNr0gEA</id>
-    <published>2021-04-11T00:26:00Z</published>
-    <updated>2021-04-11T00:26:00Z</updated>
-  </entry>
-  <entry>
-    <title>Constable: Downers Grove doctor hits all the notes, from opera to burping - Daily Herald</title>
-    <link rel="alternate" href="https://www.dailyherald.com/news/20210410/constable-downers-grove-doctor-hits-all-the-notes-from-opera-to-burping" type="text/html"/>
-    <content type="html">&lt;a href="https://www.dailyherald.com/news/20210410/constable-downers-grove-doctor-hits-all-the-notes-from-opera-to-burping" target="_blank"&gt;Constable: Downers Grove doctor hits all the notes, from opera to burping&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Herald&lt;/font&gt;</content>
-    <id>CAIiEICvFqm4pKgRhnQvm25t9XMqGQgEKhAIACoHCAow5cCYCzD7yrADMOKJhAc</id>
-    <published>2021-04-10T22:18:44Z</published>
-    <updated>2021-04-10T22:18:44Z</updated>
+    <title>Dr Nanjunda Rao — Vivekananda disciple who won over Mylapore as a physician - DTNext</title>
+    <link rel="alternate" href="https://www.dtnext.in/News/City/2021/04/11013235/1286798/Dr-Nanjunda-Rao--Vivekananda-disciple-who-won-over-.vpf" type="text/html"/>
+    <content type="html">&lt;a href="https://www.dtnext.in/News/City/2021/04/11013235/1286798/Dr-Nanjunda-Rao--Vivekananda-disciple-who-won-over-.vpf" target="_blank"&gt;Dr Nanjunda Rao — Vivekananda disciple who won over Mylapore as a physician&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;DTNext&lt;/font&gt;</content>
+    <id>CBMicGh0dHBzOi8vd3d3LmR0bmV4dC5pbi9OZXdzL0NpdHkvMjAyMS8wNC8xMTAxMzIzNS8xMjg2Nzk4L0RyLU5hbmp1bmRhLVJhby0tVml2ZWthbmFuZGEtZGlzY2lwbGUtd2hvLXdvbi1vdmVyLS52cGbSAQA</id>
+    <published>2021-04-10T20:49:22Z</published>
+    <updated>2021-04-10T20:49:22Z</updated>
   </entry>
   <entry>
     <title>Doctor Who The Lonely Assassins Thrills on Mobile - Gameindustry.com - GameIndustry.com</title>
@@ -256,35 +288,6 @@
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="legominifigures" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="lego" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="adventurerjoe" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>It IS bigger on the inside! (075/365)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kipper75/51043855901/"/>
-    <id>tag:flickr.com,2005:/photo/51043855901</id>
-    <published>2021-03-16T18:42:03Z</published>
-    <updated>2021-03-16T18:42:03Z</updated>
-    <flickr:date_taken>2021-03-16T13:56:15-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-03-16T13:56:15-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kipper75/"&gt;robjvale&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kipper75/51043855901/" title="It IS bigger on the inside! (075/365)"&gt;&lt;img src="https://live.staticflickr.com/65535/51043855901_90e0aaf2bb_m.jpg" width="214" height="240" alt="It IS bigger on the inside! (075/365)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Couldn’t wait to open the door to find out!&lt;/p&gt;</content>
-    <author>
-      <name>robjvale</name>
-      <uri>https://www.flickr.com/people/kipper75/</uri>
-      <flickr:nsid>91819136@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4860/buddyicons/91819136@N08.jpg?1543612591#91819136@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51043855901_90e0aaf2bb_b.jpg"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="legominifigures" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lego" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="project365" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="adventurerjoe" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
