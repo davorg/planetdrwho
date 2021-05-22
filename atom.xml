@@ -7,55 +7,305 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-22T19:05:25Z</updated>
+  <updated>2021-05-22T19:55:21Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6797.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51196956130/"/>
+    <id>tag:flickr.com,2005:/photo/51196956130</id>
+    <published>2021-05-22T19:47:58Z</published>
+    <updated>2021-05-22T19:47:58Z</updated>
+    <flickr:date_taken>2017-08-05T12:10:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:10:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51196956130/" title="Dr Who Experience 2017 - 6797.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51196956130_94a4712696_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6797.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51196956130_94a4712696_b.jpg"/>
+    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sixthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="classicseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="roundels" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="seventhdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1980sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardiscolumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timerotor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="originaldesignbypeterbrachaki" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6809.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51195889331/"/>
+    <id>tag:flickr.com,2005:/photo/51195889331</id>
+    <published>2021-05-22T19:46:52Z</published>
+    <updated>2021-05-22T19:46:52Z</updated>
+    <flickr:date_taken>2017-08-05T12:12:30-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:12:30-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51195889331/" title="Dr Who Experience 2017 - 6809.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51195889331_4e5fa48ff8_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6809.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51195889331_4e5fa48ff8_b.jpg"/>
+    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sixthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="classicseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="roundels" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="seventhdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1980sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="originaldesignbypeterbrachaki" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6805.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51196954375/"/>
+    <id>tag:flickr.com,2005:/photo/51196954375</id>
+    <published>2021-05-22T19:46:49Z</published>
+    <updated>2021-05-22T19:46:49Z</updated>
+    <flickr:date_taken>2017-08-05T12:11:53-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:11:53-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51196954375/" title="Dr Who Experience 2017 - 6805.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51196954375_a8a8cd2106_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6805.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51196954375_a8a8cd2106_b.jpg"/>
+    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sixthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="classicseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="roundels" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="seventhdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1980sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardiscolumn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timerotor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="originaldesignbypeterbrachaki" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>RT @orfeusunliri: Hekimoğlu derler onun adına, 
-Kurban olsunlar boyuna posuna,
-Yunan heykeli sanki saçı, sakalı, gözleri...
-Kim onun hastas…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1396180062525956102" type="text/html"/>
+    <title>RT @Mrunknownfc1: On This Day In 2010
+The Hungry Earth #DoctorWho #DrWho https://t.co/6zlhv8dguC</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1396189923531702275" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @orfeusunliri: Hekimoğlu derler onun adına, 
-Kurban olsunlar boyuna posuna,
-Yunan heykeli sanki saçı, sakalı, gözleri...
-Kim onun hastas…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 2010
+The Hungry Earth #DoctorWho #DrWho https://t.co/6zlhv8dguC</div>
     </content>
-    <updated>2021-05-22T19:04:01Z</updated>
+    <updated>2021-05-22T19:43:12Z</updated>
   </entry>
   <entry>
-    <title>RT @hesap_yoktur: #HekimoğluExxene daha görmemiz gereken çok sezon var bizi alın</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1396180026849177611" type="text/html"/>
+    <title>The Master ? Portugal #DrWho  #Eurovision</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1396188792592158729" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @hesap_yoktur: #HekimoğluExxene daha görmemiz gereken çok sezon var bizi alın</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">The Master ? Portugal #DrWho  #Eurovision</div>
     </content>
-    <updated>2021-05-22T19:03:52Z</updated>
+    <updated>2021-05-22T19:38:42Z</updated>
   </entry>
   <entry>
-    <title>RT @Sushantsinghq: Abi kurduğun platforma Hekimoğlu gibi bi diziyi alınca neler olur bi düşün #HekimoğluExxene</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1396180017676177409" type="text/html"/>
+    <title>@QueerTestimony I’m not really doing the DrWho debate anymore but I guess what I was trying to say is that 95% of w… https://t.co/YcixvMPoCB</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1396188429331963908" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Sushantsinghq: Abi kurduğun platforma Hekimoğlu gibi bi diziyi alınca neler olur bi düşün #HekimoğluExxene</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@QueerTestimony I’m not really doing the DrWho debate anymore but I guess what I was trying to say is that 95% of w… https://t.co/YcixvMPoCB</div>
     </content>
-    <updated>2021-05-22T19:03:50Z</updated>
+    <updated>2021-05-22T19:37:16Z</updated>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6795.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51195160362/"/>
+    <id>tag:flickr.com,2005:/photo/51195160362</id>
+    <published>2021-05-22T19:35:20Z</published>
+    <updated>2021-05-22T19:35:20Z</updated>
+    <flickr:date_taken>2017-08-05T12:09:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:09:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51195160362/" title="Dr Who Experience 2017 - 6795.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51195160362_3ec742438b_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6795.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51195160362_3ec742438b_b.jpg"/>
+    <category term="createdbybobbakeranddavemartin" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timeandrelativedimensionsinspace" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="voiceofjohnleeson" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="iconicdesign" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tombaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lasernose" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="robotdog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1980sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="k9" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="earradar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="steampunk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mobilecomputer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="designedbytonyharding" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="companion" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fourthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6794.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51196936135/"/>
+    <id>tag:flickr.com,2005:/photo/51196936135</id>
+    <published>2021-05-22T19:35:17Z</published>
+    <updated>2021-05-22T19:35:17Z</updated>
+    <flickr:date_taken>2017-08-05T12:09:51-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:09:51-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51196936135/" title="Dr Who Experience 2017 - 6794.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51196936135_c8db570a46_m.jpg" width="240" height="160" alt="Dr Who Experience 2017 - 6794.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51196936135_c8db570a46_b.jpg"/>
+    <category term="createdbybobbakeranddavemartin" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timeandrelativedimensionsinspace" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="voiceofjohnleeson" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="iconicdesign" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lasernose" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tombaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="robotdog" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1980sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="k9" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="earradar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="steampunk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mobilecomputer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="designedbytonyharding" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="companion" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fourthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>RT @ThePrydonian: Hunters. 
+
+#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/iQvL6TtPF9</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1396187714505035779" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @ThePrydonian: Hunters. 
+
+#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/iQvL6TtPF9</div>
+    </content>
+    <updated>2021-05-22T19:34:25Z</updated>
   </entry>
   <entry>
-    <title>RT @timucinesen01: Exxen bizi neden almalı tahtaya yazıyorum ...
-#HekimoğluExxene https://t.co/Vg9Uue6H6S</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1396179995303845892" type="text/html"/>
+    <title>Crazy Caption this! #drwho #doctorwho https://t.co/MhEr30e1rE</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1396187157547601925" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @timucinesen01: Exxen bizi neden almalı tahtaya yazıyorum ...
-#HekimoğluExxene https://t.co/Vg9Uue6H6S</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Crazy Caption this! #drwho #doctorwho https://t.co/MhEr30e1rE</div>
     </content>
-    <updated>2021-05-22T19:03:45Z</updated>
+    <updated>2021-05-22T19:32:12Z</updated>
   </entry>
   <entry>
-    <title>RT @Asl76990879: Bu ikiliyide unutmayalım 🥺😍
-#HekimoğluExxene https://t.co/wjdmUY4TE8</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1396179965075410944" type="text/html"/>
-    <content>UlQgQEFzbDc2OTkwODc5OiBCdSBpa2lsaXlpZGUgdW51dG1heWFsxLFtIPCfpbrwn5iNCiNIZWtpbW/En2x1RXh4ZW5lIGh0dHBzOi8vdC5jby93amRtVVk0VEU4</content>
-    <updated>2021-05-22T19:03:38Z</updated>
+    <title>10 Doctor Who Characters Who Almost Had Different Endings - WhatCulture</title>
+    <link rel="alternate" href="https://whatculture.com/tv/10-doctor-who-characters-who-almost-had-different-endings" type="text/html"/>
+    <content type="html">&lt;a href="https://whatculture.com/tv/10-doctor-who-characters-who-almost-had-different-endings" target="_blank"&gt;10 Doctor Who Characters Who Almost Had Different Endings&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WhatCulture&lt;/font&gt;</content>
+    <id>CBMiVGh0dHBzOi8vd2hhdGN1bHR1cmUuY29tL3R2LzEwLWRvY3Rvci13aG8tY2hhcmFjdGVycy13aG8tYWxtb3N0LWhhZC1kaWZmZXJlbnQtZW5kaW5nc9IBWGh0dHBzOi8vd2hhdGN1bHR1cmUuY29tL2FtcC90di8xMC1kb2N0b3Itd2hvLWNoYXJhY3RlcnMtd2hvLWFsbW9zdC1oYWQtZGlmZmVyZW50LWVuZGluZ3M</id>
+    <published>2021-05-22T19:11:32Z</published>
+    <updated>2021-05-22T19:11:32Z</updated>
   </entry>
   <entry>
     <title>Who is John Bishop playing in Doctor Who? - Metro.co.uk</title>
@@ -81,216 +331,6 @@ Kim onun hastas…</div>
     <published>2021-05-22T09:11:54Z</published>
     <updated>2021-05-22T09:11:54Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Awakening | Doctor Who locations | Martin-37</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/paulodykes/51195048754/"/>
-    <id>tag:flickr.com,2005:/photo/51195048754</id>
-    <published>2021-05-22T08:24:50Z</published>
-    <updated>2021-05-22T08:24:50Z</updated>
-    <flickr:date_taken>2021-05-19T14:45:44-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-19T14:45:44-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/paulodykes/"&gt;Paul Dykes&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/paulodykes/51195048754/" title="The Awakening | Doctor Who locations | Martin-37"&gt;&lt;img src="https://live.staticflickr.com/65535/51195048754_8c476ba1d4_m.jpg" width="240" height="160" alt="The Awakening | Doctor Who locations | Martin-37" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The village of Martin in Hampshire, one of three villages used as locations for Little Hodcombe, the fictional setting for the 1984 &lt;em&gt;Doctor Who&lt;/em&gt; story 'The Awakening', starring Peter Davison as the Doctor.&lt;br /&gt;
-&lt;br /&gt;
-Filming took place in the village on 21 July 1983.&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="http://www.flickr.com/photos/paulodykes/collections/72157626383471561/"&gt;view my Doctor Who collection&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="https://www.flickr.com/photos/paulodykes/collections/72157679339399610/"&gt;view my Doctor Who locations collection&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name>Paul Dykes</name>
-      <uri>https://www.flickr.com/people/paulodykes/</uri>
-      <flickr:nsid>11725219@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3955/buddyicons/11725219@N05.jpg?1414322767#11725219@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51195048754_8c476ba1d4_b.jpg"/>
-    <category term="martin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hampshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="peterdavison" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="5thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theawakening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="season21" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Awakening | Doctor Who locations | Martin-35</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/paulodykes/51193576207/"/>
-    <id>tag:flickr.com,2005:/photo/51193576207</id>
-    <published>2021-05-22T08:24:49Z</published>
-    <updated>2021-05-22T08:24:49Z</updated>
-    <flickr:date_taken>2021-05-19T14:44:36-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-19T14:44:36-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/paulodykes/"&gt;Paul Dykes&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/paulodykes/51193576207/" title="The Awakening | Doctor Who locations | Martin-35"&gt;&lt;img src="https://live.staticflickr.com/65535/51193576207_fe29619728_m.jpg" width="240" height="160" alt="The Awakening | Doctor Who locations | Martin-35" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The village of Martin in Hampshire, one of three villages used as locations for Little Hodcombe, the fictional setting for the 1984 &lt;em&gt;Doctor Who&lt;/em&gt; story 'The Awakening', starring Peter Davison as the Doctor.&lt;br /&gt;
-&lt;br /&gt;
-Filming took place in the village on 21 July 1983.&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="http://www.flickr.com/photos/paulodykes/collections/72157626383471561/"&gt;view my Doctor Who collection&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="https://www.flickr.com/photos/paulodykes/collections/72157679339399610/"&gt;view my Doctor Who locations collection&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name>Paul Dykes</name>
-      <uri>https://www.flickr.com/people/paulodykes/</uri>
-      <flickr:nsid>11725219@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3955/buddyicons/11725219@N05.jpg?1414322767#11725219@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51193576207_fe29619728_b.jpg"/>
-    <category term="martin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hampshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="peterdavison" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="5thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theawakening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="season21" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Awakening | Doctor Who locations | Martin-27</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/paulodykes/51195081654/"/>
-    <id>tag:flickr.com,2005:/photo/51195081654</id>
-    <published>2021-05-22T08:24:45Z</published>
-    <updated>2021-05-22T08:24:45Z</updated>
-    <flickr:date_taken>2021-05-19T14:40:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-19T14:40:35-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/paulodykes/"&gt;Paul Dykes&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/paulodykes/51195081654/" title="The Awakening | Doctor Who locations | Martin-27"&gt;&lt;img src="https://live.staticflickr.com/65535/51195081654_9e758af3fb_m.jpg" width="240" height="160" alt="The Awakening | Doctor Who locations | Martin-27" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The village of Martin in Hampshire, one of three villages used as locations for Little Hodcombe, the fictional setting for the 1984 &lt;em&gt;Doctor Who&lt;/em&gt; story 'The Awakening', starring Peter Davison as the Doctor.&lt;br /&gt;
-&lt;br /&gt;
-Filming took place in the village on 21 July 1983.&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="http://www.flickr.com/photos/paulodykes/collections/72157626383471561/"&gt;view my Doctor Who collection&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="https://www.flickr.com/photos/paulodykes/collections/72157679339399610/"&gt;view my Doctor Who locations collection&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name>Paul Dykes</name>
-      <uri>https://www.flickr.com/people/paulodykes/</uri>
-      <flickr:nsid>11725219@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3955/buddyicons/11725219@N05.jpg?1414322767#11725219@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51195081654_9e758af3fb_b.jpg"/>
-    <category term="martin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hampshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="peterdavison" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="5thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theawakening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="season21" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Awakening | Doctor Who locations | Martin-28</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/paulodykes/51195368160/"/>
-    <id>tag:flickr.com,2005:/photo/51195368160</id>
-    <published>2021-05-22T08:24:45Z</published>
-    <updated>2021-05-22T08:24:45Z</updated>
-    <flickr:date_taken>2021-05-19T14:41:24-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-19T14:41:24-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/paulodykes/"&gt;Paul Dykes&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/paulodykes/51195368160/" title="The Awakening | Doctor Who locations | Martin-28"&gt;&lt;img src="https://live.staticflickr.com/65535/51195368160_078e22e0d7_m.jpg" width="240" height="160" alt="The Awakening | Doctor Who locations | Martin-28" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The village of Martin in Hampshire, one of three villages used as locations for Little Hodcombe, the fictional setting for the 1984 &lt;em&gt;Doctor Who&lt;/em&gt; story 'The Awakening', starring Peter Davison as the Doctor.&lt;br /&gt;
-&lt;br /&gt;
-Filming took place in the village on 21 July 1983.&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="http://www.flickr.com/photos/paulodykes/collections/72157626383471561/"&gt;view my Doctor Who collection&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="https://www.flickr.com/photos/paulodykes/collections/72157679339399610/"&gt;view my Doctor Who locations collection&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name>Paul Dykes</name>
-      <uri>https://www.flickr.com/people/paulodykes/</uri>
-      <flickr:nsid>11725219@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3955/buddyicons/11725219@N05.jpg?1414322767#11725219@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51195368160_078e22e0d7_b.jpg"/>
-    <category term="martin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hampshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="peterdavison" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="5thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theawakening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="season21" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Awakening | Doctor Who locations | Martin-26</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/paulodykes/51195374780/"/>
-    <id>tag:flickr.com,2005:/photo/51195374780</id>
-    <published>2021-05-22T08:24:44Z</published>
-    <updated>2021-05-22T08:24:44Z</updated>
-    <flickr:date_taken>2021-05-19T14:40:28-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-05-19T14:40:28-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/paulodykes/"&gt;Paul Dykes&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/paulodykes/51195374780/" title="The Awakening | Doctor Who locations | Martin-26"&gt;&lt;img src="https://live.staticflickr.com/65535/51195374780_7198676a55_m.jpg" width="240" height="160" alt="The Awakening | Doctor Who locations | Martin-26" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The village of Martin in Hampshire, one of three villages used as locations for Little Hodcombe, the fictional setting for the 1984 &lt;em&gt;Doctor Who&lt;/em&gt; story 'The Awakening', starring Peter Davison as the Doctor.&lt;br /&gt;
-&lt;br /&gt;
-Filming took place in the village on 21 July 1983.&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="http://www.flickr.com/photos/paulodykes/collections/72157626383471561/"&gt;view my Doctor Who collection&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-Click here to &lt;a href="https://www.flickr.com/photos/paulodykes/collections/72157679339399610/"&gt;view my Doctor Who locations collection&lt;/a&gt;&lt;/p&gt;</content>
-    <author>
-      <name>Paul Dykes</name>
-      <uri>https://www.flickr.com/people/paulodykes/</uri>
-      <flickr:nsid>11725219@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3955/buddyicons/11725219@N05.jpg?1414322767#11725219@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51195374780_7198676a55_b.jpg"/>
-    <category term="martin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hampshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="peterdavison" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fifthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="5thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theawakening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="season21" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="england" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Christopher Eccleston's Ninth Doctor Has Always Been Doctor Who's Secret Weapon - Den of Geek</title>
     <link rel="alternate" href="https://www.denofgeek.com/tv/christopher-ecclestons-ninth-doctor-has-always-been-doctor-whos-secret-weapon/" type="text/html"/>
@@ -298,14 +338,6 @@ Click here to &lt;a href="https://www.flickr.com/photos/paulodykes/collections/7
     <id>CAIiEF6YucBQpMkORpsE4Ik7Mf0qGQgEKhAIACoHCAow9suVCzDnsKsDMMCmzAY</id>
     <published>2021-05-22T07:15:00Z</published>
     <updated>2021-05-22T07:15:00Z</updated>
-  </entry>
-  <entry>
-    <title>A Doctor Who Dies Fighting on the COVID Frontline is a Martyr, Not Just Another - News18</title>
-    <link rel="alternate" href="https://www.news18.com/news/opinion/a-doctor-who-dies-fighting-on-the-covid-frontline-is-a-martyr-not-a-statistic-3764546.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.news18.com/news/opinion/a-doctor-who-dies-fighting-on-the-covid-frontline-is-a-martyr-not-a-statistic-3764546.html" target="_blank"&gt;A Doctor Who Dies Fighting on the COVID Frontline is a Martyr, Not Just Another&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News18&lt;/font&gt;</content>
-    <id>CBMifmh0dHBzOi8vd3d3Lm5ld3MxOC5jb20vbmV3cy9vcGluaW9uL2EtZG9jdG9yLXdoby1kaWVzLWZpZ2h0aW5nLW9uLXRoZS1jb3ZpZC1mcm9udGxpbmUtaXMtYS1tYXJ0eXItbm90LWEtc3RhdGlzdGljLTM3NjQ1NDYuaHRtbNIBggFodHRwczovL3d3dy5uZXdzMTguY29tL2FtcC9uZXdzL29waW5pb24vYS1kb2N0b3Itd2hvLWRpZXMtZmlnaHRpbmctb24tdGhlLWNvdmlkLWZyb250bGluZS1pcy1hLW1hcnR5ci1ub3QtYS1zdGF0aXN0aWMtMzc2NDU0Ni5odG1s</id>
-    <published>2021-05-22T06:33:00Z</published>
-    <updated>2021-05-22T06:33:00Z</updated>
   </entry>
   <entry>
     <title>Fandom News Roundup 5/15 - 5/21 - Fandom Spotlite</title>
