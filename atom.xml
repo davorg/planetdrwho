@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-05-27T03:32:33Z</updated>
+  <updated>2021-05-27T04:16:18Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
   <entry>
@@ -124,6 +124,10 @@ Human Nature #DoctorWho #DrWho https://t.co/b3eVXgdYIE</div>
     <category term="immersive" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="theatre" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
