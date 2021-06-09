@@ -7,48 +7,135 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-09T20:54:59Z</updated>
+  <updated>2021-06-09T21:56:06Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Who spies on Dylan and DT in an attempt to find out what they are up to!</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/193191473@N02/51236001142/"/>
+    <id>tag:flickr.com,2005:/photo/51236001142</id>
+    <published>2021-06-09T21:26:03Z</published>
+    <updated>2021-06-09T21:26:03Z</updated>
+    <flickr:date_taken>2021-06-09T14:26:03-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-09T14:26:03-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/193191473@N02/"&gt;xeowrxqf78&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/193191473@N02/51236001142/" title="Who spies on Dylan and DT in an attempt to find out what they are up to!"&gt;&lt;img src="https://live.staticflickr.com/65535/51236001142_3d7a8f9ccd_m.jpg" width="240" height="240" alt="Who spies on Dylan and DT in an attempt to find out what they are up to!" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>xeowrxqf78</name>
+      <uri>https://www.flickr.com/people/193191473@N02/</uri>
+      <flickr:nsid>193191473@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/193191473@N02.jpg?1623224435#193191473@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51236001142_3d7a8f9ccd_b.jpg"/>
+    <category term="mystery" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="actionman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dylan" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Who spies on Dylan and DT in an attempt to find out what they are up to!</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/193191473@N02/51237485844/"/>
+    <id>tag:flickr.com,2005:/photo/51237485844</id>
+    <published>2021-06-09T21:26:03Z</published>
+    <updated>2021-06-09T21:26:03Z</updated>
+    <flickr:date_taken>2021-06-09T14:26:03-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-09T14:26:03-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/193191473@N02/"&gt;xeowrxqf78&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/193191473@N02/51237485844/" title="Who spies on Dylan and DT in an attempt to find out what they are up to!"&gt;&lt;img src="https://live.staticflickr.com/65535/51237485844_d35e122393_m.jpg" width="240" height="240" alt="Who spies on Dylan and DT in an attempt to find out what they are up to!" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>xeowrxqf78</name>
+      <uri>https://www.flickr.com/people/193191473@N02/</uri>
+      <flickr:nsid>193191473@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/193191473@N02.jpg?1623224435#193191473@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51237485844_d35e122393_b.jpg"/>
+    <category term="mystery" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="actionman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dylan" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Who spies on Dylan and DT in an attempt to find out what they are up to!</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/193191473@N02/51236710696/"/>
+    <id>tag:flickr.com,2005:/photo/51236710696</id>
+    <published>2021-06-09T21:26:03Z</published>
+    <updated>2021-06-09T21:26:03Z</updated>
+    <flickr:date_taken>2021-06-09T14:26:03-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-09T14:26:03-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/193191473@N02/"&gt;xeowrxqf78&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/193191473@N02/51236710696/" title="Who spies on Dylan and DT in an attempt to find out what they are up to!"&gt;&lt;img src="https://live.staticflickr.com/65535/51236710696_875f0e4f03_m.jpg" width="240" height="240" alt="Who spies on Dylan and DT in an attempt to find out what they are up to!" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>xeowrxqf78</name>
+      <uri>https://www.flickr.com/people/193191473@N02/</uri>
+      <flickr:nsid>193191473@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/193191473@N02.jpg?1623224435#193191473@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51236710696_875f0e4f03_b.jpg"/>
+    <category term="mystery" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="actionman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dt" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dylan" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>#Loki has echoes of #DrWho (before Chibnall ruined it, obviously)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1402727939385532419" type="text/html"/>
+    <title>RT @sotuyo: The greatest episode of #DrWho is 14 years old. https://t.co/cM5srmqaVl</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1402737828828643329" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">#Loki has echoes of #DrWho (before Chibnall ruined it, obviously)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @sotuyo: The greatest episode of #DrWho is 14 years old. https://t.co/cM5srmqaVl</div>
     </content>
-    <updated>2021-06-09T20:42:56Z</updated>
+    <updated>2021-06-09T21:22:14Z</updated>
   </entry>
   <entry>
-    <title>RT @jmcdonald_1998: #DoctorWho #DrWho #DoctorWhoArt #Daleks https://t.co/7e9U5hGCGJ</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1402725491207987204" type="text/html"/>
+    <title>RT @sotuyo: The greatest episode of #DrWho is 14 years old. https://t.co/cM5srmqaVl</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1402737658191822854" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @jmcdonald_1998: #DoctorWho #DrWho #DoctorWhoArt #Daleks https://t.co/7e9U5hGCGJ</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @sotuyo: The greatest episode of #DrWho is 14 years old. https://t.co/cM5srmqaVl</div>
     </content>
-    <updated>2021-06-09T20:33:13Z</updated>
+    <updated>2021-06-09T21:21:33Z</updated>
   </entry>
   <entry>
-    <title>RT @JoinNerdParty: A new Time &amp;amp; Space travels to the quarantine-focused special "Staged," starring David Tennant and Michael Sheen. We also…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1402724740859580421" type="text/html"/>
+    <title>RT @JohnAlanWilkin: #Loki has echoes of #DrWho (before Chibnall ruined it, obviously)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1402737645067948032" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @JoinNerdParty: A new Time &amp; Space travels to the quarantine-focused special "Staged," starring David Tennant and Michael Sheen. We also…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @JohnAlanWilkin: #Loki has echoes of #DrWho (before Chibnall ruined it, obviously)</div>
     </content>
-    <updated>2021-06-09T20:30:14Z</updated>
+    <updated>2021-06-09T21:21:30Z</updated>
   </entry>
   <entry>
-    <title>RT @skoopnl: De verjaardag van Blink moet gevierd worden #blink #dontblink #drwho https://t.co/zTfpH2X3kC</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1402722658366656515" type="text/html"/>
+    <title>RT @GoddessTales: Don’t Blink 14 years ago today #DrWho #thedoctor #DoctorWho https://t.co/hQXg0zihsx</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1402735722516385792" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @skoopnl: De verjaardag van Blink moet gevierd worden #blink #dontblink #drwho https://t.co/zTfpH2X3kC</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @GoddessTales: Don’t Blink 14 years ago today #DrWho #thedoctor #DoctorWho https://t.co/hQXg0zihsx</div>
     </content>
-    <updated>2021-06-09T20:21:57Z</updated>
+    <updated>2021-06-09T21:13:52Z</updated>
   </entry>
   <entry>
-    <title>RT @WhippetRun: When #DrWho watches the Time-Keepers saying they are keepers of the sacred time line without mentioning a literal Time-Lord…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1402722632513032193" type="text/html"/>
+    <title>The greatest episode of #DrWho is 14 years old. https://t.co/cM5srmqaVl</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1402735671194890246" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @WhippetRun: When #DrWho watches the Time-Keepers saying they are keepers of the sacred time line without mentioning a literal Time-Lord…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">The greatest episode of #DrWho is 14 years old. https://t.co/cM5srmqaVl</div>
     </content>
-    <updated>2021-06-09T20:21:51Z</updated>
+    <updated>2021-06-09T21:13:40Z</updated>
   </entry>
   <entry>
     <title>10 Doctor Who Moments Your Missing From Expanded Media - WhatCulture</title>
@@ -234,159 +321,6 @@
     <category term="tenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="ninthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="consoleroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6836.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51211180875/"/>
-    <id>tag:flickr.com,2005:/photo/51211180875</id>
-    <published>2021-05-29T09:14:48Z</published>
-    <updated>2021-05-29T09:14:48Z</updated>
-    <flickr:date_taken>2017-08-05T12:20:44-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:20:44-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51211180875/" title="Dr Who Experience 2017 - 6836.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51211180875_00232e83c6_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6836.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51211180875_00232e83c6_b.jpg"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2000sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvsetdesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="iconicdesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="roundels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coraltheme" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardisinterior" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flightdeck" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardiscontrolroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="consoleroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ninthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6834.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51210319368/"/>
-    <id>tag:flickr.com,2005:/photo/51210319368</id>
-    <published>2021-05-29T09:14:44Z</published>
-    <updated>2021-05-29T09:14:44Z</updated>
-    <flickr:date_taken>2017-08-05T12:20:03-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:20:03-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51210319368/" title="Dr Who Experience 2017 - 6834.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51210319368_a1e491d7d5_m.jpg" width="240" height="160" alt="Dr Who Experience 2017 - 6834.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51210319368_a1e491d7d5_b.jpg"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2000sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvsetdesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="iconicdesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="roundels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coraltheme" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardisinterior" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flightdeck" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardiscontrolroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="consoleroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ninthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6832.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51211180535/"/>
-    <id>tag:flickr.com,2005:/photo/51211180535</id>
-    <published>2021-05-29T09:14:32Z</published>
-    <updated>2021-05-29T09:14:32Z</updated>
-    <flickr:date_taken>2017-08-05T12:19:32-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:19:32-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51211180535/" title="Dr Who Experience 2017 - 6832.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51211180535_c99e969866_m.jpg" width="240" height="160" alt="Dr Who Experience 2017 - 6832.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51211180535_c99e969866_b.jpg"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2000sdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvsetdesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="iconicdesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardiscolumn" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="roundels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardisconsole" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="coraltheme" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardisinterior" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flightdeck" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="timerotor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardiscontrolroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="consoleroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ninthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
