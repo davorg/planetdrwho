@@ -7,9 +7,29 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-06-13T03:01:34Z</updated>
+  <updated>2021-06-13T03:57:30Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>あなた誰よ!? (Series1 #1/ローズ)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1403911280956612608" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">あなた誰よ!? (Series1 #1/ローズ)</div>
+    </content>
+    <updated>2021-06-13T03:05:07Z</updated>
+  </entry>
+  <entry>
+    <title>RT @MackenzieFlohr: Looking for a #13thDoctor book to add to your #DoctorWho collection?
+
+Check out "The Binge Watcher's Guide to Doctor Wh…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1403910043523858436" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @MackenzieFlohr: Looking for a #13thDoctor book to add to your #DoctorWho collection?
+
+Check out "The Binge Watcher's Guide to Doctor Wh…</div>
+    </content>
+    <updated>2021-06-13T03:00:12Z</updated>
+  </entry>
   <entry>
     <title>RT @ThePrydonian: 1970s Dalek Emperor.
 
@@ -63,37 +83,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Davros - pencil drawing</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/eddycrosby/51242417532/"/>
-    <id>tag:flickr.com,2005:/photo/51242417532</id>
-    <published>2021-06-13T02:02:41Z</published>
-    <updated>2021-06-13T02:02:41Z</updated>
-    <flickr:date_taken>2021-06-13T12:01:22-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-06-13T12:01:22-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/eddycrosby/"&gt;eddycrosby&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/eddycrosby/51242417532/" title="Davros - pencil drawing"&gt;&lt;img src="https://live.staticflickr.com/65535/51242417532_023382e31d_m.jpg" width="180" height="240" alt="Davros - pencil drawing" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Davros (creator of the Daleks) from Dr Who.&lt;/p&gt;</content>
-    <author>
-      <name>eddycrosby</name>
-      <uri>https://www.flickr.com/people/eddycrosby/</uri>
-      <flickr:nsid>40403828@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/40403828@N03.jpg?1591945409#40403828@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51242417532_023382e31d_b.jpg"/>
-    <category term="davros" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fanart" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fantasy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>RT @ThePrydonian: 1970s Dalek Emperor.
 
@@ -105,26 +94,6 @@
 #DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/jLNBPrUmVl</div>
     </content>
     <updated>2021-06-13T01:27:26Z</updated>
-  </entry>
-  <entry>
-    <title>RT @WhovianLeap: On this day in 2010:
-"The Lodger"
-#doctorwho #drwho https://t.co/jbELtRFUHs</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1403884446688890882" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @WhovianLeap: On this day in 2010:
-"The Lodger"
-#doctorwho #drwho https://t.co/jbELtRFUHs</div>
-    </content>
-    <updated>2021-06-13T01:18:29Z</updated>
-  </entry>
-  <entry>
-    <title>@DrWho_Cares Long day in front of the tv haha</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1403881275644006400" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@DrWho_Cares Long day in front of the tv haha</div>
-    </content>
-    <updated>2021-06-13T01:05:53Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: Jack Harkness Story Canceled After John Barrowman Allegations Resurface - ComicBook.com</title>
@@ -236,6 +205,38 @@ Click here to &lt;a href="http://www.flickr.com/photos/paulodykes/collections/72
       <flickr:buddyicon>https://farm4.staticflickr.com/3955/buddyicons/11725219@N05.jpg?1414322767#11725219@N05</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51241778407_d3f36e2479_b.jpg"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dragonfire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="season24" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bluray" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bfi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bfisouthbank" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Justin Johnson and Ian Briggs | Dragonfire at the BFI | Doctor Who-8</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/paulodykes/51243544790/"/>
+    <id>tag:flickr.com,2005:/photo/51243544790</id>
+    <published>2021-06-12T19:32:12Z</published>
+    <updated>2021-06-12T19:32:12Z</updated>
+    <flickr:date_taken>2021-06-12T14:34:17-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-06-12T14:34:17-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/paulodykes/"&gt;Paul Dykes&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/paulodykes/51243544790/" title="Justin Johnson and Ian Briggs | Dragonfire at the BFI | Doctor Who-8"&gt;&lt;img src="https://live.staticflickr.com/65535/51243544790_8c7ac8e8ac_m.jpg" width="240" height="160" alt="Justin Johnson and Ian Briggs | Dragonfire at the BFI | Doctor Who-8" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Ian Briggs, writer of &lt;em&gt;Dragonfire&lt;/em&gt; being interviewed following a screening of the 1987 Doctor Who story &lt;em&gt;Dragonfire&lt;/em&gt; at BFI Southbank to mark the imminent release of a blu-ray box set of Season 24.&lt;br /&gt;
+&lt;br /&gt;
+Click here to &lt;a href="http://www.flickr.com/photos/paulodykes/collections/72157626383471561/"&gt;view my Doctor Who collection&lt;/a&gt;.&lt;/p&gt;</content>
+    <author>
+      <name>Paul Dykes</name>
+      <uri>https://www.flickr.com/people/paulodykes/</uri>
+      <flickr:nsid>11725219@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3955/buddyicons/11725219@N05.jpg?1414322767#11725219@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51243544790_8c7ac8e8ac_b.jpg"/>
     <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dragonfire" scheme="https://www.flickr.com/photos/tags/"/>
