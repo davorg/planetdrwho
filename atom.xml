@@ -7,9 +7,64 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-06T03:53:08Z</updated>
+  <updated>2021-07-06T04:56:05Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Falling into the Cityscape</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/katrinaspix/51293315383/"/>
+    <id>tag:flickr.com,2005:/photo/51293315383</id>
+    <published>2021-07-06T04:42:25Z</published>
+    <updated>2021-07-06T04:42:25Z</updated>
+    <flickr:date_taken>2017-08-21T07:51:41-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-21T07:51:41-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/katrinaspix/"&gt;Katrina Wright&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/katrinaspix/51293315383/" title="Falling into the Cityscape"&gt;&lt;img src="https://live.staticflickr.com/65535/51293315383_71accc93cf_m.jpg" width="240" height="160" alt="Falling into the Cityscape" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I thought I'd see what else I could do with the previous textured wall abstract. This makes me think of dreaming/falling from above into a city at twilight. Too early for Sliders Sunday?&lt;/p&gt;</content>
+    <author>
+      <name>Katrina Wright</name>
+      <uri>https://www.flickr.com/people/katrinaspix/</uri>
+      <flickr:nsid>47308200@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm3.staticflickr.com/2815/buddyicons/47308200@N02.jpg?1383027556#47308200@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51293315383_71accc93cf_b.jpg"/>
+    <category term="citadel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="halifax" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="novascotia" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dsc3632edit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="abstract" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wall" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bricks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pattern" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="line" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="texture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="weathered" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="goop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="swirl" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spin" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="space" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="infinity" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="city" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cityscape" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="metropolis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="falling" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="landing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spinning" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gravity" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>僕はずっと宇宙を見てきた。多くの偽りの神、邪神、ちっぽけな神、神様の卵、あらゆる神を見てきた。だがそれらの神々よりも、誰を信じるかと聞かれたら、一人しかいない。ローズを信じてる (Season2 #9)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1412268831331000320" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">僕はずっと宇宙を見てきた。多くの偽りの神、邪神、ちっぽけな神、神様の卵、あらゆる神を見てきた。だがそれらの神々よりも、誰を信じるかと聞かれたら、一人しかいない。ローズを信じてる (Season2 #9)</div>
+    </content>
+    <updated>2021-07-06T04:35:02Z</updated>
+  </entry>
   <entry>
     <title>何故あいつが、ドクターの通信を妨害したかわかる？それはドクターが正しいことを言ったからよ！ (Season2 #9 / ローズ)</title>
     <link rel="alternate" href="https://twitter.com/drwho/status/1412253729470902286" type="text/html"/>
@@ -61,14 +116,6 @@ Ends Fri 9th Jul @ 10:11am… https://t.co/hcYVHTg9Pc</title>
 Ends Fri 9th Jul @ 10:11am… https://t.co/hcYVHTg9Pc</div>
     </content>
     <updated>2021-07-06T03:15:22Z</updated>
-  </entry>
-  <entry>
-    <title>@MarkGottlieb Has his shooting evolved over the past 4 seasons for Ben? Easy answer is no...</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1412248222731411456" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@MarkGottlieb Has his shooting evolved over the past 4 seasons for Ben? Easy answer is no...</div>
-    </content>
-    <updated>2021-07-06T03:13:09Z</updated>
   </entry>
   <entry>
     <title>'Doctor Who' star Peter Capaldi is about to drop his debut album - Happy Mag</title>
@@ -374,66 +421,6 @@ Ends Fri 9th Jul @ 10:11am… https://t.co/hcYVHTg9Pc</div>
     <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6885.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51283160847/"/>
-    <id>tag:flickr.com,2005:/photo/51283160847</id>
-    <published>2021-07-01T22:57:51Z</published>
-    <updated>2021-07-01T22:57:51Z</updated>
-    <flickr:date_taken>2017-08-05T12:32:47-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:32:47-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51283160847/" title="Dr Who Experience 2017 - 6885.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51283160847_fa4694a014_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6885.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51283160847_fa4694a014_b.jpg"/>
-    <category term="delete" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mondas" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="steel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyborg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cybernetics" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="prosthesis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="paralleluniverse" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="johnlumic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="updateddesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbysandrareid" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesignsculptedbymartinrezard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbyalexandratynan" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesignbymillenniumfx" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbykitpedler" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbygerrydavis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="upgradedhuman" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
