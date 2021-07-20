@@ -7,26 +7,205 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-07-20T20:53:16Z</updated>
+  <updated>2021-07-20T21:53:06Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Jodie and the TARDIS</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/coastermadmatt/51325570545/"/>
+    <id>tag:flickr.com,2005:/photo/51325570545</id>
+    <published>2021-07-20T21:45:54Z</published>
+    <updated>2021-07-20T21:45:54Z</updated>
+    <flickr:date_taken>2021-07-04T10:43:21-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-07-04T10:43:21-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/coastermadmatt/"&gt;CoasterMadMatt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/coastermadmatt/51325570545/" title="Jodie and the TARDIS"&gt;&lt;img src="https://live.staticflickr.com/65535/51325570545_9f6214dc3a_m.jpg" width="160" height="240" alt="Jodie and the TARDIS" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>CoasterMadMatt</name>
+      <uri>https://www.flickr.com/people/coastermadmatt/</uri>
+      <flickr:nsid>15523409@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/15523409@N05.jpg?1616709593#15523409@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51325570545_9f6214dc3a_b.jpg"/>
+    <category term="madametussaudsblackpool2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussaudsblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussauds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madame" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tussauds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussaudswaxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxwork" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworksmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blackpoolattractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractionsinblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodiewhittaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodiewhittakerwaxwork" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whittaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thethirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="13thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="the13thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thirteenth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="13th" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thetardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="policebox" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="police" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="box" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworkmodel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworkmodels" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="model" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="models" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="celebs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="celebrities" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="interior" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="inside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="insidemadametussaudsblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworksinengland" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="englishwaxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Jodie Whittaker</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/coastermadmatt/51324581966/"/>
+    <id>tag:flickr.com,2005:/photo/51324581966</id>
+    <published>2021-07-20T21:45:53Z</published>
+    <updated>2021-07-20T21:45:53Z</updated>
+    <flickr:date_taken>2021-07-04T10:42:09-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-07-04T10:42:09-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/coastermadmatt/"&gt;CoasterMadMatt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/coastermadmatt/51324581966/" title="Jodie Whittaker"&gt;&lt;img src="https://live.staticflickr.com/65535/51324581966_f8b02807e6_m.jpg" width="160" height="240" alt="Jodie Whittaker" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>CoasterMadMatt</name>
+      <uri>https://www.flickr.com/people/coastermadmatt/</uri>
+      <flickr:nsid>15523409@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/15523409@N05.jpg?1616709593#15523409@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51324581966_f8b02807e6_b.jpg"/>
+    <category term="madametussaudsblackpool2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussaudsblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussauds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madame" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tussauds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussaudswaxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxwork" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworksmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blackpoolattractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractionsinblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodiewhittaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodiewhittakerwaxwork" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whittaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thethirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="13thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="the13thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thirteenth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="13th" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworkmodel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworkmodels" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="model" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="models" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="celebs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="celebrities" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="interior" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="inside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="insidemadametussaudsblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworksinengland" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="englishwaxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Jodie Whittaker as the Thirteenth Doctor</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/coastermadmatt/51323840652/"/>
+    <id>tag:flickr.com,2005:/photo/51323840652</id>
+    <published>2021-07-20T21:45:53Z</published>
+    <updated>2021-07-20T21:45:53Z</updated>
+    <flickr:date_taken>2021-07-04T10:41:18-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-07-04T10:41:18-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/coastermadmatt/"&gt;CoasterMadMatt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/coastermadmatt/51323840652/" title="Jodie Whittaker as the Thirteenth Doctor"&gt;&lt;img src="https://live.staticflickr.com/65535/51323840652_66517cbac2_m.jpg" width="160" height="240" alt="Jodie Whittaker as the Thirteenth Doctor" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>CoasterMadMatt</name>
+      <uri>https://www.flickr.com/people/coastermadmatt/</uri>
+      <flickr:nsid>15523409@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/15523409@N05.jpg?1616709593#15523409@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51323840652_66517cbac2_b.jpg"/>
+    <category term="madametussaudsblackpool2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussaudsblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussauds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madame" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tussauds" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="madametussaudswaxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxwork" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworksmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blackpoolattractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractionsinblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodiewhittaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodiewhittakerwaxwork" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="whittaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thethirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="13thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="the13thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thirteenth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="13th" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworkmodel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworkmodels" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="model" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="models" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="celebs" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="celebrities" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="interior" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="inside" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="insidemadametussaudsblackpool" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="waxworksinengland" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="englishwaxworks" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>RT @eric_ernie_col: Remembering the wonderful #DameDianaRigg #BOTD 1938
-
-A fine actress…
-
-#StillBringingSunshine 👓🌞♥️
-#MorecambeAndWise #Di…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1417586101359890435" type="text/html"/>
+    <title>RT @StubbsJez: Mental health matters please let me share this number with you
+0800 0014331
+I am unable to trust my local mental health team…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1417600324441890822" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @eric_ernie_col: Remembering the wonderful #DameDianaRigg #BOTD 1938
-
-A fine actress…
-
-#StillBringingSunshine 👓🌞♥️
-#MorecambeAndWise #Di…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @StubbsJez: Mental health matters please let me share this number with you
+0800 0014331
+I am unable to trust my local mental health team…</div>
     </content>
-    <updated>2021-07-20T20:43:58Z</updated>
+    <updated>2021-07-20T21:40:29Z</updated>
   </entry>
   <entry>
     <title>RT @eric_ernie_col: Remembering the wonderful #DameDianaRigg #BOTD 1938
@@ -35,7 +214,7 @@ A fine actress…
 
 #StillBringingSunshine 👓🌞♥️
 #MorecambeAndWise #Di…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1417585280417243136" type="text/html"/>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1417600221891252228" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @eric_ernie_col: Remembering the wonderful #DameDianaRigg #BOTD 1938
 
@@ -44,7 +223,47 @@ A fine actress…
 #StillBringingSunshine 👓🌞♥️
 #MorecambeAndWise #Di…</div>
     </content>
-    <updated>2021-07-20T20:40:42Z</updated>
+    <updated>2021-07-20T21:40:05Z</updated>
+  </entry>
+  <entry>
+    <title>RT @anygoodfilms: #FridayMotivation
+
+Dr Who fans ...here's a #competition for you......
+
+Win 'The Doctors  : The Jon Pertwee Years' ......…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1417599928629710857" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @anygoodfilms: #FridayMotivation
+
+Dr Who fans ...here's a #competition for you......
+
+Win 'The Doctors  : The Jon Pertwee Years' ......…</div>
+    </content>
+    <updated>2021-07-20T21:38:55Z</updated>
+  </entry>
+  <entry>
+    <title>RT @donnary57676462: Fan art #drwho #13thdoctor https://t.co/C79Up5N37D</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1417595547888676864" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @donnary57676462: Fan art #drwho #13thdoctor https://t.co/C79Up5N37D</div>
+    </content>
+    <updated>2021-07-20T21:21:30Z</updated>
+  </entry>
+  <entry>
+    <title>軍隊なんて無意味だ！ 鍵を握るのは一般大衆、世界を変えるのは普通の人々だ！ (Season2 #6)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1417591397041930241" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">軍隊なんて無意味だ！ 鍵を握るのは一般大衆、世界を変えるのは普通の人々だ！ (Season2 #6)</div>
+    </content>
+    <updated>2021-07-20T21:05:01Z</updated>
+  </entry>
+  <entry>
+    <title>Star Trek's Zachary Quinto will make an appearance at 2021 Calgary Expo | Listed - Daily Hive</title>
+    <link rel="alternate" href="https://dailyhive.com/calgary/calgary-expo-zachary-quinto-spock" type="text/html"/>
+    <content type="html">&lt;a href="https://dailyhive.com/calgary/calgary-expo-zachary-quinto-spock" target="_blank"&gt;Star Trek's Zachary Quinto will make an appearance at 2021 Calgary Expo | Listed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Hive&lt;/font&gt;</content>
+    <id>CBMiP2h0dHBzOi8vZGFpbHloaXZlLmNvbS9jYWxnYXJ5L2NhbGdhcnktZXhwby16YWNoYXJ5LXF1aW50by1zcG9ja9IBAA</id>
+    <published>2021-07-20T20:52:00Z</published>
+    <updated>2021-07-20T20:52:00Z</updated>
   </entry>
   <entry>
     <title>Rapid TV News - Ofcom opens BBC Three competition probe - Rapid TV News</title>
@@ -53,48 +272,6 @@ A fine actress…
     <id>CBMiVmh0dHBzOi8vd3d3LnJhcGlkdHZuZXdzLmNvbS8yMDIxMDcyMDYwODcxL29mY29tLW9wZW5zLWJiYy10aHJlZS1jb21wZXRpdGlvbi1wcm9iZS5odG1s0gFaaHR0cHM6Ly93d3cucmFwaWR0dm5ld3MuY29tLzIwMjEwNzIwNjA4NzEvb2Zjb20tb3BlbnMtYmJjLXRocmVlLWNvbXBldGl0aW9uLXByb2JlLmFtcC5odG1s</id>
     <published>2021-07-20T20:36:59Z</published>
     <updated>2021-07-20T20:36:59Z</updated>
-  </entry>
-  <entry>
-    <title>RT @anygoodfilms: #FridayMotivation
-
-Dr Who fans ...here's a #competition for you......
-
-Win 'The Doctors  : The Jon Pertwee Years' ......…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1417583550497497098" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @anygoodfilms: #FridayMotivation
-
-Dr Who fans ...here's a #competition for you......
-
-Win 'The Doctors  : The Jon Pertwee Years' ......…</div>
-    </content>
-    <updated>2021-07-20T20:33:50Z</updated>
-  </entry>
-  <entry>
-    <title>RT @eric_ernie_col: Remembering the wonderful #DameDianaRigg #BOTD 1938
-
-A fine actress…
-
-#StillBringingSunshine 👓🌞♥️
-#MorecambeAndWise #Di…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1417583025873989635" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @eric_ernie_col: Remembering the wonderful #DameDianaRigg #BOTD 1938
-
-A fine actress…
-
-#StillBringingSunshine 👓🌞♥️
-#MorecambeAndWise #Di…</div>
-    </content>
-    <updated>2021-07-20T20:31:45Z</updated>
-  </entry>
-  <entry>
-    <title>RT @The_Cybermatt: #DrWho The Keeper of Traken ends with a bang and a whimper https://t.co/LcHEh8F6nk</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1417582096013463552" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @The_Cybermatt: #DrWho The Keeper of Traken ends with a bang and a whimper https://t.co/LcHEh8F6nk</div>
-    </content>
-    <updated>2021-07-20T20:28:03Z</updated>
   </entry>
   <entry>
     <title>Disappointed in losing Dr. Michotek - Martha's Vineyard Times</title>
@@ -135,14 +312,6 @@ A fine actress…
     <id>CAIiEC4lXBF7fuahGakfv7fRB3cqGQgEKhAIACoHCAownqWBCzD44fwCMMymtwY</id>
     <published>2021-07-20T17:16:00Z</published>
     <updated>2021-07-20T17:16:00Z</updated>
-  </entry>
-  <entry>
-    <title>Zachary Quinto to beam into Calgary Expo this fall - CTV Toronto</title>
-    <link rel="alternate" href="https://calgary.ctvnews.ca/zachary-quinto-to-beam-into-calgary-expo-this-fall-1.5516298" type="text/html"/>
-    <content type="html">&lt;a href="https://calgary.ctvnews.ca/zachary-quinto-to-beam-into-calgary-expo-this-fall-1.5516298" target="_blank"&gt;Zachary Quinto to beam into Calgary Expo this fall&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CTV Toronto&lt;/font&gt;</content>
-    <id>CBMiV2h0dHBzOi8vY2FsZ2FyeS5jdHZuZXdzLmNhL3phY2hhcnktcXVpbnRvLXRvLWJlYW0taW50by1jYWxnYXJ5LWV4cG8tdGhpcy1mYWxsLTEuNTUxNjI5ONIBAA</id>
-    <published>2021-07-20T17:15:45Z</published>
-    <updated>2021-07-20T17:15:45Z</updated>
   </entry>
   <entry>
     <title>10 Doctor Who Moments You're Missing From Expanded Media – WhatCulture - WhatCulture</title>
@@ -232,175 +401,6 @@ A fine actress…
     <category term="portsmouth" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Falling into the Cityscape</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/katrinaspix/51293315383/"/>
-    <id>tag:flickr.com,2005:/photo/51293315383</id>
-    <published>2021-07-06T04:42:25Z</published>
-    <updated>2021-07-06T04:42:25Z</updated>
-    <flickr:date_taken>2017-08-21T07:51:41-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-21T07:51:41-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/katrinaspix/"&gt;Katrina Wright&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/katrinaspix/51293315383/" title="Falling into the Cityscape"&gt;&lt;img src="https://live.staticflickr.com/65535/51293315383_71accc93cf_m.jpg" width="240" height="160" alt="Falling into the Cityscape" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I thought I'd see what else I could do with the previous textured wall abstract. This makes me think of dreaming/falling from above into a city at twilight. Too early for Sliders Sunday?&lt;/p&gt;</content>
-    <author>
-      <name>Katrina Wright</name>
-      <uri>https://www.flickr.com/people/katrinaspix/</uri>
-      <flickr:nsid>47308200@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2815/buddyicons/47308200@N02.jpg?1383027556#47308200@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51293315383_71accc93cf_b.jpg"/>
-    <category term="citadel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="halifax" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="novascotia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dsc3632edit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="abstract" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wall" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bricks" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="pattern" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="line" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="texture" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="weathered" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goop" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="swirl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="spin" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="space" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="infinity" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="city" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cityscape" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="metropolis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="falling" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="landing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="spinning" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="gravity" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6892.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51284631674/"/>
-    <id>tag:flickr.com,2005:/photo/51284631674</id>
-    <published>2021-07-01T22:58:14Z</published>
-    <updated>2021-07-01T22:58:14Z</updated>
-    <flickr:date_taken>2017-08-05T12:34:01-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:34:01-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51284631674/" title="Dr Who Experience 2017 - 6892.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51284631674_e4f9d69d00_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6892.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51284631674_e4f9d69d00_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="delete" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mondas" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cybercontroller" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbysandrareid" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesignsculptedbymartinrezard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="paralleluniverse" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="upgradedhuman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbyalexandratynan" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesignbymillenniumfx" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyborg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="prosthesis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="updateddesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbykitpedler" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbygerrydavis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="johnlumic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cybernetics" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="steel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6891.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51283161442/"/>
-    <id>tag:flickr.com,2005:/photo/51283161442</id>
-    <published>2021-07-01T22:58:10Z</published>
-    <updated>2021-07-01T22:58:10Z</updated>
-    <flickr:date_taken>2017-08-05T12:33:51-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:33:51-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51283161442/" title="Dr Who Experience 2017 - 6891.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51283161442_e97568902c_m.jpg" width="240" height="160" alt="Dr Who Experience 2017 - 6891.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51283161442_e97568902c_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="delete" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mondas" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbysandrareid" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesignsculptedbymartinrezard" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="paralleluniverse" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="upgradedhuman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbyalexandratynan" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesignbymillenniumfx" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyborg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cybermanconversionunit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="prosthesis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="updateddesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbykitpedler" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cybernetics" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbygerrydavis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="johnlumic" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="steel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
