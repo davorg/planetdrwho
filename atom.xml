@@ -7,50 +7,100 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-29T05:53:29Z</updated>
+  <updated>2021-08-29T06:54:11Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Southpaw</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/krapzapper/51408702302/"/>
+    <id>tag:flickr.com,2005:/photo/51408702302</id>
+    <published>2021-08-29T06:33:30Z</published>
+    <updated>2021-08-29T06:33:30Z</updated>
+    <flickr:date_taken>2021-08-29T18:18:01-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-29T18:18:01-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/krapzapper/"&gt;krapzapper&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/krapzapper/51408702302/" title="Southpaw"&gt;&lt;img src="https://live.staticflickr.com/65535/51408702302_641c7efb50_m.jpg" width="240" height="131" alt="Southpaw" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fun fact:  11% of Daleks are left-handed.&lt;/p&gt;</content>
+    <author>
+      <name>krapzapper</name>
+      <uri>https://www.flickr.com/people/krapzapper/</uri>
+      <flickr:nsid>30788195@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3214/buddyicons/30788195@N06.jpg?1224281937#30788195@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51408702302_641c7efb50_b.jpg"/>
+    <category term="krapzapper" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blender" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="3d" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="weird" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="odd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="strange" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lefthanded" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="southpaw" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="true" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fact" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="galactic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>RT @Matt_SmithNews: Brand new pictures of Matt Smith enjoying a pint of Guinness in a North London pub.
+#MattSmith #DoctorWho #DrWho #Eleve…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1431865905558994948" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: Brand new pictures of Matt Smith enjoying a pint of Guinness in a North London pub.
+#MattSmith #DoctorWho #DrWho #Eleve…</div>
+    </content>
+    <updated>2021-08-29T06:26:49Z</updated>
+  </entry>
+  <entry>
+    <title>1/4 Here is an absurdity. Im going to comment on #DrWho. I feel arrogant In doing so because "the day of the doctor… https://t.co/a7Y2E7uIYC</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1431864139752869890" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">1/4 Here is an absurdity. Im going to comment on #DrWho. I feel arrogant In doing so because "the day of the doctor… https://t.co/a7Y2E7uIYC</div>
+    </content>
+    <updated>2021-08-29T06:19:48Z</updated>
+  </entry>
+  <entry>
+    <title>#DrWho Mawdryn Undead begins with a string of apparently unconnected events https://t.co/lZF8GRnegS</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1431860968598900742" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">#DrWho Mawdryn Undead begins with a string of apparently unconnected events https://t.co/lZF8GRnegS</div>
+    </content>
+    <updated>2021-08-29T06:07:12Z</updated>
+  </entry>
+  <entry>
+    <title>On This Day In 1964
+The Reign Of Terror #DoctorWho #DrWho https://t.co/4WdtzWL7tz</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1431859157875838978" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">On This Day In 1964
+The Reign Of Terror #DoctorWho #DrWho https://t.co/4WdtzWL7tz</div>
+    </content>
+    <updated>2021-08-29T06:00:00Z</updated>
+  </entry>
   <entry>
     <title>RT @bestfilmeverpod: The content keeps coming from the BFE. We've just dropped Ep 2 of our #DoctorWho retrospective on #Dalek.  
 
 #Spotify…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1431854703705481218" type="text/html"/>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1431859137391046656" type="text/html"/>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @bestfilmeverpod: The content keeps coming from the BFE. We've just dropped Ep 2 of our #DoctorWho retrospective on #Dalek.  
 
 #Spotify…</div>
     </content>
-    <updated>2021-08-29T05:42:18Z</updated>
+    <updated>2021-08-29T05:59:55Z</updated>
   </entry>
   <entry>
-    <title>@Names_DrWho Non hanno argomenti, e non sono in grado di distinguere una margherita da una rosa! Doc 🥰</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1431853700998385667" type="text/html"/>
-    <content>QE5hbWVzX0RyV2hvIE5vbiBoYW5ubyBhcmdvbWVudGksIGUgbm9uIHNvbm8gaW4gZ3JhZG8gZGkgZGlzdGluZ3VlcmUgdW5hIG1hcmdoZXJpdGEgZGEgdW5hIHJvc2EhIERvYyDwn6Ww</content>
-    <updated>2021-08-29T05:38:19Z</updated>
-  </entry>
-  <entry>
-    <title>RT @AdamHux2: Looking more and more as if this competition is a two horse race between the Roosters with their players back and the new and…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1431852945780314113" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @AdamHux2: Looking more and more as if this competition is a two horse race between the Roosters with their players back and the new and…</div>
-    </content>
-    <updated>2021-08-29T05:35:19Z</updated>
-  </entry>
-  <entry>
-    <title>薬と毒は表裏一体だ! (Season2#2)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1431852884807667712" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">薬と毒は表裏一体だ! (Season2#2)</div>
-    </content>
-    <updated>2021-08-29T05:35:04Z</updated>
-  </entry>
-  <entry>
-    <title>@_drwho__ I want these soooo bad!</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1431852798384218113" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@_drwho__ I want these soooo bad!</div>
-    </content>
-    <updated>2021-08-29T05:34:44Z</updated>
+    <title>I'm a S'porean doctor who spent 16 years working in Afghanistan - Mothership.sg</title>
+    <link rel="alternate" href="https://mothership.sg/2021/08/afghanistan-doctor-perspective/" type="text/html"/>
+    <content type="html">&lt;a href="https://mothership.sg/2021/08/afghanistan-doctor-perspective/" target="_blank"&gt;I'm a S'porean doctor who spent 16 years working in Afghanistan&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mothership.sg&lt;/font&gt;</content>
+    <id>CBMiPWh0dHBzOi8vbW90aGVyc2hpcC5zZy8yMDIxLzA4L2FmZ2hhbmlzdGFuLWRvY3Rvci1wZXJzcGVjdGl2ZS_SAQA</id>
+    <published>2021-08-29T01:16:37Z</published>
+    <updated>2021-08-29T01:16:37Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Dr Who Experience 2017 - 6917.jpg</title>
@@ -190,16 +240,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6909.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51409880055/"/>
-    <id>tag:flickr.com,2005:/photo/51409880055</id>
-    <published>2021-08-28T23:20:57Z</published>
-    <updated>2021-08-28T23:20:57Z</updated>
-    <flickr:date_taken>2017-08-05T12:37:50-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:37:50-08:00</dc:date.Taken>
+    <title>Dr Who Experience 2017 - 6912.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51409880175/"/>
+    <id>tag:flickr.com,2005:/photo/51409880175</id>
+    <published>2021-08-28T23:21:03Z</published>
+    <updated>2021-08-28T23:21:03Z</updated>
+    <flickr:date_taken>2017-08-05T12:38:18-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:38:18-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51409880055/" title="Dr Who Experience 2017 - 6909.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51409880055_b46448deaa_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6909.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51409880175/" title="Dr Who Experience 2017 - 6912.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51409880175_c8d1e0329b_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6912.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -209,7 +259,7 @@
       <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51409880055_b46448deaa_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51409880175_c8d1e0329b_b.jpg"/>
     <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
@@ -225,77 +275,19 @@
     <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="createdbyterrynation" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="damageddalek" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="redesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wires" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dalekdrone" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6905.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51408902771/"/>
-    <id>tag:flickr.com,2005:/photo/51408902771</id>
-    <published>2021-08-28T23:20:52Z</published>
-    <updated>2021-08-28T23:20:52Z</updated>
-    <flickr:date_taken>2017-08-05T12:36:15-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:36:15-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51408902771/" title="Dr Who Experience 2017 - 6905.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51408902771_600530599a_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6905.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51408902771_600530599a_b.jpg"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="delete" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mondas" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sarcophagus" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbysandrareid" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tomb" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="upgradedhuman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originaldesignbyalexandratynan" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyborg" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="updateddesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cybernetics" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbygerrydavis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbykitpedler" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="prosthesis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="steel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -338,14 +330,6 @@
     <id>CAIiEIb3JtG9Oe2P9C92jDKkNpUqGQgEKhAIACoHCAow0Ij8CjCRwIgDMPGBzAU</id>
     <published>2021-08-28T19:00:00Z</published>
     <updated>2021-08-28T19:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>10 Things That Prove Fantastic Beasts And Doctor Who Exist In The Same Universe - Screen Rant</title>
-    <link rel="alternate" href="https://screenrant.com/fantastic-beasts-doctor-who-similarities-same-universe-elements/" type="text/html"/>
-    <content type="html">&lt;a href="https://screenrant.com/fantastic-beasts-doctor-who-similarities-same-universe-elements/" target="_blank"&gt;10 Things That Prove Fantastic Beasts And Doctor Who Exist In The Same Universe&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;</content>
-    <id>CAIiECBmXDv08EburTjU4v_BPT0qGQgEKhAIACoHCAownqWBCzD44fwCMMymtwY</id>
-    <published>2021-08-28T16:30:00Z</published>
-    <updated>2021-08-28T16:30:00Z</updated>
   </entry>
   <entry>
     <title>10 Things That Prove Fantastic Beasts And Doctor Who Exist In The Same Universe - Screen Rant</title>
