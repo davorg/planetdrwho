@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-08-30T03:53:11Z</updated>
+  <updated>2021-08-30T04:56:40Z</updated>
   <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>http://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>RT @Astrozombies76: Which one is your favourite? #DoctorWho #drwho #Poll</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1432188841419497478" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Astrozombies76: Which one is your favourite? #DoctorWho #drwho #Poll</div>
+    </content>
+    <updated>2021-08-30T03:50:03Z</updated>
+  </entry>
   <entry>
     <title>今立っている地面が時速1600kmで回転し、星そのものも太陽の周りを時速107000kmで公転して、そして僕らは無限の宇宙の中を飛んでいる。 (Series1 #1)</title>
     <link rel="alternate" href="https://twitter.com/drwho/status/1432185073650978817" type="text/html"/>
@@ -47,14 +55,6 @@ The symbolic blue work, and the work of your…</div>
     <updated>2021-08-30T02:46:30Z</updated>
   </entry>
   <entry>
-    <title>@sarcasticstyle I love dunkin! I think this is the first time I’ve ever disagreed with one of your tweets. Are we h… https://t.co/iuk3HpL9gm</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1432172613674151940" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@sarcasticstyle I love dunkin! I think this is the first time I’ve ever disagreed with one of your tweets. Are we h… https://t.co/iuk3HpL9gm</div>
-    </content>
-    <updated>2021-08-30T02:45:34Z</updated>
-  </entry>
-  <entry>
     <title>Doctor Who: 10 Best Two-Parters Of The Modern Era | CBR - CBR - Comic Book Resources</title>
     <link rel="alternate" href="https://www.cbr.com/doctor-who-best-episodes-two-parts-modern/" type="text/html"/>
     <content type="html">&lt;a href="https://www.cbr.com/doctor-who-best-episodes-two-parts-modern/" target="_blank"&gt;Doctor Who: 10 Best Two-Parters Of The Modern Era | CBR&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CBR - Comic Book Resources&lt;/font&gt;</content>
@@ -86,6 +86,37 @@ The symbolic blue work, and the work of your…</div>
     <published>2021-08-29T13:07:11Z</published>
     <updated>2021-08-29T13:07:11Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>116. world of science</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/ms_chipie/51410991250/"/>
+    <id>tag:flickr.com,2005:/photo/51410991250</id>
+    <published>2021-08-29T12:32:22Z</published>
+    <updated>2021-08-29T12:32:22Z</updated>
+    <flickr:date_taken>2021-08-22T08:58:08-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-22T08:58:08-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/ms_chipie/"&gt;♥ MissChief Photography ♥&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/ms_chipie/51410991250/" title="116. world of science"&gt;&lt;img src="https://live.staticflickr.com/65535/51410991250_5ed75036dd_m.jpg" width="180" height="240" alt="116. world of science" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;On my way to get my daily bread and science fiction just around the corner! &lt;br /&gt;
+Someone was brave enough to capture a Darleck....&lt;/p&gt;</content>
+    <author>
+      <name>♥ MissChief Photography ♥</name>
+      <uri>https://www.flickr.com/people/ms_chipie/</uri>
+      <flickr:nsid>40274899@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm8.staticflickr.com/7390/buddyicons/40274899@N06.jpg?1390036621#40274899@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51410991250_5ed75036dd_b.jpg"/>
+    <category term="darleck" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exterminate" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="misschiefphotography" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="121picturesin2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>Doctor who spent 30 years risking his life on the frontline around the world - Manchester Evening News</title>
     <link rel="alternate" href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news/doctor-whos-spent-30-years-21186443" type="text/html"/>
@@ -273,58 +304,6 @@ The symbolic blue work, and the work of your…</div>
     <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="deepbreath" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6912.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51409880175/"/>
-    <id>tag:flickr.com,2005:/photo/51409880175</id>
-    <published>2021-08-28T23:21:03Z</published>
-    <updated>2021-08-28T23:21:03Z</updated>
-    <flickr:date_taken>2017-08-05T12:38:18-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:38:18-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51409880175/" title="Dr Who Experience 2017 - 6912.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51409880175_c8d1e0329b_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6912.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51409880175_c8d1e0329b_b.jpg"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bronzedalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="kaleds" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="updateddesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="originallydesignedbyraymondcusick" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbyterrynation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="damageddalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="redesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wires" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dalekdrone" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
