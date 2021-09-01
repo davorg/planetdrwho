@@ -1,52 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Planet Doctor Who</title>
-  <link rel="alternate" href="http://drwho.theplanetarium.org/" type="text/html"/>
+  <link rel="alternate" href="https://drwho.theplanetarium.org/" type="text/html"/>
   <subtitle>Time Lords on the Web</subtitle>
   <author>
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-01T14:52:55Z</updated>
-  <link rel="self" href="http://drwho.theplanetarium.org/" type="application/atom+xml"/>
-  <id>http://drwho.theplanetarium.org/</id>
+  <updated>2021-09-01T15:55:15Z</updated>
+  <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
+  <id>https://drwho.theplanetarium.org/</id>
   <entry>
-    <title>@ChoosyGirl73 Ci sta :)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1433077385889558529" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@ChoosyGirl73 Ci sta :)</div>
-    </content>
-    <updated>2021-09-01T14:40:48Z</updated>
+    <title>These Brand New Marvel and Star Wars Advent Calendars Mean The Holidays Are Officially Around the Corner - Variety</title>
+    <link rel="alternate" href="https://variety.com/shop/best-advent-calendars-1235053593/" type="text/html"/>
+    <content type="html">&lt;a href="https://variety.com/shop/best-advent-calendars-1235053593/" target="_blank"&gt;These Brand New Marvel and Star Wars Advent Calendars Mean The Holidays Are Officially Around the Corner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Variety&lt;/font&gt;</content>
+    <id>CAIiEJ_aCufe2k3xKAeaiVu7l8YqFwgEKg8IACoHCAowraj2AjC5-iIwzItb</id>
+    <published>2021-09-01T15:50:00Z</published>
+    <updated>2021-09-01T15:50:00Z</updated>
   </entry>
   <entry>
-    <title>@Names_DrWho Soluzioni sceme per problemi scemi, per quelli seri sono anche capace a fare la seria eh</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1433077306151653386" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@Names_DrWho Soluzioni sceme per problemi scemi, per quelli seri sono anche capace a fare la seria eh</div>
-    </content>
-    <updated>2021-09-01T14:40:29Z</updated>
+    <title>In a bleak What If…?, Doctor Strange tries to become Doctor Who and fails spectacularly - The A.V. Club</title>
+    <link rel="alternate" href="https://www.avclub.com/in-a-bleak-what-if-doctor-strange-tries-to-become-do-1847598149" type="text/html"/>
+    <content type="html">&lt;a href="https://www.avclub.com/in-a-bleak-what-if-doctor-strange-tries-to-become-do-1847598149" target="_blank"&gt;In a bleak What If…?, Doctor Strange tries to become Doctor Who and fails spectacularly&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The A.V. Club&lt;/font&gt;</content>
+    <id>CAIiEOnfrWauLKq1jxyVGl7yynUqGQgEKhAIACoHCAowjsX7CjCSqvQCMNuJ8AU</id>
+    <published>2021-09-01T15:40:00Z</published>
+    <updated>2021-09-01T15:40:00Z</updated>
   </entry>
   <entry>
-    <title>@ChoosyGirl73 Non ho dubbi… però che assurdità!</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1433077122227179524" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@ChoosyGirl73 Non ho dubbi… però che assurdità!</div>
-    </content>
-    <updated>2021-09-01T14:39:45Z</updated>
+    <title>RT @Matt_SmithNews: #blackandwhitephoto 
+Matt Smith in iconic Eleventh Doctor pose.
+🖤🤍🖤🤍🖤🤍🖤
+#MattSmith #DoctorWho #DrWho #EleventhDoctor #I…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1433091026537914373" type="text/html"/>
+    <content>UlQgQE1hdHRfU21pdGhOZXdzOiAjYmxhY2thbmR3aGl0ZXBob3RvIApNYXR0IFNtaXRoIGluIGljb25pYyBFbGV2ZW50aCBEb2N0b3IgcG9zZS4K8J+WpPCfpI3wn5ak8J+kjfCflqTwn6SN8J+WpAojTWF0dFNtaXRoICNEb2N0b3JXaG8gI0RyV2hvICNFbGV2ZW50aERvY3RvciAjSeKApg==</content>
+    <updated>2021-09-01T15:35:00Z</updated>
   </entry>
   <entry>
-    <title>@Names_DrWho Guarda, funziona oh</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1433076682978693127" type="text/html"/>
+    <title>よろしくローズ。さあ帰って (Series1 #1)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1433091021429035014" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@Names_DrWho Guarda, funziona oh</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">よろしくローズ。さあ帰って (Series1 #1)</div>
     </content>
-    <updated>2021-09-01T14:38:01Z</updated>
+    <updated>2021-09-01T15:34:59Z</updated>
   </entry>
   <entry>
-    <title>@ChoosyGirl73 🤦🏻‍♂️</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1433076080601145344" type="text/html"/>
-    <content>QENob29zeUdpcmw3MyDwn6Sm8J+Pu+KAjeKZgu+4jw==</content>
-    <updated>2021-09-01T14:35:37Z</updated>
+    <title>Doctor Who season 13: everything we know - TechRadar</title>
+    <link rel="alternate" href="https://www.techradar.com/news/doctor-who-season-13" type="text/html"/>
+    <content type="html">&lt;a href="https://www.techradar.com/news/doctor-who-season-13" target="_blank"&gt;Doctor Who season 13: everything we know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TechRadar&lt;/font&gt;</content>
+    <id>CBMiM2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vbmV3cy9kb2N0b3Itd2hvLXNlYXNvbi0xM9IBN2h0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vYW1wL25ld3MvZG9jdG9yLXdoby1zZWFzb24tMTM</id>
+    <published>2021-09-01T15:24:56Z</published>
+    <updated>2021-09-01T15:24:56Z</updated>
+  </entry>
+  <entry>
+    <title>@RoRoi92375042 @SeFossi_Vento Interessante</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1433088195609104389" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@RoRoi92375042 @SeFossi_Vento Interessante</div>
+    </content>
+    <updated>2021-09-01T15:23:45Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Matt_SmithNews: Matt Smith as the Eleventh Doctor with writer Neil Gaiman #BehindtheScenes of Doctor Who series 6 “The Doctor’s Wife”
+#…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1433087747951108105" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: Matt Smith as the Eleventh Doctor with writer Neil Gaiman #BehindtheScenes of Doctor Who series 6 “The Doctor’s Wife”
+#…</div>
+    </content>
+    <updated>2021-09-01T15:21:59Z</updated>
+  </entry>
+  <entry>
+    <title>@anna_f81 @UnaFenice Uff! perché? 😂</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1433086313377538049" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@anna_f81 @UnaFenice Uff! perché? 😂</div>
+    </content>
+    <updated>2021-09-01T15:16:17Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who alien quiz: What slightly naff monster are you? - The Tab</title>
+    <link rel="alternate" href="https://thetab.com/uk/2021/09/01/take-this-quiz-and-well-tell-you-what-naff-doctor-who-alien-you-are-221385" type="text/html"/>
+    <content type="html">&lt;a href="https://thetab.com/uk/2021/09/01/take-this-quiz-and-well-tell-you-what-naff-doctor-who-alien-you-are-221385" target="_blank"&gt;Doctor Who alien quiz: What slightly naff monster are you?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Tab&lt;/font&gt;</content>
+    <id>CBMia2h0dHBzOi8vdGhldGFiLmNvbS91ay8yMDIxLzA5LzAxL3Rha2UtdGhpcy1xdWl6LWFuZC13ZWxsLXRlbGwteW91LXdoYXQtbmFmZi1kb2N0b3Itd2hvLWFsaWVuLXlvdS1hcmUtMjIxMzg10gEA</id>
+    <published>2021-09-01T14:49:52Z</published>
+    <updated>2021-09-01T14:49:52Z</updated>
   </entry>
   <entry>
     <title>Texas Abortion Ban: What It Means and What Happens Next - NPR</title>
@@ -55,38 +92,6 @@
     <id>CAIiEATjiRgqyvQ07FgKNgZJ2oUqFwgEKg4IACoGCAow9vBNMK3UCDClvJYH</id>
     <published>2021-09-01T12:48:10Z</published>
     <updated>2021-09-01T12:48:10Z</updated>
-  </entry>
-  <entry>
-    <title>Dear Doctor: How do you choose a good doctor, one who will really listen? - OregonLive</title>
-    <link rel="alternate" href="https://www.oregonlive.com/advice/2021/09/dear-doctor-how-do-you-choose-a-good-doctor-one-who-will-really-listen.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.oregonlive.com/advice/2021/09/dear-doctor-how-do-you-choose-a-good-doctor-one-who-will-really-listen.html" target="_blank"&gt;Dear Doctor: How do you choose a good doctor, one who will really listen?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;OregonLive&lt;/font&gt;</content>
-    <id>CAIiEB625zAqgJNas0ZHg3EiHsoqGQgEKhAIACoHCAownqX_CjCltfgCML7NpAY</id>
-    <published>2021-09-01T12:35:20Z</published>
-    <updated>2021-09-01T12:35:20Z</updated>
-  </entry>
-  <entry>
-    <title>Doctors dismayed by patients who fear coronavirus vaccines, but clamor for unproven ivermectin - The Washington Post</title>
-    <link rel="alternate" href="https://www.washingtonpost.com/health/2021/09/01/ivermectin-covid-treatment/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.washingtonpost.com/health/2021/09/01/ivermectin-covid-treatment/" target="_blank"&gt;Doctors dismayed by patients who fear coronavirus vaccines, but clamor for unproven ivermectin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Washington Post&lt;/font&gt;</content>
-    <id>CAIiEL1vBL6eAUhBNNPwxCNojckqGAgEKg8IACoHCAowjtSUCjC30XQwi5e9Bg</id>
-    <published>2021-09-01T12:33:58Z</published>
-    <updated>2021-09-01T12:33:58Z</updated>
-  </entry>
-  <entry>
-    <title>Kolkata Doctor, Who Set Herself on Fire Due to Transfer 2 Weeks Ago, Dies - News18</title>
-    <link rel="alternate" href="https://www.news18.com/news/india/kolkata-doctor-who-set-herself-on-fire-due-to-transfer-2-weeks-ago-dies-4153268.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.news18.com/news/india/kolkata-doctor-who-set-herself-on-fire-due-to-transfer-2-weeks-ago-dies-4153268.html" target="_blank"&gt;Kolkata Doctor, Who Set Herself on Fire Due to Transfer 2 Weeks Ago, Dies&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News18&lt;/font&gt;</content>
-    <id>CAIiEKCLJOaDIJBm-J3Sz6L-1hUqGQgEKhAIACoHCAow5qqNCzD4q58DMPbXpwY</id>
-    <published>2021-09-01T12:15:42Z</published>
-    <updated>2021-09-01T12:15:42Z</updated>
-  </entry>
-  <entry>
-    <title>Blackpool Revisited - The Doctor Who News Page</title>
-    <link rel="alternate" href="https://www.doctorwhonews.net/2021/08/blackpool_revisited.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.doctorwhonews.net/2021/08/blackpool_revisited.html" target="_blank"&gt;Blackpool Revisited&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Doctor Who News Page&lt;/font&gt;</content>
-    <id>CBMiPmh0dHBzOi8vd3d3LmRvY3Rvcndob25ld3MubmV0LzIwMjEvMDgvYmxhY2twb29sX3JldmlzaXRlZC5odG1s0gEA</id>
-    <published>2021-09-01T07:36:45Z</published>
-    <updated>2021-09-01T07:36:45Z</updated>
   </entry>
   <entry>
     <title>A new adventure arrives for Torchwood Soho in Ashenden - Flickering Myth</title>
@@ -253,14 +258,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <title>'Red Rainbow' Coming Soon to a Small Screen Near You - The Moscow Times</title>
-    <link rel="alternate" href="https://www.themoscowtimes.com/2021/08/31/red-rainbow-coming-soon-to-a-small-screen-near-you-a74938" type="text/html"/>
-    <content type="html">&lt;a href="https://www.themoscowtimes.com/2021/08/31/red-rainbow-coming-soon-to-a-small-screen-near-you-a74938" target="_blank"&gt;'Red Rainbow' Coming Soon to a Small Screen Near You&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Moscow Times&lt;/font&gt;</content>
-    <id>CBMiY2h0dHBzOi8vd3d3LnRoZW1vc2Nvd3RpbWVzLmNvbS8yMDIxLzA4LzMxL3JlZC1yYWluYm93LWNvbWluZy1zb29uLXRvLWEtc21hbGwtc2NyZWVuLW5lYXIteW91LWE3NDkzONIBAA</id>
-    <published>2021-08-31T12:31:00Z</published>
-    <updated>2021-08-31T12:31:00Z</updated>
-  </entry>
-  <entry>
     <title>‘Vampire Academy’: Sisi Stringer, Daniela Nieves &amp; Kieron Moore Among 10 Cast In Peacock YA Drama Series - Deadline</title>
     <link rel="alternate" href="https://deadline.com/2021/08/vampire-academy-sisi-stringer-daniela-nieves-kieron-moore-10-cast-peacock-ya-drama-series-1234824157/" type="text/html"/>
     <content type="html">&lt;a href="https://deadline.com/2021/08/vampire-academy-sisi-stringer-daniela-nieves-kieron-moore-10-cast-peacock-ya-drama-series-1234824157/" target="_blank"&gt;‘Vampire Academy’: Sisi Stringer, Daniela Nieves &amp; Kieron Moore Among 10 Cast In Peacock YA Drama Series&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Deadline&lt;/font&gt;</content>
@@ -351,6 +348,14 @@ Someone was brave enough to capture a Darleck....&lt;/p&gt;</content>
     <id>CAIiECBmXDv08EburTjU4v_BPT0qGQgEKhAIACoHCAownqWBCzD44fwCMMymtwY</id>
     <published>2021-08-28T16:30:00Z</published>
     <updated>2021-08-28T16:30:00Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who's Sophie Aldred returns as Ace for Torchwood: The Red List - Flickering Myth</title>
+    <link rel="alternate" href="https://www.flickeringmyth.com/2021/08/doctor-whos-ace-joins-torchwood-for-the-red-list/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.flickeringmyth.com/2021/08/doctor-whos-ace-joins-torchwood-for-the-red-list/" target="_blank"&gt;Doctor Who's Sophie Aldred returns as Ace for Torchwood: The Red List&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Flickering Myth&lt;/font&gt;</content>
+    <id>CBMiWGh0dHBzOi8vd3d3LmZsaWNrZXJpbmdteXRoLmNvbS8yMDIxLzA4L2RvY3Rvci13aG9zLWFjZS1qb2lucy10b3JjaHdvb2QtZm9yLXRoZS1yZWQtbGlzdC_SAQA</id>
+    <published>2021-08-28T10:47:37Z</published>
+    <updated>2021-08-28T10:47:37Z</updated>
   </entry>
   <entry>
     <title>Jacob Anderson joins Series 13 of Doctor Who</title>
