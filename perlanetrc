@@ -18,10 +18,10 @@ feeds:
   - url: https://www.bbc.co.uk/blogs/doctorwho/rss
     title: bbc news
     web: https://www.bbc.co.uk/doctorwho/
-  - url: https://news.google.com/news/rss/search/section/q/%22doctor+who%22
+  - url: https://news.google.com/rss/search?q=%22doctor+who%22&hl=en-GB&gl=GB&ceid=GB:en
     title: google news (doctor who)
     web: https://news.google.com/
-  - url: https://news.google.com/news/rss/search/section/q/torchwood
+  - url: https://news.google.com/rss/search?q=torchwood&hl=en-GB&gl=GB&ceid=GB:en
     title: google news (torchwood)
     web: https://news.google.com/
   - url: https://api.flickr.com/services/feeds/photos_public.gne?tags=drwho&format=atom
