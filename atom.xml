@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-10T03:53:17Z</updated>
+  <updated>2021-09-10T04:56:58Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>どこの星にも北はあるだろ (Series1 #1)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436186441772462096" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">どこの星にも北はあるだろ (Series1 #1)</div>
+    </content>
+    <updated>2021-09-10T04:35:05Z</updated>
+  </entry>
   <entry>
     <title>僕は今、この星にへばりついている愚かな猿を絶滅から救うのに忙しいんだ (Series1 #1)</title>
     <link rel="alternate" href="https://twitter.com/drwho/status/1436171334879309838" type="text/html"/>
@@ -45,18 +53,6 @@ Ends Fri 10th Sep @ 4:09pm… https://t.co/nO8liwE5SW</div>
       <div xmlns="http://www.w3.org/1999/xhtml">@AcousticAri @FOXNRL Or Barba!</div>
     </content>
     <updated>2021-09-10T03:05:11Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who Ninth 9th Doctor Adventures 1.2 Respond To All Calls, Big Finish, New
-
-Ends Sat 11th Sep @ 7:38pm… https://t.co/dEpdr71aYl</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436158758946754563" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Doctor Who Ninth 9th Doctor Adventures 1.2 Respond To All Calls, Big Finish, New
-
-Ends Sat 11th Sep @ 7:38pm… https://t.co/dEpdr71aYl</div>
-    </content>
-    <updated>2021-09-10T02:45:05Z</updated>
   </entry>
   <entry>
     <title>Charges dropped against Virginia Beach doctor, who shot wife and himself, after he’s declared incompetent to stand trial - The Virginian-Pilot</title>
