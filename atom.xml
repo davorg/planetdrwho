@@ -7,9 +7,17 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-10T02:10:20Z</updated>
+  <updated>2021-09-10T02:54:02Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>中は見かけよりずっと広いのね (Series1 #1/ローズ)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436156236949438529" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">中は見かけよりずっと広いのね (Series1 #1/ローズ)</div>
+    </content>
+    <updated>2021-09-10T02:35:04Z</updated>
+  </entry>
   <entry>
     <title>Commando comics job lot (x160)
 
@@ -65,14 +73,6 @@ https://t.co/HdOOB6EFmp
       <div xmlns="http://www.w3.org/1999/xhtml">RT @JAHCavendish: We asked Dr Who fans what they wanted to see next. Here are some of their responses. #DrWho #WritingCommunity #scifi #jod…</div>
     </content>
     <updated>2021-09-10T01:00:07Z</updated>
-  </entry>
-  <entry>
-    <title>@ThatBoysGood So how was it?</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436131920069419010" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@ThatBoysGood So how was it?</div>
-    </content>
-    <updated>2021-09-10T00:58:26Z</updated>
   </entry>
   <entry>
     <title>Charges dropped against Virginia Beach doctor, who shot wife and himself, after he’s declared incompetent to stand trial - The Virginian-Pilot</title>
