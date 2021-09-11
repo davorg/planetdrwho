@@ -7,59 +7,115 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-11T05:53:01Z</updated>
+  <updated>2021-09-11T06:54:59Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dalek</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/141532063@N03/51444877751/"/>
+    <id>tag:flickr.com,2005:/photo/51444877751</id>
+    <published>2021-09-11T06:47:16Z</published>
+    <updated>2021-09-11T06:47:16Z</updated>
+    <flickr:date_taken>2021-09-10T23:47:07-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-10T23:47:07-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/141532063@N03/"&gt;dcdselby&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/141532063@N03/51444877751/" title="Dalek"&gt;&lt;img src="https://live.staticflickr.com/65535/51444877751_70b6525935_m.jpg" width="240" height="177" alt="Dalek" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>dcdselby</name>
+      <uri>https://www.flickr.com/people/141532063@N03/</uri>
+      <flickr:nsid>141532063@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1730/buddyicons/141532063@N03.jpg?1528464730#141532063@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51444877751_70b6525935_b.jpg"/>
+    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alien" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lumipro" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Doctor Who: The Thirteenth Doctor (Free Comic Book Day 2019)</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/franmoff/51444849631/"/>
+    <id>tag:flickr.com,2005:/photo/51444849631</id>
+    <published>2021-09-11T06:37:58Z</published>
+    <updated>2021-09-11T06:37:58Z</updated>
+    <flickr:date_taken>2021-08-29T16:40:29-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-08-29T16:40:29-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/franmoff/"&gt;FranMoff&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/franmoff/51444849631/" title="Doctor Who: The Thirteenth Doctor (Free Comic Book Day 2019)"&gt;&lt;img src="https://live.staticflickr.com/65535/51444849631_e03df139d6_m.jpg" width="154" height="240" alt="Doctor Who: The Thirteenth Doctor (Free Comic Book Day 2019)" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>FranMoff</name>
+      <uri>https://www.flickr.com/people/franmoff/</uri>
+      <flickr:nsid>8529568@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm3.staticflickr.com/2820/buddyicons/8529568@N08.jpg?1369230156#8529568@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51444849631_e03df139d6_b.jpg"/>
+    <category term="freecomicbookday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="comicbooks" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="thirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fcbd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2019" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fcbd2019" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="jodiewhittaker" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>RT @Greebohobbes: The Aztecs Unreview https://t.co/gwM67OCm8A A blog that I wrote #DoctorWho #DrWho</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436564488736608260" type="text/html"/>
+    <title>僕はずっと宇宙を見てきた。多くの偽りの神、邪神、ちっぽけな神、神様の卵、あらゆる神を見てきた。だがそれらの神々よりも、誰を信じるかと聞かれたら、一人しかいない。ローズを信じてる (Season2 #9)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436579025997025280" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Greebohobbes: The Aztecs Unreview https://t.co/gwM67OCm8A A blog that I wrote #DoctorWho #DrWho</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">僕はずっと宇宙を見てきた。多くの偽りの神、邪神、ちっぽけな神、神様の卵、あらゆる神を見てきた。だがそれらの神々よりも、誰を信じるかと聞かれたら、一人しかいない。ローズを信じてる (Season2 #9)</div>
     </content>
-    <updated>2021-09-11T05:37:18Z</updated>
+    <updated>2021-09-11T06:35:04Z</updated>
   </entry>
   <entry>
-    <title>何故あいつが、ドクターの通信を妨害したかわかる？それはドクターが正しいことを言ったからよ！ (Season2 #9 / ローズ)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436563976762978304" type="text/html"/>
+    <title>RT @The_Cybermatt: Big day for the #DrWho pilgrimage as we reach my first episode https://t.co/ZaxqHQ5dl1</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436576287900962816" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">何故あいつが、ドクターの通信を妨害したかわかる？それはドクターが正しいことを言ったからよ！ (Season2 #9 / ローズ)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @The_Cybermatt: Big day for the #DrWho pilgrimage as we reach my first episode https://t.co/ZaxqHQ5dl1</div>
     </content>
-    <updated>2021-09-11T05:35:16Z</updated>
+    <updated>2021-09-11T06:24:11Z</updated>
   </entry>
   <entry>
-    <title>@Names_DrWho Ma il vecchio metodo "ti lascio il mio numero,poi se vuoi ci sentiamo"
-non funziona più ?!😳🥺</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436560295502172160" type="text/html"/>
-    <content>QE5hbWVzX0RyV2hvIE1hIGlsIHZlY2NoaW8gbWV0b2RvICJ0aSBsYXNjaW8gaWwgbWlvIG51bWVybyxwb2kgc2UgdnVvaSBjaSBzZW50aWFtbyIKbm9uIGZ1bnppb25hIHBpw7kgPyHwn5iz8J+lug==</content>
-    <updated>2021-09-11T05:20:39Z</updated>
+    <title>Big day for the #DrWho pilgrimage as we reach my first episode https://t.co/ZaxqHQ5dl1</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436575800157945858" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Big day for the #DrWho pilgrimage as we reach my first episode https://t.co/ZaxqHQ5dl1</div>
+    </content>
+    <updated>2021-09-11T06:22:15Z</updated>
   </entry>
   <entry>
-    <title>DOCTOR WHO TARDIS TUNER RADIO (NOT IN WORKING ORDER - CURIO ONLY)
-
-Ends Mon 13th Sep @ 9:10pm… https://t.co/kE7jB5STN5</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436558977043738626" type="text/html"/>
+    <title>#OnThisDay 1983: Filming for Resurrection of the Daleks began on Lafone Street, Shad Thames and Butler's Wharf.… https://t.co/VSPMIf2H4Z</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436575686051909641" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">DOCTOR WHO TARDIS TUNER RADIO (NOT IN WORKING ORDER - CURIO ONLY)
-
-Ends Mon 13th Sep @ 9:10pm… https://t.co/kE7jB5STN5</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">#OnThisDay 1983: Filming for Resurrection of the Daleks began on Lafone Street, Shad Thames and Butler's Wharf.… https://t.co/VSPMIf2H4Z</div>
     </content>
-    <updated>2021-09-11T05:15:24Z</updated>
+    <updated>2021-09-11T06:21:48Z</updated>
   </entry>
   <entry>
-    <title>13 x Doctor Who Audiobooks Featuring Paul McGann As The Doctor
-
-Ends Sat 11th Sep @ 7:02pm
-
-https://t.co/rdA9L2xcHt… https://t.co/y3FpHt7dSq</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436558916742225922" type="text/html"/>
+    <title>#OnThisDay 1968: Filming for The Invasion took place on Walmer Road. https://t.co/vPtK0P9Ibk  #DoctorWho #DrWho… https://t.co/l636bOfryS</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436571832199569412" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">13 x Doctor Who Audiobooks Featuring Paul McGann As The Doctor
-
-Ends Sat 11th Sep @ 7:02pm
-
-https://t.co/rdA9L2xcHt… https://t.co/y3FpHt7dSq</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">#OnThisDay 1968: Filming for The Invasion took place on Walmer Road. https://t.co/vPtK0P9Ibk  #DoctorWho #DrWho… https://t.co/l636bOfryS</div>
     </content>
-    <updated>2021-09-11T05:15:10Z</updated>
+    <updated>2021-09-11T06:06:29Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who: Jodie Whittaker replaced by Hollywood actor Michael Sheen? - Express</title>
+    <link rel="alternate" href="https://www.express.co.uk/showbiz/tv-radio/1489564/Doctor-Who-Jodie-Whittaker-replaced-Michael-Sheen-BBC" type="text/html"/>
+    <content type="html">&lt;a href="https://www.express.co.uk/showbiz/tv-radio/1489564/Doctor-Who-Jodie-Whittaker-replaced-Michael-Sheen-BBC" target="_blank"&gt;Doctor Who: Jodie Whittaker replaced by Hollywood actor Michael Sheen?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
+    <id>CAIiEGd6J8JRuwIt45GCu1-PSSEqGQgEKhAIACoHCAow9935CjCe0eYCMPPlzAU</id>
+    <published>2021-09-11T06:01:00Z</published>
+    <updated>2021-09-11T06:01:00Z</updated>
   </entry>
   <entry>
     <title>Christopher Eccleston Doubts He'll Play Doctor Who On TV Again - Screen Rant</title>
@@ -118,9 +174,9 @@ https://t.co/rdA9L2xcHt… https://t.co/y3FpHt7dSq</div>
   </entry>
   <entry>
     <title>9/11 anniversary: Doctor saw shocking attack from plane - BBC News</title>
-    <link rel="alternate" href="https://www.bbc.com/news/uk-england-derbyshire-58509202" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bbc.com/news/uk-england-derbyshire-58509202" target="_blank"&gt;9/11 anniversary: Doctor saw shocking attack from plane&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
-    <id>CBMiN2h0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy91ay1lbmdsYW5kLWRlcmJ5c2hpcmUtNTg1MDkyMDLSATtodHRwczovL3d3dy5iYmMuY29tL25ld3MvdWstZW5nbGFuZC1kZXJieXNoaXJlLTU4NTA5MjAyLmFtcA</id>
+    <link rel="alternate" href="https://www.bbc.co.uk/news/uk-england-derbyshire-58509202" type="text/html"/>
+    <content type="html">&lt;a href="https://www.bbc.co.uk/news/uk-england-derbyshire-58509202" target="_blank"&gt;9/11 anniversary: Doctor saw shocking attack from plane&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
+    <id>CBMiOWh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLWVuZ2xhbmQtZGVyYnlzaGlyZS01ODUwOTIwMtIBPWh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL3VrLWVuZ2xhbmQtZGVyYnlzaGlyZS01ODUwOTIwMi5hbXA</id>
     <published>2021-09-10T11:35:41Z</published>
     <updated>2021-09-10T11:35:41Z</updated>
   </entry>
@@ -131,14 +187,6 @@ https://t.co/rdA9L2xcHt… https://t.co/y3FpHt7dSq</div>
     <id>CBMiXWh0dHBzOi8vd2ludGVyaXNjb21pbmcubmV0LzIwMjEvMDkvMTAvZG9jdG9yLXNlYXNvbi0xMy1ub3QtY29taW5nLWJiYy1hbWVyaWNhLXNlcHRlbWJlci0yMDIxL9IBYWh0dHBzOi8vd2ludGVyaXNjb21pbmcubmV0LzIwMjEvMDkvMTAvZG9jdG9yLXNlYXNvbi0xMy1ub3QtY29taW5nLWJiYy1hbWVyaWNhLXNlcHRlbWJlci0yMDIxL2FtcC8</id>
     <published>2021-09-10T11:30:00Z</published>
     <updated>2021-09-10T11:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor who dedicated life to the NHS let down the moment he most needed it - Manchester Evening News</title>
-    <link rel="alternate" href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news/kailash-chand-death-nhs-ambulance-21524830" type="text/html"/>
-    <content type="html">&lt;a href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news/kailash-chand-death-nhs-ambulance-21524830" target="_blank"&gt;Doctor who dedicated life to the NHS let down the moment he most needed it&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Manchester Evening News&lt;/font&gt;</content>
-    <id>CAIiEKCb9cSu38ZkyrzEGCAwZ3YqGQgEKhAIACoHCAowzMOiCTC2lZgCMJq24AM</id>
-    <published>2021-09-09T17:06:41Z</published>
-    <updated>2021-09-09T17:06:41Z</updated>
   </entry>
   <entry>
     <title>The 10 Best Doctor Who Spin-off Stories, Ranked | ScreenRant - Screen Rant</title>
@@ -201,76 +249,6 @@ https://t.co/rdA9L2xcHt… https://t.co/y3FpHt7dSq</div>
       <flickr:buddyicon>https://farm3.staticflickr.com/2858/buddyicons/25338921@N06.jpg?1369192867#25338921@N06</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51435712037_64f1740cae_b.jpg"/>
-    <category term="9221" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlantaga" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplayer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon20121" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hilton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriott" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thursday" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>R5117338 DragonCon 2021</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dsamsky/51436467731/"/>
-    <id>tag:flickr.com,2005:/photo/51436467731</id>
-    <published>2021-09-08T14:08:07Z</published>
-    <updated>2021-09-08T14:08:07Z</updated>
-    <flickr:date_taken>2021-09-02T15:14:13-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-02T15:14:13-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dsamsky/"&gt;dsamsky&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dsamsky/51436467731/" title="R5117338 DragonCon 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51436467731_3df9b5c998_m.jpg" width="160" height="240" alt="R5117338 DragonCon 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>dsamsky</name>
-      <uri>https://www.flickr.com/people/dsamsky/</uri>
-      <flickr:nsid>25338921@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2858/buddyicons/25338921@N06.jpg?1369192867#25338921@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51436467731_3df9b5c998_b.jpg"/>
-    <category term="9221" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlantaga" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplayer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon20121" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hilton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriott" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thursday" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>R5117339 DragonCon 2021</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dsamsky/51436707168/"/>
-    <id>tag:flickr.com,2005:/photo/51436707168</id>
-    <published>2021-09-08T14:08:07Z</published>
-    <updated>2021-09-08T14:08:07Z</updated>
-    <flickr:date_taken>2021-09-02T15:14:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-02T15:14:17-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dsamsky/"&gt;dsamsky&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dsamsky/51436707168/" title="R5117339 DragonCon 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51436707168_427f15de13_m.jpg" width="240" height="160" alt="R5117339 DragonCon 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>dsamsky</name>
-      <uri>https://www.flickr.com/people/dsamsky/</uri>
-      <flickr:nsid>25338921@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2858/buddyicons/25338921@N06.jpg?1369192867#25338921@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51436707168_427f15de13_b.jpg"/>
     <category term="9221" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="atlantaga" scheme="https://www.flickr.com/photos/tags/"/>
