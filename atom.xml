@@ -7,64 +7,114 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-12T05:53:33Z</updated>
+  <updated>2021-09-12T06:54:39Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr. Who</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/jpellgen/51453220705/"/>
+    <id>tag:flickr.com,2005:/photo/51453220705</id>
+    <published>2021-09-12T06:37:52Z</published>
+    <updated>2021-09-12T06:37:52Z</updated>
+    <flickr:date_taken>2021-09-08T11:02:57-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-09-08T11:02:57-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/jpellgen/"&gt;jpellgen (@1179_jp)&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/jpellgen/51453220705/" title="Dr. Who"&gt;&lt;img src="https://live.staticflickr.com/65535/51453220705_64e8092454_m.jpg" width="152" height="240" alt="Dr. Who" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;&lt;b&gt;Museum of Pop Culture. Seattle, Washington.&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;</content>
+    <author>
+      <name>jpellgen (@1179_jp)</name>
+      <uri>https://www.flickr.com/people/jpellgen/</uri>
+      <flickr:nsid>27917561@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8268/buddyicons/27917561@N00.jpg?1369089885#27917561@N00</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51453220705_64e8092454_b.jpg"/>
+    <category term="seattle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="washington" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wa" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pacificnorthwest" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="travel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="nikon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sigma" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="1770mm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="d7200" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="usa" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="america" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="september" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="summer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mopop" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="empmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="museum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="museumofpopculture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="frankgehry" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="popculture" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>いつかはみな消える　空さえも　(Season1 #2)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436926313906905091" type="text/html"/>
+    <title>RT @The_Cybermatt: Any pretence of critical detachment goes by the wayside in today’s #DrWho episode review https://t.co/82Nkyl1otU</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436942063543652353" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">いつかはみな消える　空さえも　(Season1 #2)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @The_Cybermatt: Any pretence of critical detachment goes by the wayside in today’s #DrWho episode review https://t.co/82Nkyl1otU</div>
     </content>
-    <updated>2021-09-12T05:35:04Z</updated>
+    <updated>2021-09-12T06:37:39Z</updated>
   </entry>
   <entry>
-    <title>@smokeyjoh NRL and consistency 😂</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436919612608679940" type="text/html"/>
+    <title>店が閉まるまで50億年しかないもの (Season1 #2/ローズ)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436941412914786306" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@smokeyjoh NRL and consistency 😂</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">店が閉まるまで50億年しかないもの (Season1 #2/ローズ)</div>
     </content>
-    <updated>2021-09-12T05:08:26Z</updated>
+    <updated>2021-09-12T06:35:04Z</updated>
   </entry>
   <entry>
-    <title>Doctor Dr Who Figure Bundle - Daleks, Time Machine, 17 Figures BBC Licenced 5”
-
-Ends Mon 13th Sep @ 10:01pm… https://t.co/FD6KosYzy8</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436913784854126597" type="text/html"/>
+    <title>RT @mckeown_ryan: Champion 🏆 #USOpen https://t.co/mlh74Ou1A4</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436936693924470786" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Doctor Dr Who Figure Bundle - Daleks, Time Machine, 17 Figures BBC Licenced 5”
-
-Ends Mon 13th Sep @ 10:01pm… https://t.co/FD6KosYzy8</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @mckeown_ryan: Champion 🏆 #USOpen https://t.co/mlh74Ou1A4</div>
     </content>
-    <updated>2021-09-12T04:45:17Z</updated>
+    <updated>2021-09-12T06:16:19Z</updated>
   </entry>
   <entry>
-    <title>2000AD 45 Comics from 1980 Job Lot, Judge Dread
-
-Ends Sun 12th Sep @ 6:52pm
-
-https://t.co/w1sbBPqOxv
-
-#ad… https://t.co/SNNSDNKzEi</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436913769087655943" type="text/html"/>
+    <title>@KensingtonRoyal @EmmaRaducanu @leylahfernandez Outstanding young lady 👏👏👏</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436936622264786946" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">2000AD 45 Comics from 1980 Job Lot, Judge Dread
-
-Ends Sun 12th Sep @ 6:52pm
-
-https://t.co/w1sbBPqOxv
-
-#ad… https://t.co/SNNSDNKzEi</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@KensingtonRoyal @EmmaRaducanu @leylahfernandez Outstanding young lady 👏👏👏</div>
     </content>
-    <updated>2021-09-12T04:45:13Z</updated>
+    <updated>2021-09-12T06:16:02Z</updated>
   </entry>
   <entry>
-    <title>まさかあのレネット・プアソン? 後のマダム=エトワール、ルイ15世の愛人、フランスの無冠の女王! 女優にして音楽家、ダンサー、そしてさらに! ファンタスティックな庭師! (Seson2#4)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1436911220674555906" type="text/html"/>
+    <title>2000ad prog 71,72,77,78 comics BANNED ISSUES 
+
+Ends Wed 15th Sep @ 8:10pm
+
+https://t.co/E1eBxQWiSt
+
+#ad #doctorwho… https://t.co/NMEMHCkpju</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1436936546796638208" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">まさかあのレネット・プアソン? 後のマダム=エトワール、ルイ15世の愛人、フランスの無冠の女王! 女優にして音楽家、ダンサー、そしてさらに! ファンタスティックな庭師! (Seson2#4)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">2000ad prog 71,72,77,78 comics BANNED ISSUES 
+
+Ends Wed 15th Sep @ 8:10pm
+
+https://t.co/E1eBxQWiSt
+
+#ad #doctorwho… https://t.co/NMEMHCkpju</div>
     </content>
-    <updated>2021-09-12T04:35:06Z</updated>
+    <updated>2021-09-12T06:15:44Z</updated>
+  </entry>
+  <entry>
+    <title>MBE for Spanish doctor who reduced deaths from ‘balconing’ among British tourists - Telegraph.co.uk</title>
+    <link rel="alternate" href="https://www.telegraph.co.uk/world-news/2021/09/12/mbe-spanish-doctor-reduced-deaths-balconing-among-british-tourists/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.telegraph.co.uk/world-news/2021/09/12/mbe-spanish-doctor-reduced-deaths-balconing-among-british-tourists/" target="_blank"&gt;MBE for Spanish doctor who reduced deaths from ‘balconing’ among British tourists&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Telegraph.co.uk&lt;/font&gt;</content>
+    <id>CBMidWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay93b3JsZC1uZXdzLzIwMjEvMDkvMTIvbWJlLXNwYW5pc2gtZG9jdG9yLXJlZHVjZWQtZGVhdGhzLWJhbGNvbmluZy1hbW9uZy1icml0aXNoLXRvdXJpc3RzL9IBeWh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay93b3JsZC1uZXdzLzIwMjEvMDkvMTIvbWJlLXNwYW5pc2gtZG9jdG9yLXJlZHVjZWQtZGVhdGhzLWJhbGNvbmluZy1hbW9uZy1icml0aXNoLXRvdXJpc3RzL2FtcC8</id>
+    <published>2021-09-12T06:00:00Z</published>
+    <updated>2021-09-12T06:00:00Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: Every Doctor's Signature Outfit, Ranked From Worst To Best - CBR - Comic Book Resources</title>
@@ -97,14 +147,6 @@ https://t.co/w1sbBPqOxv
     <id>52781874049133</id>
     <published>2021-09-11T19:47:40Z</published>
     <updated>2021-09-11T19:47:40Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who: Christopher Eccleston Reveals the Real Reason He Hasn't Returned - ComicBook.com</title>
-    <link rel="alternate" href="https://comicbook.com/tv-shows/news/doctor-who-christopher-eccleston-real-reason-exit-not-return/" type="text/html"/>
-    <content type="html">&lt;a href="https://comicbook.com/tv-shows/news/doctor-who-christopher-eccleston-real-reason-exit-not-return/" target="_blank"&gt;Doctor Who: Christopher Eccleston Reveals the Real Reason He Hasn't Returned&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ComicBook.com&lt;/font&gt;</content>
-    <id>CAIiEJBNityIIvDmbWyuDN-u9MYqMwgEKioIACIQXquX76mosOWLp5uvC3kELCoUCAoiEF6rl--pqLDli6ebrwt5BCwwlorJBg</id>
-    <published>2021-09-11T19:16:00Z</published>
-    <updated>2021-09-11T19:16:00Z</updated>
   </entry>
   <entry>
     <title>Kudd of Sudhmahadeva Keeping a culture alive - Daily Excelsior</title>
@@ -250,41 +292,6 @@ https://t.co/w1sbBPqOxv
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="k9drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="k9" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>R5117340 DragonCon 2021</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dsamsky/51435712037/"/>
-    <id>tag:flickr.com,2005:/photo/51435712037</id>
-    <published>2021-09-08T14:08:08Z</published>
-    <updated>2021-09-08T14:08:08Z</updated>
-    <flickr:date_taken>2021-09-02T15:14:23-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-02T15:14:23-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dsamsky/"&gt;dsamsky&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dsamsky/51435712037/" title="R5117340 DragonCon 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51435712037_64f1740cae_m.jpg" width="160" height="240" alt="R5117340 DragonCon 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>dsamsky</name>
-      <uri>https://www.flickr.com/people/dsamsky/</uri>
-      <flickr:nsid>25338921@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2858/buddyicons/25338921@N06.jpg?1369192867#25338921@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51435712037_64f1740cae_b.jpg"/>
-    <category term="9221" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlantaga" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplayer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon20121" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hilton" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriott" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thursday" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
