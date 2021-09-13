@@ -7,72 +7,228 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-13T22:53:58Z</updated>
+  <updated>2021-09-13T23:52:57Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
   <entry>
-    <title>@dailytelegraph No one cared when it was First reported, no one cares now..</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1437545708341456896" type="text/html"/>
+    <title>Handmade #Gallifreyan wooden clock with your own name/phrase #DoctorWho #DW #DrWho - WorldwideShipping… https://t.co/DnYIB2EUCt</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1437562238211137536" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@dailytelegraph No one cared when it was First reported, no one cares now..</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Handmade #Gallifreyan wooden clock with your own name/phrase #DoctorWho #DW #DrWho - WorldwideShipping… https://t.co/DnYIB2EUCt</div>
     </content>
-    <updated>2021-09-13T22:36:19Z</updated>
+    <updated>2021-09-13T23:42:00Z</updated>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6929.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51468390152/"/>
+    <id>tag:flickr.com,2005:/photo/51468390152</id>
+    <published>2021-09-13T23:39:02Z</published>
+    <updated>2021-09-13T23:39:02Z</updated>
+    <flickr:date_taken>2017-08-05T12:41:58-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:41:58-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51468390152/" title="Dr Who Experience 2017 - 6929.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51468390152_e399010528_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6929.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51468390152_e399010528_b.jpg"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alienwarlord" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="monster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="prosthesis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fisherking" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beforetheflood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="planettivoli" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6928.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51469875984/"/>
+    <id>tag:flickr.com,2005:/photo/51469875984</id>
+    <published>2021-09-13T23:38:56Z</published>
+    <updated>2021-09-13T23:38:56Z</updated>
+    <flickr:date_taken>2017-08-05T12:41:49-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:41:49-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51469875984/" title="Dr Who Experience 2017 - 6928.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51469875984_9565aebe68_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6928.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51469875984_9565aebe68_b.jpg"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alienwarlord" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="monster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beforetheflood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fisherking" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="prosthesis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="planettivoli" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who Experience 2017 - 6927.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51469396488/"/>
+    <id>tag:flickr.com,2005:/photo/51469396488</id>
+    <published>2021-09-13T23:38:47Z</published>
+    <updated>2021-09-13T23:38:47Z</updated>
+    <flickr:date_taken>2017-08-05T12:41:34-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:41:34-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51469396488/" title="Dr Who Experience 2017 - 6927.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51469396488_e6c07b06e4_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6927.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidRBadger</name>
+      <uri>https://www.flickr.com/people/vultan2000/</uri>
+      <flickr:nsid>18197522@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
+    </author>
+    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51469396488_e6c07b06e4_b.jpg"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alienwarlord" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="monster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="newseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="prosthesis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="revivedseries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fisherking" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beforetheflood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="planettivoli" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>@serotonina_drag Rapaz eu espero que se eu piscar vc não me mate obrigado ficou muito bom #drwho</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1437560891122278403" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@serotonina_drag Rapaz eu espero que se eu piscar vc não me mate obrigado ficou muito bom #drwho</div>
+    </content>
+    <updated>2021-09-13T23:36:39Z</updated>
   </entry>
   <entry>
-    <title>RT @DrWhoenthusiats: Doctor Who Myth Makers DVD Stephen Thorne
-
-Ends Sun 19th Sep @ 8:10pm
-
-https://t.co/atuFdwswKE
-
-#ad #drwhodvd #drwho4k…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1437541981710807042" type="text/html"/>
+    <title>今度何か興味を引く対象を見つけたら、どかどかと踏み込むんだろうな 人間ってやつは (Season2 #9)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1437560497654546432" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @DrWhoenthusiats: Doctor Who Myth Makers DVD Stephen Thorne
-
-Ends Sun 19th Sep @ 8:10pm
-
-https://t.co/atuFdwswKE
-
-#ad #drwhodvd #drwho4k…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">今度何か興味を引く対象を見つけたら、どかどかと踏み込むんだろうな 人間ってやつは (Season2 #9)</div>
     </content>
-    <updated>2021-09-13T22:21:31Z</updated>
+    <updated>2021-09-13T23:35:05Z</updated>
   </entry>
   <entry>
-    <title>Doctor Who Myth Makers DVD Stephen Thorne
+    <title>RT @DrWhoenthusiats: Full sized replica Dalek - Free Local delivery 15 miles or Collection only!
 
-Ends Sun 19th Sep @ 8:10pm
+Ends Thu 23rd Sep @ 1:35pm
 
-https://t.co/atuFdwswKE
-
-#ad #drwhodvd… https://t.co/SsHCIKQSVd</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1437540394397536258" type="text/html"/>
+https://t.co/…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1437557143973113856" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Doctor Who Myth Makers DVD Stephen Thorne
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DrWhoenthusiats: Full sized replica Dalek - Free Local delivery 15 miles or Collection only!
 
-Ends Sun 19th Sep @ 8:10pm
+Ends Thu 23rd Sep @ 1:35pm
 
-https://t.co/atuFdwswKE
-
-#ad #drwhodvd… https://t.co/SsHCIKQSVd</div>
+https://t.co/…</div>
     </content>
-    <updated>2021-09-13T22:15:12Z</updated>
+    <updated>2021-09-13T23:21:46Z</updated>
   </entry>
   <entry>
-    <title>@adilray Rip</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1437538126310907907" type="text/html"/>
+    <title>RT @DrWhoenthusiats: Doctor Who History Of The Daleks 7 Plus Doctor Figures B&amp;amp;M
+
+Ends Sun 19th Sep @ 9:24pm
+
+https://t.co/gi6q7mtZfo
+
+#ad #…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1437557134988873738" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@adilray Rip</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DrWhoenthusiats: Doctor Who History Of The Daleks 7 Plus Doctor Figures B&amp;M
+
+Ends Sun 19th Sep @ 9:24pm
+
+https://t.co/gi6q7mtZfo
+
+#ad #…</div>
     </content>
-    <updated>2021-09-13T22:06:12Z</updated>
+    <updated>2021-09-13T23:21:44Z</updated>
   </entry>
   <entry>
-    <title>僕はずっと宇宙を見てきた。多くの偽りの神、邪神、ちっぽけな神、神様の卵、あらゆる神を見てきた。だがそれらの神々よりも、誰を信じるかと聞かれたら、一人しかいない。ローズを信じてる (Season2 #9)</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1437537814749401088" type="text/html"/>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">僕はずっと宇宙を見てきた。多くの偽りの神、邪神、ちっぽけな神、神様の卵、あらゆる神を見てきた。だがそれらの神々よりも、誰を信じるかと聞かれたら、一人しかいない。ローズを信じてる (Season2 #9)</div>
-    </content>
-    <updated>2021-09-13T22:04:57Z</updated>
+    <title>Who's Who? We have some ideas about the new Doctor Who - Cult of Whatever</title>
+    <link rel="alternate" href="https://www.cultofwhatever.com/2021/09/whos-who-we-have-some-ideas-about-the-new-doctor-who/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cultofwhatever.com/2021/09/whos-who-we-have-some-ideas-about-the-new-doctor-who/" target="_blank"&gt;Who's Who? We have some ideas about the new Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cult of Whatever&lt;/font&gt;</content>
+    <id>CBMiXGh0dHBzOi8vd3d3LmN1bHRvZndoYXRldmVyLmNvbS8yMDIxLzA5L3dob3Mtd2hvLXdlLWhhdmUtc29tZS1pZGVhcy1hYm91dC10aGUtbmV3LWRvY3Rvci13aG8v0gEA</id>
+    <published>2021-09-13T22:41:04Z</published>
+    <updated>2021-09-13T22:41:04Z</updated>
+  </entry>
+  <entry>
+    <title>‘Doctor Who’ Actress Tanya Fear Found After Being Reported Missing in Los Angeles - Us Weekly</title>
+    <link rel="alternate" href="https://www.usmagazine.com/celebrity-news/news/doctor-who-actress-tanya-fear-reported-missing-in-los-angeles/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.usmagazine.com/celebrity-news/news/doctor-who-actress-tanya-fear-reported-missing-in-los-angeles/" target="_blank"&gt;‘Doctor Who’ Actress Tanya Fear Found After Being Reported Missing in Los Angeles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Us Weekly&lt;/font&gt;</content>
+    <id>CAIiELVrzFIkxmu_i0J_zpFwbQ8qGAgEKg8IACoHCAowztTBATCMkBQwu7nXBQ</id>
+    <published>2021-09-13T22:10:35Z</published>
+    <updated>2021-09-13T22:10:35Z</updated>
   </entry>
   <entry>
     <title>Silent Witness season 24 episode 3 and 4 cast: Meet stars of ‘Bad Love’ - HITC - Football, Gaming, Movies, TV, Music</title>
@@ -83,20 +239,36 @@ https://t.co/atuFdwswKE
     <updated>2021-09-13T19:00:00Z</updated>
   </entry>
   <entry>
+    <title>Doctor Who's Christopher Eccleston returns for series 2 of audio adventures - Radio Times</title>
+    <link rel="alternate" href="https://www.radiotimes.com/tv/sci-fi/doctor-who-christopher-eccleston-ninth-doctor-big-finish-series-2-newsupdate/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.radiotimes.com/tv/sci-fi/doctor-who-christopher-eccleston-ninth-doctor-big-finish-series-2-newsupdate/" target="_blank"&gt;Doctor Who's Christopher Eccleston returns for series 2 of audio adventures&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Times&lt;/font&gt;</content>
+    <id>CAIiEDFtFuFQmp_v_S7DXaCKBuYqGQgEKhAIACoHCAowu_2FCzDPv4MDMP3biQY</id>
+    <published>2021-09-13T16:05:16Z</published>
+    <updated>2021-09-13T16:05:16Z</updated>
+  </entry>
+  <entry>
+    <title>Tanya Fear: Concerns for Doctor Who star missing in Los Angeles - Evening Standard</title>
+    <link rel="alternate" href="https://www.standard.co.uk/news/world/tanya-fear-doctor-who-missing-los-angeles-b955029.html?itm_source=Internal&amp;itm_channel=section_banner&amp;itm_campaign=breaking-news-ticker&amp;itm_content=2" type="text/html"/>
+    <content type="html">&lt;a href="https://www.standard.co.uk/news/world/tanya-fear-doctor-who-missing-los-angeles-b955029.html?itm_source=Internal&amp;itm_channel=section_banner&amp;itm_campaign=breaking-news-ticker&amp;itm_content=2" target="_blank"&gt;Tanya Fear: Concerns for Doctor Who star missing in Los Angeles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
+    <id>CBMiuwFodHRwczovL3d3dy5zdGFuZGFyZC5jby51ay9uZXdzL3dvcmxkL3RhbnlhLWZlYXItZG9jdG9yLXdoby1taXNzaW5nLWxvcy1hbmdlbGVzLWI5NTUwMjkuaHRtbD9pdG1fc291cmNlPUludGVybmFsJml0bV9jaGFubmVsPXNlY3Rpb25fYmFubmVyJml0bV9jYW1wYWlnbj1icmVha2luZy1uZXdzLXRpY2tlciZpdG1fY29udGVudD0y0gFgaHR0cHM6Ly93d3cuc3RhbmRhcmQuY28udWsvbmV3cy93b3JsZC90YW55YS1mZWFyLWRvY3Rvci13aG8tbWlzc2luZy1sb3MtYW5nZWxlcy1iOTU1MDI5Lmh0bWw_YW1w</id>
+    <published>2021-09-13T12:13:17Z</published>
+    <updated>2021-09-13T12:13:17Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who: Jodie Whittaker replaced by Rhys Ifans as former Time Lord speaks out? - Daily Express</title>
+    <link rel="alternate" href="https://www.express.co.uk/showbiz/tv-radio/1490394/Doctor-Who-Jodie-Whittaker-replaced-Rhys-Ifans" type="text/html"/>
+    <content type="html">&lt;a href="https://www.express.co.uk/showbiz/tv-radio/1490394/Doctor-Who-Jodie-Whittaker-replaced-Rhys-Ifans" target="_blank"&gt;Doctor Who: Jodie Whittaker replaced by Rhys Ifans as former Time Lord speaks out?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Express&lt;/font&gt;</content>
+    <id>CBMiYWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvc2hvd2Jpei90di1yYWRpby8xNDkwMzk0L0RvY3Rvci1XaG8tSm9kaWUtV2hpdHRha2VyLXJlcGxhY2VkLVJoeXMtSWZhbnPSAWVodHRwczovL3d3dy5leHByZXNzLmNvLnVrL3Nob3diaXovdHYtcmFkaW8vMTQ5MDM5NC9Eb2N0b3ItV2hvLUpvZGllLVdoaXR0YWtlci1yZXBsYWNlZC1SaHlzLUlmYW5zL2FtcA</id>
+    <published>2021-09-13T10:23:13Z</published>
+    <updated>2021-09-13T10:23:13Z</updated>
+  </entry>
+  <entry>
     <title>A haunting Christmas in store for Torchwood this December in The Grey Mare - Flickering Myth</title>
     <link rel="alternate" href="https://www.flickeringmyth.com/2021/09/a-haunting-christmas-in-store-for-torchwood-this-december-in-the-grey-mare/" type="text/html"/>
     <content type="html">&lt;a href="https://www.flickeringmyth.com/2021/09/a-haunting-christmas-in-store-for-torchwood-this-december-in-the-grey-mare/" target="_blank"&gt;A haunting Christmas in store for Torchwood this December in The Grey Mare&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Flickering Myth&lt;/font&gt;</content>
     <id>CBMicmh0dHBzOi8vd3d3LmZsaWNrZXJpbmdteXRoLmNvbS8yMDIxLzA5L2EtaGF1bnRpbmctY2hyaXN0bWFzLWluLXN0b3JlLWZvci10b3JjaHdvb2QtdGhpcy1kZWNlbWJlci1pbi10aGUtZ3JleS1tYXJlL9IBAA</id>
     <published>2021-09-13T10:15:38Z</published>
     <updated>2021-09-13T10:15:38Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who actor missing in California, manager confirms - Halesowen News</title>
-    <link rel="alternate" href="https://www.halesowennews.co.uk/news/national/uk-today/19576192.tanya-fear-doctor-actor-missing-california/" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.halesowennews.co.uk/news/national/uk-today/19576192.tanya-fear-doctor-actor-missing-california/" target="_blank"&gt;Doctor Who actor missing in California, manager confirms&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Halesowen News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.denbighshirefreepress.co.uk/news/national/uk-today/19577039.missing-doctor-actor-tanya-fear-spotted-la/" target="_blank"&gt;Missing Doctor Who star reportedly seen in supermarket days after disappearing&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Denbighshire Free Press&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.usatoday.com/story/entertainment/celebrities/2021/09/13/tanya-fear-doctor-who-actress-found-safe-after-going-missing/8320904002/" target="_blank"&gt;'Doctor Who' actress Tanya Fear found safe after being reported missing in Los Angeles&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;USA TODAY&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.sky.com/story/tanya-fear-concerns-for-former-doctor-who-star-reported-missing-in-california-12406823" target="_blank"&gt;Tanya Fear: Concerns for former Doctor Who star reported missing in California&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://metro.co.uk/2021/09/13/missing-doctor-who-star-tanya-fear-found-alive-by-police-15253580/" target="_blank"&gt;Missing Doctor Who star Tanya Fear found alive by police&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWl5ejVib2s0QU1FWWZUTHo0T3dLTnpLQUFQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
-    <id>52781876881330</id>
-    <published>2021-09-13T07:56:05Z</published>
-    <updated>2021-09-13T07:56:05Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The_4th_Dr_Who_DragonCon_2021</title>
@@ -180,128 +352,6 @@ https://t.co/atuFdwswKE
     <category term="architecture" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="popculture" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry>
-    <title>Doctor Who: Every Doctor's Signature Outfit, Ranked From Worst To Best - CBR - Comic Book Resources</title>
-    <link rel="alternate" href="https://www.cbr.com/doctor-who-signature-outfits-ranked/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.cbr.com/doctor-who-signature-outfits-ranked/" target="_blank"&gt;Doctor Who: Every Doctor's Signature Outfit, Ranked From Worst To Best&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CBR - Comic Book Resources&lt;/font&gt;</content>
-    <id>CAIiEM28Z9N2TxjN8iMDCqfxD0wqGQgEKhAIACoHCAowvqWBCzCY4vwCMLSAtgY</id>
-    <published>2021-09-12T01:30:00Z</published>
-    <updated>2021-09-12T01:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who: River Song's Story In Chronological Order Explained - Screen Rant</title>
-    <link rel="alternate" href="https://screenrant.com/doctor-who-river-song-chronological-order-timeline-explained/" type="text/html"/>
-    <content type="html">&lt;a href="https://screenrant.com/doctor-who-river-song-chronological-order-timeline-explained/" target="_blank"&gt;Doctor Who: River Song's Story In Chronological Order Explained&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;</content>
-    <id>CAIiEK1fo2HQ3M5yyRR1G8QgmHgqGQgEKhAIACoHCAownqWBCzD44fwCMMymtwY</id>
-    <published>2021-09-11T21:05:00Z</published>
-    <updated>2021-09-11T21:05:00Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who's Matt Smith tips Harry Potter star as next Doctor - Digital Spy</title>
-    <link rel="alternate" href="https://www.digitalspy.com/tv/a37556720/matt-smith-harry-potter-rhys-ifans-next-doctor-who/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.digitalspy.com/tv/a37556720/matt-smith-harry-potter-rhys-ifans-next-doctor-who/" target="_blank"&gt;Doctor Who's Matt Smith tips Harry Potter star as next Doctor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Spy&lt;/font&gt;</content>
-    <id>CAIiEC-CeIr_TzyHfsgT7QRbB6gqMwgEKioIACIQOgZjKMjRwhobRtvER5S_5SoUCAoiEDoGYyjI0cIaG0bbxEeUv-Uw8eTGBg</id>
-    <published>2021-09-11T19:47:40Z</published>
-    <updated>2021-09-11T19:47:40Z</updated>
-  </entry>
-  <entry>
-    <title>Best Doctor Who Monsters, Ranked - Collider</title>
-    <link rel="alternate" href="https://collider.com/best-doctor-who-monsters-ranked/" type="text/html"/>
-    <content type="html">&lt;a href="https://collider.com/best-doctor-who-monsters-ranked/" target="_blank"&gt;Best Doctor Who Monsters, Ranked&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Collider&lt;/font&gt;</content>
-    <id>CAIiEK-wLEzY7RJ3rPwYEbSrShAqGQgEKhAIACoHCAow0eafCzDe8LcDMNPt8QY</id>
-    <published>2021-09-11T14:30:00Z</published>
-    <updated>2021-09-11T14:30:00Z</updated>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dalek</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/141532063@N03/51444877751/"/>
-    <id>tag:flickr.com,2005:/photo/51444877751</id>
-    <published>2021-09-11T06:47:16Z</published>
-    <updated>2021-09-11T06:47:16Z</updated>
-    <flickr:date_taken>2021-09-10T23:47:07-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-10T23:47:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/141532063@N03/"&gt;dcdselby&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/141532063@N03/51444877751/" title="Dalek"&gt;&lt;img src="https://live.staticflickr.com/65535/51444877751_70b6525935_m.jpg" width="240" height="177" alt="Dalek" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>dcdselby</name>
-      <uri>https://www.flickr.com/people/141532063@N03/</uri>
-      <flickr:nsid>141532063@N03</flickr:nsid>
-      <flickr:buddyicon>https://farm2.staticflickr.com/1730/buddyicons/141532063@N03.jpg?1528464730#141532063@N03</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51444877751_70b6525935_b.jpg"/>
-    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alien" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lumipro" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Doctor Who: The Thirteenth Doctor (Free Comic Book Day 2019)</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/franmoff/51444849631/"/>
-    <id>tag:flickr.com,2005:/photo/51444849631</id>
-    <published>2021-09-11T06:37:58Z</published>
-    <updated>2021-09-11T06:37:58Z</updated>
-    <flickr:date_taken>2021-08-29T16:40:29-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-08-29T16:40:29-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/franmoff/"&gt;FranMoff&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/franmoff/51444849631/" title="Doctor Who: The Thirteenth Doctor (Free Comic Book Day 2019)"&gt;&lt;img src="https://live.staticflickr.com/65535/51444849631_e03df139d6_m.jpg" width="154" height="240" alt="Doctor Who: The Thirteenth Doctor (Free Comic Book Day 2019)" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>FranMoff</name>
-      <uri>https://www.flickr.com/people/franmoff/</uri>
-      <flickr:nsid>8529568@N08</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2820/buddyicons/8529568@N08.jpg?1369230156#8529568@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51444849631_e03df139d6_b.jpg"/>
-    <category term="freecomicbookday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="comicbooks" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thirteenthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fcbd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2019" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fcbd2019" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="jodiewhittaker" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Good_Omens_Dr_Who_DragonCon_2021</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/142307065@N02/51445215900/"/>
-    <id>tag:flickr.com,2005:/photo/51445215900</id>
-    <published>2021-09-11T01:17:25Z</published>
-    <updated>2021-09-11T01:17:25Z</updated>
-    <flickr:date_taken>2021-09-05T14:24:22-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-05T14:24:22-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/142307065@N02/"&gt;IspywithmyPhotoEye&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/142307065@N02/51445215900/" title="Good_Omens_Dr_Who_DragonCon_2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51445215900_978fcd8715_m.jpg" width="174" height="240" alt="Good_Omens_Dr_Who_DragonCon_2021" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>IspywithmyPhotoEye</name>
-      <uri>https://www.flickr.com/people/142307065@N02/</uri>
-      <flickr:nsid>142307065@N02</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon05.png#142307065@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51445215900_978fcd8715_b.jpg"/>
-    <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon2021" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dcon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costume" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="goodomens" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
