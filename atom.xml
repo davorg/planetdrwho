@@ -7,7 +7,7 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-09-17T02:12:36Z</updated>
+  <updated>2021-09-17T02:54:18Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
   <entry>
@@ -243,16 +243,16 @@
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 6966.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51484657148/"/>
-    <id>tag:flickr.com,2005:/photo/51484657148</id>
-    <published>2021-09-16T22:39:23Z</published>
-    <updated>2021-09-16T22:39:23Z</updated>
-    <flickr:date_taken>2017-08-05T12:49:40-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T12:49:40-08:00</dc:date.Taken>
+    <title>Dr Who Experience 2017 - 6964.jpg</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51484441471/"/>
+    <id>tag:flickr.com,2005:/photo/51484441471</id>
+    <published>2021-09-16T22:39:10Z</published>
+    <updated>2021-09-16T22:39:10Z</updated>
+    <flickr:date_taken>2017-08-05T12:49:22-08:00</flickr:date_taken>
+    <dc:date.Taken>2017-08-05T12:49:22-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51484657148/" title="Dr Who Experience 2017 - 6966.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51484657148_4a17b57f7c_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6966.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51484441471/" title="Dr Who Experience 2017 - 6964.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51484441471_4d96e62e80_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 6964.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </content>
     <author>
@@ -262,23 +262,23 @@
       <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
     </author>
     <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51484657148_4a17b57f7c_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51484441471_4d96e62e80_b.jpg"/>
     <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="classicseriesdoctorwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="themaster" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="melkur" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thekeeperoftraken" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="silurian" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="warriorsofthedeep" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="statueofmelkur" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoandthesilurians" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="createdbymalcolmhulke" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lizardrace" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
