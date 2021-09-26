@@ -1,6 +1,6 @@
 # Planet Dr Who
 
-This repo contains the code and data that powers the site [Planet Doctor Who](https://drwho.theplanetarum.org].
+This repo contains the code and data that powers the site [Planet Doctor Who](https://drwho.theplanetarum.org).
 The site aggregates news and information about the how *Doctor Who* from various corners of the internet.
 
 The site is built using [Perlanet](https://github.com/davorg/perlanet) which is a tool for aggregating web
