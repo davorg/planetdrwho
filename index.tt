@@ -18,7 +18,7 @@
           crossorigin="anonymous">
     <link href="/css/style.css" rel="stylesheet">
 
-    <link rel="alternate" type="application/atom+xml" title="Atom" href="http://davorg.theplanetarium.org/atom.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="https://davorg.theplanetarium.org/atom.xml" />
     <style type="text/css">
 .card {
   margin-bottom: 10px;
