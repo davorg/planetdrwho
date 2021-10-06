@@ -7,58 +7,199 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-06T11:53:37Z</updated>
+  <updated>2021-10-06T13:00:29Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Guests-218</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dragonconphotos/51557329346/"/>
+    <id>tag:flickr.com,2005:/photo/51557329346</id>
+    <published>2021-10-06T12:58:30Z</published>
+    <updated>2021-10-06T12:58:30Z</updated>
+    <flickr:date_taken>2019-09-01T17:54:09-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-09-01T17:54:09-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dragonconphotos/"&gt;Dragon Con Photos&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dragonconphotos/51557329346/" title="Guests-218"&gt;&lt;img src="https://live.staticflickr.com/65535/51557329346_f56ed78850_m.jpg" width="240" height="160" alt="Guests-218" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Dragon Con Photos</name>
+      <uri>https://www.flickr.com/people/dragonconphotos/</uri>
+      <flickr:nsid>126601672@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5308/buddyicons/126601672@N07.jpg?1475030306#126601672@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51557329346_f56ed78850_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guests" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Guests-217</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dragonconphotos/51557329361/"/>
+    <id>tag:flickr.com,2005:/photo/51557329361</id>
+    <published>2021-10-06T12:58:29Z</published>
+    <updated>2021-10-06T12:58:29Z</updated>
+    <flickr:date_taken>2019-09-01T17:38:22-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-09-01T17:38:22-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dragonconphotos/"&gt;Dragon Con Photos&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dragonconphotos/51557329361/" title="Guests-217"&gt;&lt;img src="https://live.staticflickr.com/65535/51557329361_b6698c0ea8_m.jpg" width="240" height="160" alt="Guests-217" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Dragon Con Photos</name>
+      <uri>https://www.flickr.com/people/dragonconphotos/</uri>
+      <flickr:nsid>126601672@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5308/buddyicons/126601672@N07.jpg?1475030306#126601672@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51557329361_b6698c0ea8_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guests" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Guests-145</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dragonconphotos/51557330341/"/>
+    <id>tag:flickr.com,2005:/photo/51557330341</id>
+    <published>2021-10-06T12:57:50Z</published>
+    <updated>2021-10-06T12:57:50Z</updated>
+    <flickr:date_taken>2019-08-31T17:42:06-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-08-31T17:42:06-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dragonconphotos/"&gt;Dragon Con Photos&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dragonconphotos/51557330341/" title="Guests-145"&gt;&lt;img src="https://live.staticflickr.com/65535/51557330341_8be5c65b03_m.jpg" width="160" height="240" alt="Guests-145" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Dragon Con Photos</name>
+      <uri>https://www.flickr.com/people/dragonconphotos/</uri>
+      <flickr:nsid>126601672@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5308/buddyicons/126601672@N07.jpg?1475030306#126601672@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51557330341_8be5c65b03_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guests" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Guests-146</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dragonconphotos/51557566873/"/>
+    <id>tag:flickr.com,2005:/photo/51557566873</id>
+    <published>2021-10-06T12:57:50Z</published>
+    <updated>2021-10-06T12:57:50Z</updated>
+    <flickr:date_taken>2019-08-31T17:47:27-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-08-31T17:47:27-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dragonconphotos/"&gt;Dragon Con Photos&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dragonconphotos/51557566873/" title="Guests-146"&gt;&lt;img src="https://live.staticflickr.com/65535/51557566873_07074e47f8_m.jpg" width="240" height="160" alt="Guests-146" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Dragon Con Photos</name>
+      <uri>https://www.flickr.com/people/dragonconphotos/</uri>
+      <flickr:nsid>126601672@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5308/buddyicons/126601672@N07.jpg?1475030306#126601672@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51557566873_07074e47f8_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guests" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Guests-144</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/dragonconphotos/51557566893/"/>
+    <id>tag:flickr.com,2005:/photo/51557566893</id>
+    <published>2021-10-06T12:57:49Z</published>
+    <updated>2021-10-06T12:57:49Z</updated>
+    <flickr:date_taken>2019-08-31T17:39:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2019-08-31T17:39:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/dragonconphotos/"&gt;Dragon Con Photos&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/dragonconphotos/51557566893/" title="Guests-144"&gt;&lt;img src="https://live.staticflickr.com/65535/51557566893_1240c27a77_m.jpg" width="240" height="160" alt="Guests-144" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>Dragon Con Photos</name>
+      <uri>https://www.flickr.com/people/dragonconphotos/</uri>
+      <flickr:nsid>126601672@N07</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5308/buddyicons/126601672@N07.jpg?1475030306#126601672@N07</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51557566893_1240c27a77_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="guests" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>@Names_DrWho Nel mio caso ti passa la mutua🥰🥰🥰</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1445715815106449416" type="text/html"/>
-    <content>QE5hbWVzX0RyV2hvIE5lbCBtaW8gY2FzbyB0aSBwYXNzYSBsYSBtdXR1YfCfpbDwn6Ww8J+lsA==</content>
-    <updated>2021-10-06T11:41:25Z</updated>
+    <title>RT @Matt_SmithNews: Andy Gotts does the Doctors!
+Matt Smith, David Tennant, Peter Capaldi and Jodie Whittaker by celebrity photographer #An…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1445729506942197765" type="text/html"/>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: Andy Gotts does the Doctors!
+Matt Smith, David Tennant, Peter Capaldi and Jodie Whittaker by celebrity photographer #An…</div>
+    </content>
+    <updated>2021-10-06T12:35:49Z</updated>
   </entry>
   <entry>
-    <title>RT @Matt_SmithNews: #NationalBadgerDay
-Matt Smith wanted a Badger for Christmas. Did he get one?
-What do you think?!
-And so the legend of C…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1445715530069864464" type="text/html"/>
+    <title>君らがチップスを食べ、一日テレビを見ている間、知らないところで戦争が続いているんだ (Series1 #1)</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1445729324913496064" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: #NationalBadgerDay
-Matt Smith wanted a Badger for Christmas. Did he get one?
-What do you think?!
-And so the legend of C…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">君らがチップスを食べ、一日テレビを見ている間、知らないところで戦争が続いているんだ (Series1 #1)</div>
     </content>
-    <updated>2021-10-06T11:40:17Z</updated>
+    <updated>2021-10-06T12:35:06Z</updated>
   </entry>
   <entry>
-    <title>@crisalidemalva eh lo so faccio questo effetto</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1445715025235042314" type="text/html"/>
+    <title>RT @Matt_SmithNews: Andy Gotts does the Doctors!
+Matt Smith, David Tennant, Peter Capaldi and Jodie Whittaker by celebrity photographer #An…</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1445728088290217984" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@crisalidemalva eh lo so faccio questo effetto</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: Andy Gotts does the Doctors!
+Matt Smith, David Tennant, Peter Capaldi and Jodie Whittaker by celebrity photographer #An…</div>
     </content>
-    <updated>2021-10-06T11:38:16Z</updated>
+    <updated>2021-10-06T12:30:11Z</updated>
   </entry>
   <entry>
-    <title>RT @Quantum_Sauce: ⌚While we're hyping #Halloween🎃 for our next #live @Quantum_Sauce, guess *WHO* is coming to @FConstitutional on 1️⃣8️⃣No…</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1445714715242545152" type="text/html"/>
+    <title>@Amyrmia Ryo Saeba</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1445725345739460613" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Quantum_Sauce: ⌚While we're hyping #Halloween🎃 for our next #live @Quantum_Sauce, guess *WHO* is coming to @FConstitutional on 1️⃣8️⃣No…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@Amyrmia Ryo Saeba</div>
     </content>
-    <updated>2021-10-06T11:37:02Z</updated>
+    <updated>2021-10-06T12:19:17Z</updated>
   </entry>
   <entry>
-    <title>@Names_DrWho la drokaaaaaaaaaaaaaaaa😄😄😄</title>
-    <link rel="alternate" href="https://twitter.com/drwho/status/1445714705339727877" type="text/html"/>
+    <title>@dizzheart @bbcdoctorwho Lol how childish</title>
+    <link rel="alternate" href="https://twitter.com/drwho/status/1445725055296491522" type="text/html"/>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@Names_DrWho la drokaaaaaaaaaaaaaaaa😄😄😄</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@dizzheart @bbcdoctorwho Lol how childish</div>
     </content>
-    <updated>2021-10-06T11:37:00Z</updated>
+    <updated>2021-10-06T12:18:08Z</updated>
+  </entry>
+  <entry>
+    <title>Colin Baker says an actor of colour should replace Jodie Whittaker on Doctor Who - Radio Times</title>
+    <link rel="alternate" href="https://www.radiotimes.com/tv/sci-fi/colin-baker-says-an-actor-of-colour-should-replace-jodie-whittaker-on-doctor-who-newsupdate/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.radiotimes.com/tv/sci-fi/colin-baker-says-an-actor-of-colour-should-replace-jodie-whittaker-on-doctor-who-newsupdate/" target="_blank"&gt;Colin Baker says an actor of colour should replace Jodie Whittaker on Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Times&lt;/font&gt;</content>
+    <id>CAIiEJ-9kxeMlT80osX_ULw7HIIqGQgEKhAIACoHCAowu_2FCzDPv4MDMP3biQY</id>
+    <published>2021-10-06T12:10:54Z</published>
+    <updated>2021-10-06T12:10:54Z</updated>
+  </entry>
+  <entry>
+    <title>Dancing On Ice 2022: Strictly Come Dancing's Brendan Cole confirmed for ITV show - Denbighshire Free Press</title>
+    <link rel="alternate" href="https://www.denbighshirefreepress.co.uk/news/national/uk-today/19628663.dancing-ice-strictlys-brendan-cole-announced-next-contestant/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.denbighshirefreepress.co.uk/news/national/uk-today/19628663.dancing-ice-strictlys-brendan-cole-announced-next-contestant/" target="_blank"&gt;Dancing On Ice 2022: Strictly Come Dancing's Brendan Cole confirmed for ITV show&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Denbighshire Free Press&lt;/font&gt;</content>
+    <id>CBMihQFodHRwczovL3d3dy5kZW5iaWdoc2hpcmVmcmVlcHJlc3MuY28udWsvbmV3cy9uYXRpb25hbC91ay10b2RheS8xOTYyODY2My5kYW5jaW5nLWljZS1zdHJpY3RseXMtYnJlbmRhbi1jb2xlLWFubm91bmNlZC1uZXh0LWNvbnRlc3RhbnQv0gEA</id>
+    <published>2021-10-06T11:36:18Z</published>
+    <updated>2021-10-06T11:36:18Z</updated>
   </entry>
   <entry>
     <title>John Barrowman beams huge smile as he's seen for first time since Dancing On Ice axe - Mirror.co.uk</title>
     <link rel="alternate" href="https://www.mirror.co.uk/3am/celebrity-news/john-barrowman-beams-huge-smile-25149408" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.mirror.co.uk/3am/celebrity-news/john-barrowman-beams-huge-smile-25149408" target="_blank"&gt;John Barrowman beams huge smile as he's seen for first time since Dancing On Ice axe&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror.co.uk&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.cinemablend.com/television/john-barrowman-keeps-losing-jobs-after-flashing-allegations-so-what-about-doctor-who" target="_blank"&gt;John Barrowman Keeps Losing Jobs After Flashing Allegations, So What About Doctor Who?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CinemaBlend&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.kulr8.com/lifestyles/entertainment/dame-arlene-phillips-set-to-replace-john-barrowman-on-dancing-on-ice/article_dbca3ec8-4566-5824-b5fe-8e484974b913.html" target="_blank"&gt;Dame Arlene Phillips set to replace John Barrowman on 'Dancing On Ice'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;KULR-TV&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWpucjZiOWs0QU1FVGEyUnN1bUE2akVLQUFQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
-    <id>52781921179623</id>
+    <content type="html">&lt;a href="https://www.mirror.co.uk/3am/celebrity-news/john-barrowman-beams-huge-smile-25149408" target="_blank"&gt;John Barrowman beams huge smile as he's seen for first time since Dancing On Ice axe&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Mirror.co.uk&lt;/font&gt;</content>
+    <id>CBMiVGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3Mvam9obi1iYXJyb3dtYW4tYmVhbXMtaHVnZS1zbWlsZS0yNTE0OTQwONIBWGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay8zYW0vY2VsZWJyaXR5LW5ld3Mvam9obi1iYXJyb3dtYW4tYmVhbXMtaHVnZS1zbWlsZS0yNTE0OTQwOC5hbXA</id>
     <published>2021-10-06T11:00:00Z</published>
     <updated>2021-10-06T11:00:00Z</updated>
   </entry>
@@ -95,253 +236,6 @@ And so the legend of C…</div>
     <updated>2021-10-06T02:33:30Z</updated>
   </entry>
   <entry>
-    <title>SC panel quizzes doctor who treated injured cops - Times of India</title>
-    <link rel="alternate" href="https://timesofindia.indiatimes.com/city/hyderabad/sc-panel-quizzes-doctor-who-treated-injured-cops/articleshow/86792652.cms" type="text/html"/>
-    <content type="html">&lt;a href="https://timesofindia.indiatimes.com/city/hyderabad/sc-panel-quizzes-doctor-who-treated-injured-cops/articleshow/86792652.cms" target="_blank"&gt;SC panel quizzes doctor who treated injured cops&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Times of India&lt;/font&gt;</content>
-    <id>CAIiENfV_PLc3H2rTCmsMXoR04oqGQgEKhAIACoHCAowzrL9CjDC7vQCMKCT1wU</id>
-    <published>2021-10-05T23:23:00Z</published>
-    <updated>2021-10-05T23:23:00Z</updated>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 7048.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51552122194/"/>
-    <id>tag:flickr.com,2005:/photo/51552122194</id>
-    <published>2021-10-04T23:09:55Z</published>
-    <updated>2021-10-04T23:09:55Z</updated>
-    <flickr:date_taken>2017-08-05T13:09:33-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T13:09:33-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51552122194/" title="Dr Who Experience 2017 - 7048.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51552122194_ab14a315b7_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 7048.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51552122194_ab14a315b7_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="steampunk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="iconicdesign" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="televisionhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="graffiti" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rigsby" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="claraoswaldmemorial" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="spraypaint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="policebox" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="publiccallbox" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvhistory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="timeandrelativedimensionsinspace" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 7044.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51550608007/"/>
-    <id>tag:flickr.com,2005:/photo/51550608007</id>
-    <published>2021-10-04T23:09:50Z</published>
-    <updated>2021-10-04T23:09:50Z</updated>
-    <flickr:date_taken>2017-08-05T13:07:57-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T13:07:57-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51550608007/" title="Dr Who Experience 2017 - 7044.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51550608007_e36b9f9fa7_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 7044.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51550608007_e36b9f9fa7_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="aliens" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbystevenmoffat" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petrified" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theacademyofthequestion" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="weepingangels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="quantumlocked" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="statue" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="predatorycreatures" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blink" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stonecreature" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 7043.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51551405296/"/>
-    <id>tag:flickr.com,2005:/photo/51551405296</id>
-    <published>2021-10-04T23:09:44Z</published>
-    <updated>2021-10-04T23:09:44Z</updated>
-    <flickr:date_taken>2017-08-05T13:07:42-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T13:07:42-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51551405296/" title="Dr Who Experience 2017 - 7043.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51551405296_31beca3fcd_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 7043.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51551405296_31beca3fcd_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="aliens" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbystevenmoffat" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petrified" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theacademyofthequestion" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="weepingangels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="quantumlocked" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="statue" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="predatorycreatures" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blink" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stonecreature" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 7041.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51550607462/"/>
-    <id>tag:flickr.com,2005:/photo/51550607462</id>
-    <published>2021-10-04T23:09:39Z</published>
-    <updated>2021-10-04T23:09:39Z</updated>
-    <flickr:date_taken>2017-08-05T13:07:16-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T13:07:16-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51550607462/" title="Dr Who Experience 2017 - 7041.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51550607462_f3a51061c3_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 7041.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51550607462_f3a51061c3_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="aliens" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbystevenmoffat" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petrified" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theacademyofthequestion" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="weepingangels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="quantumlocked" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="statue" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="predatorycreatures" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blink" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stonecreature" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 7040.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51551404616/"/>
-    <id>tag:flickr.com,2005:/photo/51551404616</id>
-    <published>2021-10-04T23:09:32Z</published>
-    <updated>2021-10-04T23:09:32Z</updated>
-    <flickr:date_taken>2017-08-05T13:07:07-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T13:07:07-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51551404616/" title="Dr Who Experience 2017 - 7040.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51551404616_4fd956df0d_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 7040.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51551404616_4fd956df0d_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="createdbystevenmoffat" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="enemy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petrified" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="stonecreature" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theacademyofthequestion" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="characteroutfit" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costumes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="quantumlocked" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="statue" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="predatorycreatures" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="weepingangels" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blink" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="aliens" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="props" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry>
     <title>John Barrowman will NOT return to Dancing On Ice - ITV confirm - Daily Mail</title>
     <link rel="alternate" href="https://www.dailymail.co.uk/tvshowbiz/article-10055319/John-Barrowman-AXED-Dancing-Ice-ITV.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.dailymail.co.uk/tvshowbiz/article-10055319/John-Barrowman-AXED-Dancing-Ice-ITV.html" target="_blank"&gt;John Barrowman will NOT return to Dancing On Ice - ITV confirm&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
@@ -350,10 +244,10 @@ And so the legend of C…</div>
     <updated>2021-10-03T22:34:23Z</updated>
   </entry>
   <entry>
-    <title>Doctor Who: Russell T Davies returns as programme showrunner - BBC News</title>
-    <link rel="alternate" href="https://www.bbc.co.uk/news/entertainment-arts-58682472" type="text/html"/>
-    <content type="html">&lt;a href="https://www.bbc.co.uk/news/entertainment-arts-58682472" target="_blank"&gt;Doctor Who: Russell T Davies returns as programme showrunner&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC News&lt;/font&gt;</content>
-    <id>CBMiNmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2VudGVydGFpbm1lbnQtYXJ0cy01ODY4MjQ3MtIBOmh0dHBzOi8vd3d3LmJiYy5jby51ay9uZXdzL2VudGVydGFpbm1lbnQtYXJ0cy01ODY4MjQ3Mi5hbXA</id>
+    <title>Russell T. Davies Returning As Doctor Who Boss - Empire</title>
+    <link rel="alternate" href="https://www.empireonline.com/tv/news/russell-t-davies-returning-as-doctor-who-boss/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.empireonline.com/tv/news/russell-t-davies-returning-as-doctor-who-boss/" target="_blank"&gt;Russell T. Davies Returning As Doctor Who Boss&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Empire&lt;/font&gt;</content>
+    <id>CBMiU2h0dHBzOi8vd3d3LmVtcGlyZW9ubGluZS5jb20vdHYvbmV3cy9ydXNzZWxsLXQtZGF2aWVzLXJldHVybmluZy1hcy1kb2N0b3Itd2hvLWJvc3Mv0gEA</id>
     <published>2021-09-24T07:00:00Z</published>
     <updated>2021-09-24T07:00:00Z</updated>
   </entry>
@@ -364,14 +258,6 @@ And so the legend of C…</div>
     <id>CAIiEDhvHjRVECtDIU-sT3uKOh8qMwgEKioIACIQDW24XVED5m4XSgqCZC5B6CoUCAoiEA1tuF1RA-ZuF0oKgmQuQegwxrSVBw</id>
     <published>2021-09-23T07:00:00Z</published>
     <updated>2021-09-23T07:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who: Previous Guest Stars Who'd Be Great as the New Doctor - Den of Geek</title>
-    <link rel="alternate" href="https://www.denofgeek.com/tv/doctor-who-previous-guest-stars-whod-be-great-as-the-new-doctor/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.denofgeek.com/tv/doctor-who-previous-guest-stars-whod-be-great-as-the-new-doctor/" target="_blank"&gt;Doctor Who: Previous Guest Stars Who'd Be Great as the New Doctor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Den of Geek&lt;/font&gt;</content>
-    <id>CAIiEEB2urMtvpsFNhVk_L2KxZEqGQgEKhAIACoHCAow9suVCzDnsKsDMMCmzAY</id>
-    <published>2021-09-21T07:00:00Z</published>
-    <updated>2021-09-21T07:00:00Z</updated>
   </entry>
   <entry>
     <title>Jacob Anderson joins Series 13 of Doctor Who</title>
