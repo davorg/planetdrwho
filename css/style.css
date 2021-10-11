@@ -25,3 +25,23 @@ body {
   text-shadow: #000000 0 0 2px;
   color: #ccc;
 }
+
+
+a {
+    font-weight: 450;
+    text-decoration: none;
+}
+
+.card {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: rgba(230, 230, 230, 0.8);
+    background-clip: border-box;
+    border: 1px solid rgba(168, 168, 168, 0.125);
+    border-radius: 0.5rem;
+}
