@@ -26,3 +26,7 @@ feed. They are generated on a schedule using [GitHub Actions](https://github.com
 * Everything else is a file that is used to display the new web site - fonts, images, CSS files, etc
 
 The generated web site is hosted on [GitHub Pages](https://pages.github.com/).
+
+**Important Note:** The files `index.html` and `atom.xml` are automatically generated. Please don't
+sent pull requests that change them - as any changes will be overwritten the next time the site
+is rebuilt.
