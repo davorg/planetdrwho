@@ -7,6 +7,8 @@ author:
   twitter: davorg
 entries: 30
 entries_per_feed: 5
+cutoff_duration:
+  months: 1
 page:
   file: index.html
   template: index.tt
