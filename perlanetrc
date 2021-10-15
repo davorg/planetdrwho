@@ -10,10 +10,10 @@ entries_per_feed: 5
 cutoff_duration:
   months: 1
 page:
-  file: index.html
+  file: docs/index.html
   template: index.tt
 feed:
-  file: atom.xml
+  file: docs/atom.xml
   format: Atom
 cache_dir: /tmp/drwho
 google_ga: UA-56332-7
