@@ -7,70 +7,105 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-20T04:56:13Z</updated>
+  <updated>2021-10-20T05:53:26Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
   <entry>
-    <title>RT @napsboo: i am the master #DrWho https://t.co/kIZWmGQt9G</title>
-    <link rel="alternate" href="https://twitter.com/_mxris3_/status/1450682052420980736" type="text/html"/>
-    <id>https://twitter.com/_mxris3_/status/1450682052420980736</id>
+    <title>@Names_DrWho @monytigra ❤️</title>
+    <link rel="alternate" href="https://twitter.com/ladradifiori/status/1450698365235257351" type="text/html"/>
+    <id>https://twitter.com/ladradifiori/status/1450698365235257351</id>
     <author>
-      <name>Marisé</name>
+      <name>Camilla ( tutti la vollono nessuno la pijia)</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @napsboo: i am the master #DrWho https://t.co/kIZWmGQt9G</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@Names_DrWho @monytigra ❤️</div>
     </content>
-    <updated>2021-10-20T04:35:28Z</updated>
+    <updated>2021-10-20T05:40:17Z</updated>
+  </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Doctor Who</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/eddycrosby/51609939654/"/>
+    <id>tag:flickr.com,2005:/photo/51609939654</id>
+    <published>2021-10-20T05:38:48Z</published>
+    <updated>2021-10-20T05:38:48Z</updated>
+    <flickr:date_taken>2021-10-20T16:37:36-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-20T16:37:36-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/eddycrosby/"&gt;eddycrosby&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/eddycrosby/51609939654/" title="Doctor Who"&gt;&lt;img src="https://live.staticflickr.com/65535/51609939654_2baf261176_m.jpg" width="180" height="240" alt="Doctor Who" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sketch of Jon Pertwee as The Third Doctor (Doctor Who TV series)&lt;br /&gt;
+&lt;br /&gt;
+Biro pen on Strathmore paper&lt;/p&gt;</content>
+    <author>
+      <name>eddycrosby</name>
+      <uri>https://www.flickr.com/people/eddycrosby/</uri>
+      <flickr:nsid>40403828@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/40403828@N03.jpg?1591945409#40403828@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51609939654_2baf261176_b.jpg"/>
+    <category term="sketchbook" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sketch" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>#mercoledì
+#Wednesday
+#lettura
+Estratto dal libro di @monytigra 🙏🏼 https://t.co/CbvbP7DCv8</title>
+    <link rel="alternate" href="https://twitter.com/Names_DrWho/status/1450697823033430019" type="text/html"/>
+    <id>https://twitter.com/Names_DrWho/status/1450697823033430019</id>
+    <author>
+      <name>Dr. Who (Fake)</name>
+    </author>
+    <content>I21lcmNvbGVkw6wKI1dlZG5lc2RheQojbGV0dHVyYQpFc3RyYXR0byBkYWwgbGlicm8gZGkgQG1vbnl0aWdyYSDwn5mP8J+PvCBodHRwczovL3QuY28vQ2J2YlA3REN2OA==</content>
+    <updated>2021-10-20T05:38:08Z</updated>
   </entry>
   <entry>
-    <title>君が今見ているのは5.5/@/26　50億年後の地球だ。そして今日、太陽が膨張を遂げる。地球最後の日にようこそ (Series1 #2)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1450681950188945410" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1450681950188945410</id>
+    <title>人間というやつは高い知能がありながら怠け者だ。
+支配者が現れればすぐに従う。
+自分で考えるよりも楽だからな (Series2 #6)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1450697045140918272" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1450697045140918272</id>
     <author>
       <name>ドクター･フーbot</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">君が今見ているのは5.5/@/26　50億年後の地球だ。そして今日、太陽が膨張を遂げる。地球最後の日にようこそ (Series1 #2)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">人間というやつは高い知能がありながら怠け者だ。
+支配者が現れればすぐに従う。
+自分で考えるよりも楽だからな (Series2 #6)</div>
     </content>
-    <updated>2021-10-20T04:35:03Z</updated>
+    <updated>2021-10-20T05:35:02Z</updated>
   </entry>
   <entry>
-    <title>https://t.co/cgLJ9oeCDn
-#timetravel #scifi #s #backtothefuture #doctorwho #time #timemachine #tardis #bbc #art #dark #timelord #space #thedoctor #whovians #drwho #martymcfly #delorean #timetraveler #doctorwhofandom #bbcdoctorwho #netflix #dalek #docbrown</title>
-    <link rel="alternate" href="https://twitter.com/gabriel__007__/status/1450677550435418117" type="text/html"/>
-    <id>https://twitter.com/gabriel__007__/status/1450677550435418117</id>
+    <title>Je suis sur qu'a la fin de la saison 13, il y aura un gros retournement de vestes de la part des anti chibnall/Whittaker
+#DrWho</title>
+    <link rel="alternate" href="https://twitter.com/Sakoince/status/1450692594455957510" type="text/html"/>
+    <id>https://twitter.com/Sakoince/status/1450692594455957510</id>
     <author>
-      <name>Gabriel 007</name>
+      <name>Inspecteur Nagui | ガイモン</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">https://t.co/cgLJ9oeCDn
-#timetravel #scifi #s #backtothefuture #doctorwho #time #timemachine #tardis #bbc #art #dark #timelord #space #thedoctor #whovians #drwho #martymcfly #delorean #timetraveler #doctorwhofandom #bbcdoctorwho #netflix #dalek #docbrown</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Je suis sur qu'a la fin de la saison 13, il y aura un gros retournement de vestes de la part des anti chibnall/Whittaker
+#DrWho</div>
     </content>
-    <updated>2021-10-20T04:17:34Z</updated>
+    <updated>2021-10-20T05:17:21Z</updated>
   </entry>
   <entry>
-    <title>Bessy Heft Nr. 38 In Top
-
-Ends Mon 25th Oct @ 6:18pm
-
-https://t.co/h6HwPgBK5g
-
-#ad #doctorwho #thdoctor #tardis #whovian #drwho https://t.co/aC6UTB5xkS</title>
-    <link rel="alternate" href="https://twitter.com/DrWhoenthusiats/status/1450676940789198850" type="text/html"/>
-    <id>https://twitter.com/DrWhoenthusiats/status/1450676940789198850</id>
+    <title>Who On Earth is… the Fourth Doctor? https://t.co/jYrEJOYkSO #cityofdeath #fourthdoctor #davros #drwho #genesisofthedaleks #elisabethsladen #daleks #doctorwhonews</title>
+    <link rel="alternate" href="https://twitter.com/KasterborousUK/status/1450685927416901635" type="text/html"/>
+    <id>https://twitter.com/KasterborousUK/status/1450685927416901635</id>
     <author>
-      <name>Dr Who Enthusiats</name>
+      <name>Kasterborous</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Bessy Heft Nr. 38 In Top
-
-Ends Mon 25th Oct @ 6:18pm
-
-https://t.co/h6HwPgBK5g
-
-#ad #doctorwho #thdoctor #tardis #whovian #drwho https://t.co/aC6UTB5xkS</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Who On Earth is… the Fourth Doctor? https://t.co/jYrEJOYkSO #cityofdeath #fourthdoctor #davros #drwho #genesisofthedaleks #elisabethsladen #daleks #doctorwhonews</div>
     </content>
-    <updated>2021-10-20T04:15:09Z</updated>
+    <updated>2021-10-20T04:50:52Z</updated>
   </entry>
   <entry>
     <title>'Wonky' TARDIS tattoo left angry Doctor Who fan needing a tetanus shot - Hull Live</title>
@@ -81,16 +116,12 @@ https://t.co/h6HwPgBK5g
     <updated>2021-10-20T04:00:00Z</updated>
   </entry>
   <entry>
-    <title>君たちは絶えず死に怯えている。鳥インフルエンザ、BSE、地球温暖化、小惑星の衝突…　でも君たちが考えている以上に人類がしぶとく生き延びたとしても― (Series1 #2)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1450666847896887327" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1450666847896887327</id>
-    <author>
-      <name>ドクター･フーbot</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">君たちは絶えず死に怯えている。鳥インフルエンザ、BSE、地球温暖化、小惑星の衝突…　でも君たちが考えている以上に人類がしぶとく生き延びたとしても― (Series1 #2)</div>
-    </content>
-    <updated>2021-10-20T03:35:03Z</updated>
+    <title>Doctor Who: Jodie Whittaker says she will be 'filled with grief' after leaving the show - Sky News</title>
+    <link rel="alternate" href="https://news.sky.com/story/doctor-who-jodie-whittaker-says-she-will-be-filled-with-grief-after-leaving-the-show-12438883" type="text/html"/>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.sky.com/story/doctor-who-jodie-whittaker-says-she-will-be-filled-with-grief-after-leaving-the-show-12438883" target="_blank"&gt;Doctor Who: Jodie Whittaker says she will be 'filled with grief' after leaving the show&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.radiotimes.com/tv/sci-fi/chris-chibnall-leaving-doctor-who-newsupdate/" target="_blank"&gt;Chris Chibnall says it took “longer than expected” for him to leave Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Times&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.heraldscotland.com/opinion/19657289.issue-day-new-doctor-non-binary/" target="_blank"&gt;Issue of the day: Should the new Doctor Who be non-binary?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HeraldScotland&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.denofgeek.com/tv/doctor-who-flux-sees-the-doctor-face-psychologically-terrifying-monster/" target="_blank"&gt;Doctor Who: Flux Sees the Doctor Face 'Psychologically Terrifying' Monster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Den of Geek&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.mirror.co.uk/tv/tv-news/heartbroken-doctor-who-star-jodie-25253319" target="_blank"&gt;Heartbroken Doctor Who star Jodie Whittaker 'cried her eyes out' after filming last scenes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWpWM0t5S2xJQU1FY0o1QnI1X05STW1LQUFQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <id>52781948546645</id>
+    <published>2021-10-20T03:03:42Z</published>
+    <updated>2021-10-20T03:03:42Z</updated>
   </entry>
   <entry>
     <title>Doctor Who reveals more series 13 cast including another Line of Duty star - Radio Times</title>
@@ -99,14 +130,6 @@ https://t.co/h6HwPgBK5g
     <id>CAIiEJgS0Uex8f63bsd0bn4lLg4qGQgEKhAIACoHCAowu_2FCzDPv4MDMP3biQY</id>
     <published>2021-10-19T23:01:50Z</published>
     <updated>2021-10-19T23:01:50Z</updated>
-  </entry>
-  <entry>
-    <title>Chris Chibnall says it took “longer than expected” for him to leave Doctor Who - Radio Times</title>
-    <link rel="alternate" href="https://www.radiotimes.com/tv/sci-fi/chris-chibnall-leaving-doctor-who-newsupdate/" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.radiotimes.com/tv/sci-fi/chris-chibnall-leaving-doctor-who-newsupdate/" target="_blank"&gt;Chris Chibnall says it took “longer than expected” for him to leave Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Times&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.heraldscotland.com/opinion/19657289.issue-day-new-doctor-non-binary/" target="_blank"&gt;Issue of the day: Should the new Doctor Who be non-binary?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HeraldScotland&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.sky.com/story/doctor-who-jodie-whittaker-says-she-will-be-filled-with-grief-after-leaving-the-show-12438883" target="_blank"&gt;Doctor Who: Jodie Whittaker says she will be 'filled with grief' after leaving the show&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Sky News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.denofgeek.com/tv/doctor-who-jodie-whittaker-names-her-favourite-guest-star/" target="_blank"&gt;Doctor Who: Jodie Whittaker Names Her Favourite Guest Star&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Den of Geek&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.mirror.co.uk/tv/tv-news/heartbroken-doctor-who-star-jodie-25253319" target="_blank"&gt;Heartbroken Doctor Who star Jodie Whittaker 'cried her eyes out' after filming last scenes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqOQgKIjNDQklTSURvSmMzUnZjbmt0TXpZd1NoTUtFUWpWM0t5S2xJQU1FVTdpQ2N5ZUZqVW9LQUFQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
-    <id>52781948546645</id>
-    <published>2021-10-19T23:01:02Z</published>
-    <updated>2021-10-19T23:01:02Z</updated>
   </entry>
   <entry>
     <title>Doctor who ran mask campaign quits after refusing mandated vaccine - Stuff.co.nz</title>
@@ -315,37 +338,6 @@ in some ways a lot scarier..&lt;/p&gt;</content>
     <content type="html">&lt;p&gt;&lt;img src="https://asset-manager.bbcchannels.com/i/2g9ma0jg0ay1000"&gt;&lt;/p&gt;&lt;p&gt;Showrunner Chris Chibnall confirms the writing and directing credits for the six-episode serial beginning October 31st...&lt;/p&gt;</content>
     <updated>2021-10-15T00:00:00Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Anne-Marie giving Who some tips on using a paddle</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/193191473@N02/51587346217/"/>
-    <id>tag:flickr.com,2005:/photo/51587346217</id>
-    <published>2021-10-14T14:22:46Z</published>
-    <updated>2021-10-14T14:22:46Z</updated>
-    <flickr:date_taken>2021-10-14T15:10:00-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-10-14T15:10:00-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/193191473@N02/"&gt;xeowrxqf78&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/193191473@N02/51587346217/" title="Anne-Marie giving Who some tips on using a paddle"&gt;&lt;img src="https://live.staticflickr.com/65535/51587346217_75697af711_m.jpg" width="180" height="240" alt="Anne-Marie giving Who some tips on using a paddle" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>xeowrxqf78</name>
-      <uri>https://www.flickr.com/people/193191473@N02/</uri>
-      <flickr:nsid>193191473@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/193191473@N02.jpg?1631741676#193191473@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51587346217_75697af711_b.jpg"/>
-    <category term="toy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="16" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="beartribe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="barbie" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="annemarie" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Women of Science in Doctor Who</title>
     <author>
