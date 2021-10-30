@@ -7,80 +7,148 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-10-30T17:53:00Z</updated>
+  <updated>2021-10-30T18:53:20Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>IMG_0894</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/uwemuggel/51642846730/"/>
+    <id>tag:flickr.com,2005:/photo/51642846730</id>
+    <published>2021-10-30T18:52:12Z</published>
+    <updated>2021-10-30T18:52:12Z</updated>
+    <flickr:date_taken>2021-10-23T21:29:11-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-23T21:29:11-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/uwemuggel/"&gt;UweMuggel&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/uwemuggel/51642846730/" title="IMG_0894"&gt;&lt;img src="https://live.staticflickr.com/65535/51642846730_06f5db1afb_m.jpg" width="240" height="180" alt="IMG_0894" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>UweMuggel</name>
+      <uri>https://www.flickr.com/people/uwemuggel/</uri>
+      <flickr:nsid>36376298@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/36376298@N03.jpg?1635537097#36376298@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51642846730_06f5db1afb_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bonn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fedcon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="maritim" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>IMG_0893</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/uwemuggel/51642612749/"/>
+    <id>tag:flickr.com,2005:/photo/51642612749</id>
+    <published>2021-10-30T18:37:26Z</published>
+    <updated>2021-10-30T18:37:26Z</updated>
+    <flickr:date_taken>2021-10-23T21:29:03-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-23T21:29:03-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/uwemuggel/"&gt;UweMuggel&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/uwemuggel/51642612749/" title="IMG_0893"&gt;&lt;img src="https://live.staticflickr.com/65535/51642612749_2529c32643_m.jpg" width="240" height="180" alt="IMG_0893" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>UweMuggel</name>
+      <uri>https://www.flickr.com/people/uwemuggel/</uri>
+      <flickr:nsid>36376298@N03</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/36376298@N03.jpg?1635537097#36376298@N03</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51642612749_2529c32643_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bonn" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="fedcon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="maritim" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>君たちは絶えず死に怯えている。鳥インフルエンザ、BSE、地球温暖化、小惑星の衝突…　でも君たちが考えている以上に人類がしぶとく生き延びたとしても― (Series1 #2)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1454502101082509323" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1454502101082509323</id>
+    <title>君が今見ているのは5.5/@/26　50億年後の地球だ。そして今日、太陽が膨張を遂げる。地球最後の日にようこそ (Series1 #2)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1454517203269603331" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1454517203269603331</id>
     <author>
       <name>ドクター･フーbot</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">君たちは絶えず死に怯えている。鳥インフルエンザ、BSE、地球温暖化、小惑星の衝突…　でも君たちが考えている以上に人類がしぶとく生き延びたとしても― (Series1 #2)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">君が今見ているのは5.5/@/26　50億年後の地球だ。そして今日、太陽が膨張を遂げる。地球最後の日にようこそ (Series1 #2)</div>
     </content>
-    <updated>2021-10-30T17:34:58Z</updated>
+    <updated>2021-10-30T18:34:59Z</updated>
   </entry>
   <entry>
-    <title>Where will I be tomorrow? Preaching in the morning, #COP26 in the afternoon... and #DrWho in the evening.
-https://t.co/7QGilrd5KE https://t.co/caa8yIHV4m</title>
-    <link rel="alternate" href="https://twitter.com/QueerTestimony/status/1454502085492412425" type="text/html"/>
-    <id>https://twitter.com/QueerTestimony/status/1454502085492412425</id>
+    <title>Excited for the return of Doctor Who tomorrow!  My review will follow shortly after transmission tomorrow evening.
+
+#DoctorWhoFlux #DoctorWho #DrWho https://t.co/yOp7sHjXRT</title>
+    <link rel="alternate" href="https://twitter.com/dwimpossblog/status/1454515732436463618" type="text/html"/>
+    <id>https://twitter.com/dwimpossblog/status/1454515732436463618</id>
     <author>
-      <name>Mark Dolore</name>
+      <name>Impossible Blog - A Doctor Who Blog</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Where will I be tomorrow? Preaching in the morning, #COP26 in the afternoon... and #DrWho in the evening.
-https://t.co/7QGilrd5KE https://t.co/caa8yIHV4m</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Excited for the return of Doctor Who tomorrow!  My review will follow shortly after transmission tomorrow evening.
+
+#DoctorWhoFlux #DoctorWho #DrWho https://t.co/yOp7sHjXRT</div>
     </content>
-    <updated>2021-10-30T17:34:55Z</updated>
+    <updated>2021-10-30T18:29:08Z</updated>
   </entry>
   <entry>
-    <title>Huge #DoctorWho Fan? Want a fantastic personalised video message from @4SylvesterMcCoy? The perfect gift!
-
-Click the link below to buy your ticket:
-https://t.co/RAFTRXTbud
-
-#drwho #sylvestermccoy https://t.co/cxeQ9UBuXA</title>
-    <link rel="alternate" href="https://twitter.com/GCP_App/status/1454500857714823173" type="text/html"/>
-    <id>https://twitter.com/GCP_App/status/1454500857714823173</id>
+    <title>Anybody else hopeful for a enjoyable series of Dr Who? #DrWho</title>
+    <link rel="alternate" href="https://twitter.com/EdwardVStanley/status/1454513592884240385" type="text/html"/>
+    <id>https://twitter.com/EdwardVStanley/status/1454513592884240385</id>
     <author>
-      <name>Get Close and Personal</name>
+      <name>Edward Stanley</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Huge #DoctorWho Fan? Want a fantastic personalised video message from @4SylvesterMcCoy? The perfect gift!
-
-Click the link below to buy your ticket:
-https://t.co/RAFTRXTbud
-
-#drwho #sylvestermccoy https://t.co/cxeQ9UBuXA</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Anybody else hopeful for a enjoyable series of Dr Who? #DrWho</div>
     </content>
-    <updated>2021-10-30T17:30:02Z</updated>
+    <updated>2021-10-30T18:20:38Z</updated>
   </entry>
   <entry>
-    <title>Finished #reading The Colour of Darkness by Richard Dungworth. Best of the Deathsmith Legacy so far. Riffs on Pied Piper. Loved this. A must-read. Very much recommended #doctorwho #Drwho https://t.co/uaR7vfgJkh</title>
-    <link rel="alternate" href="https://twitter.com/Greebohobbes/status/1454499853023817730" type="text/html"/>
-    <id>https://twitter.com/Greebohobbes/status/1454499853023817730</id>
+    <title>@JUSTIN_AVFC_ Fantastic win  England 👏👏👏👏</title>
+    <link rel="alternate" href="https://twitter.com/DrWho__10/status/1454513029006172163" type="text/html"/>
+    <id>https://twitter.com/DrWho__10/status/1454513029006172163</id>
     <author>
-      <name>Bek Hobbes the Raven King</name>
+      <name>Trace</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Finished #reading The Colour of Darkness by Richard Dungworth. Best of the Deathsmith Legacy so far. Riffs on Pied Piper. Loved this. A must-read. Very much recommended #doctorwho #Drwho https://t.co/uaR7vfgJkh</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@JUSTIN_AVFC_ Fantastic win  England 👏👏👏👏</div>
     </content>
-    <updated>2021-10-30T17:26:02Z</updated>
+    <updated>2021-10-30T18:18:24Z</updated>
   </entry>
   <entry>
-    <title>This piece of art by Darren Carnall on Deviant art is breath taking and how so many of us #MattSmith fans feel. #DoctorWho #DrWho #EleventhDoctor https://t.co/cOXOnayAbw</title>
-    <link rel="alternate" href="https://twitter.com/MackenzieFlohr/status/1454499735344123911" type="text/html"/>
-    <id>https://twitter.com/MackenzieFlohr/status/1454499735344123911</id>
+    <title>2000 AD Comic progs 31 - 80 (1977-1978)
+
+Ends Tue 2nd Nov @ 3:38pm
+
+https://t.co/g6yhek2908
+
+#ad #doctorwho #thdoctor #tardis #whovian #drwho https://t.co/Syyb5XIgNY</title>
+    <link rel="alternate" href="https://twitter.com/DrWhoenthusiats/status/1454512297347620875" type="text/html"/>
+    <id>https://twitter.com/DrWhoenthusiats/status/1454512297347620875</id>
     <author>
-      <name>Mackenzie Flohr (She/Her)</name>
+      <name>Dr Who Enthusiats</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">This piece of art by Darren Carnall on Deviant art is breath taking and how so many of us #MattSmith fans feel. #DoctorWho #DrWho #EleventhDoctor https://t.co/cOXOnayAbw</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">2000 AD Comic progs 31 - 80 (1977-1978)
+
+Ends Tue 2nd Nov @ 3:38pm
+
+https://t.co/g6yhek2908
+
+#ad #doctorwho #thdoctor #tardis #whovian #drwho https://t.co/Syyb5XIgNY</div>
     </content>
-    <updated>2021-10-30T17:25:34Z</updated>
+    <updated>2021-10-30T18:15:29Z</updated>
+  </entry>
+  <entry>
+    <title>The TVLine-Up: What's Returning, New and Leaving the Week of Oct. 31 - TVLine</title>
+    <link rel="alternate" href="https://tvline.com/2021/10/30/tv-schedule-what-to-watch-doctor-who-returns/" type="text/html"/>
+    <content type="html">&lt;a href="https://tvline.com/2021/10/30/tv-schedule-what-to-watch-doctor-who-returns/" target="_blank"&gt;The TVLine-Up: What's Returning, New and Leaving the Week of Oct. 31&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TVLine&lt;/font&gt;</content>
+    <id>CAIiEOpoLj2_gecAa3U6QzmRzLsqEwgEKgwIACoFCAow4GcwoAUwkQ0</id>
+    <published>2021-10-30T18:00:00Z</published>
+    <updated>2021-10-30T18:00:00Z</updated>
   </entry>
   <entry>
     <title>9 seriously famous stars you forgot were in the Harry Potter films - My London</title>
@@ -123,12 +191,12 @@ https://t.co/RAFTRXTbud
     <updated>2021-10-30T12:00:00Z</updated>
   </entry>
   <entry>
-    <title>'Doctor Who' in Flux, 'Canterville Ghost,' 'SEAL Team' Makes Its Move, Hit the 'Heights' - News-Daily.com</title>
-    <link rel="alternate" href="https://www.news-daily.com/features/doctor-who-in-flux-canterville-ghost-seal-team-makes-its-move-hit-the-heights/article_85aa6528-c068-5ef6-ba84-b739c8ff2e13.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.news-daily.com/features/doctor-who-in-flux-canterville-ghost-seal-team-makes-its-move-hit-the-heights/article_85aa6528-c068-5ef6-ba84-b739c8ff2e13.html" target="_blank"&gt;'Doctor Who' in Flux, 'Canterville Ghost,' 'SEAL Team' Makes Its Move, Hit the 'Heights'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;News-Daily.com&lt;/font&gt;</content>
-    <id>CBMiowFodHRwczovL3d3dy5uZXdzLWRhaWx5LmNvbS9mZWF0dXJlcy9kb2N0b3Itd2hvLWluLWZsdXgtY2FudGVydmlsbGUtZ2hvc3Qtc2VhbC10ZWFtLW1ha2VzLWl0cy1tb3ZlLWhpdC10aGUtaGVpZ2h0cy9hcnRpY2xlXzg1YWE2NTI4LWMwNjgtNWVmNi1iYTg0LWI3MzljOGZmMmUxMy5odG1s0gEA</id>
-    <published>2021-10-30T11:00:45Z</published>
-    <updated>2021-10-30T11:00:45Z</updated>
+    <title>5 Sci-Fi Shows That Aren't As Good As You Remember (&amp; 5 That Still Hold Up) - CBR - Comic Book Resources</title>
+    <link rel="alternate" href="https://www.cbr.com/sci-fi-tv-shows-aged-poorly-still-hold-up/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.cbr.com/sci-fi-tv-shows-aged-poorly-still-hold-up/" target="_blank"&gt;5 Sci-Fi Shows That Aren't As Good As You Remember (&amp; 5 That Still Hold Up)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CBR - Comic Book Resources&lt;/font&gt;</content>
+    <id>CAIiEPv_AuFPAjUUH7UScGFONUYqGQgEKhAIACoHCAowvqWBCzCY4vwCMLSAtgY</id>
+    <published>2021-10-30T06:00:00Z</published>
+    <updated>2021-10-30T06:00:00Z</updated>
   </entry>
   <entry>
     <title>Chris Chibnall talks Doctor Who: Flux</title>
@@ -214,6 +282,31 @@ https://t.co/RAFTRXTbud
     <updated>2021-10-27T00:00:00Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>drwhootardis</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/davidlsi/51631341096/"/>
+    <id>tag:flickr.com,2005:/photo/51631341096</id>
+    <published>2021-10-26T20:03:09Z</published>
+    <updated>2021-10-26T20:03:09Z</updated>
+    <flickr:date_taken>2021-10-26T12:57:35-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-26T12:57:35-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/davidlsi/"&gt;DavidLSI&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/davidlsi/51631341096/" title="drwhootardis"&gt;&lt;img src="https://live.staticflickr.com/65535/51631341096_38b59c89b7_m.jpg" width="240" height="240" alt="drwhootardis" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>DavidLSI</name>
+      <uri>https://www.flickr.com/people/davidlsi/</uri>
+      <flickr:nsid>41489425@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/41489425@N06.jpg?1626478331#41489425@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51631341096_38b59c89b7_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="davidlsi" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>untitled shoot-046</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/davidlsi/51631989549/"/>
     <id>tag:flickr.com,2005:/photo/51631989549</id>
@@ -255,105 +348,5 @@ https://t.co/RAFTRXTbud
     <id>https://www.doctorwho.tv/news/?article=john-bishop-talks-joining-as-dan-in-doctor-who-flux</id>
     <content type="html">&lt;p&gt;&lt;img src="https://asset-manager.bbcchannels.com/i/2g9ol0jg0ay1000"&gt;&lt;/p&gt;&lt;p&gt;John Bishop tells us more about joining as Dan Lewis alongside the Thirteenth Doctor and Yasmin Khan in Doctor Who: Flux. Read the full interview below.&lt;/p&gt;</content>
     <updated>2021-10-26T00:00:00Z</updated>
-  </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>DSC_3248</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/slamto/51628962126/"/>
-    <id>tag:flickr.com,2005:/photo/51628962126</id>
-    <published>2021-10-25T21:17:44Z</published>
-    <updated>2021-10-25T21:17:44Z</updated>
-    <flickr:date_taken>2021-10-24T16:44:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-10-24T16:44:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/slamto/"&gt;slamto&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/slamto/51628962126/" title="DSC_3248"&gt;&lt;img src="https://live.staticflickr.com/65535/51628962126_fb9d64b7a9_m.jpg" width="135" height="240" alt="DSC_3248" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. Who 12th Doctor (cosplay) and the TARDIS.&lt;br /&gt;
-&lt;br /&gt;
-Fan Expo Canada, Limited Edition 2021&lt;/p&gt;</content>
-    <author>
-      <name>slamto</name>
-      <uri>https://www.flickr.com/people/slamto/</uri>
-      <flickr:nsid>39647236@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3516/buddyicons/39647236@N07.jpg?1248752412#39647236@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51628962126_fb9d64b7a9_b.jpg"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fanexpo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fanexpocanada" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>DSC_3232</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/slamto/51628962641/"/>
-    <id>tag:flickr.com,2005:/photo/51628962641</id>
-    <published>2021-10-25T21:17:42Z</published>
-    <updated>2021-10-25T21:17:42Z</updated>
-    <flickr:date_taken>2021-10-24T16:39:23-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-10-24T16:39:23-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/slamto/"&gt;slamto&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/slamto/51628962641/" title="DSC_3232"&gt;&lt;img src="https://live.staticflickr.com/65535/51628962641_8459cf9532_m.jpg" width="128" height="240" alt="DSC_3232" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Dr. Who 12th Doctor cosplay&lt;br /&gt;
-&lt;br /&gt;
-Fan Expo Canada, Limited Edition 2021&lt;/p&gt;</content>
-    <author>
-      <name>slamto</name>
-      <uri>https://www.flickr.com/people/slamto/</uri>
-      <flickr:nsid>39647236@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3516/buddyicons/39647236@N07.jpg?1248752412#39647236@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51628962641_8459cf9532_b.jpg"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fanexpo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fanexpocanada" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>DSC_3213</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/slamto/51629816530/"/>
-    <id>tag:flickr.com,2005:/photo/51629816530</id>
-    <published>2021-10-25T21:17:40Z</published>
-    <updated>2021-10-25T21:17:40Z</updated>
-    <flickr:date_taken>2021-10-23T18:54:22-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-10-23T18:54:22-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/slamto/"&gt;slamto&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/slamto/51629816530/" title="DSC_3213"&gt;&lt;img src="https://live.staticflickr.com/65535/51629816530_b4579531b9_m.jpg" width="240" height="174" alt="DSC_3213" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;A &amp;quot;War Doctor&amp;quot; Dalek cosplay&lt;br /&gt;
-&lt;br /&gt;
-Fan Expo Canada, Limited Edition 2021&lt;/p&gt;</content>
-    <author>
-      <name>slamto</name>
-      <uri>https://www.flickr.com/people/slamto/</uri>
-      <flickr:nsid>39647236@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3516/buddyicons/39647236@N07.jpg?1248752412#39647236@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-nd/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51629816530_b4579531b9_b.jpg"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fanexpo" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="fanexpocanada" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry>
-    <title>Doctor Who: 8 Saddest Companion Exits | Screen Rant - Screen Rant</title>
-    <link rel="alternate" href="https://screenrant.com/doctor-who-most-heartbreaking-companion-exits-ranked/" type="text/html"/>
-    <content type="html">&lt;a href="https://screenrant.com/doctor-who-most-heartbreaking-companion-exits-ranked/" target="_blank"&gt;Doctor Who: 8 Saddest Companion Exits | Screen Rant&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;</content>
-    <id>CAIiELduktD1CvOl5OCpt7OdFocqGQgEKhAIACoHCAownqWBCzD44fwCMMymtwY</id>
-    <published>2021-10-23T16:30:00Z</published>
-    <updated>2021-10-23T16:30:00Z</updated>
   </entry>
 </feed>
