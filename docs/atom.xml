@@ -7,102 +7,102 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-07T07:53:05Z</updated>
+  <updated>2021-11-07T08:52:45Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Scotland, October 2021</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/brightondj/51660674936/"/>
+    <id>tag:flickr.com,2005:/photo/51660674936</id>
+    <published>2021-11-07T08:44:00Z</published>
+    <updated>2021-11-07T08:44:00Z</updated>
+    <flickr:date_taken>2021-10-29T12:38:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-29T12:38:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/brightondj/"&gt;brightondj&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/brightondj/51660674936/" title="Scotland, October 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51660674936_2d03c29576_m.jpg" width="240" height="160" alt="Scotland, October 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</content>
+    <author>
+      <name>brightondj</name>
+      <uri>https://www.flickr.com/people/brightondj/</uri>
+      <flickr:nsid>39462456@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8259/buddyicons/39462456@N02.jpg?1366746023#39462456@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51660674936_2d03c29576_b.jpg"/>
+    <category term="scotlandholidayday6" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scotland" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scotlandholiday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2021october" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dumfriesgalloway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="window" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="kirkudbright" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
     <title>RT @The_Cybermatt: #DrWho Time and the Rani 2 continues to be more fun than Pip &amp;amp; Jane’s previous stories even if the plot is thinner https…</title>
-    <link rel="alternate" href="https://twitter.com/stealexanderuk/status/1457252384833425409" type="text/html"/>
-    <id>https://twitter.com/stealexanderuk/status/1457252384833425409</id>
+    <link rel="alternate" href="https://twitter.com/who_rod/status/1457262631929143296" type="text/html"/>
+    <id>https://twitter.com/who_rod/status/1457262631929143296</id>
     <author>
-      <name>Steven Alexander</name>
+      <name>RodWho</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @The_Cybermatt: #DrWho Time and the Rani 2 continues to be more fun than Pip &amp; Jane’s previous stories even if the plot is thinner https…</div>
     </content>
-    <updated>2021-11-07T07:43:37Z</updated>
+    <updated>2021-11-07T08:24:20Z</updated>
   </entry>
   <entry>
-    <title>DR WHO - FUTURE SONIC SCREWDRIVER - RIVER SONG - SOUND &amp;amp; LIGHT EFFECTS
-
-Ends Tue 9th Nov @ 5:04pm
-
-https://t.co/pm5b6esEp8
-
-#ad #doctorwho #thdoctor #tardis #whovian #drwho https://t.co/7eVYMWZbar</title>
-    <link rel="alternate" href="https://twitter.com/DrWhoenthusiats/status/1457245295130075138" type="text/html"/>
-    <id>https://twitter.com/DrWhoenthusiats/status/1457245295130075138</id>
+    <title>@domiiomii The fact CHIFUYU PICKS KAZUTORA EVERY TIME SKIP THEY ARE ALWAYS BY EACH OTHERS SIDE https://t.co/2xDvlHqe2m</title>
+    <link rel="alternate" href="https://twitter.com/drwho_fangirl/status/1457262436717891587" type="text/html"/>
+    <id>https://twitter.com/drwho_fangirl/status/1457262436717891587</id>
     <author>
-      <name>Dr Who Enthusiats</name>
+      <name>💖💜💙Lozza💖💜💙</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">DR WHO - FUTURE SONIC SCREWDRIVER - RIVER SONG - SOUND &amp; LIGHT EFFECTS
-
-Ends Tue 9th Nov @ 5:04pm
-
-https://t.co/pm5b6esEp8
-
-#ad #doctorwho #thdoctor #tardis #whovian #drwho https://t.co/7eVYMWZbar</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@domiiomii The fact CHIFUYU PICKS KAZUTORA EVERY TIME SKIP THEY ARE ALWAYS BY EACH OTHERS SIDE https://t.co/2xDvlHqe2m</div>
     </content>
-    <updated>2021-11-07T07:15:27Z</updated>
+    <updated>2021-11-07T08:23:34Z</updated>
   </entry>
   <entry>
-    <title>BBC DOCTOR WHO Sylvester McCoy Season 3 BLU-RAY BOX SET  -T25
-
-Ends Wed 10th Nov @ 8:23pm
-
-https://t.co/cGgAXhqr3b
-
-#ad #drwhodvd #drwho4k #doctorwho #tardis #whovian #drwho https://t.co/gGfHTJbiEn</title>
-    <link rel="alternate" href="https://twitter.com/DrWhoenthusiats/status/1457245206768664577" type="text/html"/>
-    <id>https://twitter.com/DrWhoenthusiats/status/1457245206768664577</id>
+    <title>After a period of audience decline and a lack of narrative complexity, the new series offers the hope of a return to form, argues Sean Coote https://t.co/HIfODS33Hi #DoctorWho #DrWho #Apocalypse #SocialistSunday</title>
+    <link rel="alternate" href="https://twitter.com/counterfireorg/status/1457261404935839744" type="text/html"/>
+    <id>https://twitter.com/counterfireorg/status/1457261404935839744</id>
     <author>
-      <name>Dr Who Enthusiats</name>
+      <name>Counterfire</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">BBC DOCTOR WHO Sylvester McCoy Season 3 BLU-RAY BOX SET  -T25
-
-Ends Wed 10th Nov @ 8:23pm
-
-https://t.co/cGgAXhqr3b
-
-#ad #drwhodvd #drwho4k #doctorwho #tardis #whovian #drwho https://t.co/gGfHTJbiEn</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">After a period of audience decline and a lack of narrative complexity, the new series offers the hope of a return to form, argues Sean Coote https://t.co/HIfODS33Hi #DoctorWho #DrWho #Apocalypse #SocialistSunday</div>
     </content>
-    <updated>2021-11-07T07:15:06Z</updated>
+    <updated>2021-11-07T08:19:28Z</updated>
   </entry>
   <entry>
-    <title>このちっぽけな星の表面にしがみつき、そしてもし ― 誰かわかったな。もう忘れるんだ、ローズ･タイラー。 (Series1 #1)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1457242689280233478" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1457242689280233478</id>
+    <title>中は見かけよりずっと広いのね (Series1 #1/ローズ)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1457257779115159552" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1457257779115159552</id>
     <author>
       <name>ドクター･フーbot</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">このちっぽけな星の表面にしがみつき、そしてもし ― 誰かわかったな。もう忘れるんだ、ローズ･タイラー。 (Series1 #1)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">中は見かけよりずっと広いのね (Series1 #1/ローズ)</div>
     </content>
-    <updated>2021-11-07T07:05:06Z</updated>
+    <updated>2021-11-07T08:05:03Z</updated>
   </entry>
   <entry>
-    <title>RT @gabrielsangel44: Best. #DoctorWho #shop EVER! #drwho @thewhoshop #DoctorWhoFlux 
-
-Please Visit:
-The Who Shop
-39-41 Barking Road,
-Upton…</title>
-    <link rel="alternate" href="https://twitter.com/tenoko1/status/1457242353308213249" type="text/html"/>
-    <id>https://twitter.com/tenoko1/status/1457242353308213249</id>
+    <title>RT @richard_price2: So #DoctorWhoFlux is finally here. Who’s excited? Will you be watching? Thought I’d do another #drwho #prize #giveaway…</title>
+    <link rel="alternate" href="https://twitter.com/DysulFurment/status/1457256463479492611" type="text/html"/>
+    <id>https://twitter.com/DysulFurment/status/1457256463479492611</id>
     <author>
-      <name>Tenoko1 | Writer of stories</name>
+      <name>Dysul Atreides ~ Bad but sad boy</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @gabrielsangel44: Best. #DoctorWho #shop EVER! #drwho @thewhoshop #DoctorWhoFlux 
-
-Please Visit:
-The Who Shop
-39-41 Barking Road,
-Upton…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @richard_price2: So #DoctorWhoFlux is finally here. Who’s excited? Will you be watching? Thought I’d do another #drwho #prize #giveaway…</div>
     </content>
-    <updated>2021-11-07T07:03:45Z</updated>
+    <updated>2021-11-07T07:59:50Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: Remembering when the timelord filmed in Berkshire's Swallowfield in the 1970s - Berkshire Live</title>
@@ -335,48 +335,6 @@ Upton…</div>
     <content type="html">&lt;p&gt;&lt;img src="https://asset-manager.bbcchannels.com/i/2g9qd0jg0ay1000"&gt;&lt;/p&gt;&lt;p&gt;November sees the release of a range of brand-new audio adventures from Big Finish. Here’s a roundup of what’s available to buy on CD and download this month.&lt;/p&gt;</content>
     <updated>2021-11-03T00:00:00Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr Who Experience 2017 - 7167.jpg</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/vultan2000/51651453670/"/>
-    <id>tag:flickr.com,2005:/photo/51651453670</id>
-    <published>2021-11-02T23:45:43Z</published>
-    <updated>2021-11-02T23:45:43Z</updated>
-    <flickr:date_taken>2017-08-05T14:18:31-08:00</flickr:date_taken>
-    <dc:date.Taken>2017-08-05T14:18:31-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/vultan2000/"&gt;DavidRBadger&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/vultan2000/51651453670/" title="Dr Who Experience 2017 - 7167.jpg"&gt;&lt;img src="https://live.staticflickr.com/65535/51651453670_9658964e3d_m.jpg" width="160" height="240" alt="Dr Who Experience 2017 - 7167.jpg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>DavidRBadger</name>
-      <uri>https://www.flickr.com/people/vultan2000/</uri>
-      <flickr:nsid>18197522@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3001/buddyicons/18197522@N07.jpg?1229169973#18197522@N07</flickr:buddyicon>
-    </author>
-    <link rel="license" type="text/html" href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en"/>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51651453670_9658964e3d_b.jpg"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="signature" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="companion" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="porthteigr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theeighthdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="paulmcgann" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tigerbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="imprint" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lastweekofopening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="handprints" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>With Russell T. Davies’ return, BBC loses creative control of Doctor Who - Winter is Coming</title>
     <link rel="alternate" href="https://winteriscoming.net/2021/11/02/russell-t-davies-return-bbc-loses-creative-control-doctor/" type="text/html"/>
