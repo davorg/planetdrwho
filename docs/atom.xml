@@ -7,9 +7,45 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-11-17T04:56:51Z</updated>
+  <updated>2021-11-17T05:52:55Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>理性なんかに耳を貸すな (Season2#4)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1460843901997424640" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1460843901997424640</id>
+    <author>
+      <name>ドクター･フーbot</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">理性なんかに耳を貸すな (Season2#4)</div>
+    </content>
+    <updated>2021-11-17T05:35:02Z</updated>
+  </entry>
+  <entry>
+    <title>@DrWho_Cares Good question!</title>
+    <link rel="alternate" href="https://twitter.com/9_Moley/status/1460840149789540354" type="text/html"/>
+    <id>https://twitter.com/9_Moley/status/1460840149789540354</id>
+    <author>
+      <name>The Mole</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@DrWho_Cares Good question!</div>
+    </content>
+    <updated>2021-11-17T05:20:07Z</updated>
+  </entry>
+  <entry>
+    <title>THE CURSE OF FENRIC Part Three. A gorgeous script. Pity most of it's inaudible. Perhaps because it's an all-location shoot? "I believe in the Revolution". This caused a stir with the ring-wings on rec.arts.drwho back in the day, against the Vicar's lack of faith. #drwhopilgrimage</title>
+    <link rel="alternate" href="https://twitter.com/drwhonovels/status/1460836568306966528" type="text/html"/>
+    <id>https://twitter.com/drwhonovels/status/1460836568306966528</id>
+    <author>
+      <name>Jason @ Dr Who Novels</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">THE CURSE OF FENRIC Part Three. A gorgeous script. Pity most of it's inaudible. Perhaps because it's an all-location shoot? "I believe in the Revolution". This caused a stir with the ring-wings on rec.arts.drwho back in the day, against the Vicar's lack of faith. #drwhopilgrimage</div>
+    </content>
+    <updated>2021-11-17T05:05:53Z</updated>
+  </entry>
   <entry>
     <title>空想の中のお友達は子供時代を過ぎると消えるのが普通だけど、あなたはずいぶん粘り強いのね、ムッシュ? (Seson2#4/レネット)</title>
     <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1460828808232443906" type="text/html"/>
@@ -33,42 +69,6 @@
     </author>
     <content>UlQgQE1hcmNETGV3aXNBcnQ6IFNwZWNpYWwgV2VhcG9ucyBEYWxlayBjYW52YXMgcHJvZ3Jlc3Mg8J+ZggoKI0RvY3RvcldobyAjRHJXaG8gI0RvY3Rvcldob0FydCAjU3BlY2lhbFdlYXBvbnNEYWxlayAjV29ya0luUHJvZ3Jlc3MgI2NhbnZhcyAjaeKApg==</content>
     <updated>2021-11-17T04:34:51Z</updated>
-  </entry>
-  <entry>
-    <title>@9_Moley Why do we have the November 1st date 1 year before the players current contract expires to sign ?</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_Cares/status/1460826403180466176" type="text/html"/>
-    <id>https://twitter.com/DrWho_Cares/status/1460826403180466176</id>
-    <author>
-      <name>William Zabka's Left Leg</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@9_Moley Why do we have the November 1st date 1 year before the players current contract expires to sign ?</div>
-    </content>
-    <updated>2021-11-17T04:25:30Z</updated>
-  </entry>
-  <entry>
-    <title>RT @georgiaEtennant: Thank you hugely x #Jenny @bigfinish @Seanchuckle #DrWho</title>
-    <link rel="alternate" href="https://twitter.com/philslesbian/status/1460826394078838785" type="text/html"/>
-    <id>https://twitter.com/philslesbian/status/1460826394078838785</id>
-    <author>
-      <name>cleopatra 🦕</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @georgiaEtennant: Thank you hugely x #Jenny @bigfinish @Seanchuckle #DrWho</div>
-    </content>
-    <updated>2021-11-17T04:25:27Z</updated>
-  </entry>
-  <entry>
-    <title>#TomBaker #DrWho #DoctorWho #Koura #GoldenVoyageOfSinbad https://t.co/2k5C8PXQSX</title>
-    <link rel="alternate" href="https://twitter.com/ZeffanieandBill/status/1460825620510773248" type="text/html"/>
-    <id>https://twitter.com/ZeffanieandBill/status/1460825620510773248</id>
-    <author>
-      <name>Film Music</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">#TomBaker #DrWho #DoctorWho #Koura #GoldenVoyageOfSinbad https://t.co/2k5C8PXQSX</div>
-    </content>
-    <updated>2021-11-17T04:22:23Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: Flux episode 3 ratings confirmed by the BBC - Digital Spy</title>
@@ -97,7 +97,7 @@
   <entry>
     <title>Did Doctor Who: Flux already drop another subtle clue about the Doctor’s lost history? - Radio Times</title>
     <link rel="alternate" href="https://www.radiotimes.com/tv/sci-fi/doctor-who-flux-vinder-bel-parents-theory/" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.radiotimes.com/tv/sci-fi/doctor-who-flux-vinder-bel-parents-theory/" target="_blank"&gt;Did Doctor Who: Flux already drop another subtle clue about the Doctor’s lost history?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Times&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.hellomagazine.com/film/20211114126207/doctor-who-flux-new-monsters-swarm-azure-karvanista/" target="_blank"&gt;Doctor Who Flux: who are the new monsters?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.cbr.com/doctor-who-flux-swarm-nemesis-fugitive-doctor/" target="_blank"&gt;Doctor Who: Flux Confirms Swarm’s Nemesis Is the Fugitive Doctor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CBR&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.cinemablend.com/television/why-one-doctor-who-flux-character-may-be-tied-to-a-past-doctor-and-companion" target="_blank"&gt;Why One Doctor Who: Flux Character May Be Tied To A Past Doctor And Companion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cinema Blend&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://screenrant.com/doctor-who-season-13-cast-character-guide/" target="_blank"&gt;Doctor Who: Flux New Cast &amp; Returning Character Guide&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k5OXZDd0JCSHBiSjdrZ3dxOVVTZ0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.radiotimes.com/tv/sci-fi/doctor-who-flux-vinder-bel-parents-theory/" target="_blank"&gt;Did Doctor Who: Flux already drop another subtle clue about the Doctor’s lost history?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Times&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.hellomagazine.com/film/20211114126207/doctor-who-flux-new-monsters-swarm-azure-karvanista/" target="_blank"&gt;Doctor Who Flux: who are the new monsters?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;HELLO!&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.cbr.com/doctor-who-flux-swarm-nemesis-fugitive-doctor/" target="_blank"&gt;Doctor Who: Flux Confirms Swarm’s Nemesis Is the Fugitive Doctor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CBR&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.cinemablend.com/television/why-one-doctor-who-flux-character-may-be-tied-to-a-past-doctor-and-companion" target="_blank"&gt;Why One Doctor Who: Flux Character May Be Tied To A Past Doctor And Companion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cinema Blend&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://screenrant.com/doctor-who-swarm-valeyard-villain-timelord-identity-theory/" target="_blank"&gt;Doctor Who: Swarm Is Really The Valeyard - Theory Explained&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2k5OXZDd0JCSHBiSjdrZ3dxOVVTZ0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
     <id>1176255293</id>
     <published>2021-11-16T17:36:03Z</published>
     <updated>2021-11-16T17:36:03Z</updated>
@@ -142,36 +142,14 @@
     <published>2021-11-16T12:38:05Z</published>
     <updated>2021-11-16T12:38:05Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Zygon</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/74529773@N07/51680274731/"/>
-    <id>tag:flickr.com,2005:/photo/51680274731</id>
-    <published>2021-11-15T01:11:57Z</published>
-    <updated>2021-11-15T01:11:57Z</updated>
-    <flickr:date_taken>2021-11-14T19:09:23-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-11-14T19:09:23-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/74529773@N07/"&gt;ridureyu1&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/74529773@N07/51680274731/" title="Zygon"&gt;&lt;img src="https://live.staticflickr.com/65535/51680274731_178cf9d7c5_m.jpg" width="240" height="180" alt="Zygon" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Anybody you know could secretly be a Zygon!&lt;/p&gt;</content>
-    <author>
-      <name>ridureyu1</name>
-      <uri>https://www.flickr.com/people/74529773@N07/</uri>
-      <flickr:nsid>74529773@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5335/buddyicons/74529773@N07.jpg?1369086960#74529773@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51680274731_178cf9d7c5_b.jpg"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="toy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="toys" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="actionfigure" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="toyphotography" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sonycybershotsonycybershotdscw690" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
+  <entry>
+    <title>Obituary: Stephen Critchlow – Prolific voice, stage and screen actor - The Stage</title>
+    <link rel="alternate" href="https://www.thestage.co.uk/obituaries--archive/obituaries/stephen-critchlow-voice-actor-bbc-radio-drama-company-final-fantasy-doctor-who-unsinkable" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thestage.co.uk/obituaries--archive/obituaries/stephen-critchlow-voice-actor-bbc-radio-drama-company-final-fantasy-doctor-who-unsinkable" target="_blank"&gt;Obituary: Stephen Critchlow – Prolific voice, stage and screen actor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Stage&lt;/font&gt;</content>
+    <id>CBMikwFodHRwczovL3d3dy50aGVzdGFnZS5jby51ay9vYml0dWFyaWVzLS1hcmNoaXZlL29iaXR1YXJpZXMvc3RlcGhlbi1jcml0Y2hsb3ctdm9pY2UtYWN0b3ItYmJjLXJhZGlvLWRyYW1hLWNvbXBhbnktZmluYWwtZmFudGFzeS1kb2N0b3Itd2hvLXVuc2lua2FibGXSAQA</id>
+    <published>2021-11-15T08:00:00Z</published>
+    <updated>2021-11-15T08:00:00Z</updated>
+  </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>IMG_3444</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/slamto/51679997061/"/>
@@ -204,14 +182,6 @@
             </displaycategories>
     </entry>
   <entry>
-    <title>Shows That Got Better After Ditching Their Hook - Collider.com</title>
-    <link rel="alternate" href="https://collider.com/shows-that-got-better-over-time/" type="text/html"/>
-    <content type="html">&lt;a href="https://collider.com/shows-that-got-better-over-time/" target="_blank"&gt;Shows That Got Better After Ditching Their Hook&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Collider.com&lt;/font&gt;</content>
-    <id>CBMiNWh0dHBzOi8vY29sbGlkZXIuY29tL3Nob3dzLXRoYXQtZ290LWJldHRlci1vdmVyLXRpbWUv0gE5aHR0cHM6Ly9jb2xsaWRlci5jb20vc2hvd3MtdGhhdC1nb3QtYmV0dGVyLW92ZXItdGltZS9hbXAv</id>
-    <published>2021-11-14T19:00:00Z</published>
-    <updated>2021-11-14T19:00:00Z</updated>
-  </entry>
-  <entry>
     <title>What does Swarm think of the Doctor?</title>
     <author>
       <name>BBC Doctor Who News</name>
@@ -221,6 +191,40 @@
     <content type="html">&lt;p&gt;&lt;img src="https://asset-manager.bbcchannels.com/i/2g9sj0jg0ay1000"&gt;&lt;/p&gt;&lt;p&gt;Actor Sam Spruell reveals more about his mysterious character Swarm in the latest issue of Doctor Who Magazine. Read an exclusive extract here!&lt;/p&gt;</content>
     <updated>2021-11-12T00:00:00Z</updated>
   </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Scotland, October 2021</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/brightondj/51660674936/"/>
+    <id>tag:flickr.com,2005:/photo/51660674936</id>
+    <published>2021-11-07T08:44:00Z</published>
+    <updated>2021-11-07T08:44:00Z</updated>
+    <flickr:date_taken>2021-10-29T12:38:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-10-29T12:38:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/brightondj/"&gt;brightondj&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/brightondj/51660674936/" title="Scotland, October 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51660674936_2d03c29576_m.jpg" width="240" height="160" alt="Scotland, October 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</content>
+    <author>
+      <name>brightondj</name>
+      <uri>https://www.flickr.com/people/brightondj/</uri>
+      <flickr:nsid>39462456@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm9.staticflickr.com/8259/buddyicons/39462456@N02.jpg?1366746023#39462456@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51660674936_2d03c29576_b.jpg"/>
+    <category term="scotlandholidayday6" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scotland" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scotlandholiday" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2021" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="2021october" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dumfriesgalloway" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="window" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="kirkudbright" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Trip to Colorado</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/57835821@N00/51658556072/"/>
