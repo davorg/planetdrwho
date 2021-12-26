@@ -7,86 +7,126 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-26T20:52:51Z</updated>
+  <updated>2021-12-26T21:53:34Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>Village of the Angels Unreview https://t.co/NkDdUrxPPj A blog that I wrote #DoctorWho #DrWho #review</title>
-    <link rel="alternate" href="https://twitter.com/Greebohobbes/status/1475205778315177987" type="text/html"/>
-    <id>https://twitter.com/Greebohobbes/status/1475205778315177987</id>
-    <author>
-      <name>Bek Hobbes, Beetlebum</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Village of the Angels Unreview https://t.co/NkDdUrxPPj A blog that I wrote #DoctorWho #DrWho #review</div>
-    </content>
-    <updated>2021-12-26T20:44:00Z</updated>
-  </entry>
-  <entry>
-    <title>いつかはみな消える　空さえも　(Season1 #2)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1475203507787800576" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1475203507787800576</id>
-    <author>
-      <name>ドクター･フーbot</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">いつかはみな消える　空さえも　(Season1 #2)</div>
-    </content>
-    <updated>2021-12-26T20:34:58Z</updated>
-  </entry>
-  <entry>
-    <title>RT @LegoBrickbaron: Happy Boxing Day! For any #DoctorWho #fans out there, I have these #LEGO #daleks I #created for sale in my #webstore.…</title>
-    <link rel="alternate" href="https://twitter.com/GVNSDispatches/status/1475203470340894721" type="text/html"/>
-    <id>https://twitter.com/GVNSDispatches/status/1475203470340894721</id>
-    <author>
-      <name>Dispatches from the North Shore</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @LegoBrickbaron: Happy Boxing Day! For any #DoctorWho #fans out there, I have these #LEGO #daleks I #created for sale in my #webstore.…</div>
-    </content>
-    <updated>2021-12-26T20:34:49Z</updated>
-  </entry>
-  <entry>
-    <title>RT @LegoBrickbaron: Happy Boxing Day! For any #DoctorWho #fans out there, I have these #LEGO #daleks I #created for sale in my #webstore.…</title>
-    <link rel="alternate" href="https://twitter.com/NorthVanRT/status/1475202421353816076" type="text/html"/>
-    <id>https://twitter.com/NorthVanRT/status/1475202421353816076</id>
-    <author>
-      <name>NEW North Van Retweeter</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @LegoBrickbaron: Happy Boxing Day! For any #DoctorWho #fans out there, I have these #LEGO #daleks I #created for sale in my #webstore.…</div>
-    </content>
-    <updated>2021-12-26T20:30:39Z</updated>
-  </entry>
   <entry>
     <title>RT @magicfm: Fancy spending New Year's Day with a Doctor? No, no *that* kind of Doctor - Doctor Who! 
 
 Don't miss Jodie Whittaker and Mandi…</title>
-    <link rel="alternate" href="https://twitter.com/JoePranaitis/status/1475202151223861250" type="text/html"/>
-    <id>https://twitter.com/JoePranaitis/status/1475202151223861250</id>
+    <link rel="alternate" href="https://twitter.com/DoctorWhoPN/status/1475219931914510348" type="text/html"/>
+    <id>https://twitter.com/DoctorWhoPN/status/1475219931914510348</id>
     <author>
-      <name>Joe Pranaitis</name>
+      <name>Doctor Who Production News</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @magicfm: Fancy spending New Year's Day with a Doctor? No, no *that* kind of Doctor - Doctor Who! 
 
 Don't miss Jodie Whittaker and Mandi…</div>
     </content>
-    <updated>2021-12-26T20:29:35Z</updated>
+    <updated>2021-12-26T21:40:14Z</updated>
+  </entry>
+  <entry>
+    <title>店が閉まるまで50億年しかないもの (Season1 #2/ローズ)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1475218603310206976" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1475218603310206976</id>
+    <author>
+      <name>ドクター･フーbot</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">店が閉まるまで50億年しかないもの (Season1 #2/ローズ)</div>
+    </content>
+    <updated>2021-12-26T21:34:57Z</updated>
+  </entry>
+  <entry>
+    <title>RT @AuthorBRandom: @CynicalSymbiote Jump space with half alien misfit Ky. To rescue his father he'll master his weird new skills if it kill…</title>
+    <link rel="alternate" href="https://twitter.com/CanadianMegaCu1/status/1475217981210861570" type="text/html"/>
+    <id>https://twitter.com/CanadianMegaCu1/status/1475217981210861570</id>
+    <author>
+      <name>Canadian Culture Corner</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @AuthorBRandom: @CynicalSymbiote Jump space with half alien misfit Ky. To rescue his father he'll master his weird new skills if it kill…</div>
+    </content>
+    <updated>2021-12-26T21:32:29Z</updated>
+  </entry>
+  <entry>
+    <title>My friend's 4-year-old asked me the other day, "Why do you have an ornament of a porta potty??" 😂😂😂 
+
+#DrWho #DrWhoChristmas #Tardis #ShitChildrenSay https://t.co/HUE1cPBhB5</title>
+    <link rel="alternate" href="https://twitter.com/kirstenlesage/status/1475216966428278784" type="text/html"/>
+    <id>https://twitter.com/kirstenlesage/status/1475216966428278784</id>
+    <author>
+      <name>Kirsten Lesage, PhD</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">My friend's 4-year-old asked me the other day, "Why do you have an ornament of a porta potty??" 😂😂😂 
+
+#DrWho #DrWhoChristmas #Tardis #ShitChildrenSay https://t.co/HUE1cPBhB5</div>
+    </content>
+    <updated>2021-12-26T21:28:27Z</updated>
+  </entry>
+  <entry>
+    <title>Viewers all say same about John Barrowman hosting ITV's All Star Musicals - Yorkshire Live</title>
+    <link rel="alternate" href="https://www.examinerlive.co.uk/news/tv/itvs-star-musicals-viewers-say-22578671" type="text/html"/>
+    <content type="html">&lt;a href="https://www.examinerlive.co.uk/news/tv/itvs-star-musicals-viewers-say-22578671" target="_blank"&gt;Viewers all say same about John Barrowman hosting ITV's All Star Musicals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yorkshire Live&lt;/font&gt;</content>
+    <id>CAIiEIO_Xe8O1lQNwuaJL8zQ41QqMwgEKioIACIQdHHuyXPxdoiCC5jEqcranCoUCAoiEHRx7slz8XaIgguYxKnK2pwwgaTQBg</id>
+    <published>2021-12-26T21:26:29Z</published>
+    <updated>2021-12-26T21:26:29Z</updated>
+  </entry>
+  <entry>
+    <title>RT @magicfm: Fancy spending New Year's Day with a Doctor? No, no *that* kind of Doctor - Doctor Who! 
+
+Don't miss Jodie Whittaker and Mandi…</title>
+    <link rel="alternate" href="https://twitter.com/nichola_GBarmy4/status/1475216195922059265" type="text/html"/>
+    <id>https://twitter.com/nichola_GBarmy4/status/1475216195922059265</id>
+    <author>
+      <name>nichola dennigan</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @magicfm: Fancy spending New Year's Day with a Doctor? No, no *that* kind of Doctor - Doctor Who! 
+
+Don't miss Jodie Whittaker and Mandi…</div>
+    </content>
+    <updated>2021-12-26T21:25:23Z</updated>
+  </entry>
+  <entry>
+    <title>All Star Musicals viewers confused as John Barrowman fronts show - Metro.co.uk</title>
+    <link rel="alternate" href="https://metro.co.uk/2021/12/26/all-star-musicals-viewers-confused-as-john-barrowman-fronts-show-15826830/" type="text/html"/>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://metro.co.uk/2021/12/26/all-star-musicals-viewers-confused-as-john-barrowman-fronts-show-15826830/" target="_blank"&gt;All Star Musicals viewers confused as John Barrowman fronts show&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.examinerlive.co.uk/news/tv/itvs-star-musicals-viewers-say-22578671" target="_blank"&gt;Viewers all say same about John Barrowman hosting ITV's All Star Musicals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yorkshire Live&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.thesun.co.uk/tv/17144926/john-barrowman-missing-all-star-musicals-at-christmas-trailer/" target="_blank"&gt;Axed Dancing On Ice judge John Barrowman missing from All Star Musicals At Christmas trailer — despite b...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.dailystar.co.uk/tv/ex-dancing-ice-judge-john-25786975" target="_blank"&gt;Ex-Dancing on Ice judge John Barrowman 'missing' from ITV All Star Musicals trailer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Star&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.nokiamobilephonenews.co.uk/uk/despite-hosting-all-star-musicals-at-christmas-john-barrowman-is-missing-from-the-trailer/" target="_blank"&gt;Despite hosting All Star Musicals At Christmas, John Barrowman is ‘MISSING from the trailer.’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nokia News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pBNU5iR0JCSDIxcERuYWh5dkdTZ0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <id>1221964352</id>
+    <published>2021-12-26T21:24:00Z</published>
+    <updated>2021-12-26T21:24:00Z</updated>
+  </entry>
+  <entry>
+    <title>Ludwig Reveals How Much Money He’s Banked From Streaming - The News Motion</title>
+    <link rel="alternate" href="https://thenewsmotion.com/ludwig-reveals-how-much-money-hes-banked-from-streaming/" type="text/html"/>
+    <content type="html">&lt;a href="https://thenewsmotion.com/ludwig-reveals-how-much-money-hes-banked-from-streaming/" target="_blank"&gt;Ludwig Reveals How Much Money He’s Banked From Streaming&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The News Motion&lt;/font&gt;</content>
+    <id>CAIiECCoc6Z_ZNmfa3IWE5zJGF8qGQgEKhAIACoHCAow7aWlCzCwsL0DMK7-jgc</id>
+    <published>2021-12-26T21:07:59Z</published>
+    <updated>2021-12-26T21:07:59Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who Hasn’t Cast Its New Doctor Yet - newsconcerns</title>
+    <link rel="alternate" href="https://newsconcerns.com/doctor-who-hasnt-cast-its-new-doctor-yet/" type="text/html"/>
+    <content type="html">&lt;a href="https://newsconcerns.com/doctor-who-hasnt-cast-its-new-doctor-yet/" target="_blank"&gt;Doctor Who Hasn’t Cast Its New Doctor Yet&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;newsconcerns&lt;/font&gt;</content>
+    <id>CAIiEBlIh9BpmInJwVXduWzj5yQqGQgEKhAIACoHCAowlPSkCzDX_rwDMNb3jQc</id>
+    <published>2021-12-26T20:29:20Z</published>
+    <updated>2021-12-26T20:29:20Z</updated>
   </entry>
   <entry>
     <title>Doctor Who Hasn't Cast Its New Doctor Yet - ComicBook.com</title>
     <link rel="alternate" href="https://comicbook.com/tv-shows/news/doctor-who-hasnt-cast-its-new-doctor-yet/" type="text/html"/>
     <content type="html">&lt;a href="https://comicbook.com/tv-shows/news/doctor-who-hasnt-cast-its-new-doctor-yet/" target="_blank"&gt;Doctor Who Hasn't Cast Its New Doctor Yet&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;ComicBook.com&lt;/font&gt;</content>
-    <id>CAIiEMDtiKsAySw8PjS60nE9VMsqMwgEKioIACIQXquX76mosOWLp5uvC3kELCoUCAoiEF6rl--pqLDli6ebrwt5BCwwmILIBg</id>
+    <id>CAIiEMDtiKsAySw8PjS60nE9VMsqMwgEKioIACIQXquX76mosOWLp5uvC3kELCoUCAoiEF6rl--pqLDli6ebrwt5BCwwlorJBg</id>
     <published>2021-12-26T20:26:00Z</published>
     <updated>2021-12-26T20:26:00Z</updated>
   </entry>
   <entry>
-    <title>David Tennant's actor wife who he met when she played his daughter - MyLondon</title>
+    <title>David Tennant's actor wife who he met when she played his daughter - My London</title>
     <link rel="alternate" href="https://www.mylondon.news/news/tv/around-world-80-days-david-22578039" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/tv/around-world-80-days-david-22578039" target="_blank"&gt;David Tennant's actor wife who he met when she played his daughter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MyLondon&lt;/font&gt;</content>
-    <id>CBMiRWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy90di9hcm91bmQtd29ybGQtODAtZGF5cy1kYXZpZC0yMjU3ODAzOdIBSWh0dHBzOi8vd3d3Lm15bG9uZG9uLm5ld3MvbmV3cy90di9hcm91bmQtd29ybGQtODAtZGF5cy1kYXZpZC0yMjU3ODAzOS5hbXA</id>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/tv/around-world-80-days-david-22578039" target="_blank"&gt;David Tennant's actor wife who he met when she played his daughter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <id>CAIiEOubhrJDX9hezxYFZzhK6FYqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg</id>
     <published>2021-12-26T19:53:51Z</published>
     <updated>2021-12-26T19:53:51Z</updated>
   </entry>
@@ -115,44 +155,12 @@ Don't miss Jodie Whittaker and Mandi…</div>
     <updated>2021-12-26T17:26:38Z</updated>
   </entry>
   <entry>
-    <title>John Barrowman 'missing from All Star Musicals At Christmas trailer' - Metro.co.uk</title>
-    <link rel="alternate" href="https://metro.co.uk/2021/12/26/john-barrowman-missing-from-all-star-musicals-at-christmas-trailer-15826208/" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://metro.co.uk/2021/12/26/john-barrowman-missing-from-all-star-musicals-at-christmas-trailer-15826208/" target="_blank"&gt;John Barrowman 'missing from All Star Musicals At Christmas trailer'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.thesun.co.uk/tv/17144926/john-barrowman-missing-all-star-musicals-at-christmas-trailer/" target="_blank"&gt;Axed Dancing On Ice judge John Barrowman missing from All Star Musicals At Christmas trailer — despite b...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.dailystar.co.uk/tv/ex-dancing-ice-judge-john-25786975" target="_blank"&gt;Ex-Dancing on Ice judge John Barrowman 'missing' from ITV All Star Musicals trailer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Star&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.dailymail.co.uk/tvshowbiz/article-10345185/John-Barrowman-MISSING-Star-Musicals-Christmas-trailer-despite-host.html" target="_blank"&gt;John Barrowman is 'MISSING from All Star Musicals At Christmas trailer' despite being host&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.nokiamobilephonenews.co.uk/uk/despite-hosting-all-star-musicals-at-christmas-john-barrowman-is-missing-from-the-trailer/" target="_blank"&gt;Despite hosting All Star Musicals At Christmas, John Barrowman is ‘MISSING from the trailer.’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nokia News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pBNU5iR0JCRXBXUFNiU0JlX3JDZ0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
-    <id>1221964352</id>
-    <published>2021-12-26T17:03:00Z</published>
-    <updated>2021-12-26T17:03:00Z</updated>
-  </entry>
-  <entry>
     <title>Caretaker booked over elderly man’s death: Cops identify doctor who gave accused duplicate death certificate - The Indian Express</title>
     <link rel="alternate" href="https://indianexpress.com/article/cities/mumbai/caretaker-booked-over-elderly-mans-death-cops-identity-doctor-who-gave-accused-duplicate-death-certificate-7691584/" type="text/html"/>
     <content type="html">&lt;a href="https://indianexpress.com/article/cities/mumbai/caretaker-booked-over-elderly-mans-death-cops-identity-doctor-who-gave-accused-duplicate-death-certificate-7691584/" target="_blank"&gt;Caretaker booked over elderly man’s death: Cops identify doctor who gave accused duplicate death certificate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Indian Express&lt;/font&gt;</content>
     <id>CAIiEJzhQX2W3q4C8Z5BsPhVqOAqGAgEKg8IACoHCAow3rvTBDD89X4w8YzmBQ</id>
     <published>2021-12-26T16:38:17Z</published>
     <updated>2021-12-26T16:38:17Z</updated>
-  </entry>
-  <entry>
-    <title>U.S. Supreme Court will hear case of Alabama doctor who prescribed powerful opioids - AL.com</title>
-    <link rel="alternate" href="https://www.al.com/news/2021/12/us-supreme-court-will-hear-case-of-alabama-doctor-who-prescribed-powerful-opioids.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.al.com/news/2021/12/us-supreme-court-will-hear-case-of-alabama-doctor-who-prescribed-powerful-opioids.html" target="_blank"&gt;U.S. Supreme Court will hear case of Alabama doctor who prescribed powerful opioids&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;AL.com&lt;/font&gt;</content>
-    <id>CAIiEPVFtT8Uq7XmRxtiVdwVcYQqGQgEKhAIACoHCAowzqT_CjCltPgCMIG_ngY</id>
-    <published>2021-12-26T14:00:00Z</published>
-    <updated>2021-12-26T14:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>All Star Musicals star John Barrowman recalls being 'asked to lie about being gay' - Entertainment Daily</title>
-    <link rel="alternate" href="https://www.entertainmentdaily.co.uk/tv/all-star-musicals-star-john-barrowman-recalls-being-asked-to-lie-about-being-gay/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.entertainmentdaily.co.uk/tv/all-star-musicals-star-john-barrowman-recalls-being-asked-to-lie-about-being-gay/" target="_blank"&gt;All Star Musicals star John Barrowman recalls being 'asked to lie about being gay'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Entertainment Daily&lt;/font&gt;</content>
-    <id>CAIiEEj3b4gCz-zHhL4O2QBQf9gqMwgEKioIACIQKJMmUkQa5DAniPmJR0iBWyoUCAoiECiTJlJEGuQwJ4j5iUdIgVsw_tmSBw</id>
-    <published>2021-12-26T11:49:45Z</published>
-    <updated>2021-12-26T11:49:45Z</updated>
-  </entry>
-  <entry>
-    <title>'Stay Close' on Netflix: 5 things you never knew about Richard Armitage - MEAWW</title>
-    <link rel="alternate" href="https://meaww.com/stay-close-netflix-crime-thriller-series-richard-armitage-cush-jumbo" type="text/html"/>
-    <content type="html">&lt;a href="https://meaww.com/stay-close-netflix-crime-thriller-series-richard-armitage-cush-jumbo" target="_blank"&gt;'Stay Close' on Netflix: 5 things you never knew about Richard Armitage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;MEAWW&lt;/font&gt;</content>
-    <id>CAIiENb10CkRAFUzHAODBmmphqQqGQgEKhAIACoHCAowq-CDCzDr2v8CMIejxQY</id>
-    <published>2021-12-26T07:49:00Z</published>
-    <updated>2021-12-26T07:49:00Z</updated>
   </entry>
   <entry>
     <title>Behind the scenes of ‘Eve of the Daleks’</title>
@@ -292,41 +300,6 @@ Don't miss Jodie Whittaker and Mandi…</div>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="blue" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="shop" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Minifigure Habitat: Weeping Angel</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/rugbymadgirl/51726787718/"/>
-    <id>tag:flickr.com,2005:/photo/51726787718</id>
-    <published>2021-12-05T18:12:09Z</published>
-    <updated>2021-12-05T18:12:09Z</updated>
-    <flickr:date_taken>2021-11-30T00:00:17-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-11-30T00:00:17-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/rugbymadgirl/"&gt;cazphoto.co.uk&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/rugbymadgirl/51726787718/" title="Minifigure Habitat: Weeping Angel"&gt;&lt;img src="https://live.staticflickr.com/65535/51726787718_2609f99a1d_m.jpg" width="240" height="240" alt="Minifigure Habitat: Weeping Angel" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The scriest baddie in Dr Who's canon?? Maybe second only to the Daleks, but the Weeping Angels are pretty terrifying. Don't blink! Ref: D1713-033&lt;/p&gt;</content>
-    <author>
-      <name>cazphoto.co.uk</name>
-      <uri>https://www.flickr.com/people/rugbymadgirl/</uri>
-      <flickr:nsid>57821189@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm4.staticflickr.com/3735/buddyicons/57821189@N00.jpg?1391617166#57821189@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51726787718_2609f99a1d_z.jpg"/>
-    <category term="moc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="myowncreation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="lego" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="minifigurehabitat" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="minifighabitat" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blockheaduk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="habitat" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bley" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="weepingangel" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wings" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dontblink" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
