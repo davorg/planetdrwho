@@ -7,9 +7,21 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2021-12-29T01:14:09Z</updated>
+  <updated>2021-12-29T02:12:18Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>どこに行くの？　―行ったこのないどこかだ　(Season2#1)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1476003799529824260" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1476003799529824260</id>
+    <author>
+      <name>ドクター･フーbot</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">どこに行くの？　―行ったこのないどこかだ　(Season2#1)</div>
+    </content>
+    <updated>2021-12-29T01:35:03Z</updated>
+  </entry>
   <entry>
     <title>RT @goonerbeau: #OTD 1974 📺 #TomBaker debuts as the Fourth Doctor in an episode entitled 'Robot'.
 
@@ -87,34 +99,6 @@ https://t.co/w9I1mp5nKb
     <updated>2021-12-29T00:40:08Z</updated>
   </entry>
   <entry>
-    <title>湿気が多ければエネルギーの損失速度は速くなる？ ―×。　ノンコードDNAとは？ ―たんぱく質をコードしていないDNA。　65983×5=？ ―329915。　光より速く旅するには？ ―循環小数36.7ftlファクターつき量子トンネルを利用 (Season2 #3)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1475988698642944000" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1475988698642944000</id>
-    <author>
-      <name>ドクター･フーbot</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">湿気が多ければエネルギーの損失速度は速くなる？ ―×。　ノンコードDNAとは？ ―たんぱく質をコードしていないDNA。　65983×5=？ ―329915。　光より速く旅するには？ ―循環小数36.7ftlファクターつき量子トンネルを利用 (Season2 #3)</div>
-    </content>
-    <updated>2021-12-29T00:35:02Z</updated>
-  </entry>
-  <entry>
-    <title>Vacancies not reported; doctor who returned without getting the job he desired dies during journey - കേരള കൌമുദി</title>
-    <link rel="alternate" href="https://keralakaumudi.com/en/news/news.php?id=717700&amp;u=" type="text/html"/>
-    <content type="html">&lt;a href="https://keralakaumudi.com/en/news/news.php?id=717700&amp;u=" target="_blank"&gt;Vacancies not reported; doctor who returned without getting the job he desired dies during journey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;കേരള കൌമുദി&lt;/font&gt;</content>
-    <id>CBMiN2h0dHBzOi8va2VyYWxha2F1bXVkaS5jb20vZW4vbmV3cy9uZXdzLnBocD9pZD03MTc3MDAmdT3SATtodHRwczovL2tlcmFsYWthdW11ZGkuY29tL2VuL25ld3MvbmV3cy1hbXAucGhwP2lkPTcxNzcwMCZ1PQ</id>
-    <published>2021-12-28T20:02:24Z</published>
-    <updated>2021-12-28T20:02:24Z</updated>
-  </entry>
-  <entry>
-    <title>ITV The Voice Kids: Danny Jones’ forgotten Casualty role and gorgeous home with model wife - My London</title>
-    <link rel="alternate" href="https://www.mylondon.news/news/tv/itv-voice-kids-danny-jones-22527491" type="text/html"/>
-    <content type="html">&lt;a href="https://www.mylondon.news/news/tv/itv-voice-kids-danny-jones-22527491" target="_blank"&gt;ITV The Voice Kids: Danny Jones’ forgotten Casualty role and gorgeous home with model wife&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
-    <id>CAIiEFlFCGfMJPwbrYdB026L4PEqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg</id>
-    <published>2021-12-28T19:00:00Z</published>
-    <updated>2021-12-28T19:00:00Z</updated>
-  </entry>
-  <entry>
     <title>‘It’s like losing a family member.’ Fresno-area doctor who died during dive remembered - Fresno Bee</title>
     <link rel="alternate" href="https://www.fresnobee.com/news/local/article256872362.html" type="text/html"/>
     <content type="html">&lt;a href="https://www.fresnobee.com/news/local/article256872362.html" target="_blank"&gt;‘It’s like losing a family member.’ Fresno-area doctor who died during dive remembered&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Fresno Bee&lt;/font&gt;</content>
@@ -153,6 +137,22 @@ https://t.co/w9I1mp5nKb
     <id>CAIiECR1FRykT5INDcuhpcD98YEqGQgEKhAIACoHCAow8d-WCzDUhq4DMI_u0QY</id>
     <published>2021-12-28T13:38:12Z</published>
     <updated>2021-12-28T13:38:12Z</updated>
+  </entry>
+  <entry>
+    <title>See what the ‘Prophet of Doom’ Nostradamus predicts for 2022 - Wales Online</title>
+    <link rel="alternate" href="https://www.walesonline.co.uk/news/uk-news/see-what-prophet-doom-nostradamus-22587667" type="text/html"/>
+    <content type="html">&lt;a href="https://www.walesonline.co.uk/news/uk-news/see-what-prophet-doom-nostradamus-22587667" target="_blank"&gt;See what the ‘Prophet of Doom’ Nostradamus predicts for 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wales Online&lt;/font&gt;</content>
+    <id>CAIiEB0e28BBxkkN8aIRMDW0dlUqGQgEKhAIACoHCAowuKD9CjCCyvQCMIHr0wU</id>
+    <published>2021-12-28T13:12:05Z</published>
+    <updated>2021-12-28T13:12:05Z</updated>
+  </entry>
+  <entry>
+    <title>I’m a doctor and this is the truth about cracking your knuckles... - The Sun</title>
+    <link rel="alternate" href="https://www.thesun.co.uk/health/17159431/doctor-truth-cracking-knuckles/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thesun.co.uk/health/17159431/doctor-truth-cracking-knuckles/" target="_blank"&gt;I’m a doctor and this is the truth about cracking your knuckles...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
+    <id>CBMiSGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9oZWFsdGgvMTcxNTk0MzEvZG9jdG9yLXRydXRoLWNyYWNraW5nLWtudWNrbGVzL9IBTGh0dHBzOi8vd3d3LnRoZXN1bi5jby51ay9oZWFsdGgvMTcxNTk0MzEvZG9jdG9yLXRydXRoLWNyYWNraW5nLWtudWNrbGVzL2FtcC8</id>
+    <published>2021-12-28T13:11:00Z</published>
+    <updated>2021-12-28T13:11:00Z</updated>
   </entry>
   <entry>
     <title>From 'Law &amp; Order' to 'Torchwood', Best Television Spinoffs to watch during the weekend - Republic World</title>
