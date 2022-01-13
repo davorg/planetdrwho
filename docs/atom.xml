@@ -7,70 +7,108 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-01-13T14:53:39Z</updated>
+  <updated>2022-01-13T15:55:35Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>Been watching Dr Who collection season 18, and as always @jfmouthonlegs contribution in Behind the Sofa is worth the price of admission alone! The verbal sparring with Padders is something to behold. #drwho #season18 #teganforever</title>
-    <link rel="alternate" href="https://twitter.com/Boggie057/status/1481636984892182528" type="text/html"/>
-    <id>https://twitter.com/Boggie057/status/1481636984892182528</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Miles, arriving by Tardis</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/shacker/51818380933/"/>
+    <id>tag:flickr.com,2005:/photo/51818380933</id>
+    <published>2022-01-13T15:46:01Z</published>
+    <updated>2022-01-13T15:46:01Z</updated>
+    <flickr:date_taken>2021-12-23T19:31:12-08:00</flickr:date_taken>
+    <dc:date.Taken>2021-12-23T19:31:12-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/shacker/"&gt;shacker&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/shacker/51818380933/" title="Miles, arriving by Tardis"&gt;&lt;img src="https://live.staticflickr.com/65535/51818380933_7464f48ac4_m.jpg" width="240" height="188" alt="Miles, arriving by Tardis" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>Boggie</name>
+      <name>shacker</name>
+      <uri>https://www.flickr.com/people/shacker/</uri>
+      <flickr:nsid>67962424@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/67962424@N00.jpg?1565601508#67962424@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51818380933_7464f48ac4_b.jpg"/>
+    <category term="phonebooth" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="phonebox" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="freelibrary" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="morrobay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="spacetime" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>@monytigra @names_drwho ♥️</title>
+    <link rel="alternate" href="https://twitter.com/animainquieta89/status/1481653007347437574" type="text/html"/>
+    <id>https://twitter.com/animainquieta89/status/1481653007347437574</id>
+    <author>
+      <name>Cristina</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Been watching Dr Who collection season 18, and as always @jfmouthonlegs contribution in Behind the Sofa is worth the price of admission alone! The verbal sparring with Padders is something to behold. #drwho #season18 #teganforever</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@monytigra @names_drwho ♥️</div>
     </content>
-    <updated>2022-01-13T14:39:19Z</updated>
+    <updated>2022-01-13T15:42:59Z</updated>
   </entry>
   <entry>
-    <title>@MustErminea 😘</title>
-    <link rel="alternate" href="https://twitter.com/names_drwho/status/1481636274435866632" type="text/html"/>
-    <id>https://twitter.com/names_drwho/status/1481636274435866632</id>
+    <title>@animainquieta89 @names_drwho Confermo anch’io</title>
+    <link rel="alternate" href="https://twitter.com/monytigra/status/1481652957376442371" type="text/html"/>
+    <id>https://twitter.com/monytigra/status/1481652957376442371</id>
     <author>
-      <name>Who!</name>
+      <name>🌟🌟🌟💥sʈєℓℓìñà💥📚🌟 🌟➿</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@MustErminea 😘</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@animainquieta89 @names_drwho Confermo anch’io</div>
     </content>
-    <updated>2022-01-13T14:36:29Z</updated>
+    <updated>2022-01-13T15:42:47Z</updated>
   </entry>
   <entry>
-    <title>故郷に帰ったら仲間たちに伝えろ。この星の豊かさと、未来ある人々のことを、地球のことを誰かに語るときは忘れるな、この星は守られている！ (スペシャル クリスマスの侵略者)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1481635917152407555" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1481635917152407555</id>
+    <title>RT @DWMtweets: SAVE 20%! Get a six-month subscription to DWM for £34! Redeem this offer here: https://t.co/hmoADLhxzU https://t.co/NeIeonyE…</title>
+    <link rel="alternate" href="https://twitter.com/MatthewTwihard/status/1481652649187414021" type="text/html"/>
+    <id>https://twitter.com/MatthewTwihard/status/1481652649187414021</id>
+    <author>
+      <name>MatthewTwihard</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DWMtweets: SAVE 20%! Get a six-month subscription to DWM for £34! Redeem this offer here: https://t.co/hmoADLhxzU https://t.co/NeIeonyE…</div>
+    </content>
+    <updated>2022-01-13T15:41:33Z</updated>
+  </entry>
+  <entry>
+    <title>人類は自分で注意を引いてる。毎日のように探査機を打ち上げ、メッセージやシグナルを宇宙に発信している。君らは宇宙でも注目株だ (スペシャル クリスマスの侵略者)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1481650996837109767" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1481650996837109767</id>
     <author>
       <name>ドクター･フーbot</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">故郷に帰ったら仲間たちに伝えろ。この星の豊かさと、未来ある人々のことを、地球のことを誰かに語るときは忘れるな、この星は守られている！ (スペシャル クリスマスの侵略者)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">人類は自分で注意を引いてる。毎日のように探査機を打ち上げ、メッセージやシグナルを宇宙に発信している。君らは宇宙でも注目株だ (スペシャル クリスマスの侵略者)</div>
     </content>
-    <updated>2022-01-13T14:35:04Z</updated>
+    <updated>2022-01-13T15:35:00Z</updated>
   </entry>
   <entry>
-    <title>Apparently Doctor Who, lost father to covid #DrWho #scifi  #covid19Uk #COVID19 https://t.co/xDgPP7wZ9x</title>
-    <link rel="alternate" href="https://twitter.com/TimWcroft/status/1481634532101181446" type="text/html"/>
-    <id>https://twitter.com/TimWcroft/status/1481634532101181446</id>
+    <title>“Ragazzi, andiamo su, saliamo perché
+In cima al grattacielo tutto meglio è
+Il mondo ci appartiene, siam figli suoi
+Qui non c'ha posto chi ride di noi” 🎶
+
+A che piano ci vediamo? https://t.co/3PaD9Ov8Pd</title>
+    <link rel="alternate" href="https://twitter.com/names_drwho/status/1481650094646591490" type="text/html"/>
+    <id>https://twitter.com/names_drwho/status/1481650094646591490</id>
     <author>
-      <name>Dr Tim Woolliscroft (AKA DigitalTim)</name>
+      <name>Who!</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Apparently Doctor Who, lost father to covid #DrWho #scifi  #covid19Uk #COVID19 https://t.co/xDgPP7wZ9x</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">“Ragazzi, andiamo su, saliamo perché
+In cima al grattacielo tutto meglio è
+Il mondo ci appartiene, siam figli suoi
+Qui non c'ha posto chi ride di noi” 🎶
+
+A che piano ci vediamo? https://t.co/3PaD9Ov8Pd</div>
     </content>
-    <updated>2022-01-13T14:29:34Z</updated>
-  </entry>
-  <entry>
-    <title>RT @Nth_Dimensional: Expanded Look video is now live for the new event!
-Come on over and find out all the juicy details you need to know ab…</title>
-    <link rel="alternate" href="https://twitter.com/Ashterothi/status/1481633108856217605" type="text/html"/>
-    <id>https://twitter.com/Ashterothi/status/1481633108856217605</id>
-    <author>
-      <name>Ashterothi</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Nth_Dimensional: Expanded Look video is now live for the new event!
-Come on over and find out all the juicy details you need to know ab…</div>
-    </content>
-    <updated>2022-01-13T14:23:55Z</updated>
+    <updated>2022-01-13T15:31:24Z</updated>
   </entry>
   <entry>
     <title>ITV The Masked Singer fans work out Mushroom is BBC Doctor Who star - Birmingham Live</title>
@@ -79,14 +117,6 @@ Come on over and find out all the juicy details you need to know ab…</div>
     <id>CAIiEPYASsSGm2MwmbnuvYR4gg0qGQgEKhAIACoHCAow2c77CjC-yfQCMIfO0wU</id>
     <published>2022-01-13T11:59:04Z</published>
     <updated>2022-01-13T11:59:04Z</updated>
-  </entry>
-  <entry>
-    <title>Knights and elves and suffragettes – take the Thursday quiz - The Guardian</title>
-    <link rel="alternate" href="https://www.theguardian.com/lifeandstyle/2022/jan/13/knights-and-elves-and-suffragettes-thursday-quiz" type="text/html"/>
-    <content type="html">&lt;a href="https://www.theguardian.com/lifeandstyle/2022/jan/13/knights-and-elves-and-suffragettes-thursday-quiz" target="_blank"&gt;Knights and elves and suffragettes – take the Thursday quiz&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;</content>
-    <id>CAIiEDt7TstldinL7FPMYG472z0qFggEKg4IACoGCAowl6p7MN-zCTDlkko</id>
-    <published>2022-01-13T11:48:00Z</published>
-    <updated>2022-01-13T11:48:00Z</updated>
   </entry>
   <entry>
     <title>T'Nia Miller talks La Fortuna and Doctor Who casting rumours - digitalspy.com</title>
@@ -119,6 +149,14 @@ Come on over and find out all the juicy details you need to know ab…</div>
     <id>CBMiY2h0dHBzOi8vY2FydGVybWF0dC5jb20vNDY1OTQwL2RvY3Rvci13aG8tc3BvaWxlcnMtam9kaWUtd2hpdHRha2VyLXRhbGtzLWZpbG1pbmctcmVnZW5lcmF0aW9uLXNjZW5lL9IBZ2h0dHBzOi8vY2FydGVybWF0dC5jb20vNDY1OTQwL2RvY3Rvci13aG8tc3BvaWxlcnMtam9kaWUtd2hpdHRha2VyLXRhbGtzLWZpbG1pbmctcmVnZW5lcmF0aW9uLXNjZW5lL2FtcC8</id>
     <published>2022-01-13T02:17:36Z</published>
     <updated>2022-01-13T02:17:36Z</updated>
+  </entry>
+  <entry>
+    <title>Kieran Bew's life from British champion to forgotten role in Doctor Who - My London</title>
+    <link rel="alternate" href="https://www.mylondon.news/news/celebs/bbc-rules-game-kieran-bews-22732622" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/celebs/bbc-rules-game-kieran-bews-22732622" target="_blank"&gt;Kieran Bew's life from British champion to forgotten role in Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <id>CAIiEBtUGNS5RYIyLD25Fj-QBngqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg</id>
+    <published>2022-01-12T20:25:13Z</published>
+    <updated>2022-01-12T20:25:13Z</updated>
   </entry>
   <entry>
     <title>Dancing on Ice judges' dream homes – from stylish flat to rustic woodland dream - Birmingham Live</title>
@@ -292,45 +330,6 @@ Come on over and find out all the juicy details you need to know ab…</div>
       <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/189010890@N06.jpg?1592772385#189010890@N06</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51809720419_5c4f029be3_b.jpg"/>
-    <category term="16scaledoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1940snylonstockings" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="ww2diorama" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="soldierdoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="militarydoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="handmade" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="femalearmydoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="femalenursedoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="russiansniperdoll" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dollmedicww2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dollclothes" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dollstockings" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dollskirt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="thedoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>A confused Doctor arrives with the TARDIS. Gave the doll a MHD leg swap but didn't like it so I put her old self back together. For once I didn't lose any screws. She knows that WW2 is being fought in 1/6 scale, they don't. This is a real puzzle!</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/189010890@N06/51808410937/"/>
-    <id>tag:flickr.com,2005:/photo/51808410937</id>
-    <published>2022-01-09T08:59:17Z</published>
-    <updated>2022-01-09T08:59:17Z</updated>
-    <flickr:date_taken>2022-01-09T21:58:18-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-01-09T21:58:18-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/189010890@N06/"&gt;JF Ryan&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/189010890@N06/51808410937/" title="A confused Doctor arrives with the TARDIS. Gave the doll a MHD leg swap but didn&amp;#039;t like it so I put her old self back together. For once I didn&amp;#039;t lose any screws. She knows that WW2 is being fought in 1/6 scale, they don&amp;#039;t. This is a real puzzle!"&gt;&lt;img src="https://live.staticflickr.com/65535/51808410937_68d8240f17_m.jpg" width="240" height="183" alt="A confused Doctor arrives with the TARDIS. Gave the doll a MHD leg swap but didn&amp;#039;t like it so I put her old self back together. For once I didn&amp;#039;t lose any screws. She knows that WW2 is being fought in 1/6 scale, they don&amp;#039;t. This is a real puzzle!" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>JF Ryan</name>
-      <uri>https://www.flickr.com/people/189010890@N06/</uri>
-      <flickr:nsid>189010890@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/189010890@N06.jpg?1592772385#189010890@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51808410937_68d8240f17_b.jpg"/>
     <category term="16scaledoll" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="1940snylonstockings" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="ww2diorama" scheme="https://www.flickr.com/photos/tags/"/>
