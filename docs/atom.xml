@@ -7,72 +7,100 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-13T01:16:01Z</updated>
+  <updated>2022-02-13T02:10:23Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>RT @todayinscifi: Doctor Who: War of the Daleks (BBC Eighth Doctor Adventures series #05) was first published by BBC Books on this day in 1…</title>
-    <link rel="alternate" href="https://twitter.com/JamesCh43880721/status/1492664191605428225" type="text/html"/>
-    <id>https://twitter.com/JamesCh43880721/status/1492664191605428225</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Leela in the Wild, stage THREE</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/56113012@N04/51878220668/"/>
+    <id>tag:flickr.com,2005:/photo/51878220668</id>
+    <published>2022-02-13T01:53:39Z</published>
+    <updated>2022-02-13T01:53:39Z</updated>
+    <flickr:date_taken>2022-02-12T17:53:39-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-12T17:53:39-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/56113012@N04/"&gt;magnusgreel2&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/56113012@N04/51878220668/" title="Leela in the Wild, stage THREE"&gt;&lt;img src="https://live.staticflickr.com/65535/51878220668_4cf473c493_m.jpg" width="240" height="232" alt="Leela in the Wild, stage THREE" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Before any more favoritings, which I appreciate, I thought I'd better fix a couple more things, and repost.&lt;/p&gt;</content>
     <author>
-      <name>James Chapman</name>
+      <name>magnusgreel2</name>
+      <uri>https://www.flickr.com/people/56113012@N04/</uri>
+      <flickr:nsid>56113012@N04</flickr:nsid>
+      <flickr:buddyicon>https://farm2.staticflickr.com/1014/buddyicons/56113012@N04.jpg?1290198715#56113012@N04</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51878220668_4cf473c493_z.jpg"/>
+    <category term="sevateem" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="companion" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dw" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="face" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="portrait" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="pencil" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drawing" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>RT @CrazyCaptionWho: “Crazy 😜 Caption” this! #doctorwho #drwho https://t.co/P4VCWeoAnD</title>
+    <link rel="alternate" href="https://twitter.com/timeleschildren/status/1492677896787439617" type="text/html"/>
+    <id>https://twitter.com/timeleschildren/status/1492677896787439617</id>
+    <author>
+      <name>nasty doctor who</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @todayinscifi: Doctor Who: War of the Daleks (BBC Eighth Doctor Adventures series #05) was first published by BBC Books on this day in 1…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @CrazyCaptionWho: “Crazy 😜 Caption” this! #doctorwho #drwho https://t.co/P4VCWeoAnD</div>
     </content>
-    <updated>2022-02-13T00:57:30Z</updated>
+    <updated>2022-02-13T01:51:57Z</updated>
+  </entry>
+  <entry>
+    <title>RT @alexs_journey: Hi everybody! It’s Alex! Spending time with Willow.  Thank you for all your kind messages. It’s hard at the moment. But…</title>
+    <link rel="alternate" href="https://twitter.com/JulieHirst93/status/1492677115870953474" type="text/html"/>
+    <id>https://twitter.com/JulieHirst93/status/1492677115870953474</id>
+    <author>
+      <name>Julie Hirst</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @alexs_journey: Hi everybody! It’s Alex! Spending time with Willow.  Thank you for all your kind messages. It’s hard at the moment. But…</div>
+    </content>
+    <updated>2022-02-13T01:48:51Z</updated>
   </entry>
   <entry>
     <title>RT @Harnois751: 60 minute speed paint. - Skaro #DrWho #DoctorWho #Daleks https://t.co/1QTn9sLYim</title>
-    <link rel="alternate" href="https://twitter.com/doctartwho/status/1492662292672126976" type="text/html"/>
-    <id>https://twitter.com/doctartwho/status/1492662292672126976</id>
+    <link rel="alternate" href="https://twitter.com/JoePranaitis/status/1492675809223524352" type="text/html"/>
+    <id>https://twitter.com/JoePranaitis/status/1492675809223524352</id>
     <author>
-      <name>DOCTARTWHO</name>
+      <name>Joe Pranaitis</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @Harnois751: 60 minute speed paint. - Skaro #DrWho #DoctorWho #Daleks https://t.co/1QTn9sLYim</div>
     </content>
-    <updated>2022-02-13T00:49:57Z</updated>
+    <updated>2022-02-13T01:43:40Z</updated>
   </entry>
   <entry>
-    <title>RT @Literarychick2: .@newcastleboyy  See #DrWho has taken a new twist https://t.co/z5p92cPSc8</title>
-    <link rel="alternate" href="https://twitter.com/newcastleboyy/status/1492658519073382400" type="text/html"/>
-    <id>https://twitter.com/newcastleboyy/status/1492658519073382400</id>
+    <title>RT @alexs_journey: Hi everybody! It’s Alex! Spending time with Willow.  Thank you for all your kind messages. It’s hard at the moment. But…</title>
+    <link rel="alternate" href="https://twitter.com/avecliberte/status/1492671541359755267" type="text/html"/>
+    <id>https://twitter.com/avecliberte/status/1492671541359755267</id>
     <author>
-      <name>Fearless Friend</name>
+      <name>Jamie Lynn Hunkins</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Literarychick2: .@newcastleboyy  See #DrWho has taken a new twist https://t.co/z5p92cPSc8</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @alexs_journey: Hi everybody! It’s Alex! Spending time with Willow.  Thank you for all your kind messages. It’s hard at the moment. But…</div>
     </content>
-    <updated>2022-02-13T00:34:57Z</updated>
+    <updated>2022-02-13T01:26:42Z</updated>
   </entry>
   <entry>
-    <title>.@newcastleboyy  See #DrWho has taken a new twist https://t.co/z5p92cPSc8</title>
-    <link rel="alternate" href="https://twitter.com/Literarychick2/status/1492658318292094976" type="text/html"/>
-    <id>https://twitter.com/Literarychick2/status/1492658318292094976</id>
+    <title>RT @Harnois751: 60 minute speed paint. - Skaro #DrWho #DoctorWho #Daleks https://t.co/1QTn9sLYim</title>
+    <link rel="alternate" href="https://twitter.com/jeffslither/status/1492669887717728259" type="text/html"/>
+    <id>https://twitter.com/jeffslither/status/1492669887717728259</id>
     <author>
-      <name>HelenW</name>
+      <name>jeff wielobob</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">.@newcastleboyy  See #DrWho has taken a new twist https://t.co/z5p92cPSc8</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Harnois751: 60 minute speed paint. - Skaro #DrWho #DoctorWho #Daleks https://t.co/1QTn9sLYim</div>
     </content>
-    <updated>2022-02-13T00:34:09Z</updated>
-  </entry>
-  <entry>
-    <title>RT @StudiosMurphy: Coming Tomorrow over on Josh Murphy Studios...
-
-#DoctorWho #DrWho #2ndDoctor https://t.co/IgQbfucBEs</title>
-    <link rel="alternate" href="https://twitter.com/5PYGL4SS/status/1492656640730054661" type="text/html"/>
-    <id>https://twitter.com/5PYGL4SS/status/1492656640730054661</id>
-    <author>
-      <name>Tommy Rose</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @StudiosMurphy: Coming Tomorrow over on Josh Murphy Studios...
-
-#DoctorWho #DrWho #2ndDoctor https://t.co/IgQbfucBEs</div>
-    </content>
-    <updated>2022-02-13T00:27:30Z</updated>
+    <updated>2022-02-13T01:20:08Z</updated>
   </entry>
   <entry>
     <title>Street in Germany named after Japanese doctor who treated typhus patients there post-WWII - The Mainichi - The Mainichi</title>
@@ -81,14 +109,6 @@
     <id>CAIiEOWHh-YQu5iEWaj4_crjZgcqGQgEKhAIACoHCAow4cXwCjDsgrsCMKvWsQM</id>
     <published>2022-02-13T00:00:34Z</published>
     <updated>2022-02-13T00:00:34Z</updated>
-  </entry>
-  <entry>
-    <title>Inside John Bishop’s life off-screen including devastating split from wife and family farm - OK! magazine</title>
-    <link rel="alternate" href="https://www.ok.co.uk/lifestyle/inside-john-bishops-life-screen-26197388" type="text/html"/>
-    <content type="html">&lt;a href="https://www.ok.co.uk/lifestyle/inside-john-bishops-life-screen-26197388" target="_blank"&gt;Inside John Bishop’s life off-screen including devastating split from wife and family farm&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;OK! magazine&lt;/font&gt;</content>
-    <id>CAIiEK7gDoOzVmYmw8FFIE37W2EqGQgEKhAIACoHCAow49_5CjCu0-YCMNusuAU</id>
-    <published>2022-02-12T22:47:58Z</published>
-    <updated>2022-02-12T22:47:58Z</updated>
   </entry>
   <entry>
     <title>This is Going to Hurt ending explained: Is Adam struck off? - Radio Times</title>
@@ -113,6 +133,14 @@
     <id>CAIiEGuS7piM5UCw1brtbVaeeA4qGQgEKhAIACoHCAow4uGPCzDQpKMDMOm0sAY</id>
     <published>2022-02-12T21:51:32Z</published>
     <updated>2022-02-12T21:51:32Z</updated>
+  </entry>
+  <entry>
+    <title>The Kiwi doctor who played a part in Neil Young's Spotify exit - RNZ</title>
+    <link rel="alternate" href="https://www.rnz.co.nz/national/programmes/sunday/audio/2018830329/the-kiwi-doctor-who-played-a-part-in-neil-young-s-spotify-exit" type="text/html"/>
+    <content type="html">&lt;a href="https://www.rnz.co.nz/national/programmes/sunday/audio/2018830329/the-kiwi-doctor-who-played-a-part-in-neil-young-s-spotify-exit" target="_blank"&gt;The Kiwi doctor who played a part in Neil Young's Spotify exit&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RNZ&lt;/font&gt;</content>
+    <id>CBMigAFodHRwczovL3d3dy5ybnouY28ubnovbmF0aW9uYWwvcHJvZ3JhbW1lcy9zdW5kYXkvYXVkaW8vMjAxODgzMDMyOS90aGUta2l3aS1kb2N0b3Itd2hvLXBsYXllZC1hLXBhcnQtaW4tbmVpbC15b3VuZy1zLXNwb3RpZnktZXhpdNIBAA</id>
+    <published>2022-02-12T20:53:46Z</published>
+    <updated>2022-02-12T20:53:46Z</updated>
   </entry>
   <entry>
     <title>Where are the cast of Neighbours now? From pop superstardom to drug issues - Leicestershire Live</title>
@@ -202,38 +230,6 @@
       <flickr:buddyicon>https://farm5.staticflickr.com/4133/buddyicons/54297163@N07.jpg?1285517078#54297163@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51873562087_cc56215381_b.jpg"/>
-    <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon2021" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="georgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="parade" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriott" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriotcarpetlovers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mandalorian" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dragon Con Parade 2021</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/z-fotos/51875166080/"/>
-    <id>tag:flickr.com,2005:/photo/51875166080</id>
-    <published>2022-02-11T03:13:39Z</published>
-    <updated>2022-02-11T03:13:39Z</updated>
-    <flickr:date_taken>2021-09-04T10:29:57-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-04T10:29:57-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/z-fotos/"&gt;Z-fotos&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/z-fotos/51875166080/" title="Dragon Con Parade 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51875166080_e7a4f2f265_m.jpg" width="159" height="240" alt="Dragon Con Parade 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Z-fotos</name>
-      <uri>https://www.flickr.com/people/z-fotos/</uri>
-      <flickr:nsid>54297163@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4133/buddyicons/54297163@N07.jpg?1285517078#54297163@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51875166080_e7a4f2f265_b.jpg"/>
     <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dragoncon2021" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
