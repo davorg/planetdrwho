@@ -7,88 +7,123 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-15T11:53:55Z</updated>
+  <updated>2022-02-15T12:59:00Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>RT @tvukzone: Classic episodes of #DoctorWho come to #ForcesTV from today, beginning with the Jon Pertwee adventure Spearhead From Space. M…</title>
-    <link rel="alternate" href="https://twitter.com/RyanGTweetsTV/status/1493550630107070464" type="text/html"/>
-    <id>https://twitter.com/RyanGTweetsTV/status/1493550630107070464</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Do you Know Who?</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/161412463@N02/51883947560/"/>
+    <id>tag:flickr.com,2005:/photo/51883947560</id>
+    <published>2022-02-15T12:54:16Z</published>
+    <updated>2022-02-15T12:54:16Z</updated>
+    <flickr:date_taken>2022-02-14T21:51:00-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-14T21:51:00-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/161412463@N02/"&gt;Miyabi Harucus 1102&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/161412463@N02/51883947560/" title="Do you Know Who?"&gt;&lt;img src="https://live.staticflickr.com/65535/51883947560_b749fbb554_m.jpg" width="240" height="127" alt="Do you Know Who?" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I tried to homage my favorite TV program.&lt;/p&gt;</content>
     <author>
-      <name>Ryan Glendenning</name>
+      <name>Miyabi Harucus 1102</name>
+      <uri>https://www.flickr.com/people/161412463@N02/</uri>
+      <flickr:nsid>161412463@N02</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/161412463@N02.jpg?1631403773#161412463@N02</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51883947560_b749fbb554_b.jpg"/>
+    <category term="secondlife" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scene" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="slavatar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sexy" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tram" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="lelutka" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="maitreya" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>RT @ThePrydonian: Necros Dalek
+
+Revelation of the Daleks (1985)
+
+#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/StrONfv8QQ</title>
+    <link rel="alternate" href="https://twitter.com/CrumpetTheUh/status/1493565634105520131" type="text/html"/>
+    <id>https://twitter.com/CrumpetTheUh/status/1493565634105520131</id>
+    <author>
+      <name>🌹 crumpet - 🍓🎵</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @tvukzone: Classic episodes of #DoctorWho come to #ForcesTV from today, beginning with the Jon Pertwee adventure Spearhead From Space. M…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @ThePrydonian: Necros Dalek
+
+Revelation of the Daleks (1985)
+
+#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/StrONfv8QQ</div>
     </content>
-    <updated>2022-02-15T11:39:53Z</updated>
+    <updated>2022-02-15T12:39:30Z</updated>
+  </entry>
+  <entry>
+    <title>RT @42TODoomsday: Well the @Diddly_Dum team came up with such a great idea for a podcast topic that we are ditching our original programmin…</title>
+    <link rel="alternate" href="https://twitter.com/ScottishGinge3/status/1493564914601967620" type="text/html"/>
+    <id>https://twitter.com/ScottishGinge3/status/1493564914601967620</id>
+    <author>
+      <name>John Finlayson</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @42TODoomsday: Well the @Diddly_Dum team came up with such a great idea for a podcast topic that we are ditching our original programmin…</div>
+    </content>
+    <updated>2022-02-15T12:36:39Z</updated>
   </entry>
   <entry>
     <title>RT @Harnois751: I believe this mock-up was made by Mike Tucker of the Model Unit, utilising a painting I did a very long time ago. #DrWho #…</title>
-    <link rel="alternate" href="https://twitter.com/Greebohobbes/status/1493550057773273088" type="text/html"/>
-    <id>https://twitter.com/Greebohobbes/status/1493550057773273088</id>
+    <link rel="alternate" href="https://twitter.com/DynatropePress/status/1493564550976655364" type="text/html"/>
+    <id>https://twitter.com/DynatropePress/status/1493564550976655364</id>
     <author>
-      <name>Bek Hobbes paints with a phantom hand</name>
+      <name>Dynatrope Press</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @Harnois751: I believe this mock-up was made by Mike Tucker of the Model Unit, utilising a painting I did a very long time ago. #DrWho #…</div>
     </content>
-    <updated>2022-02-15T11:37:37Z</updated>
+    <updated>2022-02-15T12:35:12Z</updated>
   </entry>
   <entry>
-    <title>@SarahofGolding @drwho Swashbuckling Funn’s Funeral Parlor with Antigone and Rudyard…makes perfect sense to me!</title>
-    <link rel="alternate" href="https://twitter.com/CulturalOutlier/status/1493549647457099780" type="text/html"/>
-    <id>https://twitter.com/CulturalOutlier/status/1493549647457099780</id>
+    <title>RT @bhtnursery: Busy morning so far.  We have a collection of what looks like characters from #DrWho ready to be loaded on the first lorrie…</title>
+    <link rel="alternate" href="https://twitter.com/andrewhendy69/status/1493564157551169539" type="text/html"/>
+    <id>https://twitter.com/andrewhendy69/status/1493564157551169539</id>
     <author>
-      <name>Zane Sexton</name>
+      <name>Andrew Henderson</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@SarahofGolding @drwho Swashbuckling Funn’s Funeral Parlor with Antigone and Rudyard…makes perfect sense to me!</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @bhtnursery: Busy morning so far.  We have a collection of what looks like characters from #DrWho ready to be loaded on the first lorrie…</div>
     </content>
-    <updated>2022-02-15T11:35:59Z</updated>
+    <updated>2022-02-15T12:33:38Z</updated>
   </entry>
   <entry>
-    <title>Busy morning so far.  We have a collection of what looks like characters from #DrWho ready to be loaded on the first lorries leaving us today.
+    <title>RT @ThePrydonian: Necros Dalek
 
-#neatpacking
-#bareroot
-#trees
-#hedging
-#Tubex
-#squaresawntreestakes
-#forestry
-#farming
-#landscaping https://t.co/MvKz2m0PSk</title>
-    <link rel="alternate" href="https://twitter.com/bhtnursery/status/1493548390940086278" type="text/html"/>
-    <id>https://twitter.com/bhtnursery/status/1493548390940086278</id>
+Revelation of the Daleks (1985)
+
+#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/StrONfv8QQ</title>
+    <link rel="alternate" href="https://twitter.com/Helium690/status/1493562574033592320" type="text/html"/>
+    <id>https://twitter.com/Helium690/status/1493562574033592320</id>
     <author>
-      <name>BHT Nursery</name>
+      <name>Helium690</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Busy morning so far.  We have a collection of what looks like characters from #DrWho ready to be loaded on the first lorries leaving us today.
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @ThePrydonian: Necros Dalek
 
-#neatpacking
-#bareroot
-#trees
-#hedging
-#Tubex
-#squaresawntreestakes
-#forestry
-#farming
-#landscaping https://t.co/MvKz2m0PSk</div>
+Revelation of the Daleks (1985)
+
+#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/StrONfv8QQ</div>
     </content>
-    <updated>2022-02-15T11:30:59Z</updated>
+    <updated>2022-02-15T12:27:21Z</updated>
   </entry>
   <entry>
-    <title>RT @Harnois751: I believe this mock-up was made by Mike Tucker of the Model Unit, utilising a painting I did a very long time ago. #DrWho #…</title>
-    <link rel="alternate" href="https://twitter.com/IcarFaem/status/1493548247071305733" type="text/html"/>
-    <id>https://twitter.com/IcarFaem/status/1493548247071305733</id>
-    <author>
-      <name>Edmund II 👑</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Harnois751: I believe this mock-up was made by Mike Tucker of the Model Unit, utilising a painting I did a very long time ago. #DrWho #…</div>
-    </content>
-    <updated>2022-02-15T11:30:25Z</updated>
+    <title>Doctor Who: The Third Doctor Adventures - The Annihilators review - CultBox</title>
+    <link rel="alternate" href="https://cultbox.co.uk/reviews/doctor-who-the-third-doctor-adventures-the-annihilators-review" type="text/html"/>
+    <content type="html">&lt;a href="https://cultbox.co.uk/reviews/doctor-who-the-third-doctor-adventures-the-annihilators-review" target="_blank"&gt;Doctor Who: The Third Doctor Adventures - The Annihilators review&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CultBox&lt;/font&gt;</content>
+    <id>CBMiXGh0dHBzOi8vY3VsdGJveC5jby51ay9yZXZpZXdzL2RvY3Rvci13aG8tdGhlLXRoaXJkLWRvY3Rvci1hZHZlbnR1cmVzLXRoZS1hbm5paGlsYXRvcnMtcmV2aWV30gEA</id>
+    <published>2022-02-15T12:00:50Z</published>
+    <updated>2022-02-15T12:00:50Z</updated>
   </entry>
   <entry>
     <title>The medics who treated me as a child refugee inspired me to be a doctor - Metro.co.uk</title>
@@ -121,14 +156,6 @@
     <id>CAIiEN1IGMfhOpT94M_kyWlKBswqGQgEKhAIACoHCAowp8KhCTC53ZYCMN3ykAM</id>
     <published>2022-02-15T09:01:20Z</published>
     <updated>2022-02-15T09:01:20Z</updated>
-  </entry>
-  <entry>
-    <title>Russell T Davies reveals why he returned to Doctor Who - Radio Times</title>
-    <link rel="alternate" href="https://www.radiotimes.com/tv/sci-fi/russell-t-davies-doctor-who-return-exclusive-newsupdate/" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.radiotimes.com/tv/sci-fi/russell-t-davies-doctor-who-return-exclusive-newsupdate/" target="_blank"&gt;Russell T Davies reveals why he returned to Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio Times&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.digitalspy.com/tv/a39072535/doctor-who-russell-t-davies-series-return/" target="_blank"&gt;Doctor Who boss Russell T Davies discusses series return&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Spy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://wegotthiscovered.com/tv/former-doctor-who-showrunner-teases-his-new-run-says-he-wouldnt-return-if-it-didnt-feel-new/" target="_blank"&gt;Former 'Doctor Who' EP Teases That His New Series Will Be Fresh&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;We Got This Covered&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://screenrant.com/doctor-who-season-14-showrunner-davies-return-explained/" target="_blank"&gt;Russell T. Davies Explains Why He's Returning For Doctor Who Season 14&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uk.style.yahoo.com/russell-t-davies-addresses-doctor-modern-twist-155527329.html" target="_blank"&gt;Russell T Davies on returning to 'Doctor Who': 'I wouldn't go back if it wasn't feeling new'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Lifestyle UK&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2l3dnQ3akJCSHV5QkhkdFVIMTl5Z0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
-    <id>1282907952</id>
-    <published>2022-02-15T07:05:21Z</published>
-    <updated>2022-02-15T07:05:21Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: The MBTI Of Every Doctor | Screen Rant - Screen Rant</title>
@@ -290,38 +317,6 @@
       <flickr:buddyicon>https://farm5.staticflickr.com/4133/buddyicons/54297163@N07.jpg?1285517078#54297163@N07</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51875166080_e7a4f2f265_b.jpg"/>
-    <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon2021" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="georgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="parade" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriott" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriotcarpetlovers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mandalorian" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dragon Con Parade 2021</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/z-fotos/51874599148/"/>
-    <id>tag:flickr.com,2005:/photo/51874599148</id>
-    <published>2022-02-11T03:13:38Z</published>
-    <updated>2022-02-11T03:13:38Z</updated>
-    <flickr:date_taken>2021-09-04T10:29:40-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-04T10:29:40-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/z-fotos/"&gt;Z-fotos&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/z-fotos/51874599148/" title="Dragon Con Parade 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51874599148_592fbfd993_m.jpg" width="240" height="159" alt="Dragon Con Parade 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Z-fotos</name>
-      <uri>https://www.flickr.com/people/z-fotos/</uri>
-      <flickr:nsid>54297163@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4133/buddyicons/54297163@N07.jpg?1285517078#54297163@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51874599148_592fbfd993_b.jpg"/>
     <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dragoncon2021" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
