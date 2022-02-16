@@ -7,67 +7,82 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-02-16T15:56:03Z</updated>
+  <updated>2022-02-16T16:57:36Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>@_Kanora https://t.co/iWT8gElhLm</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_Off/status/1493974260515315717" type="text/html"/>
-    <id>https://twitter.com/DrWho_Off/status/1493974260515315717</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Who would like an inflatable Dalek?   IMG_8229</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/149796217@N08/51885489876/"/>
+    <id>tag:flickr.com,2005:/photo/51885489876</id>
+    <published>2022-02-16T16:45:22Z</published>
+    <updated>2022-02-16T16:45:22Z</updated>
+    <flickr:date_taken>2022-02-12T11:26:33-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-02-12T11:26:33-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/149796217@N08/"&gt;alisonhalliday&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/149796217@N08/51885489876/" title="Who would like an inflatable Dalek?   IMG_8229"&gt;&lt;img src="https://live.staticflickr.com/65535/51885489876_d93d018c27_m.jpg" width="240" height="187" alt="Who would like an inflatable Dalek?   IMG_8229" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>DrWho 💫</name>
+      <name>alisonhalliday</name>
+      <uri>https://www.flickr.com/people/149796217@N08/</uri>
+      <flickr:nsid>149796217@N08</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/149796217@N08.jpg?1594277019#149796217@N08</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51885489876_d93d018c27_b.jpg"/>
+    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="inflatable" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="gatesheadmodelfair" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="canoneosrp" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="canonrf24240mm" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>#OnThisDay 1982: #DoctorWho - The Visitation, part two.
+#DrWho #scifi  #sciencefiction https://t.co/5GXPH8aPcV</title>
+    <link rel="alternate" href="https://twitter.com/scanner_time/status/1493988542757978116" type="text/html"/>
+    <id>https://twitter.com/scanner_time/status/1493988542757978116</id>
+    <author>
+      <name>The Time Scanner 💙</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@_Kanora https://t.co/iWT8gElhLm</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">#OnThisDay 1982: #DoctorWho - The Visitation, part two.
+#DrWho #scifi  #sciencefiction https://t.co/5GXPH8aPcV</div>
     </content>
-    <updated>2022-02-16T15:43:15Z</updated>
+    <updated>2022-02-16T16:40:00Z</updated>
   </entry>
   <entry>
-    <title>@DrWho__10 @JUSTIN_AVFC_ @Holy_Trinity_AV @WatfordFC Thanks trace</title>
-    <link rel="alternate" href="https://twitter.com/lukerobinson89/status/1493970838617575431" type="text/html"/>
-    <id>https://twitter.com/lukerobinson89/status/1493970838617575431</id>
+    <title>So far, je vais rencontrer Arthur Darvill (mon Rory de #DrWho et Rip Hunter de #LoT) et Tom Hopper (Perceval dans #Merlin mais aussi Luther dans #UmbrellaAcademy et Billy Bones dans #BlackSails) à la #ComicConBrussels. Happy gal over here. 😍</title>
+    <link rel="alternate" href="https://twitter.com/AnadoraBlack/status/1493988296468402178" type="text/html"/>
+    <id>https://twitter.com/AnadoraBlack/status/1493988296468402178</id>
     <author>
-      <name>Luke Robinson</name>
+      <name>Anadora Black 🇧🇪🌻🏳️‍🌈</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@DrWho__10 @JUSTIN_AVFC_ @Holy_Trinity_AV @WatfordFC Thanks trace</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">So far, je vais rencontrer Arthur Darvill (mon Rory de #DrWho et Rip Hunter de #LoT) et Tom Hopper (Perceval dans #Merlin mais aussi Luther dans #UmbrellaAcademy et Billy Bones dans #BlackSails) à la #ComicConBrussels. Happy gal over here. 😍</div>
     </content>
-    <updated>2022-02-16T15:29:39Z</updated>
+    <updated>2022-02-16T16:39:01Z</updated>
+  </entry>
+  <entry>
+    <title>RT @TheGrantPerkins: #DuringTheTimeWar Only Whos and Horses. What do you think of this fun #DoctorWho #OFAH mash up ? https://t.co/LKaEUsQt…</title>
+    <link rel="alternate" href="https://twitter.com/WhoCommunity/status/1493988001055137792" type="text/html"/>
+    <id>https://twitter.com/WhoCommunity/status/1493988001055137792</id>
+    <author>
+      <name>Doctor Who: The Community Snow</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @TheGrantPerkins: #DuringTheTimeWar Only Whos and Horses. What do you think of this fun #DoctorWho #OFAH mash up ? https://t.co/LKaEUsQt…</div>
+    </content>
+    <updated>2022-02-16T16:37:51Z</updated>
   </entry>
   <entry>
     <title>RT @ThePrydonian: Davros's Daleks - Necros &amp;amp; Imperial
 
 #DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/EnfPhHzMlO</title>
-    <link rel="alternate" href="https://twitter.com/Retr0Wings/status/1493970814303186945" type="text/html"/>
-    <id>https://twitter.com/Retr0Wings/status/1493970814303186945</id>
-    <author>
-      <name>Retr0Wings</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @ThePrydonian: Davros's Daleks - Necros &amp; Imperial
-
-#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/EnfPhHzMlO</div>
-    </content>
-    <updated>2022-02-16T15:29:33Z</updated>
-  </entry>
-  <entry>
-    <title>@JUSTIN_AVFC_ @lukerobinson89 @Holy_Trinity_AV @WatfordFC Fantastic podcast guy’s again thanks again for doing it together we are family up the villa 👍👏👏👏👏👏</title>
-    <link rel="alternate" href="https://twitter.com/DrWho__10/status/1493970762407063557" type="text/html"/>
-    <id>https://twitter.com/DrWho__10/status/1493970762407063557</id>
-    <author>
-      <name>Trace</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@JUSTIN_AVFC_ @lukerobinson89 @Holy_Trinity_AV @WatfordFC Fantastic podcast guy’s again thanks again for doing it together we are family up the villa 👍👏👏👏👏👏</div>
-    </content>
-    <updated>2022-02-16T15:29:21Z</updated>
-  </entry>
-  <entry>
-    <title>RT @ThePrydonian: Davros's Daleks - Necros &amp;amp; Imperial
-
-#DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/EnfPhHzMlO</title>
-    <link rel="alternate" href="https://twitter.com/ThePrydonian/status/1493970659336237061" type="text/html"/>
-    <id>https://twitter.com/ThePrydonian/status/1493970659336237061</id>
+    <link rel="alternate" href="https://twitter.com/ThePrydonian/status/1493987539333664768" type="text/html"/>
+    <id>https://twitter.com/ThePrydonian/status/1493987539333664768</id>
     <author>
       <name>James Johnson</name>
     </author>
@@ -76,7 +91,51 @@
 
 #DoctorWho #DrWho #Daleks #Dalek #Blender3D https://t.co/EnfPhHzMlO</div>
     </content>
-    <updated>2022-02-16T15:28:56Z</updated>
+    <updated>2022-02-16T16:36:00Z</updated>
+  </entry>
+  <entry>
+    <title>@nycsouthpaw Oprah made her national debut. https://t.co/XwIw3s8UqR</title>
+    <link rel="alternate" href="https://twitter.com/not_drwho/status/1493984875363192835" type="text/html"/>
+    <id>https://twitter.com/not_drwho/status/1493984875363192835</id>
+    <author>
+      <name>Tom Baker</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@nycsouthpaw Oprah made her national debut. https://t.co/XwIw3s8UqR</div>
+    </content>
+    <updated>2022-02-16T16:25:25Z</updated>
+  </entry>
+  <entry>
+    <title>ITV Heartbeat: Chris Harper's marriage to wife you may recognise from The Bill - My London</title>
+    <link rel="alternate" href="https://www.mylondon.news/news/celebs/itv-heartbeat-chris-harpers-marriage-23106132" type="text/html"/>
+    <content type="html">&lt;a href="https://www.mylondon.news/news/celebs/itv-heartbeat-chris-harpers-marriage-23106132" target="_blank"&gt;ITV Heartbeat: Chris Harper's marriage to wife you may recognise from The Bill&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;My London&lt;/font&gt;</content>
+    <id>CAIiECkt2JiUq0fFR4ngrw6NqzcqMwgEKioIACIQX_tNdqblM0aCJsQ14EquVioUCAoiEF_7TXam5TNGgibENeBKrlYwrMXbBg</id>
+    <published>2022-02-16T16:17:35Z</published>
+    <updated>2022-02-16T16:17:35Z</updated>
+  </entry>
+  <entry>
+    <title>Stephen Bush's Diary: My time as the New Statesman's political editor is over, and I'm shaking up a seven-year routine - The New Statesman</title>
+    <link rel="alternate" href="https://www.newstatesman.com/politics/uk-politics/2022/02/stephen-bushs-diary-my-time-as-the-new-statesmans-political-editor-is-over-and-im-shaking-up-a-seven-year-routine" type="text/html"/>
+    <content type="html">&lt;a href="https://www.newstatesman.com/politics/uk-politics/2022/02/stephen-bushs-diary-my-time-as-the-new-statesmans-political-editor-is-over-and-im-shaking-up-a-seven-year-routine" target="_blank"&gt;Stephen Bush's Diary: My time as the New Statesman's political editor is over, and I'm shaking up a seven-year routine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The New Statesman&lt;/font&gt;</content>
+    <id>CAIiEHfwxcyWMModKAedcQGWzHIqGQgEKhAIACoHCAowsYKfCzC-jLcDMPbY8gY</id>
+    <published>2022-02-16T16:16:00Z</published>
+    <updated>2022-02-16T16:16:00Z</updated>
+  </entry>
+  <entry>
+    <title>Family pay tribute to "NHS hero" who died in crash - Wales Online</title>
+    <link rel="alternate" href="https://www.walesonline.co.uk/news/wales-news/family-pay-tribute-nhs-hero-23119252" type="text/html"/>
+    <content type="html">&lt;a href="https://www.walesonline.co.uk/news/wales-news/family-pay-tribute-nhs-hero-23119252" target="_blank"&gt;Family pay tribute to "NHS hero" who died in crash&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wales Online&lt;/font&gt;</content>
+    <id>CAIiEKp-ARLFlgVArnreP_yQs68qGQgEKhAIACoHCAowuKD9CjCCyvQCMIHr0wU</id>
+    <published>2022-02-16T15:59:08Z</published>
+    <updated>2022-02-16T15:59:08Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who star Jodie Whittaker's actor husband and sad loss of Emmerdale star cousin - Wales Online</title>
+    <link rel="alternate" href="https://www.walesonline.co.uk/lifestyle/showbiz/jodie-whittaker-husband-cousin-23116938" type="text/html"/>
+    <content type="html">&lt;a href="https://www.walesonline.co.uk/lifestyle/showbiz/jodie-whittaker-husband-cousin-23116938" target="_blank"&gt;Doctor Who star Jodie Whittaker's actor husband and sad loss of Emmerdale star cousin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wales Online&lt;/font&gt;</content>
+    <id>CAIiEJNRF4c8JuQKO6JJ1x9fyi4qGQgEKhAIACoHCAowuKD9CjCCyvQCMN_n0wU</id>
+    <published>2022-02-16T15:57:45Z</published>
+    <updated>2022-02-16T15:57:45Z</updated>
   </entry>
   <entry>
     <title>Billie Piper announces return to BBC Doctor Who - but not on TV - Birmingham Live</title>
@@ -95,36 +154,12 @@
     <updated>2022-02-16T14:09:10Z</updated>
   </entry>
   <entry>
-    <title>Odisha Police forms SIT to probe 'fake' doctor who married 17 women across states - India Today</title>
-    <link rel="alternate" href="https://www.indiatoday.in/india/story/police-form-sit-to-probe-odisha-fake-doctor-who-married-17-women-across-states-1913929-2022-02-16" type="text/html"/>
-    <content type="html">&lt;a href="https://www.indiatoday.in/india/story/police-form-sit-to-probe-odisha-fake-doctor-who-married-17-women-across-states-1913929-2022-02-16" target="_blank"&gt;Odisha Police forms SIT to probe 'fake' doctor who married 17 women across states&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;India Today&lt;/font&gt;</content>
-    <id>CAIiED1QzfDu5MPaDNIsczqeFI4qGQgEKhAIACoHCAowot7cCjD8xM4BMK7khgI</id>
-    <published>2022-02-16T13:52:16Z</published>
-    <updated>2022-02-16T13:52:16Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who Discussions: Season 1 - Boom Town - Cultured Vultures</title>
-    <link rel="alternate" href="https://culturedvultures.com/doctor-who-discussions-boom-town/" type="text/html"/>
-    <content type="html">&lt;a href="https://culturedvultures.com/doctor-who-discussions-boom-town/" target="_blank"&gt;Doctor Who Discussions: Season 1 - Boom Town&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Cultured Vultures&lt;/font&gt;</content>
-    <id>CAIiEJvRTqYix1td0_wy5Ke77qoqMwgEKioIACIQX6H8rt5e3iXuqS6Aio8R_CoUCAoiEF-h_K7eXt4l7qkugIqPEfwwsfzCBg</id>
-    <published>2022-02-16T13:00:53Z</published>
-    <updated>2022-02-16T13:00:53Z</updated>
-  </entry>
-  <entry>
     <title>Vikings: Valhalla: Netflix release date, plot, cast with Sam Corlett, and trailer - NationalWorld</title>
     <link rel="alternate" href="https://www.nationalworld.com/culture/television/vikings-valhalla-netflix-release-date-of-vikings-sequel-plot-who-is-in-cast-with-sam-corlett-and-trailer-3570652" type="text/html"/>
     <content type="html">&lt;a href="https://www.nationalworld.com/culture/television/vikings-valhalla-netflix-release-date-of-vikings-sequel-plot-who-is-in-cast-with-sam-corlett-and-trailer-3570652" target="_blank"&gt;Vikings: Valhalla: Netflix release date, plot, cast with Sam Corlett, and trailer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;NationalWorld&lt;/font&gt;</content>
     <id>CAIiELlcfOjcCifryJGZHIB3GfUqGQgEKhAIACoHCAow5oqkCzCplbwDMMPNiQc</id>
     <published>2022-02-16T12:31:01Z</published>
     <updated>2022-02-16T12:31:01Z</updated>
-  </entry>
-  <entry>
-    <title>'Burnt-out' doctor quits NHS for new life abroad as job was 'like being in the trenches' - Wales Online</title>
-    <link rel="alternate" href="https://www.walesonline.co.uk/news/uk-news/burnt-out-doctor-quits-nhs-23105889" type="text/html"/>
-    <content type="html">&lt;a href="https://www.walesonline.co.uk/news/uk-news/burnt-out-doctor-quits-nhs-23105889" target="_blank"&gt;'Burnt-out' doctor quits NHS for new life abroad as job was 'like being in the trenches'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wales Online&lt;/font&gt;</content>
-    <id>CAIiEIU0ZYyw0HdQCyhsx4Rc5F0qGQgEKhAIACoHCAowuKD9CjCCyvQCMIHr0wU</id>
-    <published>2022-02-16T12:26:38Z</published>
-    <updated>2022-02-16T12:26:38Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>NARR February 2022 HookedOnPostcards</title>
@@ -290,38 +325,6 @@
     <displaycategories>
             </displaycategories>
     </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dragon Con Parade 2021</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/z-fotos/51873562087/"/>
-    <id>tag:flickr.com,2005:/photo/51873562087</id>
-    <published>2022-02-11T03:13:40Z</published>
-    <updated>2022-02-11T03:13:40Z</updated>
-    <flickr:date_taken>2021-09-04T10:30:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2021-09-04T10:30:06-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/z-fotos/"&gt;Z-fotos&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/z-fotos/51873562087/" title="Dragon Con Parade 2021"&gt;&lt;img src="https://live.staticflickr.com/65535/51873562087_cc56215381_m.jpg" width="159" height="240" alt="Dragon Con Parade 2021" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Z-fotos</name>
-      <uri>https://www.flickr.com/people/z-fotos/</uri>
-      <flickr:nsid>54297163@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4133/buddyicons/54297163@N07.jpg?1285517078#54297163@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51873562087_cc56215381_b.jpg"/>
-    <category term="dragoncon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dragoncon2021" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="atlanta" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="georgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="parade" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriott" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="marriotcarpetlovers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mandalorian" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Billie Piper returns as Rose Tyler for new audio drama series</title>
     <author>
@@ -351,14 +354,6 @@
     <id>https://www.doctorwho.tv/news/?article=big-finish-roundup-feb-2022</id>
     <content type="html">&lt;p&gt;&lt;img src="https://asset-manager.bbcchannels.com/i/2ga9o0jg0ay1000"&gt;&lt;/p&gt;&lt;p&gt;February sees the release of a range of brand-new audio adventures from Big Finish. Here’s a roundup of what’s available to buy on CD and download this month.&lt;/p&gt;</content>
     <updated>2022-02-10T00:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Torchwood: Cadoc Point review - CultBox</title>
-    <link rel="alternate" href="https://cultbox.co.uk/reviews/audio/torchwood-cadoc-point-review" type="text/html"/>
-    <content type="html">&lt;a href="https://cultbox.co.uk/reviews/audio/torchwood-cadoc-point-review" target="_blank"&gt;Torchwood: Cadoc Point review&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CultBox&lt;/font&gt;</content>
-    <id>CBMiQGh0dHBzOi8vY3VsdGJveC5jby51ay9yZXZpZXdzL2F1ZGlvL3RvcmNod29vZC1jYWRvYy1wb2ludC1yZXZpZXfSAQA</id>
-    <published>2022-02-03T08:00:00Z</published>
-    <updated>2022-02-03T08:00:00Z</updated>
   </entry>
   <entry>
     <title>Read a FREE Tenth Doctor comic!</title>
