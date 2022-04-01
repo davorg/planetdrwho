@@ -7,9 +7,37 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-01T04:56:50Z</updated>
+  <updated>2022-04-01T05:53:44Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>ファンタスティック!</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1509766263136202756" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1509766263136202756</id>
+    <author>
+      <name>ドクター･フーbot</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">ファンタスティック!</div>
+    </content>
+    <updated>2022-04-01T05:35:01Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Matt_SmithNews: #OnThisDay
+Exactly 9 years ago today Eleventh Doctor Matt Smith met his modern day ‘Clara’ in the Doctor Who episode 
+‘…</title>
+    <link rel="alternate" href="https://twitter.com/JasmineAWattpad/status/1509754376872767504" type="text/html"/>
+    <id>https://twitter.com/JasmineAWattpad/status/1509754376872767504</id>
+    <author>
+      <name>Jasmine🏳️‍🌈</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: #OnThisDay
+Exactly 9 years ago today Eleventh Doctor Matt Smith met his modern day ‘Clara’ in the Doctor Who episode 
+‘…</div>
+    </content>
+    <updated>2022-04-01T04:47:47Z</updated>
+  </entry>
   <entry>
     <title>RT @Matt_SmithNews: #Throwback 
 Matt Smith seen for the first time in his Tweed and Bow tie for the last #ThrowbackThursday before the 12th…</title>
@@ -49,44 +77,6 @@ Matt Smith seen for the first time in his Tweed and Bow tie for the last #Throwb
 Matt Smith seen for the first time in his Tweed and Bow tie for the last #ThrowbackThursday before the 12th…</div>
     </content>
     <updated>2022-04-01T04:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who Sevans TV Dalek 1/5 scale New Sealed Model Kit
-
-Ends Wed 6th Apr @ 7:09pm
-
-https://t.co/b0Yay7RCgw
-
-#ad #doctorwho #thedoctor #tardis #whovian #drwho https://t.co/M33h0zfHdb</title>
-    <link rel="alternate" href="https://twitter.com/DrWhoenthusiats/status/1509746203810050053" type="text/html"/>
-    <id>https://twitter.com/DrWhoenthusiats/status/1509746203810050053</id>
-    <author>
-      <name>Dr Who Enthusiats</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Doctor Who Sevans TV Dalek 1/5 scale New Sealed Model Kit
-
-Ends Wed 6th Apr @ 7:09pm
-
-https://t.co/b0Yay7RCgw
-
-#ad #doctorwho #thedoctor #tardis #whovian #drwho https://t.co/M33h0zfHdb</div>
-    </content>
-    <updated>2022-04-01T04:15:19Z</updated>
-  </entry>
-  <entry>
-    <title>RT @Matt_SmithNews: #Throwback 
-Matt Smith seen for the first time in his Tweed and Bow tie for the last #ThrowbackThursday before the 12th…</title>
-    <link rel="alternate" href="https://twitter.com/nutnotnet/status/1509744697027309580" type="text/html"/>
-    <id>https://twitter.com/nutnotnet/status/1509744697027309580</id>
-    <author>
-      <name>what</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: #Throwback 
-Matt Smith seen for the first time in his Tweed and Bow tie for the last #ThrowbackThursday before the 12th…</div>
-    </content>
-    <updated>2022-04-01T04:09:20Z</updated>
   </entry>
   <entry>
     <title>'Well-respected' doctor retires after more than 30 years at same surgery - Stoke-on-Trent Live</title>
