@@ -7,9 +7,80 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-04-01T23:53:04Z</updated>
+  <updated>2022-04-02T01:17:08Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>wreck of the tardis</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/redshoesgirl/51976737515/"/>
+    <id>tag:flickr.com,2005:/photo/51976737515</id>
+    <published>2022-04-02T01:13:00Z</published>
+    <updated>2022-04-02T01:13:00Z</updated>
+    <flickr:date_taken>2022-04-01T17:19:32-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-04-01T17:19:32-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/redshoesgirl/"&gt;_RedShoesGirl_&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/redshoesgirl/51976737515/" title="wreck of the tardis"&gt;&lt;img src="https://live.staticflickr.com/65535/51976737515_49402178e9_m.jpg" width="240" height="190" alt="wreck of the tardis" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;i bought my very first action figure a few days ago — the mandalorian. and a couple of grogu because i couldn't decide which one was going to work best with the mando. i think i am going to LOVE shooting this guy.&lt;br /&gt;
+&lt;br /&gt;
+i was able to capture the wreck of the tardis on tatooine; mando was a little spooked and took off.&lt;br /&gt;
+&lt;br /&gt;
+happy april fools day folks!&lt;/p&gt;</content>
+    <author>
+      <name>_RedShoesGirl_</name>
+      <uri>https://www.flickr.com/people/redshoesgirl/</uri>
+      <flickr:nsid>25021632@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm1.staticflickr.com/79/buddyicons/25021632@N00.jpg?1168295885#25021632@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51976737515_49402178e9_b.jpg"/>
+    <category term="toyphotography" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="toyphotographer" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="toyphotographycom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="womenintoyphotography" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="womenintoys" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="desertdiorama" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tatooine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="starwars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="larahartleyphotography" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="blackseries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="6inchblackseries" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sistersinplastic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mandalorian" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="grogu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="actionfigure" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="manfrottomini" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ulanzi" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ulanzicube" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="canon5diii" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>僕の目を見ろ。信じられる目をしてるだろ？ (Season2 #8)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1510053153978597377" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1510053153978597377</id>
+    <author>
+      <name>ドクター･フーbot</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">僕の目を見ろ。信じられる目をしてるだろ？ (Season2 #8)</div>
+    </content>
+    <updated>2022-04-02T00:35:01Z</updated>
+  </entry>
+  <entry>
+    <title>@DrWho_bot オ前ガダーレクヲ滅ボシタノカ！</title>
+    <link rel="alternate" href="https://twitter.com/Daleks_bot/status/1510040564095356930" type="text/html"/>
+    <id>https://twitter.com/Daleks_bot/status/1510040564095356930</id>
+    <author>
+      <name>ダーレク</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@DrWho_bot オ前ガダーレクヲ滅ボシタノカ！</div>
+    </content>
+    <updated>2022-04-01T23:45:00Z</updated>
+  </entry>
   <entry>
     <title>@Daleks_bot Fantastic!</title>
     <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1510040253968445442" type="text/html"/>
@@ -49,38 +120,6 @@ But will he be putting his Bow Tie back on for the Do…</div>
       <div xmlns="http://www.w3.org/1999/xhtml">@CaterinaNigra Buon compleanno 🎁</div>
     </content>
     <updated>2022-04-01T23:38:34Z</updated>
-  </entry>
-  <entry>
-    <title>RT @EleMaBo: Oggi è il 2 aprile.
-Giornata sulla consapevolezza dell’autismo.
-Consapevolezza per chi?
-Noi lo sappiamo.
-Forse per chi continu…</title>
-    <link rel="alternate" href="https://twitter.com/names_drwho/status/1510038742630903810" type="text/html"/>
-    <id>https://twitter.com/names_drwho/status/1510038742630903810</id>
-    <author>
-      <name>Who!</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @EleMaBo: Oggi è il 2 aprile.
-Giornata sulla consapevolezza dell’autismo.
-Consapevolezza per chi?
-Noi lo sappiamo.
-Forse per chi continu…</div>
-    </content>
-    <updated>2022-04-01T23:37:46Z</updated>
-  </entry>
-  <entry>
-    <title>RT @CancerGetsLOST: #DoctorWho fans, we have a few rare #DrWho items in our online charity auction, 100% to benefit @CCAlliance (we donate…</title>
-    <link rel="alternate" href="https://twitter.com/SusanLost4Life/status/1510038656282681345" type="text/html"/>
-    <id>https://twitter.com/SusanLost4Life/status/1510038656282681345</id>
-    <author>
-      <name>Susan Terral</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @CancerGetsLOST: #DoctorWho fans, we have a few rare #DrWho items in our online charity auction, 100% to benefit @CCAlliance (we donate…</div>
-    </content>
-    <updated>2022-04-01T23:37:25Z</updated>
   </entry>
   <entry>
     <title>The True Story Behind Christopher Eccleston's Doctor Who Exit – WhatCulture - WhatCulture</title>
@@ -267,45 +306,6 @@ Forse per chi continu…</div>
       <flickr:buddyicon>https://farm5.staticflickr.com/4174/buddyicons/46810521@N04.jpg?1495106239#46810521@N04</flickr:buddyicon>
     </author>
     <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51973670206_4aa939a29e_b.jpg"/>
-    <category term="parkhill" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="parkhillflats" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="apartments" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="housing" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="standingattheskysedge" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwholocation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tvlocation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="filminglocation" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dusk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="evening" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sheffield" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yorkshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="southyorkshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Park Hill Flats, Sheffield 2022</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/doctor_dave/51973743028/"/>
-    <id>tag:flickr.com,2005:/photo/51973743028</id>
-    <published>2022-03-31T17:37:51Z</published>
-    <updated>2022-03-31T17:37:51Z</updated>
-    <flickr:date_taken>2022-03-18T17:38:28-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-03-18T17:38:28-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/doctor_dave/"&gt;Dave_Johnson&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/doctor_dave/51973743028/" title="Park Hill Flats, Sheffield 2022"&gt;&lt;img src="https://live.staticflickr.com/65535/51973743028_402e4df999_m.jpg" width="240" height="180" alt="Park Hill Flats, Sheffield 2022" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Exploring Park Hill flats in Sheffield late afternoon on Friday 18th March 2022.&lt;/p&gt;</content>
-    <author>
-      <name>Dave_Johnson</name>
-      <uri>https://www.flickr.com/people/doctor_dave/</uri>
-      <flickr:nsid>46810521@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4174/buddyicons/46810521@N04.jpg?1495106239#46810521@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/51973743028_402e4df999_b.jpg"/>
     <category term="parkhill" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="parkhillflats" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="flats" scheme="https://www.flickr.com/photos/tags/"/>
