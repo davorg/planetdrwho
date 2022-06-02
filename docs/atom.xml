@@ -7,9 +7,21 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-06-02T02:37:29Z</updated>
+  <updated>2022-06-02T03:32:12Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>RT @DWMtweets: Have you ever seen the 60s Dalek movies? How and when did you first become aware of them? And what do you think of them? Ple…</title>
+    <link rel="alternate" href="https://twitter.com/PaulMcGannFan/status/1532187473685651456" type="text/html"/>
+    <id>https://twitter.com/PaulMcGannFan/status/1532187473685651456</id>
+    <author>
+      <name>Doctor Who Fan</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DWMtweets: Have you ever seen the 60s Dalek movies? How and when did you first become aware of them? And what do you think of them? Ple…</div>
+    </content>
+    <updated>2022-06-02T02:28:55Z</updated>
+  </entry>
   <entry>
     <title>Dr Doctor Who DVD Tom Baker Job Lot blu ray Steel book, Limited Ed, Lalla Ward
 
@@ -81,20 +93,6 @@ https://t.co/Jv0eLBhJtt
       <div xmlns="http://www.w3.org/1999/xhtml">May the real 13th Doctor (Ncuti Gatwa) be with you @bbcdoctorwho @bbcpov #doctorwho #drwho #savedoctorwho #retconthetimelesschild #thetimelesschildisantidoctorwho #ncutigatwathereal13thdoctor https://t.co/tYygnt75HI</div>
     </content>
     <updated>2022-06-02T01:33:47Z</updated>
-  </entry>
-  <entry>
-    <title>RT @R2_Who: The New Dalek Paradigm, in battle formation.
-#DoctorWho #DrWho #Dalek #blender #3D #3dmodeling https://t.co/s7D8u0UTPY</title>
-    <link rel="alternate" href="https://twitter.com/MissMegSavage/status/1532169639853187074" type="text/html"/>
-    <id>https://twitter.com/MissMegSavage/status/1532169639853187074</id>
-    <author>
-      <name>M.Savage🍂💚🤍💖🍂</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @R2_Who: The New Dalek Paradigm, in battle formation.
-#DoctorWho #DrWho #Dalek #blender #3D #3dmodeling https://t.co/s7D8u0UTPY</div>
-    </content>
-    <updated>2022-06-02T01:18:03Z</updated>
   </entry>
   <entry>
     <title>Meet the Doctor Who Gave Hope to People for Early COVID Treatment - The Epoch Times</title>
@@ -265,14 +263,6 @@ https://t.co/Jv0eLBhJtt
     <updated>2022-05-31T15:50:19Z</updated>
   </entry>
   <entry>
-    <title>What Supernatural Spin-Off The Winchesters Needs To Succeed - Den of Geek</title>
-    <link rel="alternate" href="https://www.denofgeek.com/tv/what-supernatural-spin-off-the-winchesters-needs-to-succeed/" type="text/html"/>
-    <content type="html">&lt;a href="https://www.denofgeek.com/tv/what-supernatural-spin-off-the-winchesters-needs-to-succeed/" target="_blank"&gt;What Supernatural Spin-Off The Winchesters Needs To Succeed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Den of Geek&lt;/font&gt;</content>
-    <id>CAIiEJKl1lcPEf3qwxHiS0mElcsqGQgEKhAIACoHCAow9suVCzDnsKsDMMCmzAY</id>
-    <published>2022-05-31T09:56:58Z</published>
-    <updated>2022-05-31T09:56:58Z</updated>
-  </entry>
-  <entry>
     <title>Silent Witness season 25 episode 3 cast: Who is in the cast? - Express</title>
     <link rel="alternate" href="https://www.express.co.uk/showbiz/tv-radio/1618288/Silent-Witness-season-25-episode-3-cast-Mystery" type="text/html"/>
     <content type="html">&lt;a href="https://www.express.co.uk/showbiz/tv-radio/1618288/Silent-Witness-season-25-episode-3-cast-Mystery" target="_blank"&gt;Silent Witness season 25 episode 3 cast: Who is in the cast?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Express&lt;/font&gt;</content>
@@ -319,4 +309,12 @@ https://t.co/Jv0eLBhJtt
     <displaycategories>
             </displaycategories>
     </entry>
+  <entry>
+    <title>How Doctor Who Did The MCU First - And How It Can Again - Screen Rant</title>
+    <link rel="alternate" href="https://screenrant.com/doctor-who-shared-universe-sarah-jane-torchwood-mcu/" type="text/html"/>
+    <content type="html">&lt;a href="https://screenrant.com/doctor-who-shared-universe-sarah-jane-torchwood-mcu/" target="_blank"&gt;How Doctor Who Did The MCU First - And How It Can Again&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;</content>
+    <id>CAIiENL-f0BiibXphUasdCiD3ykqGQgEKhAIACoHCAownqWBCzD44fwCMMymtwY</id>
+    <published>2022-05-28T13:40:00Z</published>
+    <updated>2022-05-28T13:40:00Z</updated>
+  </entry>
 </feed>
