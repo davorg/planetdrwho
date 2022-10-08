@@ -7,76 +7,330 @@
     <name>Dave Cross</name>
     <email>dave@dave.org.uk</email>
   </author>
-  <updated>2022-10-08T06:57:30Z</updated>
+  <updated>2022-10-08T07:52:01Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>あんなに大勢集めて馬鹿やれるのは学生ぐらいしか…―確かに論理的だ (Series1 #1/ローズとドクター)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1578635065760034816" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1578635065760034816</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Bessie</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/coastermadmatt/52412216551/"/>
+    <id>tag:flickr.com,2005:/photo/52412216551</id>
+    <published>2022-10-08T07:43:17Z</published>
+    <updated>2022-10-08T07:43:17Z</updated>
+    <flickr:date_taken>2022-09-25T10:57:49-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-09-25T10:57:49-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/coastermadmatt/"&gt;CoasterMadMatt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/coastermadmatt/52412216551/" title="Bessie"&gt;&lt;img src="https://live.staticflickr.com/65535/52412216551_7b4ecb28dd_m.jpg" width="240" height="160" alt="Bessie" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>ドクター･フーbot</name>
+      <name>CoasterMadMatt</name>
+      <uri>https://www.flickr.com/people/coastermadmatt/</uri>
+      <flickr:nsid>15523409@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/15523409@N05.jpg?1616709593#15523409@N05</flickr:buddyicon>
     </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">あんなに大勢集めて馬鹿やれるのは学生ぐらいしか…―確かに論理的だ (Series1 #1/ローズとドクター)</div>
-    </content>
-    <updated>2022-10-08T06:35:03Z</updated>
-  </entry>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52412216551_7b4ecb28dd_b.jpg"/>
+    <category term="beaulieuestate2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieuestate" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attraction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hampshireattractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractionsinhampshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="onscreencars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="on" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="screen" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="filmcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="moviecars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="film" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="movie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carexhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="museum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibits" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="austin" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who1" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Doctor's Austin</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/coastermadmatt/52411710457/"/>
+    <id>tag:flickr.com,2005:/photo/52411710457</id>
+    <published>2022-10-08T07:43:17Z</published>
+    <updated>2022-10-08T07:43:17Z</updated>
+    <flickr:date_taken>2022-09-25T10:57:28-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-09-25T10:57:28-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/coastermadmatt/"&gt;CoasterMadMatt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/coastermadmatt/52411710457/" title="The Doctor&amp;#039;s Austin"&gt;&lt;img src="https://live.staticflickr.com/65535/52411710457_14c963feb8_m.jpg" width="160" height="240" alt="The Doctor&amp;#039;s Austin" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>CoasterMadMatt</name>
+      <uri>https://www.flickr.com/people/coastermadmatt/</uri>
+      <flickr:nsid>15523409@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/15523409@N05.jpg?1616709593#15523409@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52411710457_14c963feb8_b.jpg"/>
+    <category term="beaulieuestate2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieuestate" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attraction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hampshireattractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractionsinhampshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="onscreencars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="on" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="screen" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="filmcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="moviecars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="film" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="movie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carexhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="museum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibits" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="austin" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who1" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>The Doctor's Bessie</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/coastermadmatt/52412503134/"/>
+    <id>tag:flickr.com,2005:/photo/52412503134</id>
+    <published>2022-10-08T07:43:16Z</published>
+    <updated>2022-10-08T07:43:16Z</updated>
+    <flickr:date_taken>2022-09-25T10:57:22-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-09-25T10:57:22-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/coastermadmatt/"&gt;CoasterMadMatt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/coastermadmatt/52412503134/" title="The Doctor&amp;#039;s Bessie"&gt;&lt;img src="https://live.staticflickr.com/65535/52412503134_2403748c4e_m.jpg" width="240" height="160" alt="The Doctor&amp;#039;s Bessie" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>CoasterMadMatt</name>
+      <uri>https://www.flickr.com/people/coastermadmatt/</uri>
+      <flickr:nsid>15523409@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/15523409@N05.jpg?1616709593#15523409@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52412503134_2403748c4e_b.jpg"/>
+    <category term="beaulieuestate2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieuestate" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attraction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hampshireattractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractionsinhampshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="onscreencars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="on" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="screen" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="filmcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="moviecars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="film" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="movie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carexhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="museum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibits" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="austin" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who1" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>WHO1</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/coastermadmatt/52412503354/"/>
+    <id>tag:flickr.com,2005:/photo/52412503354</id>
+    <published>2022-10-08T07:43:15Z</published>
+    <updated>2022-10-08T07:43:15Z</updated>
+    <flickr:date_taken>2022-09-25T10:56:55-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-09-25T10:56:55-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/coastermadmatt/"&gt;CoasterMadMatt&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/coastermadmatt/52412503354/" title="WHO1"&gt;&lt;img src="https://live.staticflickr.com/65535/52412503354_b8c7c69da7_m.jpg" width="160" height="240" alt="WHO1" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>CoasterMadMatt</name>
+      <uri>https://www.flickr.com/people/coastermadmatt/</uri>
+      <flickr:nsid>15523409@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/15523409@N05.jpg?1616709593#15523409@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52412503354_b8c7c69da7_b.jpg"/>
+    <category term="beaulieuestate2022" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieuestate" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="beaulieu" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attraction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="hampshireattractions" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="attractionsinhampshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="onscreencars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="on" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="screen" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="filmcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="moviecars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvcars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="film" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="movie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carmuseum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="carexhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="museum" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibition" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="exhibits" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicle" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="vehicles" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhosbessie" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwhocar" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="austin" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who1" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tvshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="televisionshow" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>RT @maopeninou: Coucou @libe , Prix Nobel de physique : un petit papier page 19; Prix Nobel de Littérature : la Une et 6 pages.
-Revenez pas…</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_Off2/status/1578630762286706688" type="text/html"/>
-    <id>https://twitter.com/DrWho_Off2/status/1578630762286706688</id>
+    <title>RT @Chewie_Off2: 8 Une chanson pour une twitta 
+Marc Lavoine - Toi mon amour
+
+https://t.co/ITyo7gW1yg</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_Off2/status/1578651768967204864" type="text/html"/>
+    <id>https://twitter.com/DrWho_Off2/status/1578651768967204864</id>
     <author>
       <name>DrWho_Off2</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @maopeninou: Coucou @libe , Prix Nobel de physique : un petit papier page 19; Prix Nobel de Littérature : la Une et 6 pages.
-Revenez pas…</div>
-    </content>
-    <updated>2022-10-08T06:17:57Z</updated>
-  </entry>
-  <entry>
-    <title>RT @ThePrydonian: Reforged Paradigm: Red Dalek Drone
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Chewie_Off2: 8 Une chanson pour une twitta 
+Marc Lavoine - Toi mon amour
 
-#DoctorWho #DrWho #Daleks #Dalek #Blender3D #BlenderCycles https://t.co/qgHpNLhqpX</title>
-    <link rel="alternate" href="https://twitter.com/TARDIStime2/status/1578629719209037824" type="text/html"/>
-    <id>https://twitter.com/TARDIStime2/status/1578629719209037824</id>
+https://t.co/ITyo7gW1yg</div>
+    </content>
+    <updated>2022-10-08T07:41:26Z</updated>
+  </entry>
+  <entry>
+    <title>あなた誰よ!? (Series1 #1/ローズ)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1578650160749772800" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1578650160749772800</id>
     <author>
-      <name>TARDISpooky Power Time</name>
+      <name>ドクター･フーbot</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @ThePrydonian: Reforged Paradigm: Red Dalek Drone
+      <div xmlns="http://www.w3.org/1999/xhtml">あなた誰よ!? (Series1 #1/ローズ)</div>
+    </content>
+    <updated>2022-10-08T07:35:02Z</updated>
+  </entry>
+  <entry>
+    <title>8 une chanson dédicace pour une twitto
+Julien Clerc - Fais moi une place
 
-#DoctorWho #DrWho #Daleks #Dalek #Blender3D #BlenderCycles https://t.co/qgHpNLhqpX</div>
-    </content>
-    <updated>2022-10-08T06:13:49Z</updated>
-  </entry>
-  <entry>
-    <title>RT @richard_price2: Not long till #PowerOfTheDoctor so here’s a cool new giveaway. To Enter as always make sure you continue to Follow Me o…</title>
-    <link rel="alternate" href="https://twitter.com/sarkar172/status/1578625553317654528" type="text/html"/>
-    <id>https://twitter.com/sarkar172/status/1578625553317654528</id>
+https://t.co/3Ir0bSF03W https://t.co/YtUbpdTp6D</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_Off2/status/1578649808910553088" type="text/html"/>
+    <id>https://twitter.com/DrWho_Off2/status/1578649808910553088</id>
     <author>
-      <name>Sarah Pilbeam</name>
+      <name>DrWho_Off2</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @richard_price2: Not long till #PowerOfTheDoctor so here’s a cool new giveaway. To Enter as always make sure you continue to Follow Me o…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">8 une chanson dédicace pour une twitto
+Julien Clerc - Fais moi une place
+
+https://t.co/3Ir0bSF03W https://t.co/YtUbpdTp6D</div>
     </content>
-    <updated>2022-10-08T05:57:16Z</updated>
+    <updated>2022-10-08T07:33:38Z</updated>
   </entry>
   <entry>
-    <title>#DrWho - Tardis
-https://t.co/0CvQb5LaAA https://t.co/dxP1ht2NPM</title>
-    <link rel="alternate" href="https://twitter.com/SFSeriesMovies/status/1578620106099240960" type="text/html"/>
-    <id>https://twitter.com/SFSeriesMovies/status/1578620106099240960</id>
+    <title>RT @Mrunknownfc1: Another Photo Of John Noakes Peter Purves With Doctor Who Monster Figures And Models On Blue Peter 1975 #DoctorWho #DrWho…</title>
+    <link rel="alternate" href="https://twitter.com/garethjmurtagh/status/1578649804879851520" type="text/html"/>
+    <id>https://twitter.com/garethjmurtagh/status/1578649804879851520</id>
     <author>
-      <name>SFSeries&amp;Movies</name>
+      <name>Gareth Murtagh 🇺🇦</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">#DrWho - Tardis
-https://t.co/0CvQb5LaAA https://t.co/dxP1ht2NPM</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Another Photo Of John Noakes Peter Purves With Doctor Who Monster Figures And Models On Blue Peter 1975 #DoctorWho #DrWho…</div>
     </content>
-    <updated>2022-10-08T05:35:37Z</updated>
+    <updated>2022-10-08T07:33:38Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Matt_SmithNews: #SpookySeason👻
+Matt Smith as the Eleventh Doctor.
+Doctor Who ‘Hide’ Series 7 (B) 2013.
+#MattSmith #JennaColeman #Doctor…</title>
+    <link rel="alternate" href="https://twitter.com/Giogio76241274/status/1578649700445872129" type="text/html"/>
+    <id>https://twitter.com/Giogio76241274/status/1578649700445872129</id>
+    <author>
+      <name>🍫Chocolatemint🍫</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: #SpookySeason👻
+Matt Smith as the Eleventh Doctor.
+Doctor Who ‘Hide’ Series 7 (B) 2013.
+#MattSmith #JennaColeman #Doctor…</div>
+    </content>
+    <updated>2022-10-08T07:33:13Z</updated>
   </entry>
   <entry>
     <title>NYCC ’22: Is The Doctor A Villain and Other Philosophical Questions Dominate NYCC’s Only Doctor Who Panel - Comics Beat</title>
@@ -87,12 +341,12 @@ https://t.co/0CvQb5LaAA https://t.co/dxP1ht2NPM</div>
     <updated>2022-10-08T01:45:03Z</updated>
   </entry>
   <entry>
-    <title>Cosmetic doctor who stars on This Morning probed by medical regulator - Daily Mail</title>
-    <link rel="alternate" href="https://www.dailymail.co.uk/news/article-11293103/Cosmetic-doctor-stars-Morning-probed-medical-regulator.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.dailymail.co.uk/news/article-11293103/Cosmetic-doctor-stars-Morning-probed-medical-regulator.html" target="_blank"&gt;Cosmetic doctor who stars on This Morning probed by medical regulator&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-    <id>CAIiEBcL9nmLXH6NN-QOuuWynhwqGQgEKhAIACoHCAowzuOICzCZ4ocDMM7TqQY</id>
-    <published>2022-10-07T22:21:23Z</published>
-    <updated>2022-10-07T22:21:23Z</updated>
+    <title>This Morning’s doctor who stars with Holly &amp; Phil probed over sexual misconduct &amp; needs chaperone with f... - The Sun</title>
+    <link rel="alternate" href="https://www.thesun.co.uk/tv/20041250/this-mornings-doctor-probed-sexual-misconduct/" type="text/html"/>
+    <content type="html">&lt;a href="https://www.thesun.co.uk/tv/20041250/this-mornings-doctor-probed-sexual-misconduct/" target="_blank"&gt;This Morning’s doctor who stars with Holly &amp; Phil probed over sexual misconduct &amp; needs chaperone with f...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Sun&lt;/font&gt;</content>
+    <id>CBMiU2h0dHBzOi8vd3d3LnRoZXN1bi5jby51ay90di8yMDA0MTI1MC90aGlzLW1vcm5pbmdzLWRvY3Rvci1wcm9iZWQtc2V4dWFsLW1pc2NvbmR1Y3Qv0gEA</id>
+    <published>2022-10-07T20:30:00Z</published>
+    <updated>2022-10-07T20:30:00Z</updated>
   </entry>
   <entry>
     <title>DOJ Charges 11 Anti-Abortion Protesters, Including Doctor Who Protested With Prayer, Scripture - Church Leaders</title>
@@ -113,7 +367,7 @@ https://t.co/0CvQb5LaAA https://t.co/dxP1ht2NPM</div>
   <entry>
     <title>Doctor Who confirms release date for Jodie Whittaker's last episode trailer - Digital Spy</title>
     <link rel="alternate" href="https://www.digitalspy.com/tv/a41350226/doctor-who-centenary-special-trailer-release-date/" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.digitalspy.com/tv/a41350226/doctor-who-centenary-special-trailer-release-date/" target="_blank"&gt;Doctor Who confirms release date for Jodie Whittaker's last episode trailer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Spy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.whattowatch.com/watching-guides/doctor-who-centenary-special-trailer-cast-plot-and-all-you-need-to-know" target="_blank"&gt;Doctor Who Centenary Special: trailer, cast, plot, and all you need to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;What To Watch&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://cultbox.co.uk/news/headlines/doctor-who-the-power-of-the-doctor-what-ace-and-tegan-get-up-to" target="_blank"&gt;Doctor Who: The Power of the Doctor — what Ace and Tegan get up to&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CultBox&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bleedingcool.com/tv/doctor-who-confirms-the-power-of-the-doctor-trailer-this-saturday/" target="_blank"&gt;Doctor Who Confirms "The Power of The Doctor" Trailer This Saturday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bleeding Cool News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://winteriscoming.net/2022/10/03/doctor-who-jodie-whittaker-teases-her-final-episode-the-doctor/" target="_blank"&gt;Jodie Whittaker’s final episode of Doctor Who is “for the Whovians”&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Winter is Coming&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pYNVlfNEJSR21MeXpVYkNCWDR5Z0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://www.digitalspy.com/tv/a41350226/doctor-who-centenary-special-trailer-release-date/" target="_blank"&gt;Doctor Who confirms release date for Jodie Whittaker's last episode trailer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Spy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.whattowatch.com/watching-guides/doctor-who-centenary-special-trailer-cast-plot-and-all-you-need-to-know" target="_blank"&gt;Doctor Who Centenary Special: trailer, cast, plot, and all you need to know&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;What To Watch&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://cultbox.co.uk/news/headlines/doctor-who-the-power-of-the-doctor-what-ace-and-tegan-get-up-to" target="_blank"&gt;Doctor Who: The Power of the Doctor — what Ace and Tegan get up to&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CultBox&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://bleedingcool.com/tv/doctor-who-confirms-the-power-of-the-doctor-trailer-this-saturday/" target="_blank"&gt;Doctor Who Confirms "The Power of The Doctor" Trailer This Saturday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Bleeding Cool News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://www.radiotimes.com/tv/sci-fi/doctor-who-sophie-aldred-ace-original-jacket-newsupdate/" target="_blank"&gt;Doctor Who's Sophie Aldred wears original Ace jacket in centenary special&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RadioTimes&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2pYNVlfNEJSR21MeXpVYkNCWDR5Z0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
     <id>1594094295</id>
     <published>2022-10-07T18:15:01Z</published>
     <updated>2022-10-07T18:15:01Z</updated>
@@ -199,114 +453,6 @@ https://t.co/0CvQb5LaAA https://t.co/dxP1ht2NPM</div>
     <category term="sale" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="selling" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="secondlife" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Peter Capaldi Guitar Yamaha Flying Samurai SVG800</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/39249944@N04/52370203112/"/>
-    <id>tag:flickr.com,2005:/photo/52370203112</id>
-    <published>2022-09-20T10:04:39Z</published>
-    <updated>2022-09-20T10:04:39Z</updated>
-    <flickr:date_taken>2022-08-21T10:42:22-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-08-21T10:42:22-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/39249944@N04/"&gt;Ian156&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/39249944@N04/52370203112/" title="Peter Capaldi Guitar Yamaha Flying Samurai SVG800"&gt;&lt;img src="https://live.staticflickr.com/65535/52370203112_aaa3265f32_m.jpg" width="180" height="240" alt="Peter Capaldi Guitar Yamaha Flying Samurai SVG800" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ian156</name>
-      <uri>https://www.flickr.com/people/39249944@N04/</uri>
-      <flickr:nsid>39249944@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4037/buddyicons/39249944@N04.jpg?1274821386#39249944@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52370203112_aaa3265f32_b.jpg"/>
-    <category term="yamaha" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petercapaldi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yamahaflyingsamuraisvg800" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Peter Capaldi Guitar Yamaha Flying Samurai SVG800</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/39249944@N04/52370203207/"/>
-    <id>tag:flickr.com,2005:/photo/52370203207</id>
-    <published>2022-09-20T10:04:38Z</published>
-    <updated>2022-09-20T10:04:38Z</updated>
-    <flickr:date_taken>2022-08-21T10:10:20-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-08-21T10:10:20-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/39249944@N04/"&gt;Ian156&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/39249944@N04/52370203207/" title="Peter Capaldi Guitar Yamaha Flying Samurai SVG800"&gt;&lt;img src="https://live.staticflickr.com/65535/52370203207_d4eac31de1_m.jpg" width="180" height="240" alt="Peter Capaldi Guitar Yamaha Flying Samurai SVG800" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ian156</name>
-      <uri>https://www.flickr.com/people/39249944@N04/</uri>
-      <flickr:nsid>39249944@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4037/buddyicons/39249944@N04.jpg?1274821386#39249944@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52370203207_d4eac31de1_b.jpg"/>
-    <category term="yamaha" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petercapaldi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yamahaflyingsamuraisvg800" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Peter Capaldi Guitar Yamaha Flying Samurai SVG800</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/39249944@N04/52371457484/"/>
-    <id>tag:flickr.com,2005:/photo/52371457484</id>
-    <published>2022-09-20T10:04:38Z</published>
-    <updated>2022-09-20T10:04:38Z</updated>
-    <flickr:date_taken>2022-08-21T10:42:14-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-08-21T10:42:14-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/39249944@N04/"&gt;Ian156&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/39249944@N04/52371457484/" title="Peter Capaldi Guitar Yamaha Flying Samurai SVG800"&gt;&lt;img src="https://live.staticflickr.com/65535/52371457484_2704d870ef_m.jpg" width="180" height="240" alt="Peter Capaldi Guitar Yamaha Flying Samurai SVG800" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ian156</name>
-      <uri>https://www.flickr.com/people/39249944@N04/</uri>
-      <flickr:nsid>39249944@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4037/buddyicons/39249944@N04.jpg?1274821386#39249944@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52371457484_2704d870ef_b.jpg"/>
-    <category term="yamaha" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petercapaldi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yamahaflyingsamuraisvg800" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Peter Capaldi Guitar Yamaha Flying Samurai SVG800</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/39249944@N04/52370203177/"/>
-    <id>tag:flickr.com,2005:/photo/52370203177</id>
-    <published>2022-09-20T10:04:38Z</published>
-    <updated>2022-09-20T10:04:38Z</updated>
-    <flickr:date_taken>2022-08-20T17:56:19-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-08-20T17:56:19-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/39249944@N04/"&gt;Ian156&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/39249944@N04/52370203177/" title="Peter Capaldi Guitar Yamaha Flying Samurai SVG800"&gt;&lt;img src="https://live.staticflickr.com/65535/52370203177_b57c7f36de_m.jpg" width="240" height="180" alt="Peter Capaldi Guitar Yamaha Flying Samurai SVG800" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>Ian156</name>
-      <uri>https://www.flickr.com/people/39249944@N04/</uri>
-      <flickr:nsid>39249944@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4037/buddyicons/39249944@N04.jpg?1274821386#39249944@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52370203177_b57c7f36de_b.jpg"/>
-    <category term="yamaha" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="petercapaldi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="yamahaflyingsamuraisvg800" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
