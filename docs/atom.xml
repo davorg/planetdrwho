@@ -7,72 +7,84 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-12T05:11:45Z</updated>
+  <updated>2022-10-12T06:00:48Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
   <entry>
-    <title>Run!!!!!</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1580054419194130432" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1580054419194130432</id>
+    <title>RT @drwhoepbot: Pickax of the Daleks, starring John Hurt. #DrWho</title>
+    <link rel="alternate" href="https://twitter.com/tardisloo/status/1580071339867615232" type="text/html"/>
+    <id>https://twitter.com/tardisloo/status/1580071339867615232</id>
+    <author>
+      <name>Tweeting Tardis Loo (Turdis)</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @drwhoepbot: Pickax of the Daleks, starring John Hurt. #DrWho</div>
+    </content>
+    <updated>2022-10-12T05:42:18Z</updated>
+  </entry>
+  <entry>
+    <title>あんなに大勢集めて馬鹿やれるのは学生ぐらいしか…―確かに論理的だ (Series1 #1/ローズとドクター)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1580069512363511811" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1580069512363511811</id>
     <author>
       <name>ドクター･フーbot</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Run!!!!!</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">あんなに大勢集めて馬鹿やれるのは学生ぐらいしか…―確かに論理的だ (Series1 #1/ローズとドクター)</div>
     </content>
-    <updated>2022-10-12T04:35:04Z</updated>
+    <updated>2022-10-12T05:35:02Z</updated>
   </entry>
   <entry>
-    <title>RT @NakedMeeple: Tom Baker (Dr. Who) with a young Peter Capaldi (also Dr. Who). Fantastic photo. #DrWho https://t.co/xjPP8ASvig</title>
-    <link rel="alternate" href="https://twitter.com/whitemonkeygod/status/1580052952961945600" type="text/html"/>
-    <id>https://twitter.com/whitemonkeygod/status/1580052952961945600</id>
+    <title>RT @richard_price2: #ThePowerOfTheDoctor airs 23rd October so here’s new giveaway to get you excited. To Enter as always make sure you are…</title>
+    <link rel="alternate" href="https://twitter.com/awlistens/status/1580069487725842434" type="text/html"/>
+    <id>https://twitter.com/awlistens/status/1580069487725842434</id>
     <author>
-      <name>AdamWhiteley ASD, PDA, Dyslexic.</name>
+      <name>Antonia Wiggins</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @NakedMeeple: Tom Baker (Dr. Who) with a young Peter Capaldi (also Dr. Who). Fantastic photo. #DrWho https://t.co/xjPP8ASvig</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @richard_price2: #ThePowerOfTheDoctor airs 23rd October so here’s new giveaway to get you excited. To Enter as always make sure you are…</div>
     </content>
-    <updated>2022-10-12T04:29:14Z</updated>
+    <updated>2022-10-12T05:34:56Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day In 1989
-Ghost Light #DoctorWho #DrWho https://t.co/MZKG7GJDLM</title>
-    <link rel="alternate" href="https://twitter.com/zach_sally/status/1580040126167597056" type="text/html"/>
-    <id>https://twitter.com/zach_sally/status/1580040126167597056</id>
+    <title>RT @Matt_SmithNews: Matt Smith Praises New Doctor Ncuti Gatwa and how he will always have Doctor Who in his heart ❤️ 
+‘House of the Dragon’…</title>
+    <link rel="alternate" href="https://twitter.com/cursedhat/status/1580067576742150144" type="text/html"/>
+    <id>https://twitter.com/cursedhat/status/1580067576742150144</id>
     <author>
-      <name>🎃 Zach Sally After Dark 🎃</name>
+      <name>ariel 🪴</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1989
-Ghost Light #DoctorWho #DrWho https://t.co/MZKG7GJDLM</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: Matt Smith Praises New Doctor Ncuti Gatwa and how he will always have Doctor Who in his heart ❤️ 
+‘House of the Dragon’…</div>
     </content>
-    <updated>2022-10-12T03:38:16Z</updated>
+    <updated>2022-10-12T05:27:21Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: On This Day In 1975
-Planet Of Evil #DoctorWho #DrWho https://t.co/xfBPZD7NuM</title>
-    <link rel="alternate" href="https://twitter.com/zach_sally/status/1580039722067701761" type="text/html"/>
-    <id>https://twitter.com/zach_sally/status/1580039722067701761</id>
-    <author>
-      <name>🎃 Zach Sally After Dark 🎃</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1975
-Planet Of Evil #DoctorWho #DrWho https://t.co/xfBPZD7NuM</div>
-    </content>
-    <updated>2022-10-12T03:36:40Z</updated>
+    <title>Teenager who'd been stabbed 'stumbled and collapsed' outside Nottingham shop - Nottinghamshire Live</title>
+    <link rel="alternate" href="https://www.nottinghampost.com/news/nottingham-news/teenager-whod-been-stabbed-stumbled-7692540" type="text/html"/>
+    <content type="html">&lt;a href="https://www.nottinghampost.com/news/nottingham-news/teenager-whod-been-stabbed-stumbled-7692540" target="_blank"&gt;Teenager who'd been stabbed 'stumbled and collapsed' outside Nottingham shop&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nottinghamshire Live&lt;/font&gt;</content>
+    <id>CBMiX2h0dHBzOi8vd3d3Lm5vdHRpbmdoYW1wb3N0LmNvbS9uZXdzL25vdHRpbmdoYW0tbmV3cy90ZWVuYWdlci13aG9kLWJlZW4tc3RhYmJlZC1zdHVtYmxlZC03NjkyNTQw0gFjaHR0cHM6Ly93d3cubm90dGluZ2hhbXBvc3QuY29tL25ld3Mvbm90dGluZ2hhbS1uZXdzL3RlZW5hZ2VyLXdob2QtYmVlbi1zdGFiYmVkLXN0dW1ibGVkLTc2OTI1NDAuYW1w</id>
+    <published>2022-10-12T05:23:43Z</published>
+    <updated>2022-10-12T05:23:43Z</updated>
   </entry>
   <entry>
-    <title>店が閉まるまで50億年しかないもの (Season1 #2/ローズ)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1580039317459607552" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1580039317459607552</id>
+    <title>Cours sur le trottoir 
+Pour ne pas rater son train
+Arrive essoufflé.
+#haiku #ombres</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_Off2/status/1580066540279386112" type="text/html"/>
+    <id>https://twitter.com/DrWho_Off2/status/1580066540279386112</id>
     <author>
-      <name>ドクター･フーbot</name>
+      <name>DrWho_Off2</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">店が閉まるまで50億年しかないもの (Season1 #2/ローズ)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Cours sur le trottoir 
+Pour ne pas rater son train
+Arrive essoufflé.
+#haiku #ombres</div>
     </content>
-    <updated>2022-10-12T03:35:03Z</updated>
+    <updated>2022-10-12T05:23:14Z</updated>
   </entry>
   <entry>
     <title>Doctor Who star Nicola Bryant claims she's had her 'fair share' of sexual harassment - Daily Mail</title>
@@ -113,14 +125,6 @@ Planet Of Evil #DoctorWho #DrWho https://t.co/xfBPZD7NuM</div>
     <id>CBMiWmh0dHBzOi8vY3VsdGJveC5jby51ay9uZXdzL2hlYWRsaW5lcy9kb2N0b3Itd2hvLXRoZS1wb3dlci1vZi10aGUtZG9jdG9yLWFpci10aW1lLWNvbmZpcm1lZNIBAA</id>
     <published>2022-10-11T18:07:36Z</published>
     <updated>2022-10-11T18:07:36Z</updated>
-  </entry>
-  <entry>
-    <title>Wreck star Thaddea Graham on Doctor Who and Sex Education series four - Evening Standard</title>
-    <link rel="alternate" href="https://www.standard.co.uk/culture/tvfilm/wreck-thaddea-graham-doctor-who-sex-education-b1031075.html" type="text/html"/>
-    <content type="html">&lt;a href="https://www.standard.co.uk/culture/tvfilm/wreck-thaddea-graham-doctor-who-sex-education-b1031075.html" target="_blank"&gt;Wreck star Thaddea Graham on Doctor Who and Sex Education series four&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Evening Standard&lt;/font&gt;</content>
-    <id>CBMiZWh0dHBzOi8vd3d3LnN0YW5kYXJkLmNvLnVrL2N1bHR1cmUvdHZmaWxtL3dyZWNrLXRoYWRkZWEtZ3JhaGFtLWRvY3Rvci13aG8tc2V4LWVkdWNhdGlvbi1iMTAzMTA3NS5odG1s0gEA</id>
-    <published>2022-10-11T17:07:59Z</published>
-    <updated>2022-10-11T17:07:59Z</updated>
   </entry>
   <entry>
     <title>The Witch Farm - new podcast series from BBC Radio 4 - CultBox</title>
