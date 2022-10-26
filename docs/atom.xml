@@ -7,72 +7,103 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-10-26T16:59:02Z</updated>
+  <updated>2022-10-26T17:51:32Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>Right now, we are play testing a fix for the dongle problem in 1.18/19.2 it seems the right click function is different, so we believe we made a hacky work around for now.
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>R2-who too</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/195808112@N04/52456729098/"/>
+    <id>tag:flickr.com,2005:/photo/52456729098</id>
+    <published>2022-10-26T17:44:07Z</published>
+    <updated>2022-10-26T17:44:07Z</updated>
+    <flickr:date_taken>2022-10-26T10:34:41-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-26T10:34:41-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/195808112@N04/"&gt;brikfas&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/195808112@N04/52456729098/" title="R2-who too"&gt;&lt;img src="https://live.staticflickr.com/65535/52456729098_552b4e1fcd_m.jpg" width="180" height="240" alt="R2-who too" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-#minecraftmods #DocBlocks #DrWho #Minecraft #ModUpdate #curseforge #Whoniverse #sugercaneislife</title>
-    <link rel="alternate" href="https://twitter.com/DrBlockheadMC/status/1585311016526544899" type="text/html"/>
-    <id>https://twitter.com/DrBlockheadMC/status/1585311016526544899</id>
+&lt;p&gt;Definitely the droid designed with a dozen pieces destined to destroy Death Star Double!&lt;/p&gt;</content>
     <author>
-      <name>Dr Blockhead</name>
+      <name>brikfas</name>
+      <uri>https://www.flickr.com/people/195808112@N04/</uri>
+      <flickr:nsid>195808112@N04</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/195808112@N04.jpg?1654616804#195808112@N04</flickr:buddyicon>
     </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Right now, we are play testing a fix for the dongle problem in 1.18/19.2 it seems the right click function is different, so we believe we made a hacky work around for now.
-
-#minecraftmods #DocBlocks #DrWho #Minecraft #ModUpdate #curseforge #Whoniverse #sugercaneislife</div>
-    </content>
-    <updated>2022-10-26T16:42:54Z</updated>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52456729098_552b4e1fcd_b.jpg"/>
+    <category term="lego" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="moc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="starwars" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="r2d2" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="r2unit" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>@GreenMbutterfly 🤷🏻‍♂️🤗🤗</title>
+    <link rel="alternate" href="https://twitter.com/names_drwho/status/1585325922257096704" type="text/html"/>
+    <id>https://twitter.com/names_drwho/status/1585325922257096704</id>
+    <author>
+      <name>Who!</name>
+    </author>
+    <content>QEdyZWVuTWJ1dHRlcmZseSDwn6S38J+Pu+KAjeKZgu+4j/CfpJfwn6SX</content>
+    <updated>2022-10-26T17:42:08Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: Late 1970s Photo Shoot Pictures Of Tom Baker #DoctorWho #DrWho https://t.co/VllGsoOIqL</title>
-    <link rel="alternate" href="https://twitter.com/IronMaiden617/status/1585310837320712200" type="text/html"/>
-    <id>https://twitter.com/IronMaiden617/status/1585310837320712200</id>
+    <title>RT @Mrunknownfc1: Tom Baker And Elisabeth Sladen With Cybermen 1974 #DoctorWho #DrWho https://t.co/OzgvBq1RQS</title>
+    <link rel="alternate" href="https://twitter.com/MichaelRainfor5/status/1585325694581583872" type="text/html"/>
+    <id>https://twitter.com/MichaelRainfor5/status/1585325694581583872</id>
     <author>
-      <name>VISIONARY</name>
+      <name>M Rainf</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Late 1970s Photo Shoot Pictures Of Tom Baker #DoctorWho #DrWho https://t.co/VllGsoOIqL</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Tom Baker And Elisabeth Sladen With Cybermen 1974 #DoctorWho #DrWho https://t.co/OzgvBq1RQS</div>
     </content>
-    <updated>2022-10-26T16:42:11Z</updated>
+    <updated>2022-10-26T17:41:14Z</updated>
   </entry>
   <entry>
-    <title>RT @MainEvent_Marks: Just days after the 2-hour special event of #ThePowerOfTheDoctor, a major announcement is made about the streaming fut…</title>
-    <link rel="alternate" href="https://twitter.com/SlamWrestle/status/1585310804869808129" type="text/html"/>
-    <id>https://twitter.com/SlamWrestle/status/1585310804869808129</id>
+    <title>The Rev. Mr. Wainwright in The Curse of Fenric gender swapped #Doctorwho #Drwho https://t.co/OkIElDkCtR</title>
+    <link rel="alternate" href="https://twitter.com/Greebohobbes/status/1585325645911015440" type="text/html"/>
+    <id>https://twitter.com/Greebohobbes/status/1585325645911015440</id>
     <author>
-      <name>WrestleSlamPodcast</name>
+      <name>Bek Hobbes tying the noose in the back of his mind</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @MainEvent_Marks: Just days after the 2-hour special event of #ThePowerOfTheDoctor, a major announcement is made about the streaming fut…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">The Rev. Mr. Wainwright in The Curse of Fenric gender swapped #Doctorwho #Drwho https://t.co/OkIElDkCtR</div>
     </content>
-    <updated>2022-10-26T16:42:04Z</updated>
+    <updated>2022-10-26T17:41:02Z</updated>
   </entry>
   <entry>
-    <title>RT @DWMtweets: Can't wait till David Tennant returns as the Doctor? Relive his classic second series in Chronicles 2007, from the makers of…</title>
-    <link rel="alternate" href="https://twitter.com/TNThorne1970/status/1585310130328850440" type="text/html"/>
-    <id>https://twitter.com/TNThorne1970/status/1585310130328850440</id>
+    <title>@names_drwho Non ridere quando io sto arrabbiata</title>
+    <link rel="alternate" href="https://twitter.com/GreenMbutterfly/status/1585325507650129920" type="text/html"/>
+    <id>https://twitter.com/GreenMbutterfly/status/1585325507650129920</id>
     <author>
-      <name>The Thin King 👑</name>
+      <name>L' EsagerataMarzia🌻💚🌜</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @DWMtweets: Can't wait till David Tennant returns as the Doctor? Relive his classic second series in Chronicles 2007, from the makers of…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@names_drwho Non ridere quando io sto arrabbiata</div>
     </content>
-    <updated>2022-10-26T16:39:23Z</updated>
+    <updated>2022-10-26T17:40:29Z</updated>
   </entry>
   <entry>
-    <title>Another Picture #DoctorWho #DrWho https://t.co/RZdxncy4EQ</title>
-    <link rel="alternate" href="https://twitter.com/Mrunknownfc1/status/1585309400063160320" type="text/html"/>
-    <id>https://twitter.com/Mrunknownfc1/status/1585309400063160320</id>
+    <title>@GreenMbutterfly 😂😂😂</title>
+    <link rel="alternate" href="https://twitter.com/names_drwho/status/1585325232365371392" type="text/html"/>
+    <id>https://twitter.com/names_drwho/status/1585325232365371392</id>
     <author>
-      <name>Zelestial Colour Maker</name>
+      <name>Who!</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Another Picture #DoctorWho #DrWho https://t.co/RZdxncy4EQ</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@GreenMbutterfly 😂😂😂</div>
     </content>
-    <updated>2022-10-26T16:36:29Z</updated>
+    <updated>2022-10-26T17:39:23Z</updated>
+  </entry>
+  <entry>
+    <title>Album Review: With His New Album, John Barrowman Sings From CENTRE STAGE With The Royal Philharmonic - Broadway World</title>
+    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3d3dy5icm9hZHdheXdvcmxkLmNvbS9hcnRpY2xlL0FsYnVtLVJldmlldy1XaXRoLUhpcy1OZXctQWxidW0tSm9obi1CYXJyb3dtYW4tU2luZ3MtRnJvbS1DRU5UUkUtU1RBR0UtV2l0aC1UaGUtUm95YWwtUGhpbGhhcm1vbmljLTIwMjIxMDI20gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMikQFodHRwczovL3d3dy5icm9hZHdheXdvcmxkLmNvbS9hcnRpY2xlL0FsYnVtLVJldmlldy1XaXRoLUhpcy1OZXctQWxidW0tSm9obi1CYXJyb3dtYW4tU2luZ3MtRnJvbS1DRU5UUkUtU1RBR0UtV2l0aC1UaGUtUm95YWwtUGhpbGhhcm1vbmljLTIwMjIxMDI20gEA?oc=5" target="_blank"&gt;Album Review: With His New Album, John Barrowman Sings From CENTRE STAGE With The Royal Philharmonic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Broadway World&lt;/font&gt;</content>
+    <id>CBMikQFodHRwczovL3d3dy5icm9hZHdheXdvcmxkLmNvbS9hcnRpY2xlL0FsYnVtLVJldmlldy1XaXRoLUhpcy1OZXctQWxidW0tSm9obi1CYXJyb3dtYW4tU2luZ3MtRnJvbS1DRU5UUkUtU1RBR0UtV2l0aC1UaGUtUm95YWwtUGhpbGhhcm1vbmljLTIwMjIxMDI20gEA</id>
+    <published>2022-10-26T17:24:55Z</published>
+    <updated>2022-10-26T17:24:55Z</updated>
   </entry>
   <entry>
     <title>Doctor Who fans 'happy' as Ncuti Gatwa uses gender neutral pronouns to describe the Time Lord - Plymouth Live</title>
@@ -190,16 +221,8 @@
     <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby10aGVvcmllcy10by1leHBsYWluLXJlZ2VuZXJhdGlvbi10d2lzdC_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiT2h0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby10aGVvcmllcy10by1leHBsYWluLXJlZ2VuZXJhdGlvbi10d2lzdC_SAQA?oc=5" target="_blank"&gt;Doctor Who Theories To Explain the Latest Regeneration Twist&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Den of Geek&lt;/font&gt;</content>
     <id>CAIiEAMkjQbJ1Tjnbbnf3ZGRSsQqGQgEKhAIACoHCAow9suVCzDnsKsDMMCmzAY</id>
-    <published>2022-10-25T08:05:12Z</published>
-    <updated>2022-10-25T08:05:12Z</updated>
-  </entry>
-  <entry>
-    <title>‘Succession’ Season Four Teaser Released; Confirms Spring Premiere - Television</title>
-    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vdGVsZXZpc2lvbi5teGR3bi5jb20vbmV3cy9zdWNjZXNzaW9uLXNlYXNvbi1mb3VyLXRlYXNlci1yZWxlYXNlZC1jb25maXJtcy1zcHJpbmctcHJlbWllcmUv0gFmaHR0cHM6Ly90ZWxldmlzaW9uLm14ZHduLmNvbS9uZXdzL3N1Y2Nlc3Npb24tc2Vhc29uLWZvdXItdGVhc2VyLXJlbGVhc2VkLWNvbmZpcm1zLXNwcmluZy1wcmVtaWVyZS9hbXAv?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiYmh0dHBzOi8vdGVsZXZpc2lvbi5teGR3bi5jb20vbmV3cy9zdWNjZXNzaW9uLXNlYXNvbi1mb3VyLXRlYXNlci1yZWxlYXNlZC1jb25maXJtcy1zcHJpbmctcHJlbWllcmUv0gFmaHR0cHM6Ly90ZWxldmlzaW9uLm14ZHduLmNvbS9uZXdzL3N1Y2Nlc3Npb24tc2Vhc29uLWZvdXItdGVhc2VyLXJlbGVhc2VkLWNvbmZpcm1zLXNwcmluZy1wcmVtaWVyZS9hbXAv?oc=5" target="_blank"&gt;‘Succession’ Season Four Teaser Released; Confirms Spring Premiere&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Television&lt;/font&gt;</content>
-    <id>CBMiYmh0dHBzOi8vdGVsZXZpc2lvbi5teGR3bi5jb20vbmV3cy9zdWNjZXNzaW9uLXNlYXNvbi1mb3VyLXRlYXNlci1yZWxlYXNlZC1jb25maXJtcy1zcHJpbmctcHJlbWllcmUv0gFmaHR0cHM6Ly90ZWxldmlzaW9uLm14ZHduLmNvbS9uZXdzL3N1Y2Nlc3Npb24tc2Vhc29uLWZvdXItdGVhc2VyLXJlbGVhc2VkLWNvbmZpcm1zLXNwcmluZy1wcmVtaWVyZS9hbXAv</id>
-    <published>2022-10-25T04:18:00Z</published>
-    <updated>2022-10-25T04:18:00Z</updated>
+    <published>2022-10-25T08:07:18Z</published>
+    <updated>2022-10-25T08:07:18Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Durdle Door - Dr Who</title>
@@ -233,42 +256,6 @@
     <category term="paulsivyer" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="paulsivyerimages" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="wildwalescom" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Doctor Who Panel, Motor City Comic Con</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/brandondaartist/52448728174/"/>
-    <id>tag:flickr.com,2005:/photo/52448728174</id>
-    <published>2022-10-23T17:28:49Z</published>
-    <updated>2022-10-23T17:28:49Z</updated>
-    <flickr:date_taken>2022-10-16T19:10:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-16T19:10:35-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/brandondaartist/"&gt;brandondaartist&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/brandondaartist/52448728174/" title="Doctor Who Panel, Motor City Comic Con"&gt;&lt;img src="https://live.staticflickr.com/65535/52448728174_9ac53dd2fe_m.jpg" width="240" height="160" alt="Doctor Who Panel, Motor City Comic Con" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Novi, MI - October 16, 2022: Alex Kingston, Karen Gillian and Matt Smith host a Doctor Who panel at Motor City Comic Con&lt;/p&gt;</content>
-    <author>
-      <name>brandondaartist</name>
-      <uri>https://www.flickr.com/people/brandondaartist/</uri>
-      <flickr:nsid>125887821@N05</flickr:nsid>
-      <flickr:buddyicon>https://farm5.staticflickr.com/4734/buddyicons/125887821@N05.jpg?1514840446#125887821@N05</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52448728174_9ac53dd2fe_b.jpg"/>
-    <category term="alexkingston" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brandonnagy" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brandonnagyphotography" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="comiccon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="eventphotography" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="karengillian" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mc3" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mattsmith" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="motorcitycomiccon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="actor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="comicconvention" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
@@ -310,24 +297,24 @@
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Doctor Who Panel, Motor City Comic Con</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/brandondaartist/52447930947/"/>
-    <id>tag:flickr.com,2005:/photo/52447930947</id>
-    <published>2022-10-23T17:28:48Z</published>
-    <updated>2022-10-23T17:28:48Z</updated>
-    <flickr:date_taken>2022-10-16T19:04:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-10-16T19:04:35-08:00</dc:date.Taken>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/brandondaartist/52448970588/"/>
+    <id>tag:flickr.com,2005:/photo/52448970588</id>
+    <published>2022-10-23T17:28:46Z</published>
+    <updated>2022-10-23T17:28:46Z</updated>
+    <flickr:date_taken>2022-10-16T19:04:13-08:00</flickr:date_taken>
+    <dc:date.Taken>2022-10-16T19:04:13-08:00</dc:date.Taken>
     <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/brandondaartist/"&gt;brandondaartist&lt;/a&gt; posted a photo:&lt;/p&gt;
 	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/brandondaartist/52447930947/" title="Doctor Who Panel, Motor City Comic Con"&gt;&lt;img src="https://live.staticflickr.com/65535/52447930947_a30519d691_m.jpg" width="240" height="160" alt="Doctor Who Panel, Motor City Comic Con" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/brandondaartist/52448970588/" title="Doctor Who Panel, Motor City Comic Con"&gt;&lt;img src="https://live.staticflickr.com/65535/52448970588_3f88186e66_m.jpg" width="240" height="160" alt="Doctor Who Panel, Motor City Comic Con" /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Novi, MI - October 16, 2022: Karen Gillian and Matt Smith with Alex Kingston host a Doctor Who panel at Motor City Comic Con&lt;/p&gt;</content>
+&lt;p&gt;Novi, MI - October 16, 2022: Matt Smith with Alex Kingston and Karen Gillian host a Doctor Who panel at Motor City Comic Con&lt;/p&gt;</content>
     <author>
       <name>brandondaartist</name>
       <uri>https://www.flickr.com/people/brandondaartist/</uri>
       <flickr:nsid>125887821@N05</flickr:nsid>
       <flickr:buddyicon>https://farm5.staticflickr.com/4734/buddyicons/125887821@N05.jpg?1514840446#125887821@N05</flickr:buddyicon>
     </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52447930947_a30519d691_b.jpg"/>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52448970588_3f88186e66_b.jpg"/>
     <category term="alexkingston" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="brandonnagy" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="brandonnagyphotography" scheme="https://www.flickr.com/photos/tags/"/>
