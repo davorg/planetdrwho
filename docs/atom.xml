@@ -7,68 +7,289 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-11T15:52:20Z</updated>
+  <updated>2022-11-11T16:57:23Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>@names_drwho 👅👅</title>
-    <link rel="alternate" href="https://twitter.com/Mamo_lita/status/1591094289068871680" type="text/html"/>
-    <id>https://twitter.com/Mamo_lita/status/1591094289068871680</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Ghost in the Machine</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/castrovalva/52492034717/"/>
+    <id>tag:flickr.com,2005:/photo/52492034717</id>
+    <published>2022-11-11T16:53:27Z</published>
+    <updated>2022-11-11T16:53:27Z</updated>
+    <flickr:date_taken>2016-04-23T13:50:02-08:00</flickr:date_taken>
+    <dc:date.Taken>2016-04-23T13:50:02-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/castrovalva/"&gt;richardr&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/castrovalva/52492034717/" title="Ghost in the Machine"&gt;&lt;img src="https://live.staticflickr.com/65535/52492034717_f3d64ea48f_m.jpg" width="160" height="240" alt="Ghost in the Machine" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
     <author>
-      <name>Mamolita</name>
+      <name>richardr</name>
+      <uri>https://www.flickr.com/people/castrovalva/</uri>
+      <flickr:nsid>49503152875@N01</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/49503152875@N01.jpg?1585860304#49503152875@N01</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52492034717_f3d64ea48f_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="consoleroom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timemachine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="welsh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cymru" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="europe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="caerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="baecaerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Cybershade</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/castrovalva/52492036707/"/>
+    <id>tag:flickr.com,2005:/photo/52492036707</id>
+    <published>2022-11-11T16:53:27Z</published>
+    <updated>2022-11-11T16:53:27Z</updated>
+    <flickr:date_taken>2016-04-23T14:05:42-08:00</flickr:date_taken>
+    <dc:date.Taken>2016-04-23T14:05:42-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/castrovalva/"&gt;richardr&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/castrovalva/52492036707/" title="Cybershade"&gt;&lt;img src="https://live.staticflickr.com/65535/52492036707_7239db5e88_m.jpg" width="160" height="240" alt="Cybershade" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>richardr</name>
+      <uri>https://www.flickr.com/people/castrovalva/</uri>
+      <flickr:nsid>49503152875@N01</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/49503152875@N01.jpg?1585860304#49503152875@N01</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52492036707_7239db5e88_b.jpg"/>
+    <category term="cybershade" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="monster" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="welsh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cymru" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="europe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="caerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="baecaerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Ascension of the Cybermen</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/castrovalva/52492037452/"/>
+    <id>tag:flickr.com,2005:/photo/52492037452</id>
+    <published>2022-11-11T16:53:26Z</published>
+    <updated>2022-11-11T16:53:26Z</updated>
+    <flickr:date_taken>2016-04-23T14:06:02-08:00</flickr:date_taken>
+    <dc:date.Taken>2016-04-23T14:06:02-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/castrovalva/"&gt;richardr&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/castrovalva/52492037452/" title="Ascension of the Cybermen"&gt;&lt;img src="https://live.staticflickr.com/65535/52492037452_56a685051b_m.jpg" width="160" height="240" alt="Ascension of the Cybermen" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>richardr</name>
+      <uri>https://www.flickr.com/people/castrovalva/</uri>
+      <flickr:nsid>49503152875@N01</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/49503152875@N01.jpg?1585860304#49503152875@N01</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52492037452_56a685051b_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cyberleader" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="welsh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cymru" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="europe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="caerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="baecaerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Relative Dimensions</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/castrovalva/52492982780/"/>
+    <id>tag:flickr.com,2005:/photo/52492982780</id>
+    <published>2022-11-11T16:53:25Z</published>
+    <updated>2022-11-11T16:53:25Z</updated>
+    <flickr:date_taken>2016-04-23T13:49:28-08:00</flickr:date_taken>
+    <dc:date.Taken>2016-04-23T13:49:28-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/castrovalva/"&gt;richardr&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/castrovalva/52492982780/" title="Relative Dimensions"&gt;&lt;img src="https://live.staticflickr.com/65535/52492982780_b0d09a4d50_m.jpg" width="240" height="160" alt="Relative Dimensions" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>richardr</name>
+      <uri>https://www.flickr.com/people/castrovalva/</uri>
+      <flickr:nsid>49503152875@N01</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/49503152875@N01.jpg?1585860304#49503152875@N01</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52492982780_b0d09a4d50_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="consoleroom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timemachine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="welsh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cymru" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="europe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="caerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="baecaerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Planet of the Ood</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/castrovalva/52493071703/"/>
+    <id>tag:flickr.com,2005:/photo/52493071703</id>
+    <published>2022-11-11T16:53:24Z</published>
+    <updated>2022-11-11T16:53:24Z</updated>
+    <flickr:date_taken>2016-04-23T14:12:19-08:00</flickr:date_taken>
+    <dc:date.Taken>2016-04-23T14:12:19-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/castrovalva/"&gt;richardr&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/castrovalva/52493071703/" title="Planet of the Ood"&gt;&lt;img src="https://live.staticflickr.com/65535/52493071703_52edc4d4b6_m.jpg" width="160" height="240" alt="Planet of the Ood" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</content>
+    <author>
+      <name>richardr</name>
+      <uri>https://www.flickr.com/people/castrovalva/</uri>
+      <flickr:nsid>49503152875@N01</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/49503152875@N01.jpg?1585860304#49503152875@N01</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52493071703_52edc4d4b6_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="alien" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="ood" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="welsh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cymru" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="europe" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="caerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="baecaerdydd" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>Daleks' Invasion Earth 2150: #Daleks invade Watford (obviously), plan to extract the Earth's core by mining in Bedfordshire, and are outwitted by a 1950s postal van, all to a rather jazzy score. Weirdly splendid. #DrWho</title>
+    <link rel="alternate" href="https://twitter.com/alliecrokeract/status/1591109307231526912" type="text/html"/>
+    <id>https://twitter.com/alliecrokeract/status/1591109307231526912</id>
+    <author>
+      <name>Allie Croker</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@names_drwho 👅👅</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Daleks' Invasion Earth 2150: #Daleks invade Watford (obviously), plan to extract the Earth's core by mining in Bedfordshire, and are outwitted by a 1950s postal van, all to a rather jazzy score. Weirdly splendid. #DrWho</div>
     </content>
-    <updated>2022-11-11T15:43:34Z</updated>
+    <updated>2022-11-11T16:43:14Z</updated>
   </entry>
   <entry>
-    <title>@BarbyTifaInter ❤️</title>
-    <link rel="alternate" href="https://twitter.com/names_drwho/status/1591093446668079104" type="text/html"/>
-    <id>https://twitter.com/names_drwho/status/1591093446668079104</id>
+    <title>@TatiOlivier3 @ziaiaia3 e non è male, perdersi.
+Buona serata ☺️</title>
+    <link rel="alternate" href="https://twitter.com/names_drwho/status/1591108383196991495" type="text/html"/>
+    <id>https://twitter.com/names_drwho/status/1591108383196991495</id>
     <author>
       <name>Who!</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@BarbyTifaInter ❤️</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">@TatiOlivier3 @ziaiaia3 e non è male, perdersi.
+Buona serata ☺️</div>
     </content>
-    <updated>2022-11-11T15:40:13Z</updated>
+    <updated>2022-11-11T16:39:34Z</updated>
   </entry>
   <entry>
-    <title>@NataNuda E te?</title>
-    <link rel="alternate" href="https://twitter.com/names_drwho/status/1591093345471774720" type="text/html"/>
-    <id>https://twitter.com/names_drwho/status/1591093345471774720</id>
+    <title>RT @DrDarrenRFlower: Street Art #StreetArt #Dalek #DrWho #DoctorWho https://t.co/1FsQy40GOW</title>
+    <link rel="alternate" href="https://twitter.com/DrDarrenRFlower/status/1591108228213243905" type="text/html"/>
+    <id>https://twitter.com/DrDarrenRFlower/status/1591108228213243905</id>
     <author>
-      <name>Who!</name>
+      <name>Dr Darren R Flower</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@NataNuda E te?</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DrDarrenRFlower: Street Art #StreetArt #Dalek #DrWho #DoctorWho https://t.co/1FsQy40GOW</div>
     </content>
-    <updated>2022-11-11T15:39:49Z</updated>
+    <updated>2022-11-11T16:38:57Z</updated>
   </entry>
   <entry>
-    <title>It worth so much!! @alBlanqen @OlafOden @_NftGod69_ @BritishShort725 @smallpupbigcity @SpaceCowboyGFY @mo_kenly @benjami26270923 @drwho_31 @0xpolarzero @krissi4324 @solidity_art @Millitekle @FletchMcCraw https://t.co/TONyHZhAKT</title>
-    <link rel="alternate" href="https://twitter.com/myarcna/status/1591093121961844736" type="text/html"/>
-    <id>https://twitter.com/myarcna/status/1591093121961844736</id>
+    <title>RT @DrDarrenRFlower: Dalek Teapot #DrWho #DoctorWho https://t.co/roM6NHJ9un</title>
+    <link rel="alternate" href="https://twitter.com/DrDarrenRFlower/status/1591108102803554306" type="text/html"/>
+    <id>https://twitter.com/DrDarrenRFlower/status/1591108102803554306</id>
     <author>
-      <name>Myarcna.crypto</name>
+      <name>Dr Darren R Flower</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">It worth so much!! @alBlanqen @OlafOden @_NftGod69_ @BritishShort725 @smallpupbigcity @SpaceCowboyGFY @mo_kenly @benjami26270923 @drwho_31 @0xpolarzero @krissi4324 @solidity_art @Millitekle @FletchMcCraw https://t.co/TONyHZhAKT</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DrDarrenRFlower: Dalek Teapot #DrWho #DoctorWho https://t.co/roM6NHJ9un</div>
     </content>
-    <updated>2022-11-11T15:38:56Z</updated>
+    <updated>2022-11-11T16:38:27Z</updated>
   </entry>
   <entry>
-    <title>行きたいような、ないような… 人間的だな (Season2 #9)</title>
-    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1591092131883466752" type="text/html"/>
-    <id>https://twitter.com/DrWho_bot/status/1591092131883466752</id>
+    <title>RT @Mrunknownfc1: Planet Of The Daleks Daleks Appear On Blue Peter With Peter Purves 1973 #DoctorWho #DrWho #BluePeter https://t.co/GcsHMaC…</title>
+    <link rel="alternate" href="https://twitter.com/ClarkCollis/status/1591107486287028226" type="text/html"/>
+    <id>https://twitter.com/ClarkCollis/status/1591107486287028226</id>
     <author>
-      <name>ドクター･フーbot</name>
+      <name>Clark Collis</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">行きたいような、ないような… 人間的だな (Season2 #9)</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Planet Of The Daleks Daleks Appear On Blue Peter With Peter Purves 1973 #DoctorWho #DrWho #BluePeter https://t.co/GcsHMaC…</div>
     </content>
-    <updated>2022-11-11T15:34:59Z</updated>
+    <updated>2022-11-11T16:36:00Z</updated>
   </entry>
   <entry>
     <title>Doctor Who secret companion auditions tease when new character will arrive - Digital Spy</title>
@@ -110,99 +331,6 @@
     <published>2022-11-11T12:03:40Z</published>
     <updated>2022-11-11T12:03:40Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Evil Of Davros</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/135924873@N02/52492008731/"/>
-    <id>tag:flickr.com,2005:/photo/52492008731</id>
-    <published>2022-11-11T09:58:20Z</published>
-    <updated>2022-11-11T09:58:20Z</updated>
-    <flickr:date_taken>2022-11-03T16:31:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T16:31:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/135924873@N02/"&gt;big_jeff_leo&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/135924873@N02/52492008731/" title="The Evil Of Davros"&gt;&lt;img src="https://live.staticflickr.com/65535/52492008731_74abb04675_m.jpg" width="171" height="240" alt="The Evil Of Davros" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>big_jeff_leo</name>
-      <uri>https://www.flickr.com/people/135924873@N02/</uri>
-      <flickr:nsid>135924873@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/709/buddyicons/135924873@N02.jpg?1442626456#135924873@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52492008731_74abb04675_b.jpg"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cult" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="culttv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costume" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="prop" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Face Of The Dalek</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/135924873@N02/52492476730/"/>
-    <id>tag:flickr.com,2005:/photo/52492476730</id>
-    <published>2022-11-11T09:58:18Z</published>
-    <updated>2022-11-11T09:58:18Z</updated>
-    <flickr:date_taken>2022-11-03T16:43:45-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T16:43:45-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/135924873@N02/"&gt;big_jeff_leo&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/135924873@N02/52492476730/" title="Face Of The Dalek"&gt;&lt;img src="https://live.staticflickr.com/65535/52492476730_ab707ab3ae_m.jpg" width="240" height="129" alt="Face Of The Dalek" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>big_jeff_leo</name>
-      <uri>https://www.flickr.com/people/135924873@N02/</uri>
-      <flickr:nsid>135924873@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/709/buddyicons/135924873@N02.jpg?1442626456#135924873@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52492476730_ab707ab3ae_b.jpg"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cult" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="culttv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costume" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="prop" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Face of the Silurian</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/135924873@N02/52492476705/"/>
-    <id>tag:flickr.com,2005:/photo/52492476705</id>
-    <published>2022-11-11T09:58:17Z</published>
-    <updated>2022-11-11T09:58:17Z</updated>
-    <flickr:date_taken>2022-11-03T16:30:37-08:00</flickr:date_taken>
-    <dc:date.Taken>2022-11-03T16:30:37-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/135924873@N02/"&gt;big_jeff_leo&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/135924873@N02/52492476705/" title="Face of the Silurian"&gt;&lt;img src="https://live.staticflickr.com/65535/52492476705_0a65d9b46d_m.jpg" width="159" height="240" alt="Face of the Silurian" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>big_jeff_leo</name>
-      <uri>https://www.flickr.com/people/135924873@N02/</uri>
-      <flickr:nsid>135924873@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm1.staticflickr.com/709/buddyicons/135924873@N02.jpg?1442626456#135924873@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52492476705_0a65d9b46d_b.jpg"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scifi" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cult" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="culttv" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="costume" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="prop" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>“Star Trek” legend John de Lancie guest on FFRF Sunday TV show - Freedom From Religion Foundation</title>
     <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vZmZyZi5vcmcvbmV3cy9uZXdzLXJlbGVhc2VzL2l0ZW0vNDE2MDUtc3Rhci10cmVrLWxlZ2VuZC1qb2huLWRlLWxhbmNpZS1ndWVzdC1vbi1mZnJmLXN1bmRheS10di1zaG930gEA?oc=5" type="text/html"/>
@@ -211,97 +339,6 @@
     <published>2022-11-10T20:48:38Z</published>
     <updated>2022-11-10T20:48:38Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Timeless Children</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/castrovalva/52491195844/"/>
-    <id>tag:flickr.com,2005:/photo/52491195844</id>
-    <published>2022-11-10T20:17:57Z</published>
-    <updated>2022-11-10T20:17:57Z</updated>
-    <flickr:date_taken>2016-04-23T13:56:18-08:00</flickr:date_taken>
-    <dc:date.Taken>2016-04-23T13:56:18-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/castrovalva/"&gt;richardr&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/castrovalva/52491195844/" title="The Timeless Children"&gt;&lt;img src="https://live.staticflickr.com/65535/52491195844_f3d62e643f_m.jpg" width="240" height="160" alt="The Timeless Children" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>richardr</name>
-      <uri>https://www.flickr.com/people/castrovalva/</uri>
-      <flickr:nsid>49503152875@N01</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/49503152875@N01.jpg?1585860304#49503152875@N01</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52491195844_f3d62e643f_b.jpg"/>
-    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="welsh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cymru" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="europe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="european" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="caerdydd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="baecaerdydd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="console" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="consoleroom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="timemachine" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>The Teller</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/castrovalva/52491387240/"/>
-    <id>tag:flickr.com,2005:/photo/52491387240</id>
-    <published>2022-11-10T20:17:56Z</published>
-    <updated>2022-11-10T20:17:56Z</updated>
-    <flickr:date_taken>2016-04-23T14:11:43-08:00</flickr:date_taken>
-    <dc:date.Taken>2016-04-23T14:11:43-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/castrovalva/"&gt;richardr&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/castrovalva/52491387240/" title="The Teller"&gt;&lt;img src="https://live.staticflickr.com/65535/52491387240_d5f75e952f_m.jpg" width="240" height="160" alt="The Teller" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-</content>
-    <author>
-      <name>richardr</name>
-      <uri>https://www.flickr.com/people/castrovalva/</uri>
-      <flickr:nsid>49503152875@N01</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/49503152875@N01.jpg?1585860304#49503152875@N01</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52491387240_d5f75e952f_b.jpg"/>
-    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="welsh" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cymru" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="britain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="british" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="greatbritain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="uk" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="unitedkingdom" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="europe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="european" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="caerdydd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="baecaerdydd" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwhoexperience" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="bbc" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sciencefiction" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="theteller" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="alien" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="monster" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
   <entry>
     <title>Torchwood: The Empire Man to deliver a Victorian ghost story this Christmas - Flickering Myth</title>
     <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMicmh0dHBzOi8vd3d3LmZsaWNrZXJpbmdteXRoLmNvbS8yMDIyLzExL3RvcmNod29vZC10aGUtZW1waXJlLW1hbi10by1kZWxpdmVyLWEtdmljdG9yaWFuLWdob3N0LXN0b3J5LXRoaXMtY2hyaXN0bWFzL9IBAA?oc=5" type="text/html"/>
