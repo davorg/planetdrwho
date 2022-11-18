@@ -7,104 +7,86 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2022-11-18T21:50:55Z</updated>
+  <updated>2022-11-18T22:51:05Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry>
+    <title>RT @WhovianLeap: Retweet if you are excited! #drwho #doctorwho https://t.co/oqKyXMEmuY</title>
+    <link rel="alternate" href="https://twitter.com/StageDoorAdam/status/1593736738748465152" type="text/html"/>
+    <id>https://twitter.com/StageDoorAdam/status/1593736738748465152</id>
+    <author>
+      <name>Adam Jenkins 💙</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @WhovianLeap: Retweet if you are excited! #drwho #doctorwho https://t.co/oqKyXMEmuY</div>
+    </content>
+    <updated>2022-11-18T22:43:43Z</updated>
+  </entry>
+  <entry>
+    <title>@Nerdrotics @Dianodrama #DRWho</title>
+    <link rel="alternate" href="https://twitter.com/gregory87258/status/1593736659178332162" type="text/html"/>
+    <id>https://twitter.com/gregory87258/status/1593736659178332162</id>
+    <author>
+      <name>Gregory87258</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">@Nerdrotics @Dianodrama #DRWho</div>
+    </content>
+    <updated>2022-11-18T22:43:24Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who finds new companion in Millie Gibson - Flickering Myth</title>
+    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZsaWNrZXJpbmdteXRoLmNvbS8yMDIyLzExL2RvY3Rvci13aG8tZmluZHMtbmV3LWNvbXBhbmlvbi1pbi1taWxsaWUtZ2lic29uL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiV2h0dHBzOi8vd3d3LmZsaWNrZXJpbmdteXRoLmNvbS8yMDIyLzExL2RvY3Rvci13aG8tZmluZHMtbmV3LWNvbXBhbmlvbi1pbi1taWxsaWUtZ2lic29uL9IBAA?oc=5" target="_blank"&gt;Doctor Who finds new companion in Millie Gibson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Flickering Myth&lt;/font&gt;</content>
+    <id>CBMiV2h0dHBzOi8vd3d3LmZsaWNrZXJpbmdteXRoLmNvbS8yMDIyLzExL2RvY3Rvci13aG8tZmluZHMtbmV3LWNvbXBhbmlvbi1pbi1taWxsaWUtZ2lic29uL9IBAA</id>
+    <published>2022-11-18T22:42:05Z</published>
+    <updated>2022-11-18T22:42:05Z</updated>
+  </entry>
+  <entry>
+    <title>世界の全てを知っていたつもりで、実は何も知らないことが分かった。今日のできごとは私にとって大きな転機となるよ。本に書かなくてはいかん。 (Series1 #3 / チャールズ・ディケンズ)</title>
+    <link rel="alternate" href="https://twitter.com/DrWho_bot/status/1593734546444677120" type="text/html"/>
+    <id>https://twitter.com/DrWho_bot/status/1593734546444677120</id>
+    <author>
+      <name>ドクター･フーbot</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">世界の全てを知っていたつもりで、実は何も知らないことが分かった。今日のできごとは私にとって大きな転機となるよ。本に書かなくてはいかん。 (Series1 #3 / チャールズ・ディケンズ)</div>
+    </content>
+    <updated>2022-11-18T22:35:00Z</updated>
+  </entry>
+  <entry>
+    <title>RT @BillEvenson: Was T.G.I. Friday taken?
+#DrWho</title>
+    <link rel="alternate" href="https://twitter.com/FrankenMinute/status/1593734484557500417" type="text/html"/>
+    <id>https://twitter.com/FrankenMinute/status/1593734484557500417</id>
+    <author>
+      <name>Frankenstein Minute</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @BillEvenson: Was T.G.I. Friday taken?
+#DrWho</div>
+    </content>
+    <updated>2022-11-18T22:34:45Z</updated>
+  </entry>
+  <entry>
+    <title>I for one, have never heard of Millie Gibson. Just sayin'. Not that it matters. #DrWho</title>
+    <link rel="alternate" href="https://twitter.com/enricocadillac/status/1593734303841673216" type="text/html"/>
+    <id>https://twitter.com/enricocadillac/status/1593734303841673216</id>
+    <author>
+      <name>Bryan "Ovi homo sum" ॐ 💙 🇺🇦</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">I for one, have never heard of Millie Gibson. Just sayin'. Not that it matters. #DrWho</div>
+    </content>
+    <updated>2022-11-18T22:34:02Z</updated>
+  </entry>
   <entry>
     <title>Doctor Who companions in order: From Susan Foreman to Ruby Sunday - RadioTimes</title>
     <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vd3d3LnJhZGlvdGltZXMuY29tL3R2L3NjaS1maS9kb2N0b3Itd2hvLWNvbXBhbmlvbnMtaW4tb3JkZXIv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiRGh0dHBzOi8vd3d3LnJhZGlvdGltZXMuY29tL3R2L3NjaS1maS9kb2N0b3Itd2hvLWNvbXBhbmlvbnMtaW4tb3JkZXIv0gEA?oc=5" target="_blank"&gt;Doctor Who companions in order: From Susan Foreman to Ruby Sunday&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;RadioTimes&lt;/font&gt;</content>
     <id>CAIiEOUjxVheJFM2WSlx-73GRhwqGAgEKg8IACoHCAow7r6gCTCysHAwqcWKAw</id>
-    <published>2022-11-18T21:43:39Z</published>
-    <updated>2022-11-18T21:43:39Z</updated>
-  </entry>
-  <entry>
-    <title>RT @DWMtweets: The Fifteenth Doctor's companion is Ruby Sunday, played by Millie Gibson!! Please email at dwm@panini.co.uk to let us know w…</title>
-    <link rel="alternate" href="https://twitter.com/goyo3301/status/1593721603451654144" type="text/html"/>
-    <id>https://twitter.com/goyo3301/status/1593721603451654144</id>
-    <author>
-      <name>Jose G. Bravo (He/Him)</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @DWMtweets: The Fifteenth Doctor's companion is Ruby Sunday, played by Millie Gibson!! Please email at dwm@panini.co.uk to let us know w…</div>
-    </content>
-    <updated>2022-11-18T21:43:34Z</updated>
-  </entry>
-  <entry>
-    <title>RT @blind_imagery: 'The Aztec Age' - The Aztecs arrived in Mesoamerica at the beginning of the 13th century. Their magnificent capital city…</title>
-    <link rel="alternate" href="https://twitter.com/SinnerDarkchild/status/1593721527710515201" type="text/html"/>
-    <id>https://twitter.com/SinnerDarkchild/status/1593721527710515201</id>
-    <author>
-      <name>Sinner Darkchild</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @blind_imagery: 'The Aztec Age' - The Aztecs arrived in Mesoamerica at the beginning of the 13th century. Their magnificent capital city…</div>
-    </content>
-    <updated>2022-11-18T21:43:16Z</updated>
-  </entry>
-  <entry>
-    <title>RT @Matt_SmithNews: #TBT #Throwback #OnThisDay 
-Matt Smith as the Eleventh Doctor lost his shirt for Children in Need 2011. 
-#MattSmith #Do…</title>
-    <link rel="alternate" href="https://twitter.com/SteveDewhirst1/status/1593721062474534912" type="text/html"/>
-    <id>https://twitter.com/SteveDewhirst1/status/1593721062474534912</id>
-    <author>
-      <name>Steve Dewhirst🏳️‍🌈🦘☂️</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: #TBT #Throwback #OnThisDay 
-Matt Smith as the Eleventh Doctor lost his shirt for Children in Need 2011. 
-#MattSmith #Do…</div>
-    </content>
-    <updated>2022-11-18T21:41:25Z</updated>
-  </entry>
-  <entry>
-    <title>I have never watched Dr Who but I’m hearing it’s “gone woke” - What has the BBC done to this programme? #DrWho</title>
-    <link rel="alternate" href="https://twitter.com/realMattToomer/status/1593721051556581379" type="text/html"/>
-    <id>https://twitter.com/realMattToomer/status/1593721051556581379</id>
-    <author>
-      <name>Matt Toomer</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">I have never watched Dr Who but I’m hearing it’s “gone woke” - What has the BBC done to this programme? #DrWho</div>
-    </content>
-    <updated>2022-11-18T21:41:23Z</updated>
-  </entry>
-  <entry>
-    <title>RT @DWMtweets: The Fifteenth Doctor's companion is Ruby Sunday, played by Millie Gibson!! Please email at dwm@panini.co.uk to let us know w…</title>
-    <link rel="alternate" href="https://twitter.com/CharlotteTummo4/status/1593720897176829955" type="text/html"/>
-    <id>https://twitter.com/CharlotteTummo4/status/1593720897176829955</id>
-    <author>
-      <name>Charlotte Tummons</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @DWMtweets: The Fifteenth Doctor's companion is Ruby Sunday, played by Millie Gibson!! Please email at dwm@panini.co.uk to let us know w…</div>
-    </content>
-    <updated>2022-11-18T21:40:46Z</updated>
-  </entry>
-  <entry>
-    <title>15th Doctor's Companion Officially Confirmed - Video Gamer</title>
-    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3LnZpZGVvZ2FtZXIuY29tL25ld3MvMTV0aC1kb2N0b3ItY29tcGFuaW9uLWNvbmZpcm1lZC_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiQGh0dHBzOi8vd3d3LnZpZGVvZ2FtZXIuY29tL25ld3MvMTV0aC1kb2N0b3ItY29tcGFuaW9uLWNvbmZpcm1lZC_SAQA?oc=5" target="_blank"&gt;15th Doctor's Companion Officially Confirmed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Video Gamer&lt;/font&gt;</content>
-    <id>CBMiQGh0dHBzOi8vd3d3LnZpZGVvZ2FtZXIuY29tL25ld3MvMTV0aC1kb2N0b3ItY29tcGFuaW9uLWNvbmZpcm1lZC_SAQA</id>
-    <published>2022-11-18T21:40:42Z</published>
-    <updated>2022-11-18T21:40:42Z</updated>
-  </entry>
-  <entry>
-    <title>Millie Gibson joins the cast of Doctor Who - msnNOW</title>
-    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvZW50ZXJ0YWlubWVudC90b3BuZXdzL21pbGxpZS1naWJzb24tam9pbnMtdGhlLWNhc3Qtb2YtZG9jdG9yLXdoby9hci1BQTE0aER2btIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvZW50ZXJ0YWlubWVudC90b3BuZXdzL21pbGxpZS1naWJzb24tam9pbnMtdGhlLWNhc3Qtb2YtZG9jdG9yLXdoby9hci1BQTE0aER2btIBAA?oc=5" target="_blank"&gt;Millie Gibson joins the cast of Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;msnNOW&lt;/font&gt;</content>
-    <id>CBMiZmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tZ2IvZW50ZXJ0YWlubWVudC90b3BuZXdzL21pbGxpZS1naWJzb24tam9pbnMtdGhlLWNhc3Qtb2YtZG9jdG9yLXdoby9hci1BQTE0aER2btIBAA</id>
-    <published>2022-11-18T21:30:00Z</published>
-    <updated>2022-11-18T21:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>DOCTOR WHO Announces New Companion Millie Gibson - Nerdist</title>
-    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vbmVyZGlzdC5jb20vYXJ0aWNsZS9kb2N0b3Itd2hvLW5ldy1jb21wYW5pb24tbWlsbGllLWdpYnNvbi1ydWJ5LXN1bmRheS1uY3V0aS1nYXR3YS_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiW2h0dHBzOi8vbmVyZGlzdC5jb20vYXJ0aWNsZS9kb2N0b3Itd2hvLW5ldy1jb21wYW5pb24tbWlsbGllLWdpYnNvbi1ydWJ5LXN1bmRheS1uY3V0aS1nYXR3YS_SAQA?oc=5" target="_blank"&gt;DOCTOR WHO Announces New Companion Millie Gibson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nerdist&lt;/font&gt;</content>
-    <id>CBMiW2h0dHBzOi8vbmVyZGlzdC5jb20vYXJ0aWNsZS9kb2N0b3Itd2hvLW5ldy1jb21wYW5pb24tbWlsbGllLWdpYnNvbi1ydWJ5LXN1bmRheS1uY3V0aS1nYXR3YS_SAQA</id>
-    <published>2022-11-18T21:24:40Z</published>
-    <updated>2022-11-18T21:24:40Z</updated>
+    <published>2022-11-18T21:54:25Z</published>
+    <updated>2022-11-18T21:54:25Z</updated>
   </entry>
   <entry>
     <title>Coronation Street actress Millie Gibson revealed as Doctor Who’s 15th companion - Yahoo Eurosport UK</title>
@@ -113,6 +95,22 @@ Matt Smith as the Eleventh Doctor lost his shirt for Children in Need 2011.
     <id>CBMiV2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9uZXdzL2Nvcm9uYXRpb24tc3RyZWV0LWFjdHJlc3MtbWlsbGllLWdpYnNvbi0yMTE5MTg1NzEuaHRtbNIBX2h0dHBzOi8vdWsuc3BvcnRzLnlhaG9vLmNvbS9hbXBodG1sL25ld3MvY29yb25hdGlvbi1zdHJlZXQtYWN0cmVzcy1taWxsaWUtZ2lic29uLTIxMTkxODU3MS5odG1s</id>
     <published>2022-11-18T21:19:18Z</published>
     <updated>2022-11-18T21:19:18Z</updated>
+  </entry>
+  <entry>
+    <title>Millie Gibson joins cast of Doctor Who as companion to the Fifteenth Doctor - BBC</title>
+    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3LmJiYy5jby51ay9tZWRpYWNlbnRyZS8yMDIyL21pbGxpZS1naWJzb24tZG9jdG9yLXdoby1jb21wYW5pb24tZmlmdGVlbnRoLWRvY3RvctIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiWmh0dHBzOi8vd3d3LmJiYy5jby51ay9tZWRpYWNlbnRyZS8yMDIyL21pbGxpZS1naWJzb24tZG9jdG9yLXdoby1jb21wYW5pb24tZmlmdGVlbnRoLWRvY3RvctIBAA?oc=5" target="_blank"&gt;Millie Gibson joins cast of Doctor Who as companion to the Fifteenth Doctor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiZ2h0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS90di1hbmQtcmFkaW8vMjAyMi9ub3YvMTgvbWlsbGllLWdpYnNvbi1yZXZlYWxlZC1hcy1kb2N0b3Itd2hvcy1uZXctc2lkZWtpY2vSAQA?oc=5" target="_blank"&gt;Millie Gibson revealed as Time Lord’s new sidekick in Doctor Who&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Guardian&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiX2h0dHBzOi8vbWV0cm8uY28udWsvMjAyMi8xMS8xOC9uZXctZG9jdG9yLXdoby1jb21wYW5pb24tYW5ub3VuY2VkLW9uLWNoaWxkcmVuLWluLW5lZWQtMTc3ODgxNjYv0gEA?oc=5" target="_blank"&gt;New Doctor Who companion announced on Children In Need&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Metro.co.uk&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMia2h0dHBzOi8vd3d3LnJhZGlveC5jby51ay9uZXdzL3R2LWZpbG0vZG9jdG9yLXdoby1zdGFydC1kYXRlLXdoby1pcy10aGUtbmV3LWNvbXBhbmlvbi13aGVuLWRvZXMtbmN1dGktc3RhcnQv0gEA?oc=5" target="_blank"&gt;Millie Gibson announced as new Doctor Who companion&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Radio X&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMiVWh0dHBzOi8vd3d3LndhbGVzb25saW5lLmNvLnVrL2xpZmVzdHlsZS90di9uZXctZG9jdG9yLXdoby1hc3Npc3RhbnQtdW52ZWlsZWQtMjU1NTU3MzTSAQA?oc=5" target="_blank"&gt;New Doctor Who assistant unveiled as Coronation Street's Millie Gibson during Children in Need&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Wales Online&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;a href="https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lLallpWUJoSGEwU2dzOTRrc29pZ0FQAQ?oc=5" target="_blank"&gt;View Full coverage on Google News&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <id>1661077130</id>
+    <published>2022-11-18T20:44:07Z</published>
+    <updated>2022-11-18T20:44:07Z</updated>
+  </entry>
+  <entry>
+    <title>Diversity's iconic Children in Need 2022 performance - Daily Mail</title>
+    <link rel="alternate" href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMTQ0NTEzNy9DaGlsZHJlbi1OZWVkLTIwMjItTWltaS1XZWJiLWtpY2tzLWluY3JlZGlibGUtcGVyZm9ybWFuY2UuaHRtbNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/__i/rss/rd/articles/CBMidWh0dHBzOi8vd3d3LmRhaWx5bWFpbC5jby51ay90dnNob3diaXovYXJ0aWNsZS0xMTQ0NTEzNy9DaGlsZHJlbi1OZWVkLTIwMjItTWltaS1XZWJiLWtpY2tzLWluY3JlZGlibGUtcGVyZm9ybWFuY2UuaHRtbNIBAA?oc=5" target="_blank"&gt;Diversity's iconic Children in Need 2022 performance&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+    <id>CAIiEDzUZTHqP6iuyr13__eIzigqGQgEKhAIACoHCAowzuOICzCZ4ocDMNTCoAY</id>
+    <published>2022-11-18T19:13:47Z</published>
+    <updated>2022-11-18T19:13:47Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>The Silent from Dr Who</title>
