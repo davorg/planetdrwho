@@ -16,7 +16,7 @@ feed:
   file: docs/atom.xml
   format: Atom
 cache_dir: /tmp/drwho
-google_ga: UA-56332-7
+google_ga: G-8CD4D3Z17X
 feeds:
   - url: https://dave.org.uk/feed-data/whonews.xml
     title: bbc news

@@ -10,6 +10,16 @@
 <!DOCTYPE html>
 <html>
   <head>
+[% IF cfg.google_ga -%]
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56332-20"></script>
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', '[% cfg.google_ga %]');
+    </script>
     <title>[% feed.title %] / [% feed.description %]</title>
     <meta charset="UTF-8">
     <!-- Bootstrap core CSS -->
@@ -93,16 +103,6 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
         </div><!-- col-md-10 -->
       </div><!-- row -->
     </div><!-- container -->
-[% IF cfg.google_ga -%]
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56332-20"></script>
-    <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '[% cfg.google_ga %]');
-    </script>
 [% END -%]
     <!-- Bootstrap core JavaScript
     ================================================== -->
