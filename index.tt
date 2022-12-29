@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-[% IF cfg.google_ga -%]
+[% IF config.google_ga -%]
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-56332-20"></script>
     <script>
@@ -18,7 +18,7 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '[% cfg.google_ga %]');
+  gtag('config', '[% config.google_ga %]');
     </script>
     <title>[% feed.title %] / [% feed.description %]</title>
     <meta charset="UTF-8">
