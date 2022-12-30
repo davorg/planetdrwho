@@ -20,6 +20,7 @@
 
   gtag('config', '[% config.google_ga %]');
     </script>
+[% END -%]
     <title>[% feed.title %] / [% feed.description %]</title>
     <meta charset="UTF-8">
     <!-- Bootstrap core CSS -->
@@ -28,7 +29,7 @@
           crossorigin="anonymous">
     <link href="/css/style.css" rel="stylesheet">
 
-    <link rel="alternate" type="application/atom+xml" title="Atom" href="[% cfg.url %][% cfg.feed.file.split('/').last %]" />
+    <link rel="alternate" type="application/atom+xml" title="Atom" href="[% config.url %][% config.feed.file.split('/').last %]" />
     <style type="text/css">
 .card {
   margin-bottom: 10px;
@@ -50,7 +51,7 @@
         <div class="col-md-2">
           <h2>Sources</h2>
           <ul>
-[% FOR f IN cfg.feeds;
+[% FOR f IN config.feeds;
    bits = f.title.split(':\s*') -%]
             <li><a href="[% f.web | html %]">[% bits.0 %]</a></li>
 [% END -%]
@@ -99,11 +100,10 @@ src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
       </div><!-- row -->
       <div class="row">
         <div class="col-md-10">
-      <address><a href="https://twitter.com/@[% cfg.author.twitter %]">@[% cfg.author.twitter | html %]</a> / [% feed.modified.strftime('%A %d %B %Y %H:%M %Z') %]</address>
+      <address><a href="https://twitter.com/@[% config.author.twitter %]">@[% config.author.twitter | html %]</a> / [% feed.modified.strftime('%A %d %B %Y %H:%M %Z') %]</address>
         </div><!-- col-md-10 -->
       </div><!-- row -->
     </div><!-- container -->
-[% END -%]
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
