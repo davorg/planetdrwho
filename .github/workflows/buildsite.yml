@@ -23,6 +23,7 @@ jobs:
     - name: Commit new page
       if: github.repository == 'davorg/planetdrwho'
       run: |
+        git config --global --add safe.directory /__w/planetdrwho/planetdrwho
         GIT_STATUS=$(git status --porcelain)
         echo $GIT_STATUS
         git config --global user.name 'Dave Cross'
