@@ -7,76 +7,90 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-02-25T21:51:01Z</updated>
+  <updated>2023-02-25T22:51:06Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
   <entry>
-    <title>RT @faction_paradox: Going around 4chan #doctorwho #drwho #dwsr #leak #doctorwhofilming #drwhospoilers #factionparadox https://t.co/jjYcUKO…</title>
-    <link rel="alternate" href="https://twitter.com/NoNotTheMemes/status/1629598088209010689" type="text/html"/>
-    <id>https://twitter.com/NoNotTheMemes/status/1629598088209010689</id>
+    <title>RT @DobbersW: The Daleks as Terry Nation originally envisioned them. 
+(Volume up)
+
+#DoctorWho #daleks #DrWho #GeorgianStateDancers https://…</title>
+    <link rel="alternate" href="https://twitter.com/Jpofgwynedd/status/1629613002021380098" type="text/html"/>
+    <id>https://twitter.com/Jpofgwynedd/status/1629613002021380098</id>
     <author>
-      <name>Spookob Corpse</name>
+      <name>Jeremiah Savant</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DobbersW: The Daleks as Terry Nation originally envisioned them. 
+(Volume up)
+
+#DoctorWho #daleks #DrWho #GeorgianStateDancers https://…</div>
+    </content>
+    <updated>2023-02-25T22:43:11Z</updated>
+  </entry>
+  <entry>
+    <title>RT @faction_paradox: Going around 4chan #doctorwho #drwho #dwsr #leak #doctorwhofilming #drwhospoilers #factionparadox https://t.co/jjYcUKO…</title>
+    <link rel="alternate" href="https://twitter.com/FrostyMacWHO/status/1629611931840528386" type="text/html"/>
+    <id>https://twitter.com/FrostyMacWHO/status/1629611931840528386</id>
+    <author>
+      <name>FrostyMac</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @faction_paradox: Going around 4chan #doctorwho #drwho #dwsr #leak #doctorwhofilming #drwhospoilers #factionparadox https://t.co/jjYcUKO…</div>
     </content>
-    <updated>2023-02-25T21:43:55Z</updated>
-  </entry>
-  <entry>
-    <title>Going around 4chan #doctorwho #drwho #dwsr #leak #doctorwhofilming #drwhospoilers #factionparadox https://t.co/jjYcUKOmmF</title>
-    <link rel="alternate" href="https://twitter.com/faction_paradox/status/1629597898236391424" type="text/html"/>
-    <id>https://twitter.com/faction_paradox/status/1629597898236391424</id>
-    <author>
-      <name>Faction Paradox</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Going around 4chan #doctorwho #drwho #dwsr #leak #doctorwhofilming #drwhospoilers #factionparadox https://t.co/jjYcUKOmmF</div>
-    </content>
-    <updated>2023-02-25T21:43:10Z</updated>
-  </entry>
-  <entry>
-    <title>RT @Mrunknownfc1: The Fourth Doctor's Title Sequence (1974-1980) #DoctorWho #DrWho https://t.co/hkJySl05el</title>
-    <link rel="alternate" href="https://twitter.com/herschell64/status/1629596985320783875" type="text/html"/>
-    <id>https://twitter.com/herschell64/status/1629596985320783875</id>
-    <author>
-      <name>Ben Herschell</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Fourth Doctor's Title Sequence (1974-1980) #DoctorWho #DrWho https://t.co/hkJySl05el</div>
-    </content>
-    <updated>2023-02-25T21:39:32Z</updated>
+    <updated>2023-02-25T22:38:55Z</updated>
   </entry>
   <entry>
     <title>RT @Mrunknownfc1: Young William Hartnell (1947) #DoctorWho #DrWho https://t.co/kVEuhwivW9</title>
-    <link rel="alternate" href="https://twitter.com/herschell64/status/1629596504657633280" type="text/html"/>
-    <id>https://twitter.com/herschell64/status/1629596504657633280</id>
+    <link rel="alternate" href="https://twitter.com/CoryRayburg/status/1629611846142500864" type="text/html"/>
+    <id>https://twitter.com/CoryRayburg/status/1629611846142500864</id>
     <author>
-      <name>Ben Herschell</name>
+      <name>Dr. Cory Michael Rayburg, PhD</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Young William Hartnell (1947) #DoctorWho #DrWho https://t.co/kVEuhwivW9</div>
     </content>
-    <updated>2023-02-25T21:37:37Z</updated>
+    <updated>2023-02-25T22:38:35Z</updated>
   </entry>
   <entry>
     <title>RT @Mrunknownfc1: Kill The Doctor! Kill The Doctor! Kill The Doctor! (The Robots Of Death) #DoctorWho #DrWho https://t.co/VAViddFINH</title>
-    <link rel="alternate" href="https://twitter.com/herschell64/status/1629596484202012673" type="text/html"/>
-    <id>https://twitter.com/herschell64/status/1629596484202012673</id>
+    <link rel="alternate" href="https://twitter.com/Mtbwho/status/1629611380524326918" type="text/html"/>
+    <id>https://twitter.com/Mtbwho/status/1629611380524326918</id>
     <author>
-      <name>Ben Herschell</name>
+      <name>Matt</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Kill The Doctor! Kill The Doctor! Kill The Doctor! (The Robots Of Death) #DoctorWho #DrWho https://t.co/VAViddFINH</div>
     </content>
-    <updated>2023-02-25T21:37:32Z</updated>
+    <updated>2023-02-25T22:36:44Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Mrunknownfc1: Young William Hartnell (1947) #DoctorWho #DrWho https://t.co/kVEuhwivW9</title>
+    <link rel="alternate" href="https://twitter.com/KrynoidPodCast/status/1629611139897204737" type="text/html"/>
+    <id>https://twitter.com/KrynoidPodCast/status/1629611139897204737</id>
+    <author>
+      <name>The Krynoid PodCast</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: Young William Hartnell (1947) #DoctorWho #DrWho https://t.co/kVEuhwivW9</div>
+    </content>
+    <updated>2023-02-25T22:35:47Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who actress Frances Barber talks to ME &amp; MY MONEY - This is Money</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTExNzkyMjgxL0RvY3Rvci1hY3RyZXNzLUZyYW5jZXMtQmFyYmVyLXRhbGtzLU1PTkVZLmh0bWzSAXRodHRwczovL3d3dy50aGlzaXNtb25leS5jby51ay9tb25leS9tZWFuZG15bW9uZXkvYXJ0aWNsZS0xMTc5MjI4MS9hbXAvRG9jdG9yLWFjdHJlc3MtRnJhbmNlcy1CYXJiZXItdGFsa3MtTU9ORVkuaHRtbA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMicGh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTExNzkyMjgxL0RvY3Rvci1hY3RyZXNzLUZyYW5jZXMtQmFyYmVyLXRhbGtzLU1PTkVZLmh0bWzSAXRodHRwczovL3d3dy50aGlzaXNtb25leS5jby51ay9tb25leS9tZWFuZG15bW9uZXkvYXJ0aWNsZS0xMTc5MjI4MS9hbXAvRG9jdG9yLWFjdHJlc3MtRnJhbmNlcy1CYXJiZXItdGFsa3MtTU9ORVkuaHRtbA?oc=5" target="_blank"&gt;Doctor Who actress Frances Barber talks to ME &amp; MY MONEY&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;This is Money&lt;/font&gt;</content>
+    <id>CBMicGh0dHBzOi8vd3d3LnRoaXNpc21vbmV5LmNvLnVrL21vbmV5L21lYW5kbXltb25leS9hcnRpY2xlLTExNzkyMjgxL0RvY3Rvci1hY3RyZXNzLUZyYW5jZXMtQmFyYmVyLXRhbGtzLU1PTkVZLmh0bWzSAXRodHRwczovL3d3dy50aGlzaXNtb25leS5jby51ay9tb25leS9tZWFuZG15bW9uZXkvYXJ0aWNsZS0xMTc5MjI4MS9hbXAvRG9jdG9yLWFjdHJlc3MtRnJhbmNlcy1CYXJiZXItdGFsa3MtTU9ORVkuaHRtbA</id>
+    <published>2023-02-25T21:51:50Z</published>
+    <updated>2023-02-25T21:51:50Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: Is Gallifrey's Most Powerful Time Lord Still Alive? - CBR - Comic Book Resources</title>
     <link rel="alternate" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmNici5jb20vZG9jdG9yLXdoby1yYXNzaWxvbi1nYWxsaWZyZXktYWxpdmUv0gEA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LmNici5jb20vZG9jdG9yLXdoby1yYXNzaWxvbi1nYWxsaWZyZXktYWxpdmUv0gEA?oc=5" target="_blank"&gt;Doctor Who: Is Gallifrey's Most Powerful Time Lord Still Alive?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;CBR - Comic Book Resources&lt;/font&gt;</content>
     <id>CBMiOGh0dHBzOi8vd3d3LmNici5jb20vZG9jdG9yLXdoby1yYXNzaWxvbi1nYWxsaWZyZXktYWxpdmUv0gEA</id>
-    <published>2023-02-25T19:30:46Z</published>
-    <updated>2023-02-25T19:30:46Z</updated>
+    <published>2023-02-25T20:45:00Z</published>
+    <updated>2023-02-25T20:45:00Z</updated>
   </entry>
   <entry>
     <title>David Tennant's Doctor Who return: Everything we know about the 60th anniversary special episodes - Wales Online</title>
@@ -109,14 +123,6 @@
     <id>CBMiVWh0dHBzOi8vd3d3LnJhZGlvdGltZXMuY29tL3R2L3NjaS1maS90b3JjaHdvb2QtcmV0dXJuLXBoaWwtZm9yZC1leGNsdXNpdmUtbmV3c3VwZGF0ZS_SAQA</id>
     <published>2023-02-25T17:08:35Z</published>
     <updated>2023-02-25T17:08:35Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who: Best One-Off Characters From The Tenth Doctor's Era - GameRant</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZ2FtZXJhbnQuY29tL2RvY3Rvci13aG8tYmVzdC1vbmUtb2ZmLWNoYXJhY3RlcnMtMTB0aC1kb2N0b3ItZXJhL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vZ2FtZXJhbnQuY29tL2RvY3Rvci13aG8tYmVzdC1vbmUtb2ZmLWNoYXJhY3RlcnMtMTB0aC1kb2N0b3ItZXJhL9IBAA?oc=5" target="_blank"&gt;Doctor Who: Best One-Off Characters From The Tenth Doctor's Era&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;GameRant&lt;/font&gt;</content>
-    <id>CBMiSGh0dHBzOi8vZ2FtZXJhbnQuY29tL2RvY3Rvci13aG8tYmVzdC1vbmUtb2ZmLWNoYXJhY3RlcnMtMTB0aC1kb2N0b3ItZXJhL9IBAA</id>
-    <published>2023-02-25T16:45:00Z</published>
-    <updated>2023-02-25T16:45:00Z</updated>
   </entry>
   <entry>
     <title>Doctor Who: Best One-Off Characters From The Tenth Doctor's Era - GameRant</title>
@@ -237,33 +243,6 @@ I intend to make a scenic base/backdrop for it in the near future.&lt;/p&gt;
             </displaycategories>
     </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Special Weapons Dalek #3 of 4</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/197676152@N06/52684003104/"/>
-    <id>tag:flickr.com,2005:/photo/52684003104</id>
-    <published>2023-02-12T08:58:59Z</published>
-    <updated>2023-02-12T08:58:59Z</updated>
-    <flickr:date_taken>2020-06-03T18:03:06-08:00</flickr:date_taken>
-    <dc:date.Taken>2020-06-03T18:03:06-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/197676152@N06/"&gt;bertsbuilds1&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/197676152@N06/52684003104/" title="Special Weapons Dalek #3 of 4"&gt;&lt;img src="https://live.staticflickr.com/65535/52684003104_dd7f659f8f_m.jpg" width="135" height="240" alt="Special Weapons Dalek #3 of 4" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>bertsbuilds1</name>
-      <uri>https://www.flickr.com/people/197676152@N06/</uri>
-      <flickr:nsid>197676152@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/197676152@N06.jpg?1675970356#197676152@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52684003104_dd7f659f8f_b.jpg"/>
-    <category term="specialweaponsdalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Special weapons Dalek #4 of 4</title>
     <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/197676152@N06/52684144270/"/>
     <id>tag:flickr.com,2005:/photo/52684144270</id>
@@ -287,6 +266,37 @@ I intend to make a scenic base/backdrop for it in the near future.&lt;/p&gt;
     <category term="specialweaponsdalek" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dr Who</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/196479770@N06/52683419228/"/>
+    <id>tag:flickr.com,2005:/photo/52683419228</id>
+    <published>2023-02-11T22:35:43Z</published>
+    <updated>2023-02-11T22:35:43Z</updated>
+    <flickr:date_taken>2023-02-11T14:35:20-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-02-11T14:35:20-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/196479770@N06/"&gt;BARBIE DRAGONS&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/196479770@N06/52683419228/" title="Dr Who"&gt;&lt;img src="https://live.staticflickr.com/65535/52683419228_2f5dabac1c_m.jpg" width="240" height="180" alt="Dr Who" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+
+</content>
+    <author>
+      <name>BARBIE DRAGONS</name>
+      <uri>https://www.flickr.com/people/196479770@N06/</uri>
+      <flickr:nsid>196479770@N06</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/196479770@N06.jpg?1662646055#196479770@N06</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52683419228_2f5dabac1c_b.jpg"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="heidiott" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="dollshousedolls" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="png" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="transparent" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="clipart" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="r2d2" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
