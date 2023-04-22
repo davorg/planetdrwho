@@ -7,110 +7,78 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-22T15:50:54Z</updated>
+  <updated>2023-04-22T16:51:17Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dalek invasion</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/leewalton/52837207539/"/>
-    <id>tag:flickr.com,2005:/photo/52837207539</id>
-    <published>2023-04-22T15:48:53Z</published>
-    <updated>2023-04-22T15:48:53Z</updated>
-    <flickr:date_taken>2023-04-22T14:29:59-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-22T14:29:59-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/leewalton/"&gt;♦ lee ♦&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/leewalton/52837207539/" title="Dalek invasion"&gt;&lt;img src="https://live.staticflickr.com/65535/52837207539_b6ffc4a742_m.jpg" width="240" height="159" alt="Dalek invasion" /&gt;&lt;/a&gt;&lt;/p&gt;
+  <entry>
+    <title>RT @Jynxdrawsstuff: bow ties are cool
 
-&lt;p&gt;Sitting down, having a nice hot chocolate at Farrer's Bar... and then the Dalek invasion started...&lt;/p&gt;
-</content>
-    <author>
-      <name>♦ lee ♦</name>
-      <uri>https://www.flickr.com/people/leewalton/</uri>
-      <flickr:nsid>89147134@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm6.staticflickr.com/5546/buddyicons/89147134@N00.jpg?1378368939#89147134@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52837207539_b6ffc4a742_b.jpg"/>
-    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="scarborough" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="northyorkshire" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry>
-    <title>RT @Mrunknownfc1: On This Day In 1973
-Planet Of The Daleks #DoctorWho #DrWho https://t.co/iprNTy8hUj</title>
-    <link rel="alternate" href="https://twitter.com/KentaRider/status/1649796362123239425" type="text/html"/>
-    <id>https://twitter.com/KentaRider/status/1649796362123239425</id>
-    <author>
-      <name>Kentaro</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1973
-Planet Of The Daleks #DoctorWho #DrWho https://t.co/iprNTy8hUj</div>
-    </content>
-    <updated>2023-04-22T15:24:39Z</updated>
-  </entry>
-  <entry>
-    <title>RT @Mrunknownfc1: The Third Doctor (The Time Warrior) #DoctorWho #DrWho https://t.co/ZIAaNb6HM5</title>
-    <link rel="alternate" href="https://twitter.com/KentaRider/status/1649796292137156609" type="text/html"/>
-    <id>https://twitter.com/KentaRider/status/1649796292137156609</id>
-    <author>
-      <name>Kentaro</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Third Doctor (The Time Warrior) #DoctorWho #DrWho https://t.co/ZIAaNb6HM5</div>
-    </content>
-    <updated>2023-04-22T15:24:22Z</updated>
-  </entry>
-  <entry>
-    <title>RT @Mrunknownfc1: The Fourth Doctor &amp;amp; K-9 #DoctorWho #DrWho https://t.co/Yc0Ut2jUbW</title>
-    <link rel="alternate" href="https://twitter.com/tardisloo/status/1649795158358065154" type="text/html"/>
-    <id>https://twitter.com/tardisloo/status/1649795158358065154</id>
+#DoctorWho #DrWho #eleventhdoctor #fanart #digitalart #illustration #arttok #art https://t.co/U0nOPA…</title>
+    <link rel="alternate" href="https://twitter.com/tardisloo/status/1649815845080645634" type="text/html"/>
+    <id>https://twitter.com/tardisloo/status/1649815845080645634</id>
     <author>
       <name>Tardis Loo (Turdis)</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Fourth Doctor &amp; K-9 #DoctorWho #DrWho https://t.co/Yc0Ut2jUbW</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Jynxdrawsstuff: bow ties are cool
+
+#DoctorWho #DrWho #eleventhdoctor #fanart #digitalart #illustration #arttok #art https://t.co/U0nOPA…</div>
     </content>
-    <updated>2023-04-22T15:19:52Z</updated>
+    <updated>2023-04-22T16:42:04Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: The Sixth Doctor #DoctorWho #DrWho https://t.co/SfSAB59Xph</title>
-    <link rel="alternate" href="https://twitter.com/KentaRider/status/1649795059770875906" type="text/html"/>
-    <id>https://twitter.com/KentaRider/status/1649795059770875906</id>
+    <title>RT @Jynxdrawsstuff: bow ties are cool
+
+#DoctorWho #DrWho #eleventhdoctor #fanart #digitalart #illustration #arttok #art https://t.co/U0nOPA…</title>
+    <link rel="alternate" href="https://twitter.com/fanartdoctorwho/status/1649815815758180365" type="text/html"/>
+    <id>https://twitter.com/fanartdoctorwho/status/1649815815758180365</id>
     <author>
-      <name>Kentaro</name>
+      <name>Doctor Who: Fan Arts</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Sixth Doctor #DoctorWho #DrWho https://t.co/SfSAB59Xph</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Jynxdrawsstuff: bow ties are cool
+
+#DoctorWho #DrWho #eleventhdoctor #fanart #digitalart #illustration #arttok #art https://t.co/U0nOPA…</div>
     </content>
-    <updated>2023-04-22T15:19:28Z</updated>
+    <updated>2023-04-22T16:41:57Z</updated>
   </entry>
   <entry>
-    <title>Doctor Who - 11th Doctor Figure
-
-Ends Thu 27th Apr @ 12:37pm
-
-https://t.co/viKUy5Ygpd
-
-#ad #doctorwho #thedoctor #tardis #whovian #drwho https://t.co/OZhzJXVf54</title>
-    <link rel="alternate" href="https://twitter.com/DrWhoenthusiats/status/1649794092929368067" type="text/html"/>
-    <id>https://twitter.com/DrWhoenthusiats/status/1649794092929368067</id>
+    <title>RT @Mrunknownfc1: On This Day In 2017
+Smile #DoctorWho #DrWho https://t.co/LqhVPXGNVf</title>
+    <link rel="alternate" href="https://twitter.com/JohnHirose/status/1649815377575288832" type="text/html"/>
+    <id>https://twitter.com/JohnHirose/status/1649815377575288832</id>
     <author>
-      <name>Dr Who Enthusiats</name>
+      <name>global warming Hirose</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Doctor Who - 11th Doctor Figure
-
-Ends Thu 27th Apr @ 12:37pm
-
-https://t.co/viKUy5Ygpd
-
-#ad #doctorwho #thedoctor #tardis #whovian #drwho https://t.co/OZhzJXVf54</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 2017
+Smile #DoctorWho #DrWho https://t.co/LqhVPXGNVf</div>
     </content>
-    <updated>2023-04-22T15:15:38Z</updated>
+    <updated>2023-04-22T16:40:12Z</updated>
+  </entry>
+  <entry>
+    <title>To be clear up front, this is not a criticism, and the Borg episodes and movies have been some of the best sci-fi in #StarTrek, but the Borg strike me as being more like a #DrWho villain. 1/</title>
+    <link rel="alternate" href="https://twitter.com/aemcburney/status/1649814618380926977" type="text/html"/>
+    <id>https://twitter.com/aemcburney/status/1649814618380926977</id>
+    <author>
+      <name>Andrew Elliott McBurney</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">To be clear up front, this is not a criticism, and the Borg episodes and movies have been some of the best sci-fi in #StarTrek, but the Borg strike me as being more like a #DrWho villain. 1/</div>
+    </content>
+    <updated>2023-04-22T16:37:11Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Mrunknownfc1: The Tomb Of The Cybermen #DoctorWho #DrWho https://t.co/P4XpPk65ay</title>
+    <link rel="alternate" href="https://twitter.com/William140494/status/1649812021934710790" type="text/html"/>
+    <id>https://twitter.com/William140494/status/1649812021934710790</id>
+    <author>
+      <name>Will Ferguson #ReleaseTheAyerCut #SnyderVerse</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Tomb Of The Cybermen #DoctorWho #DrWho https://t.co/P4XpPk65ay</div>
+    </content>
+    <updated>2023-04-22T16:26:52Z</updated>
   </entry>
   <entry>
     <title>10 Doctor Who Characters Who Don't Deserve The Hate - WhatCulture</title>
@@ -145,18 +113,18 @@ https://t.co/viKUy5Ygpd
     <updated>2023-04-22T14:09:30Z</updated>
   </entry>
   <entry>
-    <title>BMA suspends junior doctor who joked about gassing Jews on twitter - The Telegraph</title>
+    <title>BMA suspends junior doctor who joked about gassing Jews on Twitter - The Telegraph</title>
     <link rel="alternate" href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDQvMjIvYm1hLXN1c3BlbmRzLWp1bmlvci1kb2N0b3Itd2hvLWpva2VkLWFib3V0LWdhc3NpbmctamV3cy_SAQA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDQvMjIvYm1hLXN1c3BlbmRzLWp1bmlvci1kb2N0b3Itd2hvLWpva2VkLWFib3V0LWdhc3NpbmctamV3cy_SAQA?oc=5" target="_blank"&gt;BMA suspends junior doctor who joked about gassing Jews on twitter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDQvMjIvYm1hLXN1c3BlbmRzLWp1bmlvci1kb2N0b3Itd2hvLWpva2VkLWFib3V0LWdhc3NpbmctamV3cy_SAQA?oc=5" target="_blank"&gt;BMA suspends junior doctor who joked about gassing Jews on Twitter&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
     <id>CBMiZGh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDQvMjIvYm1hLXN1c3BlbmRzLWp1bmlvci1kb2N0b3Itd2hvLWpva2VkLWFib3V0LWdhc3NpbmctamV3cy_SAQA</id>
     <published>2023-04-22T14:06:00Z</published>
     <updated>2023-04-22T14:06:00Z</updated>
   </entry>
   <entry>
-    <title>Where are Britain's Got Talent child stars now? - Daily Mail</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBAA?oc=5" target="_blank"&gt;Where are Britain's Got Talent child stars now?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-    <id>CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBAA</id>
+    <title>Where are Britain's Got Talent child stars now? A look back at the show's youngest performers - Daily Mail</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBhAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvYW1wL1doZXJlLUJyaXRhaW5zLUdvdC1UYWxlbnQtY2hpbGQtc3RhcnMtbG9vay1zaG93cy15b3VuZ2VzdC1wZXJmb3JtZXJzLmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBhAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvYW1wL1doZXJlLUJyaXRhaW5zLUdvdC1UYWxlbnQtY2hpbGQtc3RhcnMtbG9vay1zaG93cy15b3VuZ2VzdC1wZXJmb3JtZXJzLmh0bWw?oc=5" target="_blank"&gt;Where are Britain's Got Talent child stars now? A look back at the show's youngest performers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+    <id>CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBhAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvYW1wL1doZXJlLUJyaXRhaW5zLUdvdC1UYWxlbnQtY2hpbGQtc3RhcnMtbG9vay1zaG93cy15b3VuZ2VzdC1wZXJmb3JtZXJzLmh0bWw</id>
     <published>2023-04-22T12:49:16Z</published>
     <updated>2023-04-22T12:49:16Z</updated>
   </entry>
@@ -192,151 +160,4 @@ https://t.co/viKUy5Ygpd
     <published>2023-04-21T15:08:49Z</published>
     <updated>2023-04-21T15:08:49Z</updated>
   </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Regeneration - Second Life?</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/192676058@N07/52821526969/"/>
-    <id>tag:flickr.com,2005:/photo/52821526969</id>
-    <published>2023-04-16T13:00:14Z</published>
-    <updated>2023-04-16T13:00:14Z</updated>
-    <flickr:date_taken>2023-04-16T18:56:08-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-16T18:56:08-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/192676058@N07/"&gt;Clyde (Clydus) Essex&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/192676058@N07/52821526969/" title="Regeneration - Second Life?"&gt;&lt;img src="https://live.staticflickr.com/65535/52821526969_c471a979ee_m.jpg" width="240" height="120" alt="Regeneration - Second Life?" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Who and where is my companion? ...and what is this Second Life????&lt;br /&gt;
-&lt;br /&gt;
-11th Doctor outfit - Who's Who.&lt;br /&gt;
-&lt;br /&gt;
-Klaas – Second Life!!&lt;br /&gt;
-&lt;a href="https://www.youtube.com/watch?v=z_DMvoV955w" rel="noreferrer nofollow"&gt;www.youtube.com/watch?v=z_DMvoV955w&lt;/a&gt;&lt;br /&gt;
-&lt;br /&gt;
-&lt;a href="http://maps.secondlife.com/secondlife/Green story/180/110/57" rel="noreferrer nofollow"&gt;✈️ Flight to Green Story ✈️&lt;/a&gt;&lt;/p&gt;
-</content>
-    <author>
-      <name>Clyde (Clydus) Essex</name>
-      <uri>https://www.flickr.com/people/192676058@N07/</uri>
-      <flickr:nsid>192676058@N07</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/192676058@N07.jpg?1681204038#192676058@N07</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52821526969_c471a979ee_b.jpg"/>
-    <category term="greenstory" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="timelord" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="regeneration" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="11thdoctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="britishclassics" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="nostalgia" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="secondlife" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sl" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="clydeessex" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="rain" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="spectacles" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="whoswho" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Brian and Peter Davison 5th Doctor</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/17576047@N00/52817871409/"/>
-    <id>tag:flickr.com,2005:/photo/52817871409</id>
-    <published>2023-04-14T20:51:42Z</published>
-    <updated>2023-04-14T20:51:42Z</updated>
-    <flickr:date_taken>2023-04-14T03:45:35-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-14T03:45:35-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/17576047@N00/"&gt;Hedrin&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/17576047@N00/52817871409/" title="Brian and Peter Davison 5th Doctor"&gt;&lt;img src="https://live.staticflickr.com/65535/52817871409_b47b0ff618_m.jpg" width="239" height="240" alt="Brian and Peter Davison 5th Doctor" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>Hedrin</name>
-      <uri>https://www.flickr.com/people/17576047@N00/</uri>
-      <flickr:nsid>17576047@N00</flickr:nsid>
-      <flickr:buddyicon>https://farm3.staticflickr.com/2835/buddyicons/17576047@N00.jpg?1372746184#17576047@N00</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52817871409_b47b0ff618_z.jpg"/>
-    <category term="80" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1980" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="who" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="doctor" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="davidson" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="davison" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="peter" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hunt" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="brian" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>Dr. Who Universe</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/31983180@N04/52802170908/"/>
-    <id>tag:flickr.com,2005:/photo/52802170908</id>
-    <published>2023-04-08T12:21:25Z</published>
-    <updated>2023-04-08T12:21:25Z</updated>
-    <flickr:date_taken>2023-04-08T05:13:26-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-08T05:13:26-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/31983180@N04/"&gt;carolreader&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/31983180@N04/52802170908/" title="Dr. Who Universe"&gt;&lt;img src="https://live.staticflickr.com/65535/52802170908_bf1f50b4d5_m.jpg" width="240" height="156" alt="Dr. Who Universe" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;NARR April 2023 RobinP&lt;/p&gt;
-</content>
-    <author>
-      <name>carolreader</name>
-      <uri>https://www.flickr.com/people/31983180@N04/</uri>
-      <flickr:nsid>31983180@N04</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/31983180@N04.jpg?1637806015#31983180@N04</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52802170908_bf1f50b4d5_b.jpg"/>
-    <category term="narr" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="forum" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="usa" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="globe" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="abstract" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="images" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>C2E2 2023</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/72768911@N02/52789766609/"/>
-    <id>tag:flickr.com,2005:/photo/52789766609</id>
-    <published>2023-04-03T06:19:56Z</published>
-    <updated>2023-04-03T06:19:56Z</updated>
-    <flickr:date_taken>2023-04-02T17:24:26-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-02T17:24:26-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/72768911@N02/"&gt;KitKat_71&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/72768911@N02/52789766609/" title="C2E2 2023"&gt;&lt;img src="https://live.staticflickr.com/65535/52789766609_66da62700e_m.jpg" width="156" height="240" alt="C2E2 2023" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>KitKat_71</name>
-      <uri>https://www.flickr.com/people/72768911@N02/</uri>
-      <flickr:nsid>72768911@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7211/buddyicons/72768911@N02.jpg?1334287895#72768911@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52789766609_66da62700e_b.jpg"/>
-    <category term="c2e2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="comiccon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplayers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplayer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="beautyandthebeast" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
 </feed>
