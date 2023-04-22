@@ -7,56 +7,126 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-04-22T14:50:54Z</updated>
+  <updated>2023-04-22T15:50:54Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Dalek invasion</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/leewalton/52837207539/"/>
+    <id>tag:flickr.com,2005:/photo/52837207539</id>
+    <published>2023-04-22T15:48:53Z</published>
+    <updated>2023-04-22T15:48:53Z</updated>
+    <flickr:date_taken>2023-04-22T14:29:59-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-04-22T14:29:59-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/leewalton/"&gt;♦ lee ♦&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/leewalton/52837207539/" title="Dalek invasion"&gt;&lt;img src="https://live.staticflickr.com/65535/52837207539_b6ffc4a742_m.jpg" width="240" height="159" alt="Dalek invasion" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sitting down, having a nice hot chocolate at Farrer's Bar... and then the Dalek invasion started...&lt;/p&gt;
+</content>
+    <author>
+      <name>♦ lee ♦</name>
+      <uri>https://www.flickr.com/people/leewalton/</uri>
+      <flickr:nsid>89147134@N00</flickr:nsid>
+      <flickr:buddyicon>https://farm6.staticflickr.com/5546/buddyicons/89147134@N00.jpg?1378368939#89147134@N00</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52837207539_b6ffc4a742_b.jpg"/>
+    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="scarborough" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="northyorkshire" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>RT @Mrunknownfc1: The Tomb Of The Cybermen #DoctorWho #DrWho https://t.co/P4XpPk65ay</title>
-    <link rel="alternate" href="https://twitter.com/tardisloo/status/1649785171929964548" type="text/html"/>
-    <id>https://twitter.com/tardisloo/status/1649785171929964548</id>
+    <title>RT @Mrunknownfc1: On This Day In 1973
+Planet Of The Daleks #DoctorWho #DrWho https://t.co/iprNTy8hUj</title>
+    <link rel="alternate" href="https://twitter.com/KentaRider/status/1649796362123239425" type="text/html"/>
+    <id>https://twitter.com/KentaRider/status/1649796362123239425</id>
+    <author>
+      <name>Kentaro</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1973
+Planet Of The Daleks #DoctorWho #DrWho https://t.co/iprNTy8hUj</div>
+    </content>
+    <updated>2023-04-22T15:24:39Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Mrunknownfc1: The Third Doctor (The Time Warrior) #DoctorWho #DrWho https://t.co/ZIAaNb6HM5</title>
+    <link rel="alternate" href="https://twitter.com/KentaRider/status/1649796292137156609" type="text/html"/>
+    <id>https://twitter.com/KentaRider/status/1649796292137156609</id>
+    <author>
+      <name>Kentaro</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Third Doctor (The Time Warrior) #DoctorWho #DrWho https://t.co/ZIAaNb6HM5</div>
+    </content>
+    <updated>2023-04-22T15:24:22Z</updated>
+  </entry>
+  <entry>
+    <title>RT @Mrunknownfc1: The Fourth Doctor &amp;amp; K-9 #DoctorWho #DrWho https://t.co/Yc0Ut2jUbW</title>
+    <link rel="alternate" href="https://twitter.com/tardisloo/status/1649795158358065154" type="text/html"/>
+    <id>https://twitter.com/tardisloo/status/1649795158358065154</id>
     <author>
       <name>Tardis Loo (Turdis)</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Tomb Of The Cybermen #DoctorWho #DrWho https://t.co/P4XpPk65ay</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Fourth Doctor &amp; K-9 #DoctorWho #DrWho https://t.co/Yc0Ut2jUbW</div>
     </content>
-    <updated>2023-04-22T14:40:11Z</updated>
+    <updated>2023-04-22T15:19:52Z</updated>
   </entry>
   <entry>
-    <title>RT @Mrunknownfc1: The Tomb Of The Cybermen #DoctorWho #DrWho https://t.co/P4XpPk65ay</title>
-    <link rel="alternate" href="https://twitter.com/Cockney_Scouser/status/1649785146042712064" type="text/html"/>
-    <id>https://twitter.com/Cockney_Scouser/status/1649785146042712064</id>
+    <title>RT @Mrunknownfc1: The Sixth Doctor #DoctorWho #DrWho https://t.co/SfSAB59Xph</title>
+    <link rel="alternate" href="https://twitter.com/KentaRider/status/1649795059770875906" type="text/html"/>
+    <id>https://twitter.com/KentaRider/status/1649795059770875906</id>
     <author>
-      <name>🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿🇮🇱Sheldon Collins OFFICIAL©️®️</name>
+      <name>Kentaro</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Tomb Of The Cybermen #DoctorWho #DrWho https://t.co/P4XpPk65ay</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Sixth Doctor #DoctorWho #DrWho https://t.co/SfSAB59Xph</div>
     </content>
-    <updated>2023-04-22T14:40:04Z</updated>
+    <updated>2023-04-22T15:19:28Z</updated>
   </entry>
   <entry>
-    <title>RT @wildwaterstu: #daleksupremesaturday #drwho   @stardust1006 @Doctor_No1 @Rick_Snape @steplaysyt @paul_bowler @DWfan9 @wtr240175 @royalpu…</title>
-    <link rel="alternate" href="https://twitter.com/BillieO2/status/1649784535184207872" type="text/html"/>
-    <id>https://twitter.com/BillieO2/status/1649784535184207872</id>
+    <title>Doctor Who - 11th Doctor Figure
+
+Ends Thu 27th Apr @ 12:37pm
+
+https://t.co/viKUy5Ygpd
+
+#ad #doctorwho #thedoctor #tardis #whovian #drwho https://t.co/OZhzJXVf54</title>
+    <link rel="alternate" href="https://twitter.com/DrWhoenthusiats/status/1649794092929368067" type="text/html"/>
+    <id>https://twitter.com/DrWhoenthusiats/status/1649794092929368067</id>
     <author>
-      <name>Billie</name>
+      <name>Dr Who Enthusiats</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @wildwaterstu: #daleksupremesaturday #drwho   @stardust1006 @Doctor_No1 @Rick_Snape @steplaysyt @paul_bowler @DWfan9 @wtr240175 @royalpu…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">Doctor Who - 11th Doctor Figure
+
+Ends Thu 27th Apr @ 12:37pm
+
+https://t.co/viKUy5Ygpd
+
+#ad #doctorwho #thedoctor #tardis #whovian #drwho https://t.co/OZhzJXVf54</div>
     </content>
-    <updated>2023-04-22T14:37:39Z</updated>
+    <updated>2023-04-22T15:15:38Z</updated>
   </entry>
   <entry>
-    <title>RT @wildwaterstu: #daleksupremesaturday #drwho   @stardust1006 @Doctor_No1 @Rick_Snape @steplaysyt @paul_bowler @DWfan9 @wtr240175 @royalpu…</title>
-    <link rel="alternate" href="https://twitter.com/TrekkieTodd/status/1649783461631148032" type="text/html"/>
-    <id>https://twitter.com/TrekkieTodd/status/1649783461631148032</id>
-    <author>
-      <name>TrekTodd</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @wildwaterstu: #daleksupremesaturday #drwho   @stardust1006 @Doctor_No1 @Rick_Snape @steplaysyt @paul_bowler @DWfan9 @wtr240175 @royalpu…</div>
-    </content>
-    <updated>2023-04-22T14:33:23Z</updated>
+    <title>10 Doctor Who Characters Who Don't Deserve The Hate - WhatCulture</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd2hhdGN1bHR1cmUuY29tL3R2LzEwLWRvY3Rvci13aG8tY2hhcmFjdGVycy13aG8tZG9udC1kZXNlcnZlLXRoZS1oYXRl0gFRaHR0cHM6Ly93aGF0Y3VsdHVyZS5jb20vYW1wL3R2LzEwLWRvY3Rvci13aG8tY2hhcmFjdGVycy13aG8tZG9udC1kZXNlcnZlLXRoZS1oYXRl?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd2hhdGN1bHR1cmUuY29tL3R2LzEwLWRvY3Rvci13aG8tY2hhcmFjdGVycy13aG8tZG9udC1kZXNlcnZlLXRoZS1oYXRl0gFRaHR0cHM6Ly93aGF0Y3VsdHVyZS5jb20vYW1wL3R2LzEwLWRvY3Rvci13aG8tY2hhcmFjdGVycy13aG8tZG9udC1kZXNlcnZlLXRoZS1oYXRl?oc=5" target="_blank"&gt;10 Doctor Who Characters Who Don't Deserve The Hate&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WhatCulture&lt;/font&gt;</content>
+    <id>CBMiTWh0dHBzOi8vd2hhdGN1bHR1cmUuY29tL3R2LzEwLWRvY3Rvci13aG8tY2hhcmFjdGVycy13aG8tZG9udC1kZXNlcnZlLXRoZS1oYXRl0gFRaHR0cHM6Ly93aGF0Y3VsdHVyZS5jb20vYW1wL3R2LzEwLWRvY3Rvci13aG8tY2hhcmFjdGVycy13aG8tZG9udC1kZXNlcnZlLXRoZS1oYXRl</id>
+    <published>2023-04-22T14:56:18Z</published>
+    <updated>2023-04-22T14:56:18Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who's New Villain: Who Is Jinkx Monsoon? - Den of Geek</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby1uZXctdmlsbGFpbi1qaW5reC1tb25zb29uL9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby1uZXctdmlsbGFpbi1qaW5reC1tb25zb29uL9IBAA?oc=5" target="_blank"&gt;Doctor Who's New Villain: Who Is Jinkx Monsoon?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Den of Geek&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vZXcuY29tL3R2L2ppbmt4LW1vbnNvb24tZG9jdG9yLXdoby1jb3N0dW1lL9IBAA?oc=5" target="_blank"&gt;Jinkx Monsoon reveals first look at 'Doctor Who' costume&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Entertainment Weekly News&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJiYy5jby51ay9tZWRpYWNlbnRyZS8yMDIzL2RvY3Rvci13aG8tamlua3gtbW9uc29vbi1pbi1jaGFyYWN0ZXItbW9zdC1wb3dlcmZ1bC1lbmVteS15ZXTSAQA?oc=5" target="_blank"&gt;First look at Doctor Who's Jinkx Monsoon as the Doctor's "most powerful enemy yet"&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</content>
+    <id>CBMiQmh0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby1uZXctdmlsbGFpbi1qaW5reC1tb25zb29uL9IBAA</id>
+    <published>2023-04-22T14:54:42Z</published>
+    <updated>2023-04-22T14:54:42Z</updated>
   </entry>
   <entry>
     <title>BBC Doctor Foster star issues major update on season three - Birmingham Live</title>
@@ -65,18 +135,6 @@
     <id>CBMiV2h0dHBzOi8vd3d3LmJpcm1pbmdoYW1tYWlsLmNvLnVrL25ld3Mvc2hvd2Jpei10di9iYmMtZG9jdG9yLWZvc3Rlci1zdGFyLWlzc3Vlcy0yNjc1ODY4NtIBW2h0dHBzOi8vd3d3LmJpcm1pbmdoYW1tYWlsLmNvLnVrL25ld3Mvc2hvd2Jpei10di9iYmMtZG9jdG9yLWZvc3Rlci1zdGFyLWlzc3Vlcy0yNjc1ODY4Ni5hbXA</id>
     <published>2023-04-22T14:26:58Z</published>
     <updated>2023-04-22T14:26:58Z</updated>
-  </entry>
-  <entry>
-    <title>RT @Mrunknownfc1: The Fourth Doctor &amp;amp; K-9 #DoctorWho #DrWho https://t.co/Yc0Ut2jUbW</title>
-    <link rel="alternate" href="https://twitter.com/JockeUH/status/1649780062483349505" type="text/html"/>
-    <id>https://twitter.com/JockeUH/status/1649780062483349505</id>
-    <author>
-      <name>JJTHESCRIPTWRITER</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: The Fourth Doctor &amp; K-9 #DoctorWho #DrWho https://t.co/Yc0Ut2jUbW</div>
-    </content>
-    <updated>2023-04-22T14:19:52Z</updated>
   </entry>
   <entry>
     <title>TV doctor reveals the shocking list of ingredients in ice-cream - Daily Mail</title>
@@ -95,28 +153,12 @@
     <updated>2023-04-22T14:06:00Z</updated>
   </entry>
   <entry>
-    <title>Where are Britain's Got Talent child stars now? A look back at the show's youngest performers - Daily Mail</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBhAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvYW1wL1doZXJlLUJyaXRhaW5zLUdvdC1UYWxlbnQtY2hpbGQtc3RhcnMtbG9vay1zaG93cy15b3VuZ2VzdC1wZXJmb3JtZXJzLmh0bWw?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBhAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvYW1wL1doZXJlLUJyaXRhaW5zLUdvdC1UYWxlbnQtY2hpbGQtc3RhcnMtbG9vay1zaG93cy15b3VuZ2VzdC1wZXJmb3JtZXJzLmh0bWw?oc=5" target="_blank"&gt;Where are Britain's Got Talent child stars now? A look back at the show's youngest performers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
-    <id>CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBhAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvYW1wL1doZXJlLUJyaXRhaW5zLUdvdC1UYWxlbnQtY2hpbGQtc3RhcnMtbG9vay1zaG93cy15b3VuZ2VzdC1wZXJmb3JtZXJzLmh0bWw</id>
+    <title>Where are Britain's Got Talent child stars now? - Daily Mail</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBAA?oc=5" target="_blank"&gt;Where are Britain's Got Talent child stars now?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Daily Mail&lt;/font&gt;</content>
+    <id>CBMigAFodHRwczovL3d3dy5kYWlseW1haWwuY28udWsvdHZzaG93Yml6L2FydGljbGUtMTE5OTQ5MjkvV2hlcmUtQnJpdGFpbnMtR290LVRhbGVudC1jaGlsZC1zdGFycy1sb29rLXNob3dzLXlvdW5nZXN0LXBlcmZvcm1lcnMuaHRtbNIBAA</id>
     <published>2023-04-22T12:49:16Z</published>
     <updated>2023-04-22T12:49:16Z</updated>
-  </entry>
-  <entry>
-    <title>The Doctor And Susan Weren't Doctor Who's First Lead Characters - Screen Rant</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc2NyZWVucmFudC5jb20vZG9jdG9yLXdoby1zdXNhbi1ub3QtbWFpbi1jaGFyYWN0ZXJzLWlhbi1iYXJiYXJhL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiSGh0dHBzOi8vc2NyZWVucmFudC5jb20vZG9jdG9yLXdoby1zdXNhbi1ub3QtbWFpbi1jaGFyYWN0ZXJzLWlhbi1iYXJiYXJhL9IBAA?oc=5" target="_blank"&gt;The Doctor And Susan Weren't Doctor Who's First Lead Characters&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Screen Rant&lt;/font&gt;</content>
-    <id>CBMiSGh0dHBzOi8vc2NyZWVucmFudC5jb20vZG9jdG9yLXdoby1zdXNhbi1ub3QtbWFpbi1jaGFyYWN0ZXJzLWlhbi1iYXJiYXJhL9IBAA</id>
-    <published>2023-04-22T12:00:00Z</published>
-    <updated>2023-04-22T12:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Doctor Who's New Villain: Who Is Jinkx Monsoon? - Den of Geek</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby1uZXctdmlsbGFpbi1qaW5reC1tb25zb29uL9IBAA?oc=5" type="text/html"/>
-    <content type="html">&lt;ol&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiQmh0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby1uZXctdmlsbGFpbi1qaW5reC1tb25zb29uL9IBAA?oc=5" target="_blank"&gt;Doctor Who's New Villain: Who Is Jinkx Monsoon?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Den of Geek&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiUWh0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2E0MzY0NjU1Mi9kb2N0b3Itd2hvLWRyYWctcmFjZS1qaW5reC1tb25zb29uLXBob3RvL9IBAA?oc=5" target="_blank"&gt;Doctor Who unveils first look at Drag Race's Jinkx Monsoon as new villain&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Spy&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vd3d3LmJiYy5jby51ay9tZWRpYWNlbnRyZS8yMDIzL2RvY3Rvci13aG8tamlua3gtbW9uc29vbi1pbi1jaGFyYWN0ZXItbW9zdC1wb3dlcmZ1bC1lbmVteS15ZXTSAQA?oc=5" target="_blank"&gt;First look at Doctor Who's Jinkx Monsoon as the Doctor's "most powerful enemy yet"&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;BBC&lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;</content>
-    <id>CBMiQmh0dHBzOi8vd3d3LmRlbm9mZ2Vlay5jb20vdHYvZG9jdG9yLXdoby1uZXctdmlsbGFpbi1qaW5reC1tb25zb29uL9IBAA</id>
-    <published>2023-04-22T11:50:58Z</published>
-    <updated>2023-04-22T11:50:58Z</updated>
   </entry>
   <entry>
     <title>Dame Edna legend Barry Humphries dies after 'agonising' health battle - Daily Star</title>
@@ -294,37 +336,6 @@ Klaas – Second Life!!&lt;br /&gt;
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>75.Torchwood</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/195613330@N08/52787751488/"/>
-    <id>tag:flickr.com,2005:/photo/52787751488</id>
-    <published>2023-04-02T11:21:39Z</published>
-    <updated>2023-04-02T11:21:39Z</updated>
-    <flickr:date_taken>2006-02-25T11:57:57-08:00</flickr:date_taken>
-    <dc:date.Taken>2006-02-25T11:57:57-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/195613330@N08/"&gt;pleech96&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/195613330@N08/52787751488/" title="75.Torchwood"&gt;&lt;img src="https://live.staticflickr.com/65535/52787751488_06db965190_m.jpg" width="240" height="96" alt="75.Torchwood" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This shot of the centre of the Cardiff Bay developments shows the big square and behind that the Millennium Centre with its copper roof. The tall tower in the centre is a tall column of steel with water running down from the top. The reason for the title of this is because it was the location of the Torchwood series on TV -  a follow up to Doctor Who&lt;/p&gt;
-</content>
-    <author>
-      <name>pleech96</name>
-      <uri>https://www.flickr.com/people/195613330@N08/</uri>
-      <flickr:nsid>195613330@N08</flickr:nsid>
-      <flickr:buddyicon>https://combo.staticflickr.com/pw/images/buddyicon06.png#195613330@N08</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52787751488_06db965190_b.jpg"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="torchwood" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiffbay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="mono" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="blackandwhite" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cardiff" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="wales" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
