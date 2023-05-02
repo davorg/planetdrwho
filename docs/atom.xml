@@ -7,70 +7,129 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-05-02T08:50:56Z</updated>
+  <updated>2023-05-02T09:50:56Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
-  <entry>
-    <title>RT @Matt_SmithNews: Matt Smith as the Eleventh Doctor on the Front Cover of SFX Magazine for a World Exclusive Doctor Who Set Report which…</title>
-    <link rel="alternate" href="https://twitter.com/ZimmermanV66/status/1653319321353854976" type="text/html"/>
-    <id>https://twitter.com/ZimmermanV66/status/1653319321353854976</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>She so pretty</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/149434691@N05/52864054951/"/>
+    <id>tag:flickr.com,2005:/photo/52864054951</id>
+    <published>2023-05-02T09:49:44Z</published>
+    <updated>2023-05-02T09:49:44Z</updated>
+    <flickr:date_taken>2023-05-02T10:45:29-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-05-02T10:45:29-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/149434691@N05/"&gt;TotalWho91&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/149434691@N05/52864054951/" title="She so pretty"&gt;&lt;img src="https://live.staticflickr.com/65535/52864054951_eba51932fe_m.jpg" width="163" height="240" alt="She so pretty" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Based upon the comics. I had a builders revelation and managed to make her. She's Blue again and look so so pretty&lt;/p&gt;
+</content>
     <author>
-      <name>Vincent Zimmerman</name>
+      <name>TotalWho91</name>
+      <uri>https://www.flickr.com/people/149434691@N05/</uri>
+      <flickr:nsid>149434691@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/149434691@N05.jpg?1650902017#149434691@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/video/52864054951/eba51932fe/360p.mp4?s=eyJpIjo1Mjg2NDA1NDk1MSwiZSI6MTY4MzAyMjg1NSwicyI6IjA2ZDQ4YzlmYTAwN2U3YWZlMWNjOWU3YThjODUzMWZjOWMwYWU2YzQiLCJ2IjoxfQ"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="tardis" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timelord" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="policebox" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timeandspace" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timeandrelativedimensionsinspace" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="comic" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="cartoon" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timemachine" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="timetravel" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="secondlife" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="firestorm" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="mesh" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="builder" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
+  <entry>
+    <title>RT @DoctorWhoPix: Paul Kasey, Doctor Who's regular monster man #DoctorWho #DrWho https://t.co/u6XxK00isQ</title>
+    <link rel="alternate" href="https://twitter.com/Greebohobbes/status/1653331686061375496" type="text/html"/>
+    <id>https://twitter.com/Greebohobbes/status/1653331686061375496</id>
+    <author>
+      <name>Bek Hobbes doesn’t want to die tonight...</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: Matt Smith as the Eleventh Doctor on the Front Cover of SFX Magazine for a World Exclusive Doctor Who Set Report which…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @DoctorWhoPix: Paul Kasey, Doctor Who's regular monster man #DoctorWho #DrWho https://t.co/u6XxK00isQ</div>
     </content>
-    <updated>2023-05-02T08:43:38Z</updated>
+    <updated>2023-05-02T09:32:46Z</updated>
   </entry>
   <entry>
-    <title>@jfmouthonlegs I say b@llox it’s only because of the classic fans  @IanLevine  (a perfect example) who kept the show going during its hiatus that there would be @bbcdoctorwho today as well as the classic companions who did all the conventions during that time. Classic who rules. #DrWho</title>
-    <link rel="alternate" href="https://twitter.com/waster19teen76/status/1653319099974406144" type="text/html"/>
-    <id>https://twitter.com/waster19teen76/status/1653319099974406144</id>
+    <title>RT @Mrunknownfc1: On This Day In 1970
+The Ambassadors Of Death #DoctorWho #DrWho https://t.co/cHri2HSGKN</title>
+    <link rel="alternate" href="https://twitter.com/tomlord46/status/1653331298700673027" type="text/html"/>
+    <id>https://twitter.com/tomlord46/status/1653331298700673027</id>
     <author>
-      <name>paul</name>
+      <name>Hold The Phone</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">@jfmouthonlegs I say b@llox it’s only because of the classic fans  @IanLevine  (a perfect example) who kept the show going during its hiatus that there would be @bbcdoctorwho today as well as the classic companions who did all the conventions during that time. Classic who rules. #DrWho</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1970
+The Ambassadors Of Death #DoctorWho #DrWho https://t.co/cHri2HSGKN</div>
     </content>
-    <updated>2023-05-02T08:42:45Z</updated>
+    <updated>2023-05-02T09:31:13Z</updated>
+  </entry>
+  <entry>
+    <title>Doctor Who Diary
+BUY NOW- https://t.co/tRCre8CPGe 
+
+How to get a diary
+1. Add a diary to your basket
+2. Add any other product £29 or more to your basket
+3. Simply Checkout 
+
+#lovarzi_official #doctorwho #drwho #doctorwhodiary #doctorwhofan #doctorwhofandom #doctorwhomerchandise https://t.co/hGeCTDUgoa</title>
+    <link rel="alternate" href="https://twitter.com/Lovarzi/status/1653331077807710210" type="text/html"/>
+    <id>https://twitter.com/Lovarzi/status/1653331077807710210</id>
+    <author>
+      <name>Lovarzi</name>
+    </author>
+    <content type="xhtml">
+      <div xmlns="http://www.w3.org/1999/xhtml">Doctor Who Diary
+BUY NOW- https://t.co/tRCre8CPGe 
+
+How to get a diary
+1. Add a diary to your basket
+2. Add any other product £29 or more to your basket
+3. Simply Checkout 
+
+#lovarzi_official #doctorwho #drwho #doctorwhodiary #doctorwhofan #doctorwhofandom #doctorwhomerchandise https://t.co/hGeCTDUgoa</div>
+    </content>
+    <updated>2023-05-02T09:30:21Z</updated>
   </entry>
   <entry>
     <title>RT @Mrunknownfc1: On This Day In 1964
 The Keys Of Marinus #DoctorWho #DrWho https://t.co/1pujrSjkwd</title>
-    <link rel="alternate" href="https://twitter.com/WorkofARThur/status/1653314754046205956" type="text/html"/>
-    <id>https://twitter.com/WorkofARThur/status/1653314754046205956</id>
+    <link rel="alternate" href="https://twitter.com/ConnieLingus2/status/1653330168939966469" type="text/html"/>
+    <id>https://twitter.com/ConnieLingus2/status/1653330168939966469</id>
     <author>
-      <name>Arthur Dykeman</name>
+      <name>Connie Lingus</name>
     </author>
     <content type="xhtml">
       <div xmlns="http://www.w3.org/1999/xhtml">RT @Mrunknownfc1: On This Day In 1964
 The Keys Of Marinus #DoctorWho #DrWho https://t.co/1pujrSjkwd</div>
     </content>
-    <updated>2023-05-02T08:25:29Z</updated>
+    <updated>2023-05-02T09:26:44Z</updated>
   </entry>
   <entry>
-    <title>RT @Matt_SmithNews: Matt Smith as the Eleventh Doctor on the Front Cover of SFX Magazine for a World Exclusive Doctor Who Set Report which…</title>
-    <link rel="alternate" href="https://twitter.com/BBCWilliamWho/status/1653314688464068608" type="text/html"/>
-    <id>https://twitter.com/BBCWilliamWho/status/1653314688464068608</id>
+    <title>😎 #DrWho #DoctorWho #DWArtistClub #doctorwhofanart   
+Original: aidencg01 https://t.co/r3yPAxKF05</title>
+    <link rel="alternate" href="https://twitter.com/Zearthur992/status/1653329457761976320" type="text/html"/>
+    <id>https://twitter.com/Zearthur992/status/1653329457761976320</id>
     <author>
-      <name>WilliamWho</name>
+      <name>Zearthur99</name>
     </author>
     <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">RT @Matt_SmithNews: Matt Smith as the Eleventh Doctor on the Front Cover of SFX Magazine for a World Exclusive Doctor Who Set Report which…</div>
+      <div xmlns="http://www.w3.org/1999/xhtml">😎 #DrWho #DoctorWho #DWArtistClub #doctorwhofanart   
+Original: aidencg01 https://t.co/r3yPAxKF05</div>
     </content>
-    <updated>2023-05-02T08:25:13Z</updated>
-  </entry>
-  <entry>
-    <title>Wanda Ventham's roles in Doctor Who #DoctorWho #DrWho https://t.co/iz1qMA44Yq</title>
-    <link rel="alternate" href="https://twitter.com/DoctorWhoPix/status/1653313374652973056" type="text/html"/>
-    <id>https://twitter.com/DoctorWhoPix/status/1653313374652973056</id>
-    <author>
-      <name>Doctor Who Pictures</name>
-    </author>
-    <content type="xhtml">
-      <div xmlns="http://www.w3.org/1999/xhtml">Wanda Ventham's roles in Doctor Who #DoctorWho #DrWho https://t.co/iz1qMA44Yq</div>
-    </content>
-    <updated>2023-05-02T08:20:00Z</updated>
+    <updated>2023-05-02T09:23:54Z</updated>
   </entry>
   <entry>
     <title>Tranq ‘found in 90% of seized drugs’ warns doctor who says it was never approved for humans &amp; causes hor... - The US Sun</title>
@@ -296,39 +355,6 @@ Klaas – Second Life!!&lt;br /&gt;
     <category term="globe" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="abstract" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="images" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>C2E2 2023</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/72768911@N02/52789766609/"/>
-    <id>tag:flickr.com,2005:/photo/52789766609</id>
-    <published>2023-04-03T06:19:56Z</published>
-    <updated>2023-04-03T06:19:56Z</updated>
-    <flickr:date_taken>2023-04-02T17:24:26-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-04-02T17:24:26-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/72768911@N02/"&gt;KitKat_71&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/72768911@N02/52789766609/" title="C2E2 2023"&gt;&lt;img src="https://live.staticflickr.com/65535/52789766609_66da62700e_m.jpg" width="156" height="240" alt="C2E2 2023" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>KitKat_71</name>
-      <uri>https://www.flickr.com/people/72768911@N02/</uri>
-      <flickr:nsid>72768911@N02</flickr:nsid>
-      <flickr:buddyicon>https://farm8.staticflickr.com/7211/buddyicons/72768911@N02.jpg?1334287895#72768911@N02</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52789766609_66da62700e_b.jpg"/>
-    <category term="c2e2" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="comiccon" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplay" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplayers" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cosplayer" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="beautyandthebeast" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="cyberman" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="dalek" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
