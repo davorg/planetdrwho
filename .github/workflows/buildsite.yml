@@ -38,6 +38,12 @@ jobs:
         name: perlanet.log
         path: ./perlanet.log
         retention-days: 3
+
+    - name: Report to Gitboard
+      uses: gitboard-io/gitboard-action@main
+      with:
+        username: davorg
+        key: ${{ secrets.GITBOARD_KEY }}
         
     - name: Update pages artifact
       uses: actions/upload-pages-artifact@v1
@@ -56,4 +62,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v2
