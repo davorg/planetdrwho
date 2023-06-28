@@ -7,64 +7,98 @@
     <name>Dave Cross</name>
     <email>dave@theplanetarium.org</email>
   </author>
-  <updated>2023-06-28T12:04:30Z</updated>
+  <updated>2023-06-28T18:04:02Z</updated>
   <link rel="self" href="https://drwho.theplanetarium.org/" type="application/atom+xml"/>
   <id>https://drwho.theplanetarium.org/</id>
+  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <title>Commander Strax</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/kumipallomaa/53008708475/"/>
+    <id>tag:flickr.com,2005:/photo/53008708475</id>
+    <published>2023-06-28T17:39:50Z</published>
+    <updated>2023-06-28T17:39:50Z</updated>
+    <flickr:date_taken>2023-04-10T08:15:51-08:00</flickr:date_taken>
+    <dc:date.Taken>2023-04-10T08:15:51-08:00</dc:date.Taken>
+    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/kumipallomaa/"&gt;Eero Okkonen&lt;/a&gt; posted a photo:&lt;/p&gt;
+	
+&lt;p&gt;&lt;a href="https://www.flickr.com/photos/kumipallomaa/53008708475/" title="Commander Strax"&gt;&lt;img src="https://live.staticflickr.com/65535/53008708475_a15c81a35d_m.jpg" width="181" height="240" alt="Commander Strax" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sontaran commander from Doctor Who. Built for New Elementary's &lt;a href="https://www.newelementary.com/2023/04/flowerfest-eero-okkonen.html" rel="noreferrer nofollow"&gt;Flowerfest,&lt;/a&gt; inspired by nougat petal parts from Botanical sets.&lt;br /&gt;
+&lt;br /&gt;
+More on &lt;a href="https://cyclopicbricks.blogspot.com/2023/06/commander-strax.html" rel="noreferrer nofollow"&gt;Cyclopic Bricks.&lt;/a&gt;&lt;/p&gt;
+</content>
+    <author>
+      <name>Eero Okkonen</name>
+      <uri>https://www.flickr.com/people/kumipallomaa/</uri>
+      <flickr:nsid>38792820@N05</flickr:nsid>
+      <flickr:buddyicon>https://farm4.staticflickr.com/3803/buddyicons/38792820@N05.jpg?1369152716#38792820@N05</flickr:buddyicon>
+    </author>
+    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/53008708475_a15c81a35d_b.jpg"/>
+    <category term="lego" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="moc" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="newelementary" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="doctorwho" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="sontaran" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="strax" scheme="https://www.flickr.com/photos/tags/"/>
+    <category term="flowerfest" scheme="https://www.flickr.com/photos/tags/"/>
+    <displaycategories>
+            </displaycategories>
+    </entry>
   <entry>
-    <title>Doctor 'too anxious to drive to work' wins discrimination case against ... - The Telegraph</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDYvMjgvZG9jdG9yLXRvby1hbnhpb3VzLWRyaXZlLXdpbnMtZGlzY3JpbWluYXRpb24tY2FzZS1uaHMv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiYmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDYvMjgvZG9jdG9yLXRvby1hbnhpb3VzLWRyaXZlLXdpbnMtZGlzY3JpbWluYXRpb24tY2FzZS1uaHMv0gEA?oc=5" target="_blank"&gt;Doctor 'too anxious to drive to work' wins discrimination case against ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Telegraph&lt;/font&gt;</content>
-    <id>CBMiYmh0dHBzOi8vd3d3LnRlbGVncmFwaC5jby51ay9uZXdzLzIwMjMvMDYvMjgvZG9jdG9yLXRvby1hbnhpb3VzLWRyaXZlLXdpbnMtZGlzY3JpbWluYXRpb24tY2FzZS1uaHMv0gEA</id>
-    <published>2023-06-28T11:54:00Z</published>
-    <updated>2023-06-28T11:54:00Z</updated>
+    <title>Doctor Who Fortnite Collab Rumored to Be Delayed - Comic Years</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY29taWN5ZWFycy5jb20vZ2FtaW5nL2RvY3Rvci13aG8tZm9ydG5pdGUtY29sbGFiLXJ1bW9yZWQtdG8tYmUtZGVsYXllZC_SAVNodHRwczovL2NvbWljeWVhcnMuY29tL2dhbWluZy9kb2N0b3Itd2hvLWZvcnRuaXRlLWNvbGxhYi1ydW1vcmVkLXRvLWJlLWRlbGF5ZWQvYW1wLw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiT2h0dHBzOi8vY29taWN5ZWFycy5jb20vZ2FtaW5nL2RvY3Rvci13aG8tZm9ydG5pdGUtY29sbGFiLXJ1bW9yZWQtdG8tYmUtZGVsYXllZC_SAVNodHRwczovL2NvbWljeWVhcnMuY29tL2dhbWluZy9kb2N0b3Itd2hvLWZvcnRuaXRlLWNvbGxhYi1ydW1vcmVkLXRvLWJlLWRlbGF5ZWQvYW1wLw?oc=5" target="_blank"&gt;Doctor Who Fortnite Collab Rumored to Be Delayed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Comic Years&lt;/font&gt;</content>
+    <id>CBMiT2h0dHBzOi8vY29taWN5ZWFycy5jb20vZ2FtaW5nL2RvY3Rvci13aG8tZm9ydG5pdGUtY29sbGFiLXJ1bW9yZWQtdG8tYmUtZGVsYXllZC_SAVNodHRwczovL2NvbWljeWVhcnMuY29tL2dhbWluZy9kb2N0b3Itd2hvLWZvcnRuaXRlLWNvbGxhYi1ydW1vcmVkLXRvLWJlLWRlbGF5ZWQvYW1wLw</id>
+    <published>2023-06-28T16:19:18Z</published>
+    <updated>2023-06-28T16:19:18Z</updated>
   </entry>
   <entry>
-    <title>Doctor Who Fans Scared Of Upcoming Specials For A Very Specific Reason - Startefacts</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3RhcnRlZmFjdHMuY29tL25ld3MvZG9jdG9yLXdoby1mYW5zLXNjYXJlZC1vZi11cGNvbWluZy1zcGVjaWFscy1mb3ItYS12ZXJ5LXNwZWNpZmljLXJlYXNvbl9hMTMx0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiaGh0dHBzOi8vc3RhcnRlZmFjdHMuY29tL25ld3MvZG9jdG9yLXdoby1mYW5zLXNjYXJlZC1vZi11cGNvbWluZy1zcGVjaWFscy1mb3ItYS12ZXJ5LXNwZWNpZmljLXJlYXNvbl9hMTMx0gEA?oc=5" target="_blank"&gt;Doctor Who Fans Scared Of Upcoming Specials For A Very Specific Reason&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Startefacts&lt;/font&gt;</content>
-    <id>CBMiaGh0dHBzOi8vc3RhcnRlZmFjdHMuY29tL25ld3MvZG9jdG9yLXdoby1mYW5zLXNjYXJlZC1vZi11cGNvbWluZy1zcGVjaWFscy1mb3ItYS12ZXJ5LXNwZWNpZmljLXJlYXNvbl9hMTMx0gEA</id>
-    <published>2023-06-28T11:30:00Z</published>
-    <updated>2023-06-28T11:30:00Z</updated>
+    <title>The Ninth Doctor meets Alpha Centauri - Nerdvana</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmVyZHZhbmFtZWRpYS5jb20vc2NpLWZpLWZhbnRhc3kvbmludGgtZG9jdG9yLWFscGhhLWNlbnRhdXJpLzE2NDgxMC_SAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiTGh0dHBzOi8vbmVyZHZhbmFtZWRpYS5jb20vc2NpLWZpLWZhbnRhc3kvbmludGgtZG9jdG9yLWFscGhhLWNlbnRhdXJpLzE2NDgxMC_SAQA?oc=5" target="_blank"&gt;The Ninth Doctor meets Alpha Centauri&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Nerdvana&lt;/font&gt;</content>
+    <id>CBMiTGh0dHBzOi8vbmVyZHZhbmFtZWRpYS5jb20vc2NpLWZpLWZhbnRhc3kvbmludGgtZG9jdG9yLWFscGhhLWNlbnRhdXJpLzE2NDgxMC_SAQA</id>
+    <published>2023-06-28T16:00:54Z</published>
+    <updated>2023-06-28T16:00:54Z</updated>
   </entry>
   <entry>
     <title>What to Watch on TV Wednesday, June 28, 2023 – TVLine - TVLine</title>
     <link rel="alternate" href="https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vdHZsaW5lLmNvbS93aGF0LXRvLXdhdGNoL2dyb3duLWlzaC1zZWFzb24tNi1wcmVtaWVyZS_SAQA?oc=5" type="text/html"/>
     <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiPWh0dHBzOi8vdHZsaW5lLmNvbS93aGF0LXRvLXdhdGNoL2dyb3duLWlzaC1zZWFzb24tNi1wcmVtaWVyZS_SAQA?oc=5" target="_blank"&gt;What to Watch on TV Wednesday, June 28, 2023 – TVLine&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;TVLine&lt;/font&gt;</content>
     <id>CBMiPWh0dHBzOi8vdHZsaW5lLmNvbS93aGF0LXRvLXdhdGNoL2dyb3duLWlzaC1zZWFzb24tNi1wcmVtaWVyZS_SAQA</id>
-    <published>2023-06-28T11:04:09Z</published>
-    <updated>2023-06-28T11:04:09Z</updated>
+    <published>2023-06-28T15:26:49Z</published>
+    <updated>2023-06-28T15:26:49Z</updated>
   </entry>
   <entry>
-    <title>Fortnite Chapter 4 Season 4: start date, leaks, and what we know so far - The Mirror</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9nYW1pbmcvZm9ydG5pdGUtY2hhcHRlci00LXNlYXNvbi00LTMwMzQwNDUw0gFIaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL2dhbWluZy9mb3J0bml0ZS1jaGFwdGVyLTQtc2Vhc29uLTQtMzAzNDA0NTAuYW1w?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiRGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9nYW1pbmcvZm9ydG5pdGUtY2hhcHRlci00LXNlYXNvbi00LTMwMzQwNDUw0gFIaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL2dhbWluZy9mb3J0bml0ZS1jaGFwdGVyLTQtc2Vhc29uLTQtMzAzNDA0NTAuYW1w?oc=5" target="_blank"&gt;Fortnite Chapter 4 Season 4: start date, leaks, and what we know so far&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Mirror&lt;/font&gt;</content>
-    <id>CBMiRGh0dHBzOi8vd3d3Lm1pcnJvci5jby51ay9nYW1pbmcvZm9ydG5pdGUtY2hhcHRlci00LXNlYXNvbi00LTMwMzQwNDUw0gFIaHR0cHM6Ly93d3cubWlycm9yLmNvLnVrL2dhbWluZy9mb3J0bml0ZS1jaGFwdGVyLTQtc2Vhc29uLTQtMzAzNDA0NTAuYW1w</id>
-    <published>2023-06-28T11:00:00Z</published>
-    <updated>2023-06-28T11:00:00Z</updated>
+    <title>Doctor Who and The Queen's Gambit stars sign on for new BBC ... - Digital Spy</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2E0NDM3MTAwNy9kcmVhbWluZy13aGlsc3QtYmxhY2stYmJjLWNhc3Qv0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiR2h0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2E0NDM3MTAwNy9kcmVhbWluZy13aGlsc3QtYmxhY2stYmJjLWNhc3Qv0gEA?oc=5" target="_blank"&gt;Doctor Who and The Queen's Gambit stars sign on for new BBC ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Spy&lt;/font&gt;</content>
+    <id>CBMiR2h0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2E0NDM3MTAwNy9kcmVhbWluZy13aGlsc3QtYmxhY2stYmJjLWNhc3Qv0gEA</id>
+    <published>2023-06-28T14:16:52Z</published>
+    <updated>2023-06-28T14:16:52Z</updated>
   </entry>
   <entry>
-    <title>Rajasthan High Court Denies Bail To Doctor Who Drove Car Inside Hospital Premises In Inebriated State - Live Law - Indian Legal News</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5saXZlbGF3LmluL2hpZ2gtY291cnQvcmFqYXN0aGFuLWhpZ2gtY291cnQvcmFqYXN0aGFuLWhpZ2gtY291cnQtcmVqZWN0cy1iYWlsLWRydW5rLWRyaXZpbmctZG9jdG9yLWNhdXNlcy1ob3NwaXRhbC1hY2NpZGVudC0yMzE0NzTSAZEBaHR0cHM6Ly93d3cubGl2ZWxhdy5pbi9hbXAvaGlnaC1jb3VydC9yYWphc3RoYW4taGlnaC1jb3VydC9yYWphc3RoYW4taGlnaC1jb3VydC1yZWplY3RzLWJhaWwtZHJ1bmstZHJpdmluZy1kb2N0b3ItY2F1c2VzLWhvc3BpdGFsLWFjY2lkZW50LTIzMTQ3NA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5saXZlbGF3LmluL2hpZ2gtY291cnQvcmFqYXN0aGFuLWhpZ2gtY291cnQvcmFqYXN0aGFuLWhpZ2gtY291cnQtcmVqZWN0cy1iYWlsLWRydW5rLWRyaXZpbmctZG9jdG9yLWNhdXNlcy1ob3NwaXRhbC1hY2NpZGVudC0yMzE0NzTSAZEBaHR0cHM6Ly93d3cubGl2ZWxhdy5pbi9hbXAvaGlnaC1jb3VydC9yYWphc3RoYW4taGlnaC1jb3VydC9yYWphc3RoYW4taGlnaC1jb3VydC1yZWplY3RzLWJhaWwtZHJ1bmstZHJpdmluZy1kb2N0b3ItY2F1c2VzLWhvc3BpdGFsLWFjY2lkZW50LTIzMTQ3NA?oc=5" target="_blank"&gt;Rajasthan High Court Denies Bail To Doctor Who Drove Car Inside Hospital Premises In Inebriated State&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Live Law - Indian Legal News&lt;/font&gt;</content>
-    <id>CBMijQFodHRwczovL3d3dy5saXZlbGF3LmluL2hpZ2gtY291cnQvcmFqYXN0aGFuLWhpZ2gtY291cnQvcmFqYXN0aGFuLWhpZ2gtY291cnQtcmVqZWN0cy1iYWlsLWRydW5rLWRyaXZpbmctZG9jdG9yLWNhdXNlcy1ob3NwaXRhbC1hY2NpZGVudC0yMzE0NzTSAZEBaHR0cHM6Ly93d3cubGl2ZWxhdy5pbi9hbXAvaGlnaC1jb3VydC9yYWphc3RoYW4taGlnaC1jb3VydC9yYWphc3RoYW4taGlnaC1jb3VydC1yZWplY3RzLWJhaWwtZHJ1bmstZHJpdmluZy1kb2N0b3ItY2F1c2VzLWhvc3BpdGFsLWFjY2lkZW50LTIzMTQ3NA</id>
-    <published>2023-06-28T09:34:54Z</published>
-    <updated>2023-06-28T09:34:54Z</updated>
+    <title>Meet the Hijack cast: Who's who in the Apple TV Plus drama - What To Watch</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LndoYXR0b3dhdGNoLmNvbS9mZWF0dXJlcy9tZWV0LXRoZS1oaWphY2stY2FzdC13aG9zLXdoby1pbi10aGUtdGhyaWxsZXLSAQA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiUmh0dHBzOi8vd3d3LndoYXR0b3dhdGNoLmNvbS9mZWF0dXJlcy9tZWV0LXRoZS1oaWphY2stY2FzdC13aG9zLXdoby1pbi10aGUtdGhyaWxsZXLSAQA?oc=5" target="_blank"&gt;Meet the Hijack cast: Who's who in the Apple TV Plus drama&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;What To Watch&lt;/font&gt;</content>
+    <id>CBMiUmh0dHBzOi8vd3d3LndoYXR0b3dhdGNoLmNvbS9mZWF0dXJlcy9tZWV0LXRoZS1oaWphY2stY2FzdC13aG9zLXdoby1pbi10aGUtdGhyaWxsZXLSAQA</id>
+    <published>2023-06-28T13:33:50Z</published>
+    <updated>2023-06-28T13:33:50Z</updated>
   </entry>
   <entry>
-    <title>Will the Doctor See You Now? The Health System’s Changing Landscape - Kaiser Health News</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL3ByaW1hcnktY2FyZS1oZWFsdGgtc3lzdGVtLWNoYW5nZXMtcGNwL9IBUmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL3ByaW1hcnktY2FyZS1oZWFsdGgtc3lzdGVtLWNoYW5nZXMtcGNwL2FtcC8?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiTmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL3ByaW1hcnktY2FyZS1oZWFsdGgtc3lzdGVtLWNoYW5nZXMtcGNwL9IBUmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL3ByaW1hcnktY2FyZS1oZWFsdGgtc3lzdGVtLWNoYW5nZXMtcGNwL2FtcC8?oc=5" target="_blank"&gt;Will the Doctor See You Now? The Health System’s Changing Landscape&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Kaiser Health News&lt;/font&gt;</content>
-    <id>CBMiTmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL3ByaW1hcnktY2FyZS1oZWFsdGgtc3lzdGVtLWNoYW5nZXMtcGNwL9IBUmh0dHBzOi8va2ZmaGVhbHRobmV3cy5vcmcvbmV3cy9hcnRpY2xlL3ByaW1hcnktY2FyZS1oZWFsdGgtc3lzdGVtLWNoYW5nZXMtcGNwL2FtcC8</id>
-    <published>2023-06-28T09:00:00Z</published>
-    <updated>2023-06-28T09:00:00Z</updated>
+    <title>What a doctor who wrote a book on the Mediterranean diet eats for breakfast - Yahoo Finance UK</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9kb2N0b3Itd3JvdGUtYm9vay1tZWRpdGVycmFuZWFuLWRpZXQtMTMyMzE4Mzc1Lmh0bWzSAV1odHRwczovL3VrLmZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9kb2N0b3Itd3JvdGUtYm9vay1tZWRpdGVycmFuZWFuLWRpZXQtMTMyMzE4Mzc1Lmh0bWw?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiVWh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9kb2N0b3Itd3JvdGUtYm9vay1tZWRpdGVycmFuZWFuLWRpZXQtMTMyMzE4Mzc1Lmh0bWzSAV1odHRwczovL3VrLmZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9kb2N0b3Itd3JvdGUtYm9vay1tZWRpdGVycmFuZWFuLWRpZXQtMTMyMzE4Mzc1Lmh0bWw?oc=5" target="_blank"&gt;What a doctor who wrote a book on the Mediterranean diet eats for breakfast&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Yahoo Finance UK&lt;/font&gt;</content>
+    <id>CBMiVWh0dHBzOi8vdWsuZmluYW5jZS55YWhvby5jb20vbmV3cy9kb2N0b3Itd3JvdGUtYm9vay1tZWRpdGVycmFuZWFuLWRpZXQtMTMyMzE4Mzc1Lmh0bWzSAV1odHRwczovL3VrLmZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9kb2N0b3Itd3JvdGUtYm9vay1tZWRpdGVycmFuZWFuLWRpZXQtMTMyMzE4Mzc1Lmh0bWw</id>
+    <published>2023-06-28T13:23:18Z</published>
+    <updated>2023-06-28T13:23:18Z</updated>
   </entry>
   <entry>
-    <title>Hijack: Is Idris Elba's plane thriller worth a watch? - Digital Spy</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2E0NDM1ODAxNC9oaWphY2staWRyaXMtZWxiYS1yZXZpZXcv0gEA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiQWh0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2E0NDM1ODAxNC9oaWphY2staWRyaXMtZWxiYS1yZXZpZXcv0gEA?oc=5" target="_blank"&gt;Hijack: Is Idris Elba's plane thriller worth a watch?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Digital Spy&lt;/font&gt;</content>
-    <id>CBMiQWh0dHBzOi8vd3d3LmRpZ2l0YWxzcHkuY29tL3R2L2E0NDM1ODAxNC9oaWphY2staWRyaXMtZWxiYS1yZXZpZXcv0gEA</id>
-    <published>2023-06-28T06:02:07Z</published>
-    <updated>2023-06-28T06:02:07Z</updated>
+    <title>Oral surgeon who practices in Beaver County wins big on TV's ... - The Times</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aW1lc29ubGluZS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9sb2NhbC8yMDIzLzA2LzI4L2RvY3Rvci13aG8tcHJhY3RpY2VzLWluLWJlYXZlci1jb3VudHktd2lucy1iaWctb24tdHZzLWplb3BhcmR5LzcwMzYzMTU5MDA3L9IBAA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy50aW1lc29ubGluZS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9sb2NhbC8yMDIzLzA2LzI4L2RvY3Rvci13aG8tcHJhY3RpY2VzLWluLWJlYXZlci1jb3VudHktd2lucy1iaWctb24tdHZzLWplb3BhcmR5LzcwMzYzMTU5MDA3L9IBAA?oc=5" target="_blank"&gt;Oral surgeon who practices in Beaver County wins big on TV's ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;The Times&lt;/font&gt;</content>
+    <id>CBMijAFodHRwczovL3d3dy50aW1lc29ubGluZS5jb20vc3RvcnkvZW50ZXJ0YWlubWVudC9sb2NhbC8yMDIzLzA2LzI4L2RvY3Rvci13aG8tcHJhY3RpY2VzLWluLWJlYXZlci1jb3VudHktd2lucy1iaWctb24tdHZzLWplb3BhcmR5LzcwMzYzMTU5MDA3L9IBAA</id>
+    <published>2023-06-28T12:26:27Z</published>
+    <updated>2023-06-28T12:26:27Z</updated>
   </entry>
   <entry>
     <title>Pride Month: The Best LGBTQ+ Companions from 'Doctor Who' - The Cosmic Circus</title>
@@ -83,12 +117,12 @@
     <updated>2023-06-27T16:50:00Z</updated>
   </entry>
   <entry>
-    <title>Military Cutoff expansion project could open to traffic in September - WECT</title>
-    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LndlY3QuY29tLzIwMjMvMDYvMjYvbWlsaXRhcnktY3V0b2ZmLWV4cGFuc2lvbi1wcm9qZWN0LWNvdWxkLW9wZW4tdHJhZmZpYy1zZXB0ZW1iZXIv0gFuaHR0cHM6Ly93d3cud2VjdC5jb20vMjAyMy8wNi8yNi9taWxpdGFyeS1jdXRvZmYtZXhwYW5zaW9uLXByb2plY3QtY291bGQtb3Blbi10cmFmZmljLXNlcHRlbWJlci8_b3V0cHV0VHlwZT1hbXA?oc=5" type="text/html"/>
-    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LndlY3QuY29tLzIwMjMvMDYvMjYvbWlsaXRhcnktY3V0b2ZmLWV4cGFuc2lvbi1wcm9qZWN0LWNvdWxkLW9wZW4tdHJhZmZpYy1zZXB0ZW1iZXIv0gFuaHR0cHM6Ly93d3cud2VjdC5jb20vMjAyMy8wNi8yNi9taWxpdGFyeS1jdXRvZmYtZXhwYW5zaW9uLXByb2plY3QtY291bGQtb3Blbi10cmFmZmljLXNlcHRlbWJlci8_b3V0cHV0VHlwZT1hbXA?oc=5" target="_blank"&gt;Military Cutoff expansion project could open to traffic in September&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;WECT&lt;/font&gt;</content>
-    <id>CBMiX2h0dHBzOi8vd3d3LndlY3QuY29tLzIwMjMvMDYvMjYvbWlsaXRhcnktY3V0b2ZmLWV4cGFuc2lvbi1wcm9qZWN0LWNvdWxkLW9wZW4tdHJhZmZpYy1zZXB0ZW1iZXIv0gFuaHR0cHM6Ly93d3cud2VjdC5jb20vMjAyMy8wNi8yNi9taWxpdGFyeS1jdXRvZmYtZXhwYW5zaW9uLXByb2plY3QtY291bGQtb3Blbi10cmFmZmljLXNlcHRlbWJlci8_b3V0cHV0VHlwZT1hbXA</id>
-    <published>2023-06-26T20:11:00Z</published>
-    <updated>2023-06-26T20:11:00Z</updated>
+    <title>Hijack movie review &amp; film summary (2023) - Roger Ebert</title>
+    <link rel="alternate" href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnJvZ2VyZWJlcnQuY29tL3Jldmlld3MvaGlqYWNrLXR2LXJldmlldy0yMDIz0gEA?oc=5" type="text/html"/>
+    <content type="html">&lt;a href="https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vd3d3LnJvZ2VyZWJlcnQuY29tL3Jldmlld3MvaGlqYWNrLXR2LXJldmlldy0yMDIz0gEA?oc=5" target="_blank"&gt;Hijack movie review &amp; film summary (2023)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color="#6f6f6f"&gt;Roger Ebert&lt;/font&gt;</content>
+    <id>CBMiOGh0dHBzOi8vd3d3LnJvZ2VyZWJlcnQuY29tL3Jldmlld3MvaGlqYWNrLXR2LXJldmlldy0yMDIz0gEA</id>
+    <published>2023-06-27T16:30:00Z</published>
+    <updated>2023-06-27T16:30:00Z</updated>
   </entry>
   <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <title>Dr. Who Competition  October 1972</title>
@@ -213,36 +247,6 @@ Sunday 11 June 2023&lt;br /&gt;
     <category term="2023" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
     <category term="maritim" scheme="https://www.flickr.com/photos/tags/"/>
-    <displaycategories>
-            </displaycategories>
-    </entry>
-  <entry xmlns:flickr="urn:flickr:user" xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <title>STASH OF THE DAY</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/photos/196479770@N06/52966169954/"/>
-    <id>tag:flickr.com,2005:/photo/52966169954</id>
-    <published>2023-06-11T11:35:03Z</published>
-    <updated>2023-06-11T11:35:03Z</updated>
-    <flickr:date_taken>2023-06-11T04:34:58-08:00</flickr:date_taken>
-    <dc:date.Taken>2023-06-11T04:34:58-08:00</dc:date.Taken>
-    <content type="html">			&lt;p&gt;&lt;a href="https://www.flickr.com/people/196479770@N06/"&gt;BARBIE DRAGONS&lt;/a&gt; posted a photo:&lt;/p&gt;
-	
-&lt;p&gt;&lt;a href="https://www.flickr.com/photos/196479770@N06/52966169954/" title="STASH OF THE DAY"&gt;&lt;img src="https://live.staticflickr.com/65535/52966169954_8520bf27ff_m.jpg" width="160" height="240" alt="STASH OF THE DAY" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-
-</content>
-    <author>
-      <name>BARBIE DRAGONS</name>
-      <uri>https://www.flickr.com/people/196479770@N06/</uri>
-      <flickr:nsid>196479770@N06</flickr:nsid>
-      <flickr:buddyicon>https://farm66.staticflickr.com/65535/buddyicons/196479770@N06.jpg?1662646055#196479770@N06</flickr:buddyicon>
-    </author>
-    <link rel="enclosure" type="image/jpeg" href="https://live.staticflickr.com/65535/52966169954_8520bf27ff_b.jpg"/>
-    <category term="stashoftheday" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="hostesstrolley" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="drwho" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="1970s" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="sunglasses" scheme="https://www.flickr.com/photos/tags/"/>
-    <category term="tombaker" scheme="https://www.flickr.com/photos/tags/"/>
     <displaycategories>
             </displaycategories>
     </entry>
