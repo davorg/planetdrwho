@@ -18,9 +18,9 @@ feed:
 cache_dir: /tmp/drwho
 google_ga: G-8CD4D3Z17X
 feeds:
-  - feed: https://dave.org.uk/feed-data/whonews.xml
+  - feed: https://davorg.dev/drwho-newsfeed/doctorwho.xml
     title: bbc news
-    web: https://www.doctorwho.tv/news/
+    web: https://www.doctorwho.tv/news-and-features
   - feed: https://news.google.com/rss/search?q=%22doctor+who%22&hl=en-GB&gl=GB&ceid=GB:en
     title: google news (doctor who)
     web: https://news.google.com/
